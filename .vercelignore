@@ -1,0 +1,42 @@
+# Development files
+.git
+.gitignore
+.env.local
+.env.development
+.DS_Store
+Thumbs.db
+
+# XAMPP specific
+.htaccess
+
+# Documentation
+README.md
+*.md
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if any)
+node_modules/
+
+# Source control
+.git/
+.github/
+
+# Cache
+.cache/
+*.cache
