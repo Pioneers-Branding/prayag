@@ -3,25 +3,25 @@
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Text Column (5) -->
-                    <div class="col-md-5">
+                    <div class="col-md-8">
                         <div class="trust-cta-content">
                             <h3 class="trust-heading">World-Class Healthcare, Right Here.</h3>
-                            <p class="trust-subtext">Partnering with you for a healthier tomorrow.</p>
+                            <p class="trust-subtext">Partnering with you for a healthier tomorrow. We are committed to delivering excellence in medical care through our team of highly skilled doctors and advanced technology, ensuring safety and comfort at every step.</p>
                         </div>
                     </div>
 
                     <!-- Logos Column (4) -->
-                    <div class="col-md-4">
+                    <!-- <div class="col-md-4">
                         <div class="trust-logos d-flex align-items-center gap-4">
                             <img src="../assets/images/nabh-logo.png"
                                 alt="NABH Accredited" class="trust-logo" style="max-height: 90px;">
                             <img src="../assets/images/nabl-logo.png"
                                 alt="NABL Accredited" class="trust-logo" style="max-height: 90px;">
                         </div>
-                    </div>
+                    </div> -->
 
                     <!-- Buttons Column (3) -->
-                    <div class="col-md-3">
+                    <div class="col-md-4">
                         <div class="trust-actions d-flex flex-column gap-2">
                             <a href="find-doctor.php" class="btn btn-outline-teal w-100">Find a Doctor</a>
                             <a href="contact-us.php" class="btn btn-primary-orange w-100">Book Appointment</a>
@@ -124,6 +124,14 @@
                                         </span>
                                     </li>
                                     <li>
+                                        <i class="fas fa-map-marker-alt"></i>
+                                        <span>
+                                            <strong>Prayag Hospital & Research Centre</strong>
+                                            NH-021, Block M, Delta III,
+                                            Greater Noida, UP 201310
+                                        </span>
+                                    </li>
+                                    <li>
                                         <i class="fas fa-phone-alt"></i>
                                         <span>
                                             <strong>Phone:</strong> <a href="tel:01204021900">0120 - 4021900</a> | <a href="tel:01204021914">4021914</a><br>
@@ -138,21 +146,30 @@
                                 </ul>
 
                                 <div class="footer-social">
-                                    <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                                    <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                                    <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+                                    <a href="https://www.facebook.com/prayaghospital/" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>                                   
+                                    <a href="https://www.instagram.com/prayaghospital" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://in.linkedin.com/company/prayaghospital" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://youtube.com/@prayaghospital" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
                                 </div>
                             </div>
                         </div>
 
                         <!-- Right Column: Google Map -->
-                        <div class="col-md-8">
+                        <div class="col-md-4">
                             <div class="footer-map-container mt-4"
                                 style="border-radius: 10px; overflow: hidden; height: 100%; min-height: 250px;">
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.603347901584!2d77.35987631508076!3d28.55163698244971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5e0f5555555%3A0x6b7235a9634288b3!2sPrayag%20Hospital%20%26%20Research%20Centre!5e0!3m2!1sen!2sin!4v1645000000000!5m2!1sen!2sin"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4348.318508646015!2d77.36311237549829!3d28.563566875702502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5edc2bde1b3%3A0x44fc09ae7697699!2sPrayag%20Hospital%20%26%20Research%20Centre!5e1!3m2!1sen!2sin!4v1771410172086!5m2!1sen!2sin"
+                                    width="100%" height="100%" style="border:0; min-height: 250px;" allowfullscreen=""
+                                    loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                                </iframe>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="footer-map-container mt-4"
+                                style="border-radius: 10px; overflow: hidden; height: 100%; min-height: 250px;">
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4351.138892126511!2d77.51493737616077!3d28.49522719030132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ceb2bda0821c7%3A0xd0c8b5f9043321ef!2sPrayag%20Hospital%20%26%20Research%20Centre%20Private%20Limited%20Greater%20Noida%20Branch!5e1!3m2!1sen!2sin!4v1771410270899!5m2!1sen!2sin"
                                     width="100%" height="100%" style="border:0; min-height: 250px;" allowfullscreen=""
                                     loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                                 </iframe>

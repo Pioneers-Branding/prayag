@@ -78,7 +78,7 @@
                             </div>
 
                             <div class="hospital-actions">
-                                <a href="https://goo.gl/maps/placeholder" target="_blank" class="btn btn-outline-teal flex-grow-1">
+                                <a href="https://maps.app.goo.gl/UzFkbLXTXFfTaLAE8" target="_blank" class="btn btn-outline-teal flex-grow-1">
                                     <i class="fas fa-location-arrow"></i> Directions
                                 </a>
                                 <a href="tel:+911202570111" class="btn btn-primary-orange flex-grow-1">

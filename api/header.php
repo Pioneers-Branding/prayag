@@ -44,11 +44,15 @@
         <div class="container-fluid">
             <div class="header-wrapper">
                 <!-- Logo Section -->
-                <div class="logo-section">
+                <div class="logo-section d-flex align-items-center gap-3">
                     <a href="index.php" class="brand-logo">
                         <img src="https://www.prayaghospital.in/images/prayag-hospital.jpg" class="img-fluid"
                             style="width: 160px;">
                     </a>
+                    <div class="accreditation-logos d-flex gap-2 align-items-center">
+                        <img src="../assets/images/nabh-logo.png" alt="NABH Accredited" style="height: 58px; object-fit: contain;">
+                        <img src="../assets/images/nabl-logo.png" alt="NABL Accredited" style="height: 58px; object-fit: contain;">
+                    </div>
                 </div>
 
                 <!-- Navigation Section (Second Row) -->

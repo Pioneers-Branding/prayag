@@ -35,7 +35,8 @@ $doctors = [
         'gender' => 'male',
         'availability' => 'week',
         'availability_text' => 'Available This Week',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-suresh-babu.webp',
+        'image_small' => '../assets/images/doctors/small/dr-suresh-babu.webp',
     ],
     [
         'id' => 'dr-ankur-upadhayay',
@@ -55,7 +56,7 @@ $doctors = [
         'specialty' => 'Consultant',
         'department' => 'Orthopedics',
         'specialty_code' => 'orthopedics',
-        'experience' => 25,
+        'experience' => 15,
         'gender' => 'male',
         'availability' => 'today',
         'availability_text' => 'Available Today',

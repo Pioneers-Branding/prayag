@@ -471,11 +471,11 @@
                             <div class="doctor-card-inner">
                                 <div class="doctor-card-top">
                                     <div class="doctor-image-container">
-                                        <img src="https://i.ibb.co/xnzC6pM/Untitled.webp"
-                                            alt="Dr. Alok" class="doctor-image">
+                                        <img src="../assets/images/doctors/dr-suresh-babu.webp"
+                                            alt="Dr. Suresh Babu" class="doctor-image">
                                     </div>
                                     <div class="doctor-info">
-                                        <h3 class="doctor-name">Dr. Suresh</h3>
+                                        <h3 class="doctor-name">Dr. Suresh Babu</h3>
                                         <p class="doctor-designation">General Physician</p>
                                         <p class="doctor-experience">
                                             <span class="experience-label">Experience:</span>
