@@ -48,8 +48,9 @@
                             <h3 class="location-title"><i class="fas fa-map-marker-alt text-primary-orange me-2"></i> Noida</h3>
                             <p class="location-address">
                                 Prayag Hospital & Research Centre<br>
-                                Sector 41, Noida,<br>
-                                Uttar Pradesh 201301
+                                J-206/A-1, Sector 41, Noida,<br>
+                                Uttar Pradesh 201301<br>
+                                <strong>Landmark:</strong> Near Noida City Centre Metro Station
                             </p>
                         </div>
 
@@ -65,9 +66,9 @@
 
                         <!-- General Contact -->
                         <div class="contact-block mb-4">
-                            <h3 class="location-title"><i class="fas fa-phone-alt text-primary-orange me-2"></i> Phone</h3>
-                            <p class="contact-text mb-1"><strong>Emergency:</strong> <a href="tel:+911202570111">+91 120-2570111</a></p>
-                            <p class="contact-text"><strong>Appointment:</strong> <a href="tel:+919811166666">+91 98111 66666</a></p>
+                            <h3 class="location-title"><i class="fas fa-phone-alt text-primary-orange me-2"></i> Phone & Fax</h3>
+                            <p class="contact-text mb-1"><strong>Phone:</strong> <a href="tel:01204021900">0120 - 4021900</a> | <a href="tel:01204021914">4021914</a></p>
+                            <p class="contact-text"><strong>Fax:</strong> 91 - 120 - 2574091</p>
                         </div>
 
                         <div class="contact-block mb-4">

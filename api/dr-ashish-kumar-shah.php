@@ -61,10 +61,6 @@ if (!$doctor) {
                     <div class="doctor-profile-image-container">
                         <img src="<?php echo $doctor['image']; ?>"
                             alt="<?php echo $doctor['name']; ?>" class="doctor-profile-image">
-                        <div class="doctor-verification-badge">
-                            <i class="fas fa-check-circle"></i>
-                            <span>Verified</span>
-                        </div>
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-7">
@@ -83,13 +79,6 @@ if (!$doctor) {
                                 <div>
                                     <strong><?php echo $doctor['experience']; ?> Years</strong>
                                     <span>Experience</span>
-                                </div>
-                            </div>
-                            <div class="profile-stat-item">
-                                <i class="fas fa-star"></i>
-                                <div>
-                                    <strong>4.9/5</strong>
-                                    <span>Patient Rating</span>
                                 </div>
                             </div>
                         </div>
@@ -230,11 +219,18 @@ if (!$doctor) {
                                     <p>Prayag Hospital<br><?php echo $doctor['department']; ?> Wing</p>
                                 </div>
                             </div>
-                            <div class="contact-item">
+                                                        <div class="contact-item">
                                 <i class="fas fa-phone"></i>
                                 <div>
                                     <strong>Phone</strong>
-                                    <p><a href="tel:+911234567890">+91 123 456 7890</a></p>
+                                    <p><a href="tel:01204021900">0120 - 4021900</a> | <a href="tel:01204021914">4021914</a></p>
+                                </div>
+                            </div>
+                            <div class="contact-item">
+                                <i class="fas fa-fax"></i>
+                                <div>
+                                    <strong>Fax</strong>
+                                    <p>91 - 120 - 2574091</p>
                                 </div>
                             </div>
                         </div>

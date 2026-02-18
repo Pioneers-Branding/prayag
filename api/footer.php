@@ -119,16 +119,15 @@
                                         <i class="fas fa-map-marker-alt"></i>
                                         <span>
                                             <strong>Prayag Hospital & Research Centre</strong>
-                                            J-Block, Sector 38, Near Huda City Centre,
-                                            Gurugram, Haryana 122001
+                                            J-206/A-1, Sector 41, Near Noida City Centre Metro Station,<br>
+                                            Noida, Uttar Pradesh 201301
                                         </span>
                                     </li>
                                     <li>
                                         <i class="fas fa-phone-alt"></i>
                                         <span>
-                                            <strong>Emergency:</strong> <a href="tel:+918811780937">+91
-                                                8811780937</a><br>
-                                            <strong>Reception:</strong> <a href="tel:01244086666">0124-4086666</a>
+                                            <strong>Phone:</strong> <a href="tel:01204021900">0120 - 4021900</a> | <a href="tel:01204021914">4021914</a><br>
+                                            <strong>Fax:</strong> 91 - 120 - 2574091
                                         </span>
                                     </li>
                                     <li>
@@ -153,7 +152,7 @@
                             <div class="footer-map-container mt-4"
                                 style="border-radius: 10px; overflow: hidden; height: 100%; min-height: 250px;">
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.6698665046276!2d77.03964431507873!3d28.46014698248611!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18f77363f03b%3A0x867332204b4c5222!2sPrayag%20Hospital%20%26%20Research%20Centre!5e0!3m2!1sen!2sin!4v1672345678901!5m2!1sen!2sin"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.603347901584!2d77.35987631508076!3d28.55163698244971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5e0f5555555%3A0x6b7235a9634288b3!2sPrayag%20Hospital%20%26%20Research%20Centre!5e0!3m2!1sen!2sin!4v1645000000000!5m2!1sen!2sin"
                                     width="100%" height="100%" style="border:0; min-height: 250px;" allowfullscreen=""
                                     loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                                 </iframe>
