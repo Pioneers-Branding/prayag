@@ -501,7 +501,7 @@
                             </div>
                             <div class="doctor-actions">
                                 <a href="doctor-profile.php?id=<?php echo $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
-                                <a href="#" class="btn-book-appointment-doc">Book Apt.</a>
+                                <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
                             </div>
                         </div>
                     </div>

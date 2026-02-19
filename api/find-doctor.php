@@ -206,7 +206,7 @@
                                 <p class="doctor-card-expertise"><?php echo $doctor['department']; ?></p>
                                 <div class="doctor-card-actions">
                                     <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
-                                    <a href="#" class="btn-book-now">Book Apt.</a>
+                                    <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
                                 </div>
                             </div>
                         </div>

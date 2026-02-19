@@ -469,7 +469,7 @@
                                 </div>
                                 <div class="doctor-actions">
                                     <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
-                                    <button class="btn-book-appointment-doc">Book Apt.</button>
+                                    <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
                                 </div>
                             </div>
                         </div>
