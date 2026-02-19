@@ -98,7 +98,7 @@ $doctors = [
         'availability' => 'today',
         'availability_text' => 'Available Today',
         'image' => '../assets/images/doctors/Dr-Mitva-Agarwal.webp',
-        'image_small' => '../assets/images/doctors/small/Dr-Mitva-Agarwal.webp',
+        'image_small' => '../assets/images/doctors/small/dr-mitva-agarwal.webp',
     ],
     [
         'id' => 'dr-kamna-saxena',
@@ -110,7 +110,8 @@ $doctors = [
         'gender' => 'female',
         'availability' => 'week',
         'availability_text' => 'Available This Week',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-kamna.webp',
+        'image_small' => '../assets/images/doctors/small/dr-kamna.webp',
     ],
     [
         'id' => 'dr-manju-sinha',
@@ -122,7 +123,8 @@ $doctors = [
         'gender' => 'female',
         'availability' => 'today',
         'availability_text' => 'Available Today',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-manju-sinha.webp',
+        'image_small' => '../assets/images/doctors/small/dr-manju-sinha.webp',
     ],
     [
         'id' => 'dr-bayya-sampath-akhila',
@@ -160,7 +162,7 @@ $doctors = [
         'availability' => 'tomorrow',
         'availability_text' => 'Available Tomorrow',
         'image' => '../assets/images/doctors/dr-rajiv-rahi.webp',
-        'image_small' => '../assets/images/doctors/small/dr-rajiv-rahi.webp',
+        'image_small' => '../assets/images/doctors/small/dr-rajeev-rahi.webp',
     ],
     [
         'id' => 'dr-harekrishna-pattra',
@@ -173,7 +175,7 @@ $doctors = [
         'availability' => 'today',
         'availability_text' => 'Available Today',
         'image' => '../assets/images/doctors/dr-h-patra.webp',
-        'image_small' => '../assets/images/doctors/small/dr-h-patra.webp',
+        'image_small' => '../assets/images/doctors/small/dr-harekrishna.webp',
     ],
     [
         'id' => 'dr-vikram-singh-solanki',
@@ -186,7 +188,7 @@ $doctors = [
         'availability' => 'week',
         'availability_text' => 'Available This Week',
         'image' => '../assets/images/doctors/dr-v-s-solanki.webp',
-        'image_small' => '../assets/images/doctors/small/dr-v-s-solanki.webp',
+        'image_small' => '../assets/images/doctors/small/dr-vikram-singh.webp',
     ],
     [
         'id' => 'dr-sp-sharma',
@@ -199,7 +201,7 @@ $doctors = [
         'availability' => 'tomorrow',
         'availability_text' => 'Available Tomorrow',
         'image' => '../assets/images/doctors/Dr-SP-Sharma.webp',
-        'image_small' => '../assets/images/doctors/small/Dr-SP-Sharma.webp',
+        'image_small' => '../assets/images/doctors/small/dr-s-p-sharma.webp',
     ],
     [
         'id' => 'dr-vipin-jain',
@@ -272,7 +274,8 @@ $doctors = [
         'gender' => 'male',
         'availability' => 'today',
         'availability_text' => 'Available Today',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-lalit-agrawal.webp',
+        'image_small' => '../assets/images/doctors/small/dr-lalit-agarwal.webp',
     ],
     [
         'id' => 'dr-alka-kapoor',
@@ -310,7 +313,7 @@ $doctors = [
         'availability' => 'today',
         'availability_text' => 'Available Today',
         'image' => '../assets/images/doctors/Dr-Prasad-Dandekar.webp',
-        'image_small' => '../assets/images/doctors/small/Dr-Prasad-Dandekar.webp',
+        'image_small' => '../assets/images/doctors/small/dr-prasad-dandekar.webp',
     ],
     [
         'id' => 'dr-rk-saxena',
@@ -336,7 +339,7 @@ $doctors = [
         'availability' => 'week',
         'availability_text' => 'Available This Week',
         'image' => '../assets/images/doctors/Dr.-Soni-Singh.webp',
-        'image_small' => '../assets/images/doctors/small/Dr.-Soni-Singh.webp',
+        'image_small' => '../assets/images/doctors/small/dr-soni-singh.webp',
     ],
     [
         'id' => 'dr-saurav-bhagat',
@@ -373,7 +376,8 @@ $doctors = [
         'gender' => 'male',
         'availability' => 'today',
         'availability_text' => 'Available Today',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-ashish-shah.webp',
+        'image_small' => '../assets/images/doctors/small/dr-ashish-shah.webp',
     ],
     [
         'id' => 'dr-uma-sharma',
@@ -398,7 +402,7 @@ $doctors = [
         'availability' => 'week',
         'availability_text' => 'Available This Week',
         'image' => '../assets/images/doctors/Dr-Ajay-Garg.webp',
-        'image_small' => '../assets/images/doctors/small/Dr-Ajay-Garg.webp',
+        'image_small' => '../assets/images/doctors/small/dr-ajay-garg.webp',
     ],
     [
         'id' => 'dr-ravi-agarwal',

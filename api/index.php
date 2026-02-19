@@ -442,150 +442,38 @@
                     </button>
 
                     <div class="doctors-grid">
-                        <!-- Doctor Card 1 -->
+                        <?php 
+                        include_once 'doctors-data.php';
+                        foreach ($doctors as $doctor): 
+                            // Skip doctors with placeholder images
+                            if (strpos($doctor['image'], 'Untitled.webp') !== false) {
+                                continue;
+                            }
+                        ?>
+                        <!-- Doctor Card -->
                         <div class="doctor-card">
                             <div class="doctor-card-inner">
                                 <div class="doctor-card-top">
                                     <div class="doctor-image-container">
-                                        <img src="https://i.ibb.co/xnzC6pM/Untitled.webp"
-                                            alt="Dr. Aditi" class="doctor-image">
+                                        <img src="<?php echo !empty($doctor['image_small']) ? $doctor['image_small'] : $doctor['image']; ?>"
+                                            alt="<?php echo $doctor['name']; ?>" class="doctor-image">
                                     </div>
                                     <div class="doctor-info">
-                                        <h3 class="doctor-name">Dr. Manju Sinha </h3>
-                                        <p class="doctor-designation">Gynaecology</p>
+                                        <h3 class="doctor-name"><?php echo $doctor['name']; ?></h3>
+                                        <p class="doctor-designation"><?php echo $doctor['department']; ?></p>
                                         <p class="doctor-experience">
                                             <span class="experience-label">Experience:</span>
-                                            <span class="experience-value">12 Years</span>
+                                            <span class="experience-value"><?php echo $doctor['experience']; ?> Years</span>
                                         </p>
                                     </div>
                                 </div>
                                 <div class="doctor-actions">
-                                    <button class="btn-view-profile">View Profile</button>
+                                    <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
                                     <button class="btn-book-appointment-doc">Book Apt.</button>
                                 </div>
                             </div>
                         </div>
-
-                        <!-- Doctor Card 2 -->
-                        <div class="doctor-card">
-                            <div class="doctor-card-inner">
-                                <div class="doctor-card-top">
-                                    <div class="doctor-image-container">
-                                        <img src="../assets/images/doctors/dr-suresh-babu.webp"
-                                            alt="Dr. Suresh Babu" class="doctor-image">
-                                    </div>
-                                    <div class="doctor-info">
-                                        <h3 class="doctor-name">Dr. Suresh Babu</h3>
-                                        <p class="doctor-designation">General Physician</p>
-                                        <p class="doctor-experience">
-                                            <span class="experience-label">Experience:</span>
-                                            <span class="experience-value">15 Years</span>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="doctor-actions">
-                                    <button class="btn-view-profile">View Profile</button>
-                                    <button class="btn-book-appointment-doc">Book Apt.</button>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Doctor Card 3 -->
-                        <div class="doctor-card">
-                            <div class="doctor-card-inner">
-                                <div class="doctor-card-top">
-                                    <div class="doctor-image-container">
-                                        <img src="https://i.ibb.co/xnzC6pM/Untitled.webp"
-                                            alt="Dr. Prakhar" class="doctor-image">
-                                    </div>
-                                    <div class="doctor-info">
-                                        <h3 class="doctor-name">Dr. Gaurav</h3>
-                                        <p class="doctor-designation">General Physician</p>
-                                        <p class="doctor-experience">
-                                            <span class="experience-label">Experience:</span>
-                                            <span class="experience-value">10 Years</span>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="doctor-actions">
-                                    <button class="btn-view-profile">View Profile</button>
-                                    <button class="btn-book-appointment-doc">Book Apt.</button>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Doctor Card 4 -->
-                        <div class="doctor-card">
-                            <div class="doctor-card-inner">
-                                <div class="doctor-card-top">
-                                    <div class="doctor-image-container">
-                                        <img src="https://i.ibb.co/xnzC6pM/Untitled.webp"
-                                            alt="Dr. Suresh" class="doctor-image">
-                                    </div>
-                                    <div class="doctor-info">
-                                        <h3 class="doctor-name">Dr. Tushar
-                                        </h3>
-                                        <p class="doctor-designation">General Physician</p>
-                                        <p class="doctor-experience">
-                                            <span class="experience-label">Experience:</span>
-                                            <span class="experience-value">18 Years</span>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="doctor-actions">
-                                    <button class="btn-view-profile">View Profile</button>
-                                    <button class="btn-book-appointment-doc">Book Apt.</button>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Doctor Card 5 -->
-                        <div class="doctor-card">
-                            <div class="doctor-card-inner">
-                                <div class="doctor-card-top">
-                                    <div class="doctor-image-container">
-                                        <img src="https://i.ibb.co/xnzC6pM/Untitled.webp"
-                                            alt="Dr. B. P" class="doctor-image">
-                                    </div>
-                                    <div class="doctor-info">
-                                        <h3 class="doctor-name">Dr. B. P. Singh</h3>
-                                        <p class="doctor-designation">Orthopedic / ENT</p>
-                                        <p class="doctor-experience">
-                                            <span class="experience-label">Experience:</span>
-                                            <span class="experience-value">20 Years</span>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="doctor-actions">
-                                    <button class="btn-view-profile">View Profile</button>
-                                    <button class="btn-book-appointment-doc">Book Apt.</button>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Doctor Card 6 -->
-                        <div class="doctor-card">
-                            <div class="doctor-card-inner">
-                                <div class="doctor-card-top">
-                                    <div class="doctor-image-container">
-                                        <img src="https://i.ibb.co/xnzC6pM/Untitled.webp"
-                                            alt="Dr. Ankur" class="doctor-image">
-                                    </div>
-                                    <div class="doctor-info">
-                                        <h3 class="doctor-name">Dr. Ankur Upadhayay</h3>
-                                        <p class="doctor-designation">Orthopedic</p>
-                                        <p class="doctor-experience">
-                                            <span class="experience-label">Experience:</span>
-                                            <span class="experience-value">14 Years</span>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="doctor-actions">
-                                    <button class="btn-view-profile">View Profile</button>
-                                    <button class="btn-book-appointment-doc">Book Apt.</button>
-                                </div>
-                            </div>
-                        </div>
+                        <?php endforeach; ?>
                     </div>
                 </div>
 
