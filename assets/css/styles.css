@@ -10407,6 +10407,12 @@ iframe {
     flex-shrink: 0;
 }
 
+@media (max-width: 767px) {
+    .specialization-list {
+        grid-template-columns: 1fr;
+    }
+}
+
 /* All Services Page Styles */
 .services-grid {
     display: grid;

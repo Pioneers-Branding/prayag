@@ -364,7 +364,8 @@ $doctors = [
         'gender' => 'female',
         'availability' => 'today',
         'availability_text' => 'Available Today',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-ayushi-agarwal.webp',
+        'image_small' => '../assets/images/doctors/small/dr-ayushi-agarwal.webp',
     ],
     [
         'id' => 'dr-ashish-kumar-shah',
@@ -462,7 +463,8 @@ $doctors = [
         'gender' => 'female',
         'availability' => 'today',
         'availability_text' => 'Available Today',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-nupur-rajoriya.webp',
+        'image_small' => '../assets/images/doctors/small/dr-nupur-rajoriya.webp',
     ],
     [
         'id' => 'dr-ranjan',

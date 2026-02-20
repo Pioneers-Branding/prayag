@@ -267,8 +267,8 @@
                 <div class="gallery-grid" id="infrastructureGallery">
                     <!-- Gallery items will be dynamically loaded here -->
                     <?php
-                    // Loop through all 65 images
-                    for ($i = 1; $i <= 65; $i++) {
+                    // Loop through all 35 images
+                    for ($i = 1; $i <= 35; $i++) {
                         echo '<div class="gallery-item" data-index="' . ($i - 1) . '">';
                         echo '<img src="../assets/images/gallery/' . $i . '.webp" alt="Infrastructure Image ' . $i . '">';
                         echo '<div class="gallery-item-overlay">';
