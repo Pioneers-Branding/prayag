@@ -270,7 +270,7 @@
                     // Loop through all 35 images
                     for ($i = 1; $i <= 35; $i++) {
                         echo '<div class="gallery-item" data-index="' . ($i - 1) . '">';
-                        echo '<img src="../assets/images/gallery/' . $i . '.webp" alt="Infrastructure Image ' . $i . '">';
+                        echo '<img src="../assets/images/gallery/' . $i . '-1.webp" alt="Infrastructure Image ' . $i . '">';
                         echo '<div class="gallery-item-overlay">';
                         echo '<p class="gallery-item-title">Infrastructure ' . $i . '</p>';
                         echo '</div>';
