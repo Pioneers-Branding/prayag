@@ -74,7 +74,17 @@ if (!$doctor) {
                     <div class="doctor-profile-header">
                         <h1 class="doctor-profile-name"><?php echo $doctor['name']; ?></h1>
                         <p class="doctor-profile-designation"><?php echo $doctor['specialty']; ?></p>
-                        <p class="doctor-profile-department" style="color: var(--prayag-teal); font-weight: 500; margin-bottom: 20px;"><?php echo $doctor['department']; ?></p>
+                       
+
+                        <p class="lead-text">
+                            <?php echo $doctor['name']; ?> is a dedicated and highly skilled Physiotherapist with expertise in providing advanced rehabilitation and pain management services.
+                        </p>
+                        <p>
+                            With strong clinical knowledge and hands-on experience, she specializes in treating patients with musculoskeletal disorders, neurological conditions, sports injuries, post-operative rehabilitation, and geriatric care.
+                        </p>
+                        <p>
+                            She is well known for delivering patient-focused therapy plans, ensuring faster recovery and improving mobility through evidence-based physiotherapy techniques. Her approach includes detailed assessment, accurate diagnosis, and customized treatment plans to achieve the best possible outcomes.
+                        </p>
 
                         <div class="doctor-profile-stats">
                             <div class="profile-stat-item">
@@ -82,13 +92,6 @@ if (!$doctor) {
                                 <div>
                                     <strong><?php echo $doctor['experience']; ?>+ Years</strong>
                                     <span>Experience</span>
-                                </div>
-                            </div>
-                            <div class="profile-stat-item">
-                                <i class="fas fa-procedures"></i>
-                                <div>
-                                    <strong>500+</strong>
-                                    <span>Surgeries/Cases</span>
                                 </div>
                             </div>
                         </div>
@@ -111,18 +114,8 @@ if (!$doctor) {
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <div class="content-section">
-                        <h2 class="section-title">About <?php echo $doctor['name']; ?></h2>
-                        <p class="lead-text">
-                            <?php echo $doctor['name']; ?> is a highly experienced <?php echo $doctor['specialty']; ?> with over <?php echo $doctor['experience']; ?> years of expertise in
-                            <?php echo $doctor['department']; ?>.
-                        </p>
-                        <p>
-                            Dedicated to providing the highest quality of care, <?php echo $doctor['name']; ?> specializes in patient-focused treatments and has a proven track record of successful medical outcomes. Known for compassionate care and clinical excellence, patients trust <?php echo $doctor['name']; ?> for their medical needs.
-                        </p>
-                    </div>
 
-                    <!-- Education & Qualifications (Generic Placeholder) -->
+                    <!-- Education & Qualifications -->
                     <div class="content-section">
                         <h2 class="section-title">Education & Qualifications</h2>
                         <div class="education-timeline">
@@ -131,17 +124,7 @@ if (!$doctor) {
                                     <i class="fas fa-graduation-cap"></i>
                                 </div>
                                 <div class="education-content">
-                                    <h4>Medical Degree</h4>
-                                    <p class="institution">Reputed Medical Institution</p>
-                                </div>
-                            </div>
-                            <div class="education-item">
-                                <div class="education-icon">
-                                    <i class="fas fa-certificate"></i>
-                                </div>
-                                <div class="education-content">
-                                    <h4>Specialization in <?php echo $doctor['department']; ?></h4>
-                                    <p class="institution">Certified Board of Specialists</p>
+                                    <h4>BPT (BACHELOR OF PHYSIOTHERAPY)</h4>
                                 </div>
                             </div>
                         </div>
@@ -152,14 +135,44 @@ if (!$doctor) {
                         <h2 class="section-title">Areas of Expertise</h2>
                         <div class="expertise-grid">
                             <div class="expertise-card">
-                                <i class="fas fa-user-md"></i>
-                                <h4><?php echo $doctor['department']; ?></h4>
-                                <p>Specialized care in <?php echo $doctor['specialty']; ?></p>
+                                <i class="fas fa-bone"></i>
+                                <h4>Musculoskeletal Physiotherapy</h4>
+                                <p>Back pain, neck pain, joint pain</p>
                             </div>
                             <div class="expertise-card">
-                                <i class="fas fa-notes-medical"></i>
-                                <h4>Patient Consultation</h4>
-                                <p>Comprehensive diagnosis and treatment planning</p>
+                                <i class="fas fa-running"></i>
+                                <h4>Sports Injury Rehabilitation</h4>
+                                <p>Treatment and recovery for sports-related injuries</p>
+                            </div>
+                            <div class="expertise-card">
+                                <i class="fas fa-procedures"></i>
+                                <h4>Post-Surgical Rehabilitation</h4>
+                                <p>Ortho & Neuro cases</p>
+                            </div>
+                            <div class="expertise-card">
+                                <i class="fas fa-brain"></i>
+                                <h4>Stroke & Neuro Physiotherapy</h4>
+                                <p>Stroke Rehabilitation & Neurological Physiotherapy</p>
+                            </div>
+                            <div class="expertise-card">
+                                <i class="fas fa-child"></i>
+                                <h4>Pediatric Physiotherapy</h4>
+                                <p>Specialized care for children</p>
+                            </div>
+                            <div class="expertise-card">
+                                <i class="fas fa-user-clock"></i>
+                                <h4>Geriatric Physiotherapy</h4>
+                                <p>Physiotherapy for elderly patients</p>
+                            </div>
+                            <div class="expertise-card">
+                                <i class="fas fa-hand-holding-medical"></i>
+                                <h4>Pain Management Therapy</h4>
+                                <p>Advanced pain relief techniques</p>
+                            </div>
+                            <div class="expertise-card">
+                                <i class="fas fa-chair"></i>
+                                <h4>Posture & Ergonomics</h4>
+                                <p>Posture Correction & Ergonomic Training</p>
                             </div>
                         </div>
                     </div>
