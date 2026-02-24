@@ -136,7 +136,8 @@ $doctors = [
         'gender' => 'female',
         'availability' => 'tomorrow',
         'availability_text' => 'Available Tomorrow',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-bayya-sampath.webp',
+        'image_small' => '../assets/images/doctors/small/dr-bayya-sampath.webp',
     ],
     [
         'id' => 'dr-anuradha',
