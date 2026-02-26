@@ -440,7 +440,8 @@ $doctors = [
         'gender' => 'male',
         'availability' => 'tomorrow',
         'availability_text' => 'Available Tomorrow',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/Dr-Shabeer-Ahmad.webp',
+        'image_small' => '../assets/images/doctors/small/Dr-Shabeer-Ahmad.webp',
     ],
     [
         'id' => 'dr-ajay-prajapati',
