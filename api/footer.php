@@ -100,7 +100,7 @@
                                 <li><a href="about-us.php">About Us</a></li>
                                 <li><a href="infrastructure.php">Infrastructure</a></li>
                                 <li><a href="about-us.php">Leadership</a></li>
-                                <li><a href="press-release.php">Press Releases</a></li>
+                                <li><a href="media-coverage.php">Media Coverage</a></li>
                                 <li><a href="events.php">Events</a></li>
                                 <li><a href="corporate-services.php">Corporate Services</a></li>
                                 <li><a href="careers.php">Careers</a></li>

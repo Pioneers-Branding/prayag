@@ -18,8 +18,7 @@
                             News & Media
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="press-release.php">Press Releases</a></li>
-                            <li><a class="dropdown-item" href="#">Media Coverage</a></li>
+                            <li><a class="dropdown-item" href="media-coverage.php">Media Coverage</a></li>
                             <li><a class="dropdown-item" href="events.php">Events</a></li>
                             <li><a class="dropdown-item" href="blog.php">Health Blog</a></li>
                         </ul>
@@ -63,12 +62,12 @@
                                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
                                     Prayag Group
                                 </a>
-                                <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="our-hospitals.php">Our Hospitals</a></li>
-                                    <li><a class="dropdown-item" href="about-us.php">Organization</a></li>
-                                    <li><a class="dropdown-item" href="infrastructure.php">Infrastructure</a></li>
-                                    <li><a class="dropdown-item" href="careers.php">Careers</a></li>
-                                </ul>
+                                    <ul class="dropdown-menu">
+                                        <li><a class="dropdown-item" href="our-hospitals.php">Our Hospitals</a></li>
+                                        <li><a class="dropdown-item" href="about-us.php">Organization</a></li>                                        
+                                        <li><a class="dropdown-item" href="infrastructure.php">Infrastructure</a></li>
+                                        <li><a class="dropdown-item" href="careers.php">Careers</a></li>
+                                    </ul>
                             </li>
                             <li class="nav-item">
                                 <a href="find-doctor.php" class="nav-link">Doctors</a>
@@ -259,7 +258,7 @@
                         </a>
                         <ul class="collapse mobile-submenu" id="mobileGroup">
                             <li><a href="our-hospitals.php">Our Hospitals</a></li>
-                            <li><a href="about-us.php">Organization</a></li>
+                            <li><a href="about-us.php">Organization</a></li>                            
                             <li><a href="infrastructure.php">Infrastructure</a></li>                           
                             <li><a href="careers.php">Careers</a></li>
                         </ul>
@@ -358,8 +357,7 @@
                             News & Media
                         </a>
                         <ul class="collapse mobile-submenu" id="mobileNews">
-                            <li><a href="press-release.php">Press Releases</a></li>
-                            <li><a href="#">Media Coverage</a></li>
+                            <li><a href="media-coverage.php">Media Coverage</a></li>
                             <li><a href="events.php">Events</a></li>
                             <li><a href="blog.php">Health Blog</a></li>
                         </ul>

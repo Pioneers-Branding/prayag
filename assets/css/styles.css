@@ -2029,6 +2029,31 @@ a {
     line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    margin-bottom: 15px;
+}
+
+.news-read-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: #ffffff;
+    background-color: var(--prayag-teal);
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.news-read-more:hover {
+    background-color: var(--prayag-orange);
+    color: #ffffff;
+    transform: translateX(3px);
+}
+
+.news-read-more i {
+    font-size: 11px;
 }
 
 /* Navigation Arrows */

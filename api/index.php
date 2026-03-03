@@ -498,10 +498,10 @@
                         <p class="news-description">Stay updated with the latest news, achievements, and milestones from
                             Prayag Hospital. Explore our journey in delivering exceptional healthcare and making a
                             difference in people's lives.</p>
-                        <button class="btn-view-all">
+                        <a href="media-coverage.php" class="btn-view-all">
                             View All
                             <i class="fas fa-arrow-right"></i>
-                        </button>
+                        </a>
                     </div>
 
                     <!-- Right Side: News Slider -->
@@ -510,112 +510,80 @@
                             <!-- News Item 1 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://www.prayaghospital.in/uploaded_files/photogallery/icon_3.jpg"
-                                        alt="News 1">
+                                    <img src="../assets/images/press/child-care.png"
+                                        alt="Child Mental Health Support">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">Prayag Hospital Launches Advanced Cancer Care Unit</h3>
-                                    <p class="news-date">December 20, 2024</p>
-                                    <p class="news-excerpt">State-of-the-art oncology department equipped with latest
-                                        technology...</p>
-                                </div>
-                            </div>
-
-                            <!-- News Item 2 -->
-                            <div class="news-item">
-                                <div class="news-image">
-                                    <img src="https://www.prayaghospital.in/uploaded_files/photogallery/icon_3.jpg"
-                                        alt="News 2">
-                                </div>
-                                <div class="news-content">
-                                    <h3 class="news-item-title">Free Health Checkup Camp Benefits 500+ Patients</h3>
-                                    <p class="news-date">December 15, 2024</p>
-                                    <p class="news-excerpt">Community outreach program provides comprehensive health
-                                        screenings...</p>
-                                </div>
-                            </div>
-
-                            <!-- News Item 3 -->
-                            <div class="news-item">
-                                <div class="news-image">
-                                    <img src="https://www.prayaghospital.in/uploaded_files/photogallery/icon_3.jpg"
-                                        alt="News 3">
-                                </div>
-                                <div class="news-content">
-                                    <h3 class="news-item-title">Recognition for Excellence in Patient Care</h3>
-                                    <p class="news-date">December 10, 2024</p>
-                                    <p class="news-excerpt">Prayag Hospital receives national award for outstanding
-                                        healthcare services...</p>
+                                    <h3 class="news-item-title">World Mental Health Day: Why Early Support For Children Changes Everything</h3>
+                                    <p class="news-date">October 10, 2025</p>
+                                    <p class="news-excerpt">NDTV explores why early intervention and support for children's mental health is a game-changer...</p>
+                                    <a href="https://www.ndtv.com/health/world-mental-health-day-2025-why-early-support-for-children-changes-everything-9423991" class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
                                 </div>
                             </div>
 
                             <!-- News Item 4 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://www.prayaghospital.in/uploaded_files/photogallery/icon_3.jpg"
-                                        alt="News 4">
+                                    <img src="../assets/images/press/challenges-to-patient-safety-in-india-and-what-hospitals-can-do-about-it.webp"
+                                         alt="Patient Safety">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">New Pediatric Wing Inaugurated</h3>
-                                    <p class="news-date">December 5, 2024</p>
-                                    <p class="news-excerpt">Specialized children's healthcare facility with 50 beds
-                                        opens to public...</p>
+                                    <h3 class="news-item-title">Challenges to Patient Safety in India and Actionable Solutions</h3>
+                                    <p class="news-date">September 18, 2025</p>
+                                    <p class="news-excerpt">India Today analyzes the current landscape of patient safety in Indian healthcare and proposed solutions...</p>
+                                    <a href="https://www.indiatoday.in/information/story/challenges-to-patient-safety-in-india-and-what-hospitals-can-do-about-it-2789475-2025-09-18" class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
                                 </div>
                             </div>
 
                             <!-- News Item 5 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://www.prayaghospital.in/uploaded_files/photogallery/icon_3.jpg"
-                                        alt="News 5">
+                                    <img src="../assets/images/press/The-Power-of-Small-Things-in-Suicide-Prevention.webp"
+                                         alt="Suicide Prevention Support">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">Telemedicine Services Expand to Rural Areas</h3>
-                                    <p class="news-date">November 28, 2024</p>
-                                    <p class="news-excerpt">Digital healthcare reaches 100+ villages with remote
-                                        consultations...</p>
+                                    <h3 class="news-item-title">The Power of Small Things in Suicide Prevention</h3>
+                                    <p class="news-date">September 10, 2025</p>
+                                    <p class="news-excerpt">Happiest Health highlights how small gestures and everyday actions can play a massive role...</p>
+                                    <a href="https://www.happiesthealth.com/articles/mental-health/the-power-of-small-things-in-suicide-prevention" class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
                                 </div>
                             </div>
 
                             <!-- News Item 6 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://www.prayaghospital.in/uploaded_files/photogallery/icon_3.jpg"
-                                        alt="News 6">
+                                    <img src="../assets/images/press/mental-support.png"
+                                         alt="Mental Stress Awareness">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">Medical Training Program Graduates 50 Nurses</h3>
-                                    <p class="news-date">November 20, 2024</p>
-                                    <p class="news-excerpt">Comprehensive nursing education program produces skilled
-                                        healthcare professionals...</p>
+                                    <h3 class="news-item-title">Breaking the Stigma Around Mental Stress and Suicidal Thoughts</h3>
+                                    <p class="news-date">September 09, 2025</p>
+                                    <p class="news-excerpt">OnlyMyHealth provides insights on the importance of open communication in mitigating mental stress...</p>
+                                    <a href="https://www.onlymyhealth.com/world-suicide-prevention-day-how-talking-about-mental-stress-can-stop-suicidal-thoughts-12977838153" class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
                                 </div>
                             </div>
 
                             <!-- News Item 7 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://www.prayaghospital.in/uploaded_files/photogallery/icon_3.jpg"
-                                        alt="News 7">
+                                    <img src="../assets/images/press/The-Burnout-of-Being-Emotionally-Intelligent.webp"
+                                         alt="Burnout Awareness">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">Emergency Response Team Saves Critical Lives</h3>
-                                    <p class="news-date">November 15, 2024</p>
-                                    <p class="news-excerpt">24/7 ambulance service responds to 1000+ emergency calls
-                                        monthly...</p>
-                                </div>
-                            </div>
-
-                            <!-- News Item 8 -->
-                            <div class="news-item">
-                                <div class="news-image">
-                                    <img src="https://www.prayaghospital.in/uploaded_files/photogallery/icon_3.jpg"
-                                        alt="News 8">
-                                </div>
-                                <div class="news-content">
-                                    <h3 class="news-item-title">Green Hospital Initiative Reduces Carbon Footprint</h3>
-                                    <p class="news-date">November 10, 2024</p>
-                                    <p class="news-excerpt">Eco-friendly practices and solar energy adoption leads
-                                        sustainability efforts...</p>
+                                    <h3 class="news-item-title">The Burnout of Being Emotionally Intelligent</h3>
+                                    <p class="news-date">July 22, 2025</p>
+                                    <p class="news-excerpt">News18 discusses the emotional toll and potential burnout associated with high levels of EQ...</p>
+                                    <a href="https://www.news18.com/lifestyle/health-and-fitness/the-burnout-of-being-emotionally-intelligent-9456509.html" class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
                                 </div>
                             </div>
                         </div>

@@ -10,7 +10,8 @@ $doctors = [
         'gender' => 'female',
         'availability' => 'tomorrow',
         'availability_text' => 'Available Tomorrow',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-aditi-wadhwa.webp',
+        'image_small' => '../assets/images/doctors/small/dr-aditi-wadhwa.webp',
     ],
     [
         'id' => 'dr-alok-krishna-shahay',
@@ -453,7 +454,8 @@ $doctors = [
         'gender' => 'male',
         'availability' => 'today',
         'availability_text' => 'Available Today',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-ajay-prajapti.webp',
+        'image_small' => '../assets/images/doctors/small/dr-ajay-prajapti.webp',
     ],
     [
         'id' => 'dr-nupur-rajoriya',
