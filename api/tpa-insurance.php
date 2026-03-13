@@ -102,7 +102,7 @@
                         <div class="d-flex justify-content-center gap-4 flex-wrap">
                             <div>
                                 <strong class="d-block mb-1">Call Us</strong>
-                                <a href="tel:+911202570111" style="color: #fff; text-decoration: none; font-size: 18px;">+91 120-2570111</a>
+                                <a href="tel:01204021900" style="color: #fff; text-decoration: none; font-size: 18px;">0120 - 4021900</a>
                             </div>
                             <div>
                                 <strong class="d-block mb-1">Email</strong>

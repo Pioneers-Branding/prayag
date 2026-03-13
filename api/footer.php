@@ -141,7 +141,7 @@
                                     <li>
                                         <i class="fas fa-envelope"></i>
                                         <span><a
-                                                href="mailto:info@prayaghospital.com">info@prayaghospital.com</a></span>
+                                                href="mailto:info@prayaghospital.in">info@prayaghospital.in</a></span>
                                     </li>
                                 </ul>
 

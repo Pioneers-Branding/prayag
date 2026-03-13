@@ -60,14 +60,14 @@
                             <div class="hospital-info-item">
                                 <i class="fas fa-phone-alt"></i>
                                 <span>
-                                    +91 120-2570111, +91 120-2570112<br>
+                                    <a href="tel:01204021900">0120 - 4021900</a>, <a href="tel:01204021914">4021914</a><br>
                                     <small class="text-muted">(Emergency 24/7)</small>
                                 </span>
                             </div>
 
                             <div class="hospital-info-item">
                                 <i class="fas fa-envelope"></i>
-                                <span>info.noida@prayaghospital.in</span>
+                                <span><a href="mailto:info@prayaghospital.in">info@prayaghospital.in</a></span>
                             </div>
 
                             <div class="features-grid">
@@ -81,7 +81,7 @@
                                 <a href="https://maps.app.goo.gl/UzFkbLXTXFfTaLAE8" target="_blank" class="btn btn-outline-teal flex-grow-1">
                                     <i class="fas fa-location-arrow"></i> Directions
                                 </a>
-                                <a href="tel:+911202570111" class="btn btn-primary-orange flex-grow-1">
+                                <a href="tel:01204021900" class="btn btn-primary-orange flex-grow-1">
                                     <i class="fas fa-phone"></i> Call Now
                                 </a>
                             </div>
@@ -109,14 +109,14 @@
                             <div class="hospital-info-item">
                                 <i class="fas fa-phone-alt"></i>
                                 <span>
-                                    +91 92896 62853<br>
+                                    <a href="tel:+919289662853">+91 92896 62853</a><br>
                                     <small class="text-muted">(Emergency 24/7)</small>
                                 </span>
                             </div>
 
                             <div class="hospital-info-item">
                                 <i class="fas fa-envelope"></i>
-                                <span>info.gn@prayaghospital.in</span>
+                                <span><a href="mailto:info.gn@prayaghospital.in">info.gn@prayaghospital.in</a></span>
                             </div>
 
                             <div class="features-grid">
