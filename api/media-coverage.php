@@ -169,13 +169,119 @@ $press_releases = [
     </section>
 
     <!-- Press Content Section -->
+    <style>
+        .custom-tabs {
+            gap: 15px;
+        }
+        .custom-tabs .nav-link {
+            color: #555;
+            font-weight: 600;
+            border: 2px solid #eee;
+            border-radius: 50px;
+            padding: 10px 30px;
+            transition: all 0.3s ease;
+            background: #fff;
+        }
+        .custom-tabs .nav-link.active {
+            color: #fff;
+            background: var(--prayag-orange, #ff6a00);
+            border-color: var(--prayag-orange, #ff6a00);
+            box-shadow: 0 4px 15px rgba(255, 106, 0, 0.3);
+        }
+        .custom-tabs .nav-link:hover:not(.active) {
+            border-color: var(--prayag-orange, #ff6a00);
+            color: var(--prayag-orange, #ff6a00);
+        }
+        
+        .print-media-card {
+            background: #fff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            height: 100%;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: 1px solid #eee;
+        }
+        .print-media-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+        .print-media-image-wrapper {
+            position: relative;
+            overflow: hidden;
+            background: #f8f9fa;
+        }
+        .print-media-image {
+            width: 100%;
+            height: 400px;
+            object-fit: contain;
+            transition: transform 0.5s ease;
+        }
+        .print-media-card:hover .print-media-image {
+            transform: scale(1.05);
+        }
+        .expand-overlay {
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0,0,0,0.4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            font-size: 2rem;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        .print-media-card:hover .expand-overlay {
+            opacity: 1;
+        }
+        .print-media-info {
+            padding: 15px;
+            text-align: center;
+            background: #fff;
+        }
+
+        /* Lightbox Modal Customization */
+        #lightboxModal .modal-content {
+            background: transparent;
+            border: none;
+        }
+        #lightboxModal .modal-body {
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+        #lightboxModal .modal-img {
+            max-width: 100%;
+            max-height: 90vh;
+            border-radius: 8px;
+            box-shadow: 0 0 40px rgba(0,0,0,0.5);
+        }
+        #lightboxModal .btn-close {
+            filter: invert(1);
+            position: absolute;
+            top: -30px;
+            right: 0;
+            opacity: 0.8;
+        }
+    </style>
+
     <section class="blog-content-section" style="padding: 40px 0;">
         <div class="container">
-            <div class="row">
-                <!-- Main Content Area -->
-                <div class="col-lg-12">
-                    
-                    <!-- Press Grid -->
+            <!-- Tabs Navigation (Button Style) -->
+            <ul class="nav nav-pills custom-tabs mb-5 justify-content-center border-0" id="mediaTabs" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="online-tab" data-bs-toggle="tab" data-bs-target="#online" type="button" role="tab">Online Media Links</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="print-tab" data-bs-toggle="tab" data-bs-target="#print" type="button" role="tab">Print Media</button>
+                </li>
+            </ul>
+
+            <div class="tab-content" id="mediaTabsContent">
+                <!-- Online Media Tab -->
+                <div class="tab-pane fade show active" id="online" role="tabpanel" aria-labelledby="online-tab">
                     <div class="row g-4">
                         <?php foreach ($press_releases as $press): ?>
                         <div class="col-md-6 col-12">
@@ -202,11 +308,63 @@ $press_releases = [
                         </div>
                         <?php endforeach; ?>
                     </div>
+                </div>
 
+                <!-- Print Media Tab -->
+                <div class="tab-pane fade" id="print" role="tabpanel" aria-labelledby="print-tab">
+                    <div class="row g-4">
+                        <?php
+                        // Sample print media images
+                        $print_media = [
+                            ['title' => 'Recent Media Coverage', 'image' => '../assets/images/media-coverage/press-1-nw.webp', 'date' => '2025-03-01'],
+                            ['title' => 'Healthcare Excellence News', 'image' => '../assets/images/media-coverage/press-2-nw.webp', 'date' => '2025-02-15'],
+                            ['title' => 'Community Health Features', 'image' => '../assets/images/media-coverage/press-3-nw.webp', 'date' => '2025-02-01'],
+                            ['title' => 'Medical Breakthrough Coverage', 'image' => '../assets/images/media-coverage/press-4-nw.webp', 'date' => '2025-01-20']
+                        ];
+                        
+                        foreach ($print_media as $item): ?>
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="print-media-card" onclick="expandImage('<?php echo $item['image']; ?>', '<?php echo $item['title']; ?>')">
+                                <div class="print-media-image-wrapper">
+                                    <img src="<?php echo $item['image']; ?>" alt="<?php echo $item['title']; ?>" class="print-media-image">
+                                    <div class="expand-overlay">
+                                        <i class="fas fa-search-plus"></i>
+                                    </div>
+                                </div>
+                                <!-- <div class="print-media-info">
+                                    <p class="text-muted small mb-1"><?php echo date('M d, Y', strtotime($item['date'])); ?></p>
+                                    <h5 class="mb-0"><?php echo $item['title']; ?></h5>
+                                </div> -->
+                            </div>
+                        </div>
+                        <?php endforeach; ?>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
+
+    <!-- Lightbox Modal -->
+    <div class="modal fade" id="lightboxModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+            <div class="modal-content">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                <div class="modal-body">
+                    <img src="" class="modal-img" id="lightboxImage" alt="Expanded Media">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function expandImage(src, title) {
+            const modalImg = document.getElementById('lightboxImage');
+            const modal = new bootstrap.Modal(document.getElementById('lightboxModal'));
+            modalImg.src = src;
+            modalImg.alt = title;
+            modal.show();
+        }
+    </script>
 
     <?php include 'footer.php'; ?>
     <?php include 'footer-links.php'; ?>

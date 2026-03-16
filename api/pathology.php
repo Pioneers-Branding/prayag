@@ -470,7 +470,12 @@
                 <?php 
                 $pathology_doctors = array_filter($doctors, function($doctor) {
                     $is_pathology_code = in_array($doctor['specialty_code'], ['pathology', 'laboratory', 'microbiology']);
-                    $is_diagnostics_path = ($doctor['specialty_code'] === 'diagnostics' && (stripos($doctor['specialty'], 'Pathologist') !== false || stripos($doctor['specialty'], 'Microbiologist') !== false));
+                    $is_diagnostics_path = ($doctor['specialty_code'] === 'diagnostics' && (
+                        stripos($doctor['specialty'], 'Pathologist') !== false || 
+                        stripos($doctor['specialty'], 'Microbiologist') !== false ||
+                        stripos($doctor['department'], 'Pathologist') !== false || 
+                        stripos($doctor['department'], 'Microbiologist') !== false
+                    ));
                     return $is_pathology_code || $is_diagnostics_path;
                 });
                 
@@ -504,7 +509,7 @@
                                 </div>
                             </div>
                             <div class="doctor-actions">
-                                <a href="doctor-profile.php?id=<?php echo $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
+                                <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
                                 <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
                             </div>
                         </div>

@@ -326,13 +326,13 @@
                             </a>
                         </div>
 
-                        <div class="service-card" data-category="clinical" data-name="Paediatric Surgery">
-                            <a href="paediatric-surgery.php" class="service-card-link">
+                        <div class="service-card" data-category="clinical" data-name="Pediatric Surgery">
+                            <a href="pediatric-surgery.php" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-child"></i>
                                 </div>
                                 <div class="service-content">
-                                    <h3 class="service-name">Paediatric Surgery</h3>
+                                    <h3 class="service-name">Pediatric Surgery</h3>
                                     <p class="service-category">Clinical Departments</p>
                                     <p class="service-description">Specialized surgical care for children</p>
                                 </div>
@@ -496,28 +496,15 @@
                             </a>
                         </div>
 
-                        <div class="service-card" data-category="diagnostics" data-name="Pulmonary Function Test">
-                            <a href="pulmonary-function-test.php" class="service-card-link">
+                        <div class="service-card" data-category="diagnostics" data-name="Pulmonary Function Test (PFT) & Spirometry">
+                            <a href="respiratory-medicine.php#diagnostics" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-lungs"></i>
                                 </div>
                                 <div class="service-content">
-                                    <h3 class="service-name">Pulmonary Function Test</h3>
+                                    <h3 class="service-name">PFT & Spirometry</h3>
                                     <p class="service-category">Diagnostics & Support</p>
-                                    <p class="service-description">Comprehensive lung function assessment</p>
-                                </div>
-                            </a>
-                        </div>
-
-                        <div class="service-card" data-category="diagnostics" data-name="Spirometry">
-                            <a href="spirometry.php" class="service-card-link">
-                                <div class="service-icon">
-                                    <i class="fas fa-wind"></i>
-                                </div>
-                                <div class="service-content">
-                                    <h3 class="service-name">Spirometry</h3>
-                                    <p class="service-category">Diagnostics & Support</p>
-                                    <p class="service-description">Breathing test for lung capacity measurement</p>
+                                    <p class="service-description">Advanced lung function tests including airflow measurement and gas exchange analysis</p>
                                 </div>
                             </a>
                         </div>

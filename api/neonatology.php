@@ -460,12 +460,12 @@
                 <?php include 'doctors-data.php'; ?>
                 <?php 
                 $neo_doctors = array_filter($doctors, function($doctor) {
-                    return in_array($doctor['specialty_code'], ['neonatology', 'pediatrics', 'neonatal']);
+                    return in_array($doctor['specialty_code'], ['neonatology', 'pediatrics', 'neonatal', 'paediatric', 'paediatrics']);
                 });
                 
                 if (empty($neo_doctors)) {
                     $neo_doctors = array_filter($doctors, function($doctor) {
-                        return $doctor['specialty_code'] === 'pediatrics';
+                        return in_array($doctor['specialty_code'], ['pediatrics', 'paediatric', 'paediatrics']);
                     });
                     $neo_doctors = array_slice($neo_doctors, 0, 3);
                 }
@@ -490,7 +490,7 @@
                                 </div>
                             </div>
                             <div class="doctor-actions">
-                                <a href="doctor-profile.php?id=<?php echo $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
+                                <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
                                 <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
                             </div>
                         </div>

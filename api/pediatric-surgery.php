@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Paediatric Surgery - Child Surgical Care | Prayag Hospital</title>
+    <title>Pediatric Surgery - Child Surgical Care | Prayag Hospital</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -35,7 +35,7 @@
                             <a href="#">Departments</a>
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">
-                            Paediatric Surgery
+                            Pediatric Surgery
                         </li>
                     </ol>
                 </nav>
@@ -49,10 +49,10 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Paediatric Surgery Centre
+                            Advanced Pediatric Surgery Centre
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
-                            Prayag Hospital's Department of Paediatric Surgery provides specialized surgical care for infants, children, and adolescents. Our expert pediatric surgeons handle congenital anomalies, neonatal emergencies, and childhood surgical conditions with precision and compassionate care.
+                            Prayag Hospital's Department of Pediatric Surgery provides specialized surgical care for infants, children, and adolescents. Our expert pediatric surgeons handle congenital anomalies, neonatal emergencies, and childhood surgical conditions with precision and compassionate care.
                         </p>
 
                         <!-- CTA Buttons -->
@@ -176,7 +176,7 @@
             <div class="overview-content">
                 <h2 class="overview-heading">Expert Surgical Care for Children</h2>
                 <p class="overview-text">
-                    The Department of Paediatric Surgery at Prayag Hospital specializes in surgical treatment of infants, children, and adolescents. Our pediatric surgeons are trained to handle the unique anatomical and physiological needs of growing children, from newborns to teenagers.
+                    The Department of Pediatric Surgery at Prayag Hospital specializes in surgical treatment of infants, children, and adolescents. Our pediatric surgeons are trained to handle the unique anatomical and physiological needs of growing children, from newborns to teenagers.
                 </p>
                 <p class="overview-text">
                     We manage a wide range of surgical conditions including congenital anomalies, neonatal emergencies, childhood tumors, and trauma. Our team uses minimally invasive laparoscopic techniques whenever possible to ensure faster recovery and minimal scarring for young patients.
@@ -290,7 +290,7 @@
     <section class="treatment-section" id="services">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title">Our Paediatric Surgical Services</h2>
+                <h2 class="section-title">Our Pediatric Surgical Services</h2>
                 <p class="section-subtitle">
                     Specialized surgical procedures for children.
                 </p>
@@ -376,7 +376,7 @@
     <section class="why-choose-section" id="why-choose-us">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title">Why Choose Prayag for Paediatric Surgery?</h2>
+                <h2 class="section-title">Why Choose Prayag for Pediatric Surgery?</h2>
                 <p class="section-subtitle">
                     Expert surgical care for children in a child-friendly environment.
                 </p>
@@ -450,7 +450,7 @@
     <section class="doctors-section" id="doctors">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title">Our Paediatric Surgeons</h2>
+                <h2 class="section-title">Our Pediatric Surgeons</h2>
                 <p class="section-subtitle">
                     Meet our team of child surgery specialists.
                 </p>
@@ -460,12 +460,12 @@
                 <?php include 'doctors-data.php'; ?>
                 <?php 
                 $ped_surg_doctors = array_filter($doctors, function($doctor) {
-                    return in_array($doctor['specialty_code'], ['pediatric-surgery', 'paediatric-surgery', 'pediatrics']);
+                    return in_array($doctor['specialty_code'], ['pediatric-surgery', 'paediatric-surgery', 'pediatrics', 'paediatric', 'paediatrics']);
                 });
                 
                 if (empty($ped_surg_doctors)) {
                     $ped_surg_doctors = array_filter($doctors, function($doctor) {
-                        return $doctor['specialty_code'] === 'pediatrics';
+                        return in_array($doctor['specialty_code'], ['pediatrics', 'paediatric', 'paediatrics']);
                     });
                     $ped_surg_doctors = array_slice($ped_surg_doctors, 0, 3);
                 }
@@ -490,7 +490,7 @@
                                 </div>
                             </div>
                             <div class="doctor-actions">
-                                <a href="doctor-profile.php?id=<?php echo $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
+                                <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
                                 <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
                             </div>
                         </div>

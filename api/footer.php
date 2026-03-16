@@ -24,7 +24,7 @@
                     <div class="col-md-4">
                         <div class="trust-actions d-flex flex-column gap-2">
                             <a href="find-doctor.php" class="btn btn-outline-teal w-100">Find a Doctor</a>
-                            <a href="contact-us.php" class="btn btn-primary-orange w-100">Book Appointment</a>
+                            <a href="book-appointment.php" class="btn btn-primary-orange w-100">Book Appointment</a>
                         </div>
                     </div>
                 </div>
@@ -90,6 +90,8 @@
                                 <li><a href="physiotherapy.php">Physiotherapy</a></li>
                                 <li><a href="support-services.php">Support Services</a></li>
                                 <li><a href="dietetics.php">Dietetics</a></li>
+                                <li><a href="blood-bank.php">Blood Bank</a></li>
+                                <li><a href="pharmacy.php">Pharmacy</a></li>
                             </ul>
                         </div>
 

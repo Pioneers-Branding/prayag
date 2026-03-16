@@ -225,7 +225,7 @@
                                     <div class="speciality-icon">
                                         <i class="fas fa-child"></i>
                                     </div>
-                                    <h3 class="speciality-name">Paediatrics & Neonatology</h3>
+                                    <h3 class="speciality-name">Pediatrics & Neonatology</h3>
                                 </a>
 
                                 <!-- Speciality Card 22 -->

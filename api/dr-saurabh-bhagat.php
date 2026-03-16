@@ -11,7 +11,7 @@
  */
 
 // Set the doctor ID - CHANGE THIS for each doctor
-$doctor_id = 'dr-saurav-bhagat'; // Example: Change to match the doctor's ID
+$doctor_id = 'dr-saurabh-bhagat'; // Example: Change to match the doctor's ID
 
 // Load doctor data
 include 'doctors-data.php';

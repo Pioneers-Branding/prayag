@@ -98,7 +98,10 @@
                     <a href="#conditions" class="toc-nav-link">Conditions</a>
                 </li>
                 <li class="toc-nav-item">
-                    <a href="#types-of-treatment" class="toc-nav-link">Types of Treatment</a>
+                    <a href="#diagnostics" class="toc-nav-link">Diagnostics (PFT)</a>
+                </li>
+                <li class="toc-nav-item">
+                    <a href="#types-of-treatment" class="toc-nav-link">Treatment</a>
                 </li>
                 <li class="toc-nav-item">
                     <a href="#why-choose-us" class="toc-nav-link">Why Choose Us</a>
@@ -305,6 +308,45 @@
                 <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <div class="condition-card">
                         <h3 class="condition-name">Sarcoidosis</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Advanced Diagnostics Section (Integrated PFT & Spirometry) -->
+    <section class="overview-section" id="diagnostics" style="background: #f8fafc;">
+        <div class="container">
+            <div class="section-header text-center mb-5">
+                <h2 class="section-title">Advanced Respiratory Diagnostics</h2>
+                <p class="section-subtitle">State-of-the-art facilities for precise lung function assessment.</p>
+            </div>
+
+            <div class="row align-items-center mb-5">
+                <div class="col-lg-6">
+                    <h3 class="mb-3" style="color: var(--prayag-teal);">Pulmonary Function Test (PFT)</h3>
+                    <p class="overview-text">
+                        Our comprehensive PFT lab assesses how well your lungs work by measuring capacity, volume, and gas exchange. Essential for managing chronic conditions, PFT provides a detailed map of your respiratory health.
+                    </p>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Lung Capacity & Volume Testing</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Diffusion Capacity (DLCO)</li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Post-Treatment Progress Monitoring</li>
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    <div class="p-4 bg-white rounded-4 shadow-sm border-start border-4 h-100">
+                        <h4 style="color: var(--prayag-orange);">Spirometry & Modalities</h4>
+                        <p>Our lab is equipped with advanced systems for comprehensive assessment:</p>
+                        <div class="row g-2">
+                            <div class="col-6"><span class="badge w-100 bg-light text-dark p-2 border">Digital Spirometry</span></div>
+                            <div class="col-6"><span class="badge w-100 bg-light text-dark p-2 border">DLCO Testing</span></div>
+                            <div class="col-6"><span class="badge w-100 bg-light text-dark p-2 border">Body Plethysmograph</span></div>
+                            <div class="col-6"><span class="badge w-100 bg-light text-dark p-2 border">Bronchial Challenge</span></div>
+                            <div class="col-6"><span class="badge w-100 bg-light text-dark p-2 border">Exhaled Nitric Oxide</span></div>
+                            <div class="col-6"><span class="badge w-100 bg-light text-dark p-2 border">Exercise Testing</span></div>
+                        </div>
+                        <p class="mt-3 small text-muted">A quick, 15-45 minute non-invasive process essential for managing Asthma, COPD, and Bronchitis.</p>
                     </div>
                 </div>
             </div>
@@ -529,7 +571,7 @@
                                 </div>
                             </div>
                             <div class="doctor-actions">
-                                <a href="doctor-profile.php?id=<?php echo $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
+                                <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
                                 <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
                             </div>
                         </div>

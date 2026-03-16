@@ -132,14 +132,16 @@
 
                 <!-- Feature 2 -->
                 <div class="col-lg-3 col-md-6 col-12">
-                    <div class="feature-box">
-                        <div class="feature-icon">
-                            <i class="fas fa-pills"></i>
+                    <a href="pharmacy.php" class="text-decoration-none">
+                        <div class="feature-box">
+                            <div class="feature-icon">
+                                <i class="fas fa-pills"></i>
+                            </div>
+                            <div class="feature-content">
+                                <h3 class="feature-title">24/7 Pharmacy</h3>
+                            </div>
                         </div>
-                        <div class="feature-content">
-                            <h3 class="feature-title">24/7 Pharmacy</h3>
-                        </div>
-                    </div>
+                    </a>
                 </div>
 
                 <!-- Feature 3 -->
@@ -222,9 +224,11 @@
 
             <div class="row g-3">
                 <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <div class="condition-card">
-                        <h3 class="condition-name">24/7 Pharmacy</h3>
-                    </div>
+                    <a href="pharmacy.php" class="text-decoration-none">
+                        <div class="condition-card">
+                            <h3 class="condition-name">24/7 Pharmacy</h3>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <div class="condition-card">
@@ -237,9 +241,11 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <div class="condition-card">
-                        <h3 class="condition-name">Blood Storage Unit</h3>
-                    </div>
+                    <a href="blood-bank.php" class="text-decoration-none">
+                        <div class="condition-card">
+                            <h3 class="condition-name">Blood Storage Unit</h3>
+                        </div>
+                    </a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                     <div class="condition-card">

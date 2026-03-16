@@ -140,8 +140,8 @@
                                                 <li><a href="emergency-medicine.php" class="mega-menu-item"><i
                                                             class="fas fa-ambulance"></i> <span>Emergency
                                                             Medicine</span></a></li>                                             
-                                                <li><a href="paediatric-surgery.php" class="mega-menu-item"><i
-                                                            class="fas fa-child"></i> <span>Paediatric
+                                                <li><a href="pediatric-surgery.php" class="mega-menu-item"><i
+                                                            class="fas fa-child"></i> <span>Pediatric
                                                             Surgery</span></a></li>
                                                 <li><a href="vascular-surgery.php" class="mega-menu-item"><i
                                                             class="fas fa-heartbeat"></i> <span>Vascular
@@ -184,15 +184,8 @@
                                                 <li><a href="radiology.php" class="mega-menu-item"><i
                                                             class="fas fa-x-ray"></i> <span>Radiology &
                                                             Imaging</span></a></li>
-                                                <li><a href="eeg.php" class="mega-menu-item"><i
-                                                            class="fas fa-brain"></i> <span>EEG (Brain Activity)</span></a></li>
                                                 <li><a href="emg-ep.php" class="mega-menu-item"><img src="../assets/images/EMG_EP.webp" alt="EMG/EP" style="width: 20px;"><span>EMG/EP (Nerve & Muscle)</span></a></li>
-                                                <li><a href="pulmonary-function-test.php" class="mega-menu-item"><i
-                                                            class="fas fa-lungs"></i> <span>Pulmonary Function Test</span></a></li>
-                                                <li><a href="spirometry.php" class="mega-menu-item"><i
-                                                            class="fas fa-wind"></i> <span>Spirometry</span></a></li>
-                                                <li><a href="treadmill-testing.php" class="mega-menu-item"><i
-                                                            class="fas fa-heartbeat"></i> <span>Treadmill Testing (TMT)</span></a></li>
+
                                                 <li><a href="pathology.php" class="mega-menu-item"><i
                                                             class="fas fa-vial"></i> <span>Laboratory
                                                             Services</span></a></li>
@@ -205,6 +198,10 @@
                                                 <li><a href="dietetics.php" class="mega-menu-item"><i
                                                             class="fas fa-apple-alt"></i> <span>Dietetics &
                                                             Nutrition</span></a></li>
+                                                <li><a href="blood-bank.php" class="mega-menu-item"><i
+                                                            class="fas fa-droplet"></i> <span>Blood Bank</span></a></li>
+                                                <li><a href="pharmacy.php" class="mega-menu-item"><i
+                                                            class="fas fa-pills"></i> <span>Pharmacy</span></a></li>
                                                 <li><a href="health-checkup.php" class="mega-menu-item"><i
                                                             class="fas fa-notes-medical"></i> <span>Preventive Health
                                                             Checkups</span></a></li>
@@ -221,6 +218,7 @@
                                     <li><a class="dropdown-item" href="admission-guide.php">Admission Guide</a>
                                     </li>
                                     <li><a class="dropdown-item" href="tpa-insurance.php">TPA & Insurance</a></li>
+                                    <li><a class="dropdown-item" href="govt-panel.php">Govt Panels</a></li>
                                     <li><a class="dropdown-item" href="visiting-hours.php">Visiting Hours</a></li>
                                     <li><a class="dropdown-item" href="feedback.php">Feedback</a></li>
                                 </ul>
@@ -231,7 +229,7 @@
 
 
                             <li class="nav-item">
-                                <a href="#" class="btn btn-appointment">
+                                <a href="book-appointment.php" class="btn btn-appointment">
                                     Book Appointment
                                 </a>
                             </li>
@@ -310,17 +308,15 @@
                             <ul class="mobile-submenu">
                                 <li><a href="ophthalmology.php">Ophthalmology</a></li>
                                 <li><a href="anesthesiology.php">Anesthesiology</a></li>
-                                <li><a href="radiology.php">Radiology & Imaging</a></li>
-                                <li><a href="eeg.php">EEG (Brain Activity)</a></li>
-                                <li><a href="emg-ep.php">EMG/EP (Nerve & Muscle)</a></li>
-                                <li><a href="pulmonary-function-test.php">Pulmonary Function Test</a></li>
-                                <li><a href="spirometry.php">Spirometry</a></li>
-                                <li><a href="treadmill-testing.php">Treadmill Testing (TMT)</a></li>
+                                <li><a href="radiology.php">Radiology & Imaging</a></li>                               
+                                <li><a href="emg-ep.php">EMG/EP (Nerve & Muscle)</a></li>                             
                                 <li><a href="pathology.php">Laboratory Services</a></li>
                                 <li><a href="physiotherapy.php">Physiotherapy & Rehab</a></li>
                                 <li><a href="support-services.php">Support Services</a></li>
-                                <li><a href="dietetics.php">Dietetics & Nutrition</a></li>
-                                <li><a href="health-checkup.php">Preventive Health Checkups</a></li>
+                                 <li><a href="dietetics.php">Dietetics & Nutrition</a></li>
+                                 <li><a href="blood-bank.php">Blood Bank</a></li>
+                                 <li><a href="pharmacy.php">Pharmacy</a></li>
+                                 <li><a href="health-checkup.php">Preventive Health Checkups</a></li>
                             </ul>
                         </div>
                     </li>

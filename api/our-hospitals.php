@@ -60,7 +60,8 @@
                             <div class="hospital-info-item">
                                 <i class="fas fa-phone-alt"></i>
                                 <span>
-                                    <a href="tel:01204021900">0120 - 4021900</a>, <a href="tel:01204021914">4021914</a><br>
+                                    <strong>Phone:</strong> <a href="tel:01204021900">0120 - 4021900</a> | <a href="tel:01204021914">4021914</a><br>
+                                    <strong>Fax:</strong> 91 - 120 - 2574091<br>
                                     <small class="text-muted">(Emergency 24/7)</small>
                                 </span>
                             </div>
@@ -109,14 +110,15 @@
                             <div class="hospital-info-item">
                                 <i class="fas fa-phone-alt"></i>
                                 <span>
-                                    <a href="tel:+919289662853">+91 92896 62853</a><br>
+                                    <strong>Phone:</strong> <a href="tel:01204021900">0120 - 4021900</a> | <a href="tel:01204021914">4021914</a><br>
+                                    <strong>Fax:</strong> 91 - 120 - 2574091<br>
                                     <small class="text-muted">(Emergency 24/7)</small>
                                 </span>
                             </div>
 
                             <div class="hospital-info-item">
                                 <i class="fas fa-envelope"></i>
-                                <span><a href="mailto:info.gn@prayaghospital.in">info.gn@prayaghospital.in</a></span>
+                                <span><a href="mailto:info@prayaghospital.in">info@prayaghospital.in</a></span>
                             </div>
 
                             <div class="features-grid">
@@ -130,7 +132,7 @@
                                 <a href="https://maps.app.goo.gl/ZpgoC2Si63ecqSXh9" target="_blank" class="btn btn-outline-teal flex-grow-1">
                                     <i class="fas fa-location-arrow"></i> Directions
                                 </a>
-                                <a href="tel:+919289662853" class="btn btn-primary-orange flex-grow-1">
+                                <a href="tel:01204021900" class="btn btn-primary-orange flex-grow-1">
                                     <i class="fas fa-phone"></i> Call Now
                                 </a>
                             </div>

@@ -440,7 +440,7 @@
                 <?php include 'doctors-data.php'; ?>
                 <?php 
                 $neuro_doctors = array_filter($doctors, function($doctor) {
-                    return $doctor['specialty_code'] === 'neurosciences' && stripos($doctor['specialty'], 'surgeon') !== false;
+                    return $doctor['specialty_code'] === 'neurosciences' || $doctor['specialty_code'] === 'neurology';
                 });
                 foreach ($neuro_doctors as $doctor): 
                 ?>
@@ -463,7 +463,7 @@
                                 </div>
                             </div>
                             <div class="doctor-actions">
-                                <a href="doctor-profile.php?id=<?php echo $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
+                                <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
                                 <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
                             </div>
                         </div>
