@@ -121,7 +121,7 @@
     <section class="overview-section" id="overview">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <h2 class="overview-heading">Excellence in Pharmaceutical Care</h2>
                     <p class="overview-text">
                         Prayag Hospital Pharmacy is committed to providing high-quality, authentic medicines to our patients. Managed by licensed and experienced pharmacists, our pharmacy ensures that every prescription is filled accurately and with care.
@@ -138,11 +138,7 @@
                         <div class="category-pill">Wellness Products</div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="overview-image-wrapper">
-                        <img src="../assets/images/pharmacy-main.webp" alt="Pharmacy Interior" class="overview-image">
-                    </div>
-                </div>
+                
             </div>
         </div>
     </section>

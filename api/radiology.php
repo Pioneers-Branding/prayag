@@ -76,7 +76,7 @@
                     <div class="col-lg-5 col-md-12">
                         <div class="hero-image-wrapper">
                             <div class="hero-image-container">
-                                <img src="../assets/images/radiology-thumb.webp"
+                                <img src="../assets/images/radiology-new-thumb.webp"
                                     alt="Radiology at Prayag Hospital" class="hero-image">
                             </div>
                         </div>
@@ -187,7 +187,7 @@
             </div>
 
             <div class="overview-image-wrapper">
-                <img src="../assets/images/radiology-main.webp"
+                <img src="../assets/images/radiology-new-main.webp"
                     alt="MRI Machine" class="overview-image">
             </div>
 

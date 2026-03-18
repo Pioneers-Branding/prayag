@@ -187,7 +187,7 @@
             </div>
 
             <div class="overview-image-wrapper">
-                <img src="../assets/images/Plastic-Surgery-main.webp"
+                <img src="../assets/images/plastic-main-new.webp"
                     alt="Plastic Surgery Department" class="overview-image">
             </div>
 

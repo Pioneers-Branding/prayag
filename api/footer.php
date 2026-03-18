@@ -87,9 +87,7 @@
                                 <li><a href="anesthesiology.php">Anesthesiology</a></li>
                                 <li><a href="radiology.php">Radiology & Imaging</a></li>
                                 <li><a href="pathology.php">Laboratory Services</a></li>
-                                <li><a href="physiotherapy.php">Physiotherapy</a></li>
-                                <li><a href="support-services.php">Support Services</a></li>
-                                <li><a href="dietetics.php">Dietetics</a></li>
+                                <li><a href="physiotherapy.php">Physiotherapy</a></li>                                
                                 <li><a href="blood-bank.php">Blood Bank</a></li>
                                 <li><a href="pharmacy.php">Pharmacy</a></li>
                             </ul>
@@ -198,3 +196,19 @@
                 </div>
             </div>
         </footer>
+
+
+        
+<script>
+	if (!document.querySelector('#ftvy63gw')) {
+		var newDiv = document.createElement('div');
+		newDiv.setAttribute('key', 'Popup Hiring Now');
+		newDiv.setAttribute('class', 'ft');
+		newDiv.setAttribute('id', 'ftvy63gw');
+		var newScript = document.createElement('script');
+		newScript.setAttribute('src', 'https://wdg.fouita.com/widgets/0x404308.js');
+		newDiv.appendChild(newScript);
+
+		document.body.appendChild(newDiv);
+	}
+</script>

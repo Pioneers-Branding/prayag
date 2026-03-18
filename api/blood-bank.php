@@ -43,9 +43,9 @@
             top: -10px;
             right: -10px;
             font-size: 4rem;
-            color: var(--prayag-teal-light);
+            color: #dc2626;
             z-index: 0;
-            opacity: 0.1;
+            opacity: 0.7;
         }
         .blood-group-item * {
             position: relative;
@@ -98,10 +98,7 @@
                         <div class="hero-cta-buttons">
                             <a href="tel:01204021900" class="btn btn-appointment">
                                 Emergency Support
-                            </a>
-                            <a href="#donor-guide" class="btn btn-utility-cta ms-3">
-                                Become a Donor
-                            </a>
+                            </a>                            
                         </div>
 
                         <!-- Hero Stats -->
@@ -117,7 +114,7 @@
                     <div class="col-lg-5 col-md-12">
                         <div class="hero-image-wrapper">
                             <div class="hero-image-container">
-                                <img src="../assets/images/blood-bank-thumb.webp"
+                                <img src="../assets/images/blood-donate.webp"
                                     alt="Blood Bank at Prayag Hospital" class="hero-image">
                             </div>
                         </div>
@@ -167,12 +164,7 @@
                 <p class="overview-text">
                     Safety is our topmost priority. Every unit of blood collected undergoes rigorous NAT (Nucleic Acid Testing) and conventional screening to prevent transfusion-transmitted infections, providing a safe lifeline for those in need.
                 </p>
-            </div>
-
-            <div class="overview-image-wrapper">
-                <img src="../assets/images/blood-bank-main.webp"
-                    alt="Safe Blood Handling" class="overview-image">
-            </div>
+            </div>           
 
             <div class="overview-highlights">
                 <div class="overview-highlight">
@@ -278,7 +270,7 @@
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="treatment-card">
-                        <div class="treatment-card-icon" style="background: rgba(220, 38, 38, 0.1); color: #dc2626;">
+                        <div class="treatment-card-icon">
                             <i class="fas fa-vials"></i>
                         </div>
                         <h3 class="treatment-card-title">Whole Blood</h3>
@@ -289,7 +281,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="treatment-card">
-                        <div class="treatment-card-icon" style="background: rgba(220, 38, 38, 0.1); color: #dc2626;">
+                        <div class="treatment-card-icon">
                             <i class="fas fa-dice-one"></i>
                         </div>
                         <h3 class="treatment-card-title">Packed RBCs</h3>
@@ -300,7 +292,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="treatment-card">
-                        <div class="treatment-card-icon" style="background: rgba(220, 38, 38, 0.1); color: #dc2626;">
+                        <div class="treatment-card-icon" >
                             <i class="fas fa-tint-slash"></i>
                         </div>
                         <h3 class="treatment-card-title">Platelets (RDP/SDP)</h3>
@@ -311,7 +303,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="treatment-card">
-                        <div class="treatment-card-icon" style="background: rgba(220, 38, 38, 0.1); color: #dc2626;">
+                        <div class="treatment-card-icon" >
                             <i class="fas fa-water"></i>
                         </div>
                         <h3 class="treatment-card-title">Fresh Frozen Plasma</h3>
@@ -322,7 +314,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="treatment-card">
-                        <div class="treatment-card-icon" style="background: rgba(220, 38, 38, 0.1); color: #dc2626;">
+                        <div class="treatment-card-icon" >
                             <i class="fas fa-snowflake"></i>
                         </div>
                         <h3 class="treatment-card-title">Cryoprecipitate</h3>
@@ -333,7 +325,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="treatment-card">
-                        <div class="treatment-card-icon" style="background: rgba(220, 38, 38, 0.1); color: #dc2626;">
+                        <div class="treatment-card-icon" >
                             <i class="fas fa-dna"></i>
                         </div>
                         <h3 class="treatment-card-title">Cross Matching</h3>
@@ -431,6 +423,76 @@
                                 data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
                                     Storage depends on the component: RBCs last for 35-42 days, Platelets for 5 days, and Plasma can be frozen and stored for up to 1 year.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="faqHeading3">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#faqCollapse3" aria-expanded="false" aria-controls="faqCollapse3">
+                                    How long does the blood donation process take?
+                                </button>
+                            </h2>
+                            <div id="faqCollapse3" class="accordion-collapse collapse" aria-labelledby="faqHeading3"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    The actual donation takes only about 8-10 minutes. However, the entire process—including registration, medical screening, and recovery—takes approximately 45-60 minutes.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="faqHeading4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#faqCollapse4" aria-expanded="false" aria-controls="faqCollapse4">
+                                    How often can I donate blood?
+                                </button>
+                            </h2>
+                            <div id="faqCollapse4" class="accordion-collapse collapse" aria-labelledby="faqHeading4"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Healthy individuals can donate whole blood every 8 weeks (56 days). For platelet donation, you can donate more frequently—up to 24 times a year.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="faqHeading5">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#faqCollapse5" aria-expanded="false" aria-controls="faqCollapse5">
+                                    What should I eat or drink before donating?
+                                </button>
+                            </h2>
+                            <div id="faqCollapse5" class="accordion-collapse collapse" aria-labelledby="faqHeading5"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    It is recommended to have a healthy, low-fat meal and drink plenty of water or non-alcoholic fluids before donation. Avoid donating on an empty stomach.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="faqHeading6">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#faqCollapse6" aria-expanded="false" aria-controls="faqCollapse6">
+                                    Can I donate if I have recently been vaccinated?
+                                </button>
+                            </h2>
+                            <div id="faqCollapse6" class="accordion-collapse collapse" aria-labelledby="faqHeading6"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Most vaccinations (like for COVID-19 or Flu) have no waiting period if you are symptom-free. However, some live-virus vaccines may require a 2-4 week wait. Please inform our medical officer about any recent vaccinations.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="faqHeading7">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#faqCollapse7" aria-expanded="false" aria-controls="faqCollapse7">
+                                    Are there any side effects after donation?
+                                </button>
+                            </h2>
+                            <div id="faqCollapse7" class="accordion-collapse collapse" aria-labelledby="faqHeading7"
+                                data-bs-parent="#faqAccordion">
+                                <div class="accordion-body">
+                                    Most donors feel perfectly fine. A few may experience slight dizziness or bruising at the needle site. Rest, hydration, and a light snack provided after donation effectively manage these minor occurrences.
                                 </div>
                             </div>
                         </div>

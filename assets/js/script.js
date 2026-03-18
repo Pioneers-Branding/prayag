@@ -120,15 +120,7 @@ $(document).ready(function () {
         $(this).addClass('active');
     });
 
-    // ================================================
-    // APPOINTMENT BUTTON CLICK HANDLER
-    // ================================================
-    $('.btn-appointment').on('click', function (e) {
-        e.preventDefault();
-        console.log('Book Appointment clicked');
-        // Add appointment booking logic or redirect
-        alert('Redirecting to appointment booking...');
-    });
+
 
     // ================================================
     // HELPLINE CLICK TRACKING

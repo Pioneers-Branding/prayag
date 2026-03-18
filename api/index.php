@@ -377,7 +377,7 @@
         <section class="infrastructure-section">
             <div class="container">
                 <div class="section-header-center">
-                    <h2 class="section-title-orange">World Class Infrastructure</h2>
+                    <h2 class="section-title-orange">World Class Technology</h2>
                     <p class="section-subtitle-gray">Investing in globally advanced medical technology for care you can
                         trust. Our facilities are equipped with cutting-edge equipment and modern amenities to ensure
                         the highest standards of patient care and comfort.</p>
@@ -743,10 +743,12 @@
                                     best healthcare services. We're here to help you live a healthier life. Our team of
                                     specialists is dedicated to providing personalized treatment plans tailored to your
                                     unique needs. Experience compassionate care combined with medical excellence.</p>
-                                <button class="btn-schedule-appointment mt-3">
-                                    Schedule an Appointment
-                                    <i class="fas fa-calendar-check"></i>
-                                </button>
+                                <a href="book-appointment.php">
+                                    <button class="btn-schedule-appointment mt-3">
+                                        Schedule an Appointment
+                                        <i class="fas fa-calendar-check"></i>
+                                    </button>
+                                </a>
                             </div>
                         </div>
 

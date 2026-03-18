@@ -189,7 +189,7 @@
             </div>
 
             <div class="overview-image-wrapper">
-                <img src="../assets/images/dietetics-main.webp" alt="Healthy Salad" class="overview-image">
+                <img src="../assets/images/nutrition-main.webp" alt="Healthy Salad" class="overview-image">
             </div>
 
             <div class="overview-highlights">

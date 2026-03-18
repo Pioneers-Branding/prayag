@@ -76,7 +76,7 @@
                     <div class="col-lg-5 col-md-12">
                         <div class="hero-image-wrapper">
                             <div class="hero-image-container">
-                                <img src="../assets/images/Dermatology-thumb.webp"
+                                <img src="../assets/images/dermatology-thumb-new.webp"
                                     alt="Dermatology Care at Prayag Hospital" class="hero-image">
                             </div>
                         </div>
@@ -187,7 +187,7 @@
             </div>
 
             <div class="overview-image-wrapper">
-                <img src="../assets/images/Dermatology-main.webp"
+                <img src="../assets/images/dermatology-main-new.webp"
                     alt="Dermatology Department" class="overview-image">
             </div>
 

@@ -47,11 +47,13 @@
             color: #fff;
             display: flex;
             flex-direction: column;
-            justify-content: center;
+            justify-content: flex-start;
+            text-align: left;
         }
 
         .form-section-head {
             margin-bottom: 40px;
+            text-align: left;
         }
 
         .form-section-title {
@@ -60,11 +62,13 @@
             color: var(--prayag-teal);
             margin-bottom: 10px;
             letter-spacing: -0.5px;
+            text-align: left;
         }
 
         .form-section-subtitle {
             color: #64748b;
             font-size: 1.05rem;
+            text-align: left;
         }
 
         .form-group {
@@ -188,6 +192,7 @@
             font-weight: 800;
             margin-bottom: 25px;
             line-height: 1.2;
+            text-align: left;
         }
 
         @media (max-width: 991px) {

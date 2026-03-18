@@ -239,8 +239,8 @@ $doctors = [
         'experience' => 3,
         'gender' => 'male',
         'availability' => 'tomorrow',
-        'availability_text' => 'Available Tomorrow',
-        'image' => 'https://i.ibb.co/xnzC6pM/Untitled.webp',
+        'image' => '../assets/images/doctors/dr-jata-shankar1.webp',
+        'image_small' => '../assets/images/doctors/small/dr-jata-shankar.webp',
     ],
     [
         'id' => 'dr-naveen-kumar',
