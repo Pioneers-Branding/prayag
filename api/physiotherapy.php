@@ -76,7 +76,7 @@
                     <div class="col-lg-5 col-md-12">
                         <div class="hero-image-wrapper">
                             <div class="hero-image-container">
-                                <img src="../assets/images/physiotherapy-thumb.webp"
+                                <img src="../assets/images/physiotherpy-thumb-new.webp"
                                     alt="Physiotherapy at Prayag Hospital" class="hero-image">
                             </div>
                         </div>
@@ -465,22 +465,22 @@
 
             <div class="row g-4 justify-content-center">
                 <?php include 'doctors-data.php'; ?>
-                <?php 
-                $physio_doctors = array_filter($doctors, function($doctor) {
-                    $is_physio_code = in_array($doctor['specialty_code'], ['physiotherapy', 'rehab', 'physiotherapist']);
-                    $is_diagnostics_physio = ($doctor['specialty_code'] === 'diagnostics' && stripos($doctor['specialty'], 'Physiotherapist') !== false);
-                     // Also check general surgery as fallback/placeholder if needed or if they are categorized there loosely in some datasets
-                    return $is_physio_code || $is_diagnostics_physio;
-                });
-                
-                // Fallback for demo if no docs found
-                if (empty($physio_doctors)) {
-                    // Placeholder logic to ensure section isn't empty in dev
-                     $physio_doctors = array_slice($doctors, 0, 3);
-                }
+                <?php
+$physio_doctors = array_filter($doctors, function ($doctor) {
+    $is_physio_code = in_array($doctor['specialty_code'], ['physiotherapy', 'rehab', 'physiotherapist']);
+    $is_diagnostics_physio = ($doctor['specialty_code'] === 'diagnostics' && stripos($doctor['specialty'], 'Physiotherapist') !== false);
+    // Also check general surgery as fallback/placeholder if needed or if they are categorized there loosely in some datasets
+    return $is_physio_code || $is_diagnostics_physio;
+});
 
-                foreach ($physio_doctors as $doctor): 
-                ?>
+// Fallback for demo if no docs found
+if (empty($physio_doctors)) {
+    // Placeholder logic to ensure section isn't empty in dev
+    $physio_doctors = array_slice($doctors, 0, 3);
+}
+
+foreach ($physio_doctors as $doctor):
+?>
                 <!-- Doctor Card -->
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="doctor-card">
@@ -506,7 +506,8 @@
                         </div>
                     </div>
                 </div>
-                <?php endforeach; ?>
+                <?php
+endforeach; ?>
             </div>
         </div>
     </section>
