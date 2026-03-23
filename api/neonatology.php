@@ -76,7 +76,7 @@
                     <div class="col-lg-5 col-md-12">
                         <div class="hero-image-wrapper">
                             <div class="hero-image-container">
-                                <img src="../assets/images/Neonatology-thumb.webp"
+                                <img src="../assets/images/nicu-thumb-img.webp"
                                     alt="Neonatology at Prayag Hospital" class="hero-image">
                             </div>
                         </div>
@@ -187,7 +187,7 @@
             </div>
 
             <div class="overview-image-wrapper">
-                <img src="../assets/images/Neonatology-main.webp"
+                <img src="../assets/images/nicu-main-img.webp"
                     alt="NICU at Prayag Hospital" class="overview-image">
             </div>
 
@@ -458,20 +458,20 @@
 
             <div class="row g-4 justify-content-center">
                 <?php include 'doctors-data.php'; ?>
-                <?php 
-                $neo_doctors = array_filter($doctors, function($doctor) {
-                    return in_array($doctor['specialty_code'], ['neonatology', 'pediatrics', 'neonatal', 'paediatric', 'paediatrics']);
-                });
-                
-                if (empty($neo_doctors)) {
-                    $neo_doctors = array_filter($doctors, function($doctor) {
-                        return in_array($doctor['specialty_code'], ['pediatrics', 'paediatric', 'paediatrics']);
-                    });
-                    $neo_doctors = array_slice($neo_doctors, 0, 3);
-                }
+                <?php
+$neo_doctors = array_filter($doctors, function ($doctor) {
+    return in_array($doctor['specialty_code'], ['neonatology', 'pediatrics', 'neonatal', 'paediatric', 'paediatrics']);
+});
 
-                foreach ($neo_doctors as $doctor): 
-                ?>
+if (empty($neo_doctors)) {
+    $neo_doctors = array_filter($doctors, function ($doctor) {
+        return in_array($doctor['specialty_code'], ['pediatrics', 'paediatric', 'paediatrics']);
+    });
+    $neo_doctors = array_slice($neo_doctors, 0, 3);
+}
+
+foreach ($neo_doctors as $doctor):
+?>
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="doctor-card">
                         <div class="doctor-card-inner">
@@ -496,7 +496,8 @@
                         </div>
                     </div>
                 </div>
-                <?php endforeach; ?>
+                <?php
+endforeach; ?>
             </div>
         </div>
     </section>

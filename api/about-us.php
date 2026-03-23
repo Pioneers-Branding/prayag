@@ -231,7 +231,7 @@
             <div class="container">
                 <h2>World-Class Infrastructure</h2>
                 <p>Experience healthcare in a facility designed for comfort, safety, and advanced medical care.</p>
-                <a href="#" class="btn btn-outline-light-custom">View Our Infrastructure</a>
+                <a href="infrastructure.php" class="btn btn-outline-light-custom">View Our Infrastructure</a>
             </div>
         </section>
 
