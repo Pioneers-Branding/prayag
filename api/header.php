@@ -219,8 +219,7 @@
                                     </li>
                                     <li><a class="dropdown-item" href="tpa-insurance.php">TPA & Insurance</a></li>
                                     <li><a class="dropdown-item" href="govt-panel.php">Govt Panels</a></li>
-                                    <li><a class="dropdown-item" href="visiting-hours.php">Visiting Hours</a></li>
-                                    <li><a class="dropdown-item" href="feedback.php">Feedback</a></li>
+                                    <li><a class="dropdown-item" href="visiting-hours.php">Visiting Hours</a></li>                                    
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -330,8 +329,7 @@
                         <ul class="collapse mobile-submenu" id="mobilePatientGuide">
                             <li><a href="admission-guide.php">Admission Guide</a></li>
                             <li><a href="tpa-insurance.php">TPA & Insurance</a></li>
-                            <li><a href="visiting-hours.php">Visiting Hours</a></li>
-                            <li><a href="feedback.php">Feedback</a></li>
+                            <li><a href="visiting-hours.php">Visiting Hours</a></li>                           
                         </ul>
                     </li>
 

@@ -60,8 +60,8 @@
                         <!-- CTA Buttons -->
                         <div class="hero-cta-buttons">
                             <a href="find-doctor.php" class="btn-book-appointment">Find Doctor</a>
-                            <a href="#callback" class="btn-request-callback">
-                                Request Callback
+                            <a href="contact-us.php" class="btn-request-callback">
+                                Contact Us
                             </a>
                         </div>
 
@@ -715,4 +715,5 @@
 </body>
 
 </html>
+
 
