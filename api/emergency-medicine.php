@@ -80,7 +80,7 @@
                     <div class="col-lg-5 col-md-12">
                         <div class="hero-image-wrapper">
                             <div class="hero-image-container">
-                                <img src="../assets/images/Emergency-Medicine-thumb.webp"
+                                <img src="../assets/images/emergency-thumb-img.webp"
                                     alt="Emergency Care at Prayag Hospital" class="hero-image">
                             </div>
                         </div>
@@ -484,19 +484,19 @@
 
             <div class="row g-4 justify-content-center">
                 <?php include 'doctors-data.php'; ?>
-                <?php 
-                $emergency_doctors = array_filter($doctors, function($doctor) {
-                    // Filter by emergency medicine or default to internal/general surgery if specific tag missing
-                    return $doctor['specialty_code'] === 'emergency-medicine' || $doctor['specialty_code'] === 'internal-medicine' || $doctor['specialty_code'] === 'general-surgery';
-                });
-                
-                // Fallback to show at least some doctors if none match strictly
-                 if (empty($emergency_doctors)) {
-                    $emergency_doctors = array_slice($doctors, 0, 3);
-                 }
+                <?php
+$emergency_doctors = array_filter($doctors, function ($doctor) {
+    // Filter by emergency medicine or default to internal/general surgery if specific tag missing
+    return $doctor['specialty_code'] === 'emergency-medicine' || $doctor['specialty_code'] === 'internal-medicine' || $doctor['specialty_code'] === 'general-surgery';
+});
 
-                foreach ($emergency_doctors as $doctor): 
-                ?>
+// Fallback to show at least some doctors if none match strictly
+if (empty($emergency_doctors)) {
+    $emergency_doctors = array_slice($doctors, 0, 3);
+}
+
+foreach ($emergency_doctors as $doctor):
+?>
                 <!-- Doctor Card -->
                 <div class="col-lg-4 col-md-6 col-12">
                     <div class="doctor-card">
@@ -522,7 +522,8 @@
                         </div>
                     </div>
                 </div>
-                <?php endforeach; ?>
+                <?php
+endforeach; ?>
             </div>
         </div>
     </section>
