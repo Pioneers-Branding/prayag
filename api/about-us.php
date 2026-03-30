@@ -45,24 +45,39 @@
                     <div class="col-lg-6 mb-4 mb-lg-0">
                         <div class="intro-image">
                             <!-- Placeholder for Hospital Building Image -->
-                            <img src="../assets/images/gallery/38.webp" alt="Prayag Hospital Building"
+                            <img src="../assets/images/prayag-hostipal-img.webp" alt="Prayag Hospital Building"
                                 class="img-fluid w-100">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="intro-content ps-lg-4">
                             <div class="intro-content ps-lg-4">
-                                <h2>A Journey of Compassion, Excellence and Growth</h2>                               
-                                
-                                <p>Prayag Hospital began its journey in 1995 as <strong>Prayag Orthopedic Centre</strong>, a small yet dedicated clinic in Sector 29, Noida, founded by <strong>Dr. B. P. Singh</strong>. Built on the principle of <em>Sewa Parmo Dharma</em>, meaning service is the highest duty, the institution was established with a deep commitment to healing with integrity and compassion.</p>
-                                
-                                <p>Today, Prayag Hospital stands as a <strong>120 bedded hospital accredited by NABH and NABL</strong>, reflecting its commitment to clinical excellence, safety standards and quality assurance. Equipped with state of the art facilities and supported by highly skilled doctors, nurses and healthcare professionals, the hospital delivers comprehensive medical services across general medicine, surgery, orthopaedics, emergency care, maternal and child health and specialized treatments.</p>
+                                <h2>A Journey of Compassion, Excellence and Growth</h2>
+
+                                <p>Prayag Hospital began its journey in 1995 as <strong>Prayag Orthopedic
+                                        Centre</strong>, a small yet dedicated clinic in Sector 29, Noida, founded by
+                                    <strong>Dr. B. P. Singh</strong>. Built on the principle of <em>Sewa Parmo
+                                        Dharma</em>, meaning service is the highest duty, the institution was
+                                    established with a deep commitment to healing with integrity and compassion.</p>
+
+                                <p>Today, Prayag Hospital stands as a <strong>120 bedded hospital accredited by NABH and
+                                        NABL</strong>, reflecting its commitment to clinical excellence, safety
+                                    standards and quality assurance. Equipped with state of the art facilities and
+                                    supported by highly skilled doctors, nurses and healthcare professionals, the
+                                    hospital delivers comprehensive medical services across general medicine, surgery,
+                                    orthopaedics, emergency care, maternal and child health and specialized treatments.
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-12 mt-3">
                         <div class="intro-content">
-                            <p>Over more than fifteen years, Prayag Hospital has provided compassionate and individualized care to a vast number of patients. Millions visit the hospital each year, choosing it for its trusted reputation, accessible location, ethical practice and supportive staff. The hospital is empanelled under government panels and recognized by multiple TPA schemes, ensuring affordability and accessibility for eligible families.</p>
+                            <p>Over more than fifteen years, Prayag Hospital has provided compassionate and
+                                individualized care to a vast number of patients. Millions visit the hospital each year,
+                                choosing it for its trusted reputation, accessible location, ethical practice and
+                                supportive staff. The hospital is empanelled under government panels and recognized by
+                                multiple TPA schemes, ensuring affordability and accessibility for eligible families.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -86,7 +101,11 @@
                             <h3>Leadership Speak</h3>
                             <h2>Message from the Chairman</h2>
                             <blockquote class="chairman-quote">
-                                "Patient has a very limited resources, tremendous stress and the fear for unknown. A patient while entering the hospital does not know what the doctors are going to diagnose. We a team of medical doctors and paramedical staff, try to take care of that aspect and also the patient should feel happy in coming to the hospital and leave with at most satisfaction."
+                                "Patient has a very limited resources, tremendous stress and the fear for unknown. A
+                                patient while entering the hospital does not know what the doctors are going to
+                                diagnose. We a team of medical doctors and paramedical staff, try to take care of that
+                                aspect and also the patient should feel happy in coming to the hospital and leave with
+                                at most satisfaction."
                             </blockquote>
                             <p style="color: var(--light-text); margin-bottom: 30px;">
                                 We are constantly upgrading our infrastructure and clinical capabilities to ensure that
@@ -114,7 +133,9 @@
                                 <i class="fas fa-bullseye"></i>
                             </div>
                             <h3 class="mv-title">Our Mission</h3>
-                            <p class="mv-text">To achieve professional excellence in delivering quality care, to provide healthcare to every section of society at an affordable cost for the benefit of humanity and to ensure treatment with integrity and ethical responsibility.</p>
+                            <p class="mv-text">To achieve professional excellence in delivering quality care, to provide
+                                healthcare to every section of society at an affordable cost for the benefit of humanity
+                                and to ensure treatment with integrity and ethical responsibility.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -123,7 +144,8 @@
                                 <i class="fas fa-eye"></i>
                             </div>
                             <h3 class="mv-title">Our Vision</h3>
-                            <p class="mv-text">To provide comprehensive, quality and affordable healthcare services with a deep commitment to the health and wellbeing of all communities.</p>
+                            <p class="mv-text">To provide comprehensive, quality and affordable healthcare services with
+                                a deep commitment to the health and wellbeing of all communities.</p>
                         </div>
                     </div>
                 </div>
@@ -145,28 +167,32 @@
                             <i class="fas fa-heart"></i>
                         </div>
                         <h4 class="value-title">Respect & Caring</h4>
-                        <p class="value-text">We treat every individual with dignity and empathy, ensuring a supportive environment for healing.</p>
+                        <p class="value-text">We treat every individual with dignity and empathy, ensuring a supportive
+                            environment for healing.</p>
                     </div>
                     <div class="value-card">
                         <div class="value-icon">
                             <i class="fas fa-check-circle"></i>
                         </div>
                         <h4 class="value-title">Accountability</h4>
-                        <p class="value-text">We take personal and professional responsibility for our actions and the outcomes of our care.</p>
+                        <p class="value-text">We take personal and professional responsibility for our actions and the
+                            outcomes of our care.</p>
                     </div>
                     <div class="value-card">
                         <div class="value-icon">
                             <i class="fas fa-lightbulb"></i>
                         </div>
                         <h4 class="value-title">Innovation</h4>
-                        <p class="value-text">We embrace new ideas and technology to continuously improve our medical services and patient outcomes.</p>
+                        <p class="value-text">We embrace new ideas and technology to continuously improve our medical
+                            services and patient outcomes.</p>
                     </div>
                     <div class="value-card">
                         <div class="value-icon">
                             <i class="fas fa-users"></i>
                         </div>
                         <h4 class="value-title">Teamwork & Ethics</h4>
-                        <p class="value-text">We uphold truthfulness, privacy, and integrity while working together to make a difference.</p>
+                        <p class="value-text">We uphold truthfulness, privacy, and integrity while working together to
+                            make a difference.</p>
                     </div>
                 </div>
             </div>
@@ -187,7 +213,8 @@
                         <div class="timeline-content">
                             <span class="year-badge">1995</span>
                             <h4>Foundation and Vision</h4>
-                            <p>Prayag Hospital began as Prayag Orthopedic Centre in Sector 29, Noida, founded by Dr. B. P. Singh with a commitment to integrity and compassion.</p>
+                            <p>Prayag Hospital began as Prayag Orthopedic Centre in Sector 29, Noida, founded by Dr. B.
+                                P. Singh with a commitment to integrity and compassion.</p>
                         </div>
                     </div>
                     <!-- Item 2 -->
@@ -195,7 +222,8 @@
                         <div class="timeline-content">
                             <span class="year-badge">1995 - 2000</span>
                             <h4>Building Trust</h4>
-                            <p>Steadily earned patient trust through specialized orthopedic care and ethical medical practice, laying the groundwork for a multi-specialty institution.</p>
+                            <p>Steadily earned patient trust through specialized orthopedic care and ethical medical
+                                practice, laying the groundwork for a multi-specialty institution.</p>
                         </div>
                     </div>
                     <!-- Item 3 -->
@@ -203,7 +231,8 @@
                         <div class="timeline-content">
                             <span class="year-badge">June 2000</span>
                             <h4>Expansion to Sector 41</h4>
-                            <p>Transitioned to a comprehensive hospital named Prayag Hospital and Research Centre Private Limited, strengthening its capacity for advanced care.</p>
+                            <p>Transitioned to a comprehensive hospital named Prayag Hospital and Research Centre
+                                Private Limited, strengthening its capacity for advanced care.</p>
                         </div>
                     </div>
                     <!-- Item 4 -->
@@ -211,7 +240,8 @@
                         <div class="timeline-content">
                             <span class="year-badge">Subsequent</span>
                             <h4>Greater Noida Branch</h4>
-                            <p>Established another facility in Delta III, Greater Noida, extending quality healthcare reach across the NCR region.</p>
+                            <p>Established another facility in Delta III, Greater Noida, extending quality healthcare
+                                reach across the NCR region.</p>
                         </div>
                     </div>
                     <!-- Item 5 -->
@@ -219,7 +249,8 @@
                         <div class="timeline-content">
                             <span class="year-badge">Present Day</span>
                             <h4>Accredited Excellence</h4>
-                            <p>Now a 120-bedded NABH and NABL accredited institution with state-of-the-art facilities across all major medical specialities.</p>
+                            <p>Now a 120-bedded NABH and NABL accredited institution with state-of-the-art facilities
+                                across all major medical specialities.</p>
                         </div>
                     </div>
                 </div>
