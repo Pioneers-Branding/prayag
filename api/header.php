@@ -1,6 +1,6 @@
 <!-- Top Navigation Bar (Green Background) -->
 <div class="top-nav-bar d-none d-lg-block">
-    <div class="container-fluid">
+    <div class="container">
         <nav class="nav-row-first">
             <ul class="nav-menu">
                 <!-- <li class="nav-item dropdown">
