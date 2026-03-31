@@ -387,7 +387,8 @@
                     </li>                     -->
 
                 <!-- CTA Buttons -->
-                <li><a href="#appointment" class="btn btn-appointment w-100 mt-3 mob-cta-btn">Book Appointment</a></li>
+                <li><a href="book-appointment.php" class="btn btn-appointment w-100 mt-3 mob-cta-btn">Book
+                        Appointment</a></li>
             </ul>
         </div>
     </div>
@@ -396,7 +397,7 @@
 <!-- MOBILE BOTTOM NAVIGATION BAR -->
 <div class="mobile-bottom-nav d-lg-none">
     <div class="bottom-nav-item">
-        <a href="#find-doctor">
+        <a href="find-doctor.php">
             <div class="nav-icon">
                 <i class="fas fa-user-md"></i>
             </div>
@@ -404,7 +405,7 @@
         </a>
     </div>
     <div class="bottom-nav-item">
-        <a href="#appointment">
+        <a href="book-appointment.php">
             <div class="nav-icon">
                 <i class="fas fa-calendar-alt"></i>
             </div>
@@ -420,15 +421,7 @@
         </a>
     </div>
     <div class="bottom-nav-item">
-        <a href="international-patients.php">
-            <div class="nav-icon">
-                <i class="fas fa-globe"></i>
-            </div>
-            <span class="nav-label">International</span>
-        </a>
-    </div>
-    <div class="bottom-nav-item">
-        <a href="tel:18003131414">
+        <a href="tel:01204021900">
             <div class="nav-icon emergency-icon">
                 <i class="fas fa-phone-alt"></i>
             </div>
