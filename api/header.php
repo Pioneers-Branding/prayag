@@ -40,7 +40,7 @@
 
 <!-- MAIN HEADER (Logo and Second Row Navigation) -->
 <header class="main-header">
-    <div class="container-fluid">
+    <div class="container">
         <div class="header-wrapper">
             <!-- Logo Section -->
             <div class="logo-section d-flex align-items-center gap-3">
