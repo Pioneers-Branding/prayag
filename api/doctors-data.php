@@ -346,7 +346,7 @@ $doctors = [
     [
         'id' => 'dr-saurabh-bhagat',
         'name' => 'Dr. Saurabh Bhagat',
-        'specialty' => 'Consultant Radiologist',
+        'specialty' => 'Consultant',
         'department' => 'Radiology',
         'specialty_code' => 'radiology',
         'experience' => 13,
