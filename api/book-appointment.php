@@ -123,33 +123,51 @@
             box-shadow: 0 10px 20px rgba(232, 150, 79, 0.3);
         }
 
-        .contact-item {
+        .appointment-form-right .contact-item {
             display: flex;
             align-items: center;
-            margin-bottom: 30px;
+            justify-content: flex-start;
+            margin-bottom: 20px;
             background: rgba(255, 255, 255, 0.08);
             padding: 15px;
             border-radius: 15px;
             transition: transform 0.3s ease;
+            text-align: left;
+            gap: 15px;
+            border-bottom: none;
+            padding-bottom: 15px;
         }
 
-        .contact-item:hover {
+        .appointment-form-right .contact-item:hover {
             transform: translateX(10px);
             background: rgba(255, 255, 255, 0.12);
         }
 
-        .contact-icon {
+        .appointment-form-right .contact-icon {
             width: 50px;
             height: 50px;
+            min-width: 50px;
             background: var(--prayag-orange);
             border-radius: 12px;
             display: flex;
             align-items: center;
             justify-content: center;
-            margin-right: 20px;
             font-size: 1.3rem;
             flex-shrink: 0;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .appointment-form-right .contact-item i {
+            width: auto;
+            height: auto;
+            background: none;
+            border-radius: 0;
+            color: #fff;
+            font-size: 1.3rem;
+        }
+
+        .appointment-form-right .contact-info {
+            text-align: left;
         }
 
         .contact-info h4 {

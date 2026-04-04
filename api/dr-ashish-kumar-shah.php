@@ -213,13 +213,6 @@ if (!$doctor) {
                         <div class="contact-info-card" id="contact">
                             <h3>Contact Information</h3>
                             <div class="contact-item">
-                                <i class="fas fa-map-marker-alt"></i>
-                                <div>
-                                    <strong>Location</strong>
-                                    <p>Prayag Hospital<br><?php echo $doctor['department']; ?> Wing</p>
-                                </div>
-                            </div>
-                                                        <div class="contact-item">
                                 <i class="fas fa-phone"></i>
                                 <div>
                                     <strong>Phone</strong>
@@ -231,6 +224,13 @@ if (!$doctor) {
                                 <div>
                                     <strong>Fax</strong>
                                     <p>91 - 120 - 2574091</p>
+                                </div>
+                            </div>
+                            <div class="contact-item">
+                                <i class="fas fa-envelope"></i>
+                                <div>
+                                    <strong>Email</strong>
+                                    <p><a href="mailto:info@prayaghospital.in">info@prayaghospital.in</a></p>
                                 </div>
                             </div>
                         </div>
