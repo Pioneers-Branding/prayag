@@ -1,6 +1,19 @@
 <?php
 $doctors = [
     [
+        'id' => 'dr-b-p-singh',
+        'name' => 'Dr. B. P. Singh',
+        'specialty' => 'Founder & Senior Consultant',
+        'department' => 'Orthopedics & ENT',
+        'specialty_code' => 'orthopedics',
+        'experience' => 35,
+        'gender' => 'male',
+        'availability' => 'today',
+        'availability_text' => 'Available Today',
+        'image' => '../assets/images/doctors/dr-b-p-singh.png',
+        'image_small' => '../assets/images/doctors/dr-b-p-singh.png',
+    ],
+    [
         'id' => 'dr-aditi-wadhwa',
         'name' => 'Dr. Aditi Wadhwa',
         'specialty' => 'Consultant',

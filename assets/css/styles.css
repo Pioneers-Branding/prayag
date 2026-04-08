@@ -784,37 +784,31 @@ a {
 .video-hero-section {
     position: relative;
     width: 100%;
-    height: 100vh;
-    min-height: 600px;
+    height: auto;
+    min-height: auto;
     overflow: hidden;
+    background-color: #000;
 }
 
 .video-hero-container {
     position: relative;
     width: 100%;
-    height: 100%;
+    height: auto;
 }
 
 /* Video Background */
 .video-background {
-    position: absolute;
-    top: 0;
-    left: 0;
+    position: relative;
     width: 100%;
-    height: 100%;
+    height: auto;
     overflow: hidden;
+    line-height: 0;
 }
 
 .hero-video {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
+    width: 100%;
     height: auto;
-    transform: translate(-50%, -50%);
-    object-fit: cover;
+    object-fit: contain;
     z-index: 1;
 }
 
@@ -1020,10 +1014,10 @@ a {
     }
 
     /* Video Hero Responsive */
-    .video-hero-section {
+    /* .video-hero-section {
         height: 80vh;
         min-height: 500px;
-    }
+    } */
 
     .hero-main-title {
         font-size: 42px;
@@ -1068,10 +1062,10 @@ a {
     }
 
     /* Video Hero Responsive */
-    .video-hero-section {
+    /* .video-hero-section {
         height: 70vh;
         min-height: 450px;
-    }
+    } */
 
     .hero-main-title {
         font-size: 26px;

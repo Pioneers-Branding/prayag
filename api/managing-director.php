@@ -4,31 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Managing Director - Prayag Group | Prayag Hospital</title>
+    <title>Mrs. Sunita Singh - Managing Director | Prayag Hospital</title>
+    <meta name="description"
+        content="Meet Mrs. Sunita Singh, the Managing Director of Prayag Hospitals. A dedicated healthcare administrator with over 25 years of experience in hospital management.">
 
     <?php include 'header-links.php'; ?>
-    
+
     <style>
-        .md-hero-section {
-            background: linear-gradient(135deg, #1a4d3a 0%, #2e7d32 100%);
-            padding: 80px 0;
-            color: white;
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .md-hero-section::after {
-            content: '';
-            position: absolute;
-            top: 0;
-            right: 0;
-            width: 300px;
-            height: 100%;
-            background: url('../assets/images/nabh-logo.png') no-repeat center right;
-            opacity: 0.1;
-            filter: grayscale(1);
+        :root {
+            --primary-green: #4A8F73;
+            --secondary-orange: #E8964F;
         }
 
+        /* Profile Section Styles */
         .md-profile-section {
             padding: 80px 0;
             background: #fff;
@@ -36,98 +24,183 @@
 
         .md-image-card {
             position: relative;
-            border-radius: 20px;
+            border-radius: 24px;
             overflow: hidden;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
-            border: 5px solid #fff;
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.12);
+            border: 8px solid #fff;
+            background: #f8f9fa;
         }
 
         .md-image-card img {
             width: 100%;
-            transition: transform 0.5s ease;
+            display: block;
+            transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
         }
 
         .md-image-card:hover img {
-            transform: scale(1.05);
+            transform: scale(1.03);
         }
 
         .md-content {
-            padding-left: 30px;
+            padding-left: 40px;
         }
 
-        .md-title-badge {
+        @media (max-width: 991px) {
+            .md-content {
+                padding-left: 0;
+                margin-top: 40px;
+            }
+        }
+
+        .md-role-badge {
             display: inline-block;
-            padding: 6px 15px;
-            background: rgba(46, 125, 50, 0.1);
-            color: #2e7d32;
-            border-radius: 50px;
-            font-weight: 600;
-            margin-bottom: 15px;
-            font-size: 0.9rem;
+            padding: 8px 18px;
+            background: rgba(74, 143, 71, 0.08);
+            color: #4A8F73;
+            border-radius: 100px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
 
-        .md-quote-box {
-            background: #f9fbf9;
-            border-left: 5px solid #2e7d32;
-            padding: 30px;
-            margin: 30px 0;
+        .section-accent-title {
+            color: #4A8F73;
+            font-weight: 800;
             position: relative;
+            margin-bottom: 25px;
+            font-size: 2.2rem;
         }
 
-        .md-quote-box i {
-            position: absolute;
-            top: 15px;
-            left: 15px;
-            font-size: 40px;
-            color: rgba(46, 125, 50, 0.05);
+        .md-bio-text {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #4a5568;
+            margin-bottom: 25px;
+            text-align: justify;
         }
 
-        .md-vision-grid {
-            margin-top: 50px;
+        .info-grid {
+            margin-top: 40px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
         }
 
-        .vision-item {
-            padding: 30px;
-            border-radius: 15px;
-            background: #fff;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-            height: 100%;
+        .info-card {
+            background: #fcfdfc;
+            border: 1px solid #edf2ed;
+            padding: 35px;
+            border-radius: 20px;
             transition: all 0.3s ease;
-            border-bottom: 4px solid transparent;
+            height: 100%;
         }
 
-        .vision-item:hover {
+        .info-card:hover {
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.05);
             transform: translateY(-5px);
-            border-bottom-color: #e67e22;
+            border-color: #4A8F73;
         }
 
-        .vision-icon {
-            width: 60px;
-            height: 60px;
-            background: rgba(230, 126, 34, 0.1);
-            color: #e67e22;
-            border-radius: 12px;
+        .info-card h4 {
+            color: #1a4d3a;
+            font-weight: 700;
+            margin-bottom: 20px;
             display: flex;
             align-items: center;
-            justify-content: center;
-            font-size: 24px;
-            margin-bottom: 20px;
+            gap: 12px;
         }
-        
-        .achievement-list li {
-            position: relative;
-            padding-left: 30px;
-            margin-bottom: 15px;
+
+        .info-card h4 i {
+            color: #E8964F;
+            font-size: 1.2rem;
+        }
+
+        .check-list {
             list-style: none;
+            padding: 0;
+            margin: 0;
         }
-        
-        .achievement-list li::before {
+
+        .check-list li {
+            position: relative;
+            padding-left: 28px;
+            margin-bottom: 15px;
+            color: #4a5568;
+            line-height: 1.5;
+        }
+
+        .check-list li::before {
             content: "\f058";
             font-family: "Font Awesome 6 Free";
             font-weight: 900;
             position: absolute;
             left: 0;
-            color: #2e7d32;
+            top: 2px;
+            color: #4A8F73;
+        }
+
+        .vision-approach-box {
+            background: linear-gradient(135deg, #f0f7f0 0%, #ffffff 100%);
+            border-radius: 30px;
+            padding: 50px;
+            margin-top: 60px;
+            border: 1px solid rgba(74, 143, 115, 0.1);
+        }
+
+        .approach-content h3 {
+            color: #1a4d3a;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+
+        .vision-statement {
+            border-left: 4px solid #E8964F;
+            padding-left: 25px;
+            margin-top: 30px;
+        }
+
+        .vision-statement h4 {
+            color: #E8964F;
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+
+        .vision-statement p {
+            font-size: 1.2rem;
+            color: #1a4d3a;
+            font-weight: 500;
+            font-style: italic;
+        }
+
+        .experience-highlight {
+            display: inline-flex;
+            align-items: center;
+            gap: 15px;
+            background: white;
+            padding: 15px 25px;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+            margin-top: 20px;
+        }
+
+        .exp-number {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: #4A8F73;
+            line-height: 1;
+        }
+
+        .exp-text {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #718096;
+            text-transform: uppercase;
+            line-height: 1.2;
         }
     </style>
 </head>
@@ -142,7 +215,7 @@
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="#">Prayag Group</a></li>
+                    <li class="breadcrumb-item"><a href="about-us.php">Prayag Group</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Managing Director</li>
                 </ol>
             </nav>
@@ -151,92 +224,115 @@
 
     <main>
         <!-- Hero Section -->
-        <section class="md-hero-section">
-            <div class="container text-center">
-                <h1 class="display-4 fw-bold mb-3">Visionary Leadership</h1>
-                <p class="lead">Driving Excellence in Healthcare Through Innovation and Compassion</p>
+        <section class="blog-hero-section">
+            <div class="container">
+                <div class="blog-hero-content">
+                    <h1 class="blog-hero-title">Mrs. Sunita Singh</h1>
+                    <p class="text-white mt-3 lead">Leadership Driven by Compassion and Excellence</p>
+                </div>
             </div>
         </section>
 
         <!-- Profile Section -->
         <section class="md-profile-section">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-5 mb-5 mb-lg-0">
+                <div class="row">
+                    <div class="col-lg-5 mb-4">
                         <div class="md-image-card">
-                            <img src="https://www.saiwebtel.net/prayag/images/md.png" alt="Managing Director">
+                            <img src="https://www.saiwebtel.net/prayag/images/md.png"
+                                alt="Mrs. Sunita Singh - Managing Director">
+                            <div class="p-4 bg-white">
+                                <h3 class="fw-bold mb-1" style="color: #1a4d3a;">Mrs. Sunita Singh</h3>
+                                <p class="text-muted mb-0">Managing Director, Prayag Hospitals</p>
+
+                                <div class="experience-highlight">
+                                    <span class="exp-number">25+</span>
+                                    <span class="exp-text">Years of<br>Expertise</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-7">
                         <div class="md-content">
-                            <span class="md-title-badge">Managing Director's Desk</span>
-                            <h2 class="fw-bold mb-4" style="color: #1a4d3a;">Leading the Way to a Brighter Tomorrow</h2>
-                            
-                            <p class="lead mb-4">Dedicated to transforming Prayag Group into a global healthcare destination defined by clinical excellence and ethical practices.</p>
-                            
-                            <div class="md-quote-box">
-                                <i class="fas fa-quote-left"></i>
-                                <p class="mb-0 fs-5 italic">"Our goal is not just to treat patients, but to create an ecosystem where healing is holistic, accessible, and powered by the latest medical advancements. At Prayag, we believe that quality healthcare is a fundamental right."</p>
+                            <span class="md-role-badge">Managing Director's Profile</span>
+                            <h2 class="section-accent-title">Dedicated to Operational Excellence</h2>
+
+                            <div class="md-bio-text">
+                                <p>Mrs. Sunita Singh is the Managing Director of Prayag Hospitals and a highly
+                                    accomplished healthcare administrator with over 25 years of extensive experience in
+                                    hospital management and operations. With her strong leadership, dedication, and
+                                    strategic vision, she has played a crucial role in shaping the hospital into a
+                                    trusted and efficient healthcare institution.</p>
+
+                                <p>With a deep understanding of hospital administration, Mrs. Singh oversees the overall
+                                    functioning of Prayag Hospitals, ensuring smooth operations, high standards of
+                                    patient care, and organizational excellence. Her ability to efficiently manage
+                                    resources, staff, and systems has significantly contributed to the hospital's
+                                    reputation for reliability and quality service.</p>
+
+                                <p>She has been instrumental in implementing structured management systems, enhancing
+                                    patient care services, and improving operational efficiency. Her focus on
+                                    maintaining hygiene, discipline, and patient satisfaction has helped create a safe
+                                    and patient-friendly healthcare environment.</p>
+
+                                <p>Mrs. Singh works closely with the medical team to ensure that clinical excellence is
+                                    supported by strong administrative practices. Her leadership has been key in
+                                    adopting modern healthcare standards, upgrading facilities, and continuously
+                                    improving service delivery.</p>
+
+                                <p>Known for her dedication, professionalism, and compassionate approach, she ensures
+                                    that every patient receives respectful and timely care. Her commitment to excellence
+                                    and continuous improvement has earned her recognition as a dependable and effective
+                                    leader in the healthcare sector.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="info-grid">
+                            <div class="info-card">
+                                <h4><i class="fas fa-briefcase"></i> Experience & Expertise</h4>
+                                <ul class="check-list">
+                                    <li>Over 25+ years of rich experience in hospital administration and management
+                                    </li>
+                                    <li>Expertise in healthcare operations, patient services, and organizational
+                                        leadership</li>
+                                </ul>
                             </div>
 
-                            <p>With a core focus on integrating technology with traditional medical ethics, our Managing Director has been instrumental in the recent expansions of Prayag Group. Her leadership has seen the hospital achieve significant milestones, including NABH accreditation and the launch of specialized centers of excellence.</p>
-                            
-                            <div class="mt-4">
-                                <h4 class="fw-bold mb-3">Key Strategic Focus</h4>
-                                <ul class="achievement-list p-0">
-                                    <li>Integration of AI-driven diagnostics for early detection</li>
-                                    <li>Patient-centric service design across all touchpoints</li>
-                                    <li>Expanding healthcare reach to underserved communities</li>
-                                    <li>Continuous medical education and staff empowerment</li>
+                            <div class="info-card">
+                                <h4><i class="fas fa-tasks"></i> Key Responsibilities</h4>
+                                <ul class="check-list">
+                                    <li>Overall administration and management of hospital operations</li>
+                                    <li>Ensuring quality standards in patient care and services</li>
+                                    <li>Staff management, coordination, and workflow optimization</li>
+                                    <li>Enhancing patient satisfaction and service delivery</li>
+                                    <li>Strategic planning and institutional growth</li>
                                 </ul>
                             </div>
                         </div>
-                    </div>
-                </div>
 
-                <!-- Vision Items -->
-                <div class="row g-4 md-vision-grid">
-                    <div class="col-md-4">
-                        <div class="vision-item">
-                            <div class="vision-icon">
-                                <i class="fas fa-chart-line"></i>
+                        <div class="vision-approach-box">
+                            <div class="approach-content">
+                                <h3>Leadership Approach</h3>
+                                <p class="mb-0">Mrs. Sunita Singh believes in a disciplined, transparent, and
+                                    patient-centric approach to management. She emphasizes teamwork, accountability,
+                                    and continuous improvement to achieve excellence in healthcare services.</p>
                             </div>
-                            <h4>Growth & Expansion</h4>
-                            <p>Strategizing the next phase of Prayag Group's journey with a focus on reaching more cities and delivering premium care.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="vision-item">
-                            <div class="vision-icon">
-                                <i class="fas fa-microscope"></i>
+
+                            <div class="vision-statement">
+                                <h4>Her Vision</h4>
+                                <p>"To further strengthen Prayag Hospitals as a center of excellence by combining
+                                    efficient management with compassionate care, ensuring accessibility, trust, and
+                                    high-quality treatment for all."</p>
                             </div>
-                            <h4>Clinical Research</h4>
-                            <p>Fostering an environment of research and innovation to find better treatments for complex medical conditions.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="vision-item">
-                            <div class="vision-icon">
-                                <i class="fas fa-users-viewfinder"></i>
-                            </div>
-                            <h4>Community Wellness</h4>
-                            <p>Moving beyond the hospital walls to promote preventive healthcare and healthy lifestyles in the community.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <!-- Dynamic CTA -->
-        <section class="cta-section" style="background: #f8f9fa;">
-            <div class="container text-center">
-                <h3 class="fw-bold mb-4">Experience Our World-Class Care</h3>
-                <div class="d-flex justify-content-center gap-3">
-                    <a href="find-doctor.php" class="btn btn-primary-custom px-4 py-2">Consult a Specialist</a>
-                    <a href="about-us.php" class="btn btn-outline-dark px-4 py-2">About Our Group</a>
-                </div>
-            </div>
-        </section>
     </main>
 
     <?php include 'footer.php'; ?>

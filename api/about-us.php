@@ -58,7 +58,8 @@
                                         Centre</strong>, a small yet dedicated clinic in Sector 29, Noida, founded by
                                     <strong>Dr. B. P. Singh</strong>. Built on the principle of <em>Sewa Parmo
                                         Dharma</em>, meaning service is the highest duty, the institution was
-                                    established with a deep commitment to healing with integrity and compassion.</p>
+                                    established with a deep commitment to healing with integrity and compassion.
+                                </p>
 
                                 <p>Today, Prayag Hospital stands as a <strong>120 bedded hospital accredited by NABH and
                                         NABL</strong>, reflecting its commitment to clinical excellence, safety
@@ -91,9 +92,11 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5 mb-5 mb-lg-0">
                         <div class="chairman-img-wrapper">
-                            <!-- Placeholder for Chairman Image -->
-                            <img src="https://www.saiwebtel.net/prayag/images/chairmain.png"
-                                alt="Chairman - Prayag Hospital" class="chairman-img">
+                            <!-- Chairman Image linked to Profile -->
+                            <a href="dr-b-p-singh.php">
+                                <img src="../assets/images/doctors/dr-b-p-singh.png"
+                                    alt="Dr. B. P. Singh - Founder & Chairman" class="chairman-img">
+                            </a>
                         </div>
                     </div>
                     <div class="col-lg-7">
@@ -114,8 +117,12 @@
                                 Hospital as your partner in health.
                             </p>
                             <div class="chairman-signature">
-                                <h4 class="chairman-name">Dr. Bhojendra Pal Singh</h4>
+                                <h4 class="chairman-name"><a href="dr-b-p-singh.php"
+                                        style="color: inherit; text-decoration: none;">Dr. Bhojendra Pal Singh</a></h4>
                                 <p class="chairman-title">Founder & Chairman, Prayag Group</p>
+                                <div class="d-flex gap-3">
+                                    <a href="dr-b-p-singh.php" class="btn-request-callback btn-sm">View Profile</a>
+                                </div>
                             </div>
                         </div>
                     </div>

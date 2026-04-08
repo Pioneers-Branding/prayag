@@ -27,7 +27,7 @@
             <div class="video-hero-container">
                 <div class="video-background">
                     <video autoplay muted loop playsinline class="hero-video">
-                        <source src="http://brandingpioneers.co.in/prayag/lv_0_20260119114618.mp4" type="video/mp4">
+                        <source src="http://brandingpioneers.co.in/prayag/final-video.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <div class="video-overlay"></div>
@@ -119,7 +119,8 @@
                                 <!-- Speciality Card 8 -->
                                 <a href="gastroenterology.php" class="speciality-card">
                                     <div class="speciality-icon">
-                                        <img src="../assets/images/liver.webp" alt="Gastroenterology" style="width:35px">
+                                        <img src="../assets/images/liver.webp" alt="Gastroenterology"
+                                            style="width:35px">
                                     </div>
                                     <h3 class="speciality-name">Gastroenterology</h3>
                                 </a>
@@ -231,7 +232,8 @@
                                 <!-- Speciality Card 22 -->
                                 <a href="plastic-surgery.php" class="speciality-card">
                                     <div class="speciality-icon">
-                                        <img src="../assets/images/PLASTIC.webp" alt="Plastic Surgery" style="width:35px">
+                                        <img src="../assets/images/PLASTIC.webp" alt="Plastic Surgery"
+                                            style="width:35px">
                                     </div>
                                     <h3 class="speciality-name">Plastic Surgery</h3>
                                 </a>
@@ -442,37 +444,39 @@
                     </button>
 
                     <div class="doctors-grid">
-                        <?php 
+                        <?php
                         include_once 'doctors-data.php';
-                        foreach ($doctors as $doctor): 
+                        foreach ($doctors as $doctor):
                             // Skip doctors with placeholder images
                             if (strpos($doctor['image'], 'Untitled.webp') !== false) {
                                 continue;
                             }
-                        ?>
-                        <!-- Doctor Card -->
-                        <div class="doctor-card">
-                            <div class="doctor-card-inner">
-                                <div class="doctor-card-top">
-                                    <div class="doctor-image-container">
-                                        <img src="<?php echo !empty($doctor['image_small']) ? $doctor['image_small'] : $doctor['image']; ?>"
-                                            alt="<?php echo $doctor['name']; ?>" class="doctor-image">
+                            ?>
+                            <!-- Doctor Card -->
+                            <div class="doctor-card">
+                                <div class="doctor-card-inner">
+                                    <div class="doctor-card-top">
+                                        <div class="doctor-image-container">
+                                            <img src="<?php echo !empty($doctor['image_small']) ? $doctor['image_small'] : $doctor['image']; ?>"
+                                                alt="<?php echo $doctor['name']; ?>" class="doctor-image">
+                                        </div>
+                                        <div class="doctor-info">
+                                            <h3 class="doctor-name"><?php echo $doctor['name']; ?></h3>
+                                            <p class="doctor-designation"><?php echo $doctor['department']; ?></p>
+                                            <p class="doctor-experience">
+                                                <span class="experience-label">Experience:</span>
+                                                <span class="experience-value"><?php echo $doctor['experience']; ?>
+                                                    Years</span>
+                                            </p>
+                                        </div>
                                     </div>
-                                    <div class="doctor-info">
-                                        <h3 class="doctor-name"><?php echo $doctor['name']; ?></h3>
-                                        <p class="doctor-designation"><?php echo $doctor['department']; ?></p>
-                                        <p class="doctor-experience">
-                                            <span class="experience-label">Experience:</span>
-                                            <span class="experience-value"><?php echo $doctor['experience']; ?> Years</span>
-                                        </p>
+                                    <div class="doctor-actions">
+                                        <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
+                                        <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment"
+                                            class="btn-book-now">Book Apt.</a>
                                     </div>
-                                </div>
-                                <div class="doctor-actions">
-                                    <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
-                                    <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
                                 </div>
                             </div>
-                        </div>
                         <?php endforeach; ?>
                     </div>
                 </div>
@@ -510,14 +514,16 @@
                             <!-- News Item 1 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="../assets/images/press/child-care.png"
-                                        alt="Child Mental Health Support">
+                                    <img src="../assets/images/press/child-care.png" alt="Child Mental Health Support">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">World Mental Health Day: Why Early Support For Children Changes Everything</h3>
+                                    <h3 class="news-item-title">World Mental Health Day: Why Early Support For Children
+                                        Changes Everything</h3>
                                     <p class="news-date">October 10, 2025</p>
-                                    <p class="news-excerpt">NDTV explores why early intervention and support for children's mental health is a game-changer...</p>
-                                    <a href="https://www.ndtv.com/health/world-mental-health-day-2025-why-early-support-for-children-changes-everything-9423991" class="news-read-more" target="_blank">
+                                    <p class="news-excerpt">NDTV explores why early intervention and support for
+                                        children's mental health is a game-changer...</p>
+                                    <a href="https://www.ndtv.com/health/world-mental-health-day-2025-why-early-support-for-children-changes-everything-9423991"
+                                        class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
                                     </a>
                                 </div>
@@ -527,13 +533,16 @@
                             <div class="news-item">
                                 <div class="news-image">
                                     <img src="../assets/images/press/challenges-to-patient-safety-in-india-and-what-hospitals-can-do-about-it.webp"
-                                         alt="Patient Safety">
+                                        alt="Patient Safety">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">Challenges to Patient Safety in India and Actionable Solutions</h3>
+                                    <h3 class="news-item-title">Challenges to Patient Safety in India and Actionable
+                                        Solutions</h3>
                                     <p class="news-date">September 18, 2025</p>
-                                    <p class="news-excerpt">India Today analyzes the current landscape of patient safety in Indian healthcare and proposed solutions...</p>
-                                    <a href="https://www.indiatoday.in/information/story/challenges-to-patient-safety-in-india-and-what-hospitals-can-do-about-it-2789475-2025-09-18" class="news-read-more" target="_blank">
+                                    <p class="news-excerpt">India Today analyzes the current landscape of patient safety
+                                        in Indian healthcare and proposed solutions...</p>
+                                    <a href="https://www.indiatoday.in/information/story/challenges-to-patient-safety-in-india-and-what-hospitals-can-do-about-it-2789475-2025-09-18"
+                                        class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
                                     </a>
                                 </div>
@@ -543,13 +552,15 @@
                             <div class="news-item">
                                 <div class="news-image">
                                     <img src="../assets/images/press/The-Power-of-Small-Things-in-Suicide-Prevention.webp"
-                                         alt="Suicide Prevention Support">
+                                        alt="Suicide Prevention Support">
                                 </div>
                                 <div class="news-content">
                                     <h3 class="news-item-title">The Power of Small Things in Suicide Prevention</h3>
                                     <p class="news-date">September 10, 2025</p>
-                                    <p class="news-excerpt">Happiest Health highlights how small gestures and everyday actions can play a massive role...</p>
-                                    <a href="https://www.happiesthealth.com/articles/mental-health/the-power-of-small-things-in-suicide-prevention" class="news-read-more" target="_blank">
+                                    <p class="news-excerpt">Happiest Health highlights how small gestures and everyday
+                                        actions can play a massive role...</p>
+                                    <a href="https://www.happiesthealth.com/articles/mental-health/the-power-of-small-things-in-suicide-prevention"
+                                        class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
                                     </a>
                                 </div>
@@ -558,14 +569,16 @@
                             <!-- News Item 6 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="../assets/images/press/mental-support.png"
-                                         alt="Mental Stress Awareness">
+                                    <img src="../assets/images/press/mental-support.png" alt="Mental Stress Awareness">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">Breaking the Stigma Around Mental Stress and Suicidal Thoughts</h3>
+                                    <h3 class="news-item-title">Breaking the Stigma Around Mental Stress and Suicidal
+                                        Thoughts</h3>
                                     <p class="news-date">September 09, 2025</p>
-                                    <p class="news-excerpt">OnlyMyHealth provides insights on the importance of open communication in mitigating mental stress...</p>
-                                    <a href="https://www.onlymyhealth.com/world-suicide-prevention-day-how-talking-about-mental-stress-can-stop-suicidal-thoughts-12977838153" class="news-read-more" target="_blank">
+                                    <p class="news-excerpt">OnlyMyHealth provides insights on the importance of open
+                                        communication in mitigating mental stress...</p>
+                                    <a href="https://www.onlymyhealth.com/world-suicide-prevention-day-how-talking-about-mental-stress-can-stop-suicidal-thoughts-12977838153"
+                                        class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
                                     </a>
                                 </div>
@@ -575,13 +588,15 @@
                             <div class="news-item">
                                 <div class="news-image">
                                     <img src="../assets/images/press/The-Burnout-of-Being-Emotionally-Intelligent.webp"
-                                         alt="Burnout Awareness">
+                                        alt="Burnout Awareness">
                                 </div>
                                 <div class="news-content">
                                     <h3 class="news-item-title">The Burnout of Being Emotionally Intelligent</h3>
                                     <p class="news-date">July 22, 2025</p>
-                                    <p class="news-excerpt">News18 discusses the emotional toll and potential burnout associated with high levels of EQ...</p>
-                                    <a href="https://www.news18.com/lifestyle/health-and-fitness/the-burnout-of-being-emotionally-intelligent-9456509.html" class="news-read-more" target="_blank">
+                                    <p class="news-excerpt">News18 discusses the emotional toll and potential burnout
+                                        associated with high levels of EQ...</p>
+                                    <a href="https://www.news18.com/lifestyle/health-and-fitness/the-burnout-of-being-emotionally-intelligent-9456509.html"
+                                        class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
                                     </a>
                                 </div>
@@ -892,7 +907,7 @@
                 </div>
             </div>
         </section>
-     
+
         <?php include 'footer.php'; ?>
 
     </main>
