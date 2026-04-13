@@ -8,6 +8,104 @@
 
     <?php include 'header-links.php'; ?>
 
+    <style>
+        /* Managing Director Section Styles */
+        .md-section {
+            padding: 80px 0;
+            background-color: #ffffff;
+        }
+
+        .md-img-wrapper {
+            position: relative;
+            padding: 20px;
+        }
+
+        .md-img-wrapper::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 100px;
+            height: 100px;
+            border-top: 5px solid var(--prayag-orange);
+            border-right: 5px solid var(--prayag-orange);
+            z-index: 1;
+        }
+
+        .md-img-wrapper::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100px;
+            height: 100px;
+            border-bottom: 5px solid var(--prayag-teal);
+            border-left: 5px solid var(--prayag-teal);
+            z-index: 1;
+        }
+
+        .md-img {
+            width: 100%;
+            border-radius: 10px;
+            position: relative;
+            z-index: 2;
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .md-img-wrapper:hover .md-img {
+            transform: scale(1.02);
+        }
+
+        .md-content h3 {
+            color: var(--prayag-teal);
+            font-size: 16px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+        }
+
+        .md-content h2 {
+            font-size: 26px;
+            font-weight: 700;
+            margin-bottom: 30px;
+            color: var(--dark-text);
+        }
+
+        .md-quote {
+            font-size: 18px;
+            font-style: italic;
+            color: #555;
+            border-left: 4px solid var(--prayag-orange);
+            padding-left: 20px;
+            margin-bottom: 25px;
+            line-height: 1.8;
+        }
+
+        .md-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--prayag-teal);
+            margin-bottom: 5px;
+        }
+
+        .md-title {
+            color: #777;
+            font-size: 16px;
+        }
+
+        @media (max-width: 991px) {
+            .md-section {
+                padding: 40px 0;
+            }
+
+            .md-content {
+                padding-top: 40px;
+            }
+        }
+    </style>
+
 </head>
 
 <body>
@@ -130,8 +228,49 @@
             </div>
         </section>
 
+        <!-- Managing Director Section -->
+        <section class="md-section">
+            <div class="container">
+                <div class="row align-items-center flex-row-reverse">
+                    <div class="col-lg-5 mb-5 mb-lg-0">
+                        <div class="md-img-wrapper">
+                            <!-- Managing Director Image linked to Profile -->
+                            <a href="mrs-sunita-singh.php">
+                                <img src="https://www.saiwebtel.net/prayag/images/md.png"
+                                    alt="Mrs. Sunita Singh - Managing Director" class="md-img">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="md-content pe-lg-5">
+                            <h3>Executive Leadership</h3>
+                            <h2>Message from the Managing Director</h2>
+                            <blockquote class="md-quote">
+                                "Our mission is to achieve professional excellence in delivering quality care to every
+                                section of society at an affordable cost. We are committed to treating every patient
+                                with integrity and ethical responsibility."
+                            </blockquote>
+                            <p style="color: var(--light-text); margin-bottom: 30px;">
+                                Mrs. Sunita Singh oversees the overall functioning of Prayag Hospitals, ensuring smooth
+                                operations and high standards of patient care. Her leadership has been key in adopting
+                                modern healthcare standards and continuously improving service delivery.
+                            </p>
+                            <div class="md-signature">
+                                <h4 class="md-name"><a href="mrs-sunita-singh.php"
+                                        style="color: inherit; text-decoration: none;">Mrs. Sunita Singh</a></h4>
+                                <p class="md-title">Managing Director, Prayag Group</p>
+                                <div class="d-flex gap-3">
+                                    <a href="mrs-sunita-singh.php" class="btn-request-callback btn-sm">View Profile</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- Vision & Mission Section -->
-        <section class="mission-vision-section">
+        <section class="mission-vision-section" style="background-color: #F8F9FA;">
             <div class="container">
                 <div class="row g-4">
                     <div class="col-md-6">
