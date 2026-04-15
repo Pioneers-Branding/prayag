@@ -289,78 +289,72 @@
                     <!-- Stat Card 1 -->
                     <div class="why-choose-card-static">
                         <div class="stat-icon-static">
-                            <i class="fas fa-hospital"></i>
+                            <i class="fas fa-user-md"></i>
                         </div>
                         <div class="stat-content">
-                            <h3 class="stat-number-static">74</h3>
-                            <h4 class="stat-label-static">Hospitals</h4>
-                            <p class="stat-description-static">India's Largest Private Hospital Network, Delivering
-                                Exceptional Healthcare.</p>
+                            <h3 class="stat-number-static">100+</h3>
+                            <h4 class="stat-label-static">Doctors</h4>
+                            <p class="stat-description-static">Leading Medical Experts Providing Exceptional Care.</p>
                         </div>
                     </div>
 
                     <!-- Stat Card 2 -->
                     <div class="why-choose-card-static">
                         <div class="stat-icon-static">
-                            <i class="fas fa-user-md"></i>
+                            <i class="fas fa-users"></i>
                         </div>
                         <div class="stat-content">
-                            <h3 class="stat-number-static">13,000+</h3>
-                            <h4 class="stat-label-static">Doctors</h4>
-                            <p class="stat-description-static">Leading Medical Experts Providing Exceptional Care Across
-                                India.</p>
+                            <h3 class="stat-number-static">200K+</h3>
+                            <h4 class="stat-label-static">Patients Treated</h4>
+                            <p class="stat-description-static">Trusted by thousands of patients for world-class healthcare.</p>
                         </div>
                     </div>
 
                     <!-- Stat Card 3 -->
                     <div class="why-choose-card-static">
                         <div class="stat-icon-static">
-                            <i class="fas fa-heartbeat"></i>
+                            <i class="fas fa-award"></i>
                         </div>
                         <div class="stat-content">
-                            <h3 class="stat-number-static">2,300+</h3>
-                            <h4 class="stat-label-static">Diagnostic Centers</h4>
-                            <p class="stat-description-static">Precision Diagnostics Accessible Across India.</p>
+                            <h3 class="stat-number-static">25+</h3>
+                            <h4 class="stat-label-static">Years of Experience</h4>
+                            <p class="stat-description-static">Over two decades of delivering excellence in medical care.</p>
                         </div>
                     </div>
 
                     <!-- Stat Card 4 -->
                     <div class="why-choose-card-static">
                         <div class="stat-icon-static">
-                            <i class="fas fa-clinic-medical"></i>
+                            <i class="fas fa-user-nurse"></i>
                         </div>
                         <div class="stat-content">
-                            <h3 class="stat-number-static">700+</h3>
-                            <h4 class="stat-label-static">Clinics</h4>
-                            <p class="stat-description-static">Largest Clinic Network in India, Bringing Quality Care
-                                Closer
-                                to You.</p>
+                            <h3 class="stat-number-static">500+</h3>
+                            <h4 class="stat-label-static">Paramedical Staff</h4>
+                            <p class="stat-description-static">Dedicated professionals ensuring your well-being.</p>
                         </div>
                     </div>
 
                     <!-- Stat Card 5 -->
                     <div class="why-choose-card-static">
                         <div class="stat-icon-static">
-                            <i class="fas fa-map-marker-alt"></i>
+                            <i class="fas fa-phone-alt"></i>
                         </div>
                         <div class="stat-content">
-                            <h3 class="stat-number-static">10,000+</h3>
-                            <h4 class="stat-label-static">Pincodes</h4>
-                            <p class="stat-description-static">Expanding Healthcare Services Across India's Pin Codes.
-                            </p>
+                            <h3 class="stat-number-static">100+</h3>
+                            <h4 class="stat-label-static">Helplines</h4>
+                            <p class="stat-description-static">Always available to assist you with your healthcare needs.</p>
                         </div>
                     </div>
 
                     <!-- Stat Card 6 -->
                     <div class="why-choose-card-static">
                         <div class="stat-icon-static">
-                            <i class="fas fa-pills"></i>
+                            <i class="fas fa-ambulance"></i>
                         </div>
                         <div class="stat-content">
-                            <h3 class="stat-number-static">7000+</h3>
-                            <h4 class="stat-label-static">Pharmacies</h4>
-                            <p class="stat-description-static">Ensuring Seamless Access to Medicines Across the Nation.
-                            </p>
+                            <h3 class="stat-number-static">24*7</h3>
+                            <h4 class="stat-label-static">Emergency</h4>
+                            <p class="stat-description-static">Round-the-clock rapid response emergency care.</p>
                         </div>
                     </div>
                 </div>
