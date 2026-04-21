@@ -182,32 +182,9 @@ if (!$doctor) {
                         <!-- Quick Appointment Form -->
                         <div class="appointment-sidebar-card" id="book-appointment">
                             <h3>Book an Appointment with <?php echo $doctor['name']; ?></h3>
-                            <form class="appointment-quick-form">
-                                <div class="form-group">
-                                    <label>Your Name</label>
-                                    <input type="text" class="form-control" placeholder="Enter your name" required>
-                                </div>
-                                <div class="form-group">
-                                    <label>Phone Number</label>
-                                    <input type="tel" class="form-control" placeholder="Enter phone number" required>
-                                </div>
-                                <div class="form-group">
-                                    <label>Email Address</label>
-                                    <input type="email" class="form-control" placeholder="Enter email" required>
-                                </div>
-                                <div class="form-group">
-                                    <label>Preferred Date</label>
-                                    <input type="date" class="form-control" required>
-                                </div>
-                                <div class="form-group">
-                                    <label>Message (Optional)</label>
-                                    <textarea class="form-control" rows="3"
-                                        placeholder="Any specific concerns?"></textarea>
-                                </div>
-                                <button type="submit" class="btn btn-primary-prayag w-100">
-                                    <i class="fas fa-calendar-check"></i> Request Appointment
-                                </button>
-                            </form>
+                            <script defer data-active data-widget-type="group"
+                            data-person="5856289c-a991-42eb-b6e6-693a17e44e83" src="https://app.wacrs.com/install-widget/bundle.js?key=2f53d451-0b4f-4dfe-8cc3-503855eaf135"></script>
+                        <div data-active id="whatapp-people-widget-5856289c-a991-42eb-b6e6-693a17e44e83"></div>
                         </div>
 
                         <!-- Contact Info Card -->

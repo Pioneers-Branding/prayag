@@ -412,14 +412,7 @@
             <span class="nav-label">Appointment</span>
         </a>
     </div>
-    <div class="bottom-nav-item">
-        <a href="#lab-report">
-            <div class="nav-icon">
-                <i class="fas fa-file-medical"></i>
-            </div>
-            <span class="nav-label">Lab Report</span>
-        </a>
-    </div>
+
     <div class="bottom-nav-item">
         <a href="tel:01204021900">
             <div class="nav-icon emergency-icon">

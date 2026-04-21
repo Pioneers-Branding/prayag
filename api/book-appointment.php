@@ -219,6 +219,7 @@
                 order: -1;
                 padding: 40px;
             }
+
             .appointment-form-left {
                 padding: 40px 20px;
             }
@@ -230,6 +231,13 @@
 
     <?php include 'header.php'; ?>
 
+    <style>
+        .chatwith-big-person .singleperson {
+            max-width: fit-content !important;
+            padding: 0px !important;
+        }
+    </style>
+
     <div class="appointment-page-wrapper">
         <div class="container appointment-container">
             <div class="appointment-form-card">
@@ -237,70 +245,22 @@
                 <div class="appointment-form-left">
                     <div class="form-section-head">
                         <h2 class="form-section-title">Book an Appointment</h2>
-                        <p class="form-section-subtitle">Take the first step towards better health. Fill out the form below to request a consultation with our expert doctors.</p>
+                        <p class="form-section-subtitle">Take the first step towards better health. Fill out the form
+                            below to request a consultation with our expert doctors.</p>
                     </div>
-                    
-                    <form action="#" method="POST">
-                        <div class="row">
-                            <div class="col-md-6 form-group">
-                                <label class="form-label">Full Name</label>
-                                <input type="text" class="form-control-custom" placeholder="Enter patient's full name" required>
-                            </div>
-                            <div class="col-md-6 form-group">
-                                <label class="form-label">Mobile Number</label>
-                                <input type="tel" class="form-control-custom" placeholder="+91 00000 00000" required>
-                            </div>
-                        </div>
-                        
-                        <div class="row">
-                            <div class="col-md-6 form-group">
-                                <label class="form-label">Select Speciality</label>
-                                <select class="form-control-custom" required>
-                                    <option value="" disabled selected>Choose a department</option>
-                                    <option>Cardiac Sciences</option>
-                                    <option>Neurosciences</option>
-                                    <option>Orthopaedics</option>
-                                    <option>Obstetrics & Gynaecology</option>
-                                    <option>Oncology</option>
-                                    <option>Gastroenterology</option>
-                                    <option>Urology</option>
-                                    <option>Others</option>
-                                </select>
-                            </div>
-                            <div class="col-md-6 form-group">
-                                <label class="form-label">Preferred Date</label>
-                                <input type="date" class="form-control-custom" required>
-                            </div>
-                        </div>
 
-                        <div class="form-group">
-                            <label class="form-label">Preferred Hospital Branch</label>
-                            <div class="branch-selector">
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="branch" id="noida" checked>
-                                    <label class="form-check-label" for="noida"> Noida Sector 41</label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="branch" id="grnoida">
-                                    <label class="form-check-label" for="grnoida"> Greater Noida</label>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="form-group">
-                            <label class="form-label">Patient Message (Optional)</label>
-                            <textarea class="form-control-custom" rows="3" placeholder="Tell us about your symptoms or medical history"></textarea>
-                        </div>
-
-                        <button type="submit" class="btn-submit-appointment">Confirm Booking Request</button>
-                    </form>
+                    <script defer data-active data-widget-type="group"
+                        data-person="05a84b7b-b505-4088-947f-7d6fcb3969bf"
+                        src="https://app.wacrs.com/install-widget/bundle.js?key=2f53d451-0b4f-4dfe-8cc3-503855eaf135"></script>
+                    <div data-active id="whatapp-people-widget-05a84b7b-b505-4088-947f-7d6fcb3969bf"></div>
                 </div>
-                
+
                 <!-- Right Column: Info Sidebar -->
                 <div class="appointment-form-right">
                     <h3 class="emergency-sidebar-title">Need Urgent Assistance?</h3>
-                    <p class="mb-5" style="opacity: 0.9; font-size: 1.05rem;">Our support team is available 24/7 to assist you with emergency bookings and hospital services.</p>
-                    
+                    <p class="mb-5" style="opacity: 0.9; font-size: 1.05rem;">Our support team is available 24/7 to
+                        assist you with emergency bookings and hospital services.</p>
+
                     <div class="contact-item">
                         <div class="contact-icon"><i class="fas fa-phone-alt"></i></div>
                         <div class="contact-info">
@@ -308,7 +268,7 @@
                             <p><a href="tel:01204021900">0120 - 4021900</a></p>
                         </div>
                     </div>
-                    
+
                     <div class="contact-item">
                         <div class="contact-icon"><i class="fas fa-ambulance"></i></div>
                         <div class="contact-info">
@@ -316,17 +276,13 @@
                             <p><a href="tel:01204021914">0120 - 4021914</a></p>
                         </div>
                     </div>
-                    
+
                     <div class="contact-item">
                         <div class="contact-icon"><i class="fas fa-envelope"></i></div>
                         <div class="contact-info">
                             <h4>Official Email</h4>
                             <p><a href="mailto:info@prayaghospital.in">info@prayaghospital.in</a></p>
                         </div>
-                    </div>
-
-                    <div class="mt-4 pt-4 border-top border-light" style="opacity: 0.8; font-size: 0.9rem;">
-                        <p><i class="fas fa-info-circle me-2"></i> After submitting the form, our coordinator will call you within 30 minutes to confirm your appointment time.</p>
                     </div>
                 </div>
             </div>
