@@ -82,7 +82,7 @@
                     <div class="col-lg-5 col-md-12">
                         <div class="hero-image-wrapper">
                             <div class="hero-image-container">
-                                <img src="../assets/images/Oncology-thumb.webp"
+                                <img src="../assets/images/oncology-thumb.webp"
                                     alt="Cancer Care at Prayag Hospital" class="hero-image">
                             </div>
                         </div>
