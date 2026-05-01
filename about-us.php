@@ -104,6 +104,102 @@
                 padding-top: 40px;
             }
         }
+
+        /* CEO Section Styles */
+        .ceo-section {
+            padding: 80px 0;
+            background-color: #f8f9fa;
+        }
+
+        .ceo-img-wrapper {
+            position: relative;
+            padding: 20px;
+        }
+
+        .ceo-img-wrapper::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100px;
+            height: 100px;
+            border-top: 5px solid var(--prayag-orange);
+            border-left: 5px solid var(--prayag-orange);
+            z-index: 1;
+        }
+
+        .ceo-img-wrapper::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 100px;
+            height: 100px;
+            border-bottom: 5px solid var(--prayag-teal);
+            border-right: 5px solid var(--prayag-teal);
+            z-index: 1;
+        }
+
+        .ceo-img {
+            width: 100%;
+            border-radius: 10px;
+            position: relative;
+            z-index: 2;
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .ceo-img-wrapper:hover .ceo-img {
+            transform: scale(1.02);
+        }
+
+        .ceo-content h3 {
+            color: var(--prayag-teal);
+            font-size: 16px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+        }
+
+        .ceo-content h2 {
+            font-size: 26px;
+            font-weight: 700;
+            margin-bottom: 30px;
+            color: var(--dark-text);
+        }
+
+        .ceo-quote {
+            font-size: 18px;
+            font-style: italic;
+            color: #555;
+            border-left: 4px solid var(--prayag-orange);
+            padding-left: 20px;
+            margin-bottom: 25px;
+            line-height: 1.8;
+        }
+
+        .ceo-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--prayag-teal);
+            margin-bottom: 5px;
+        }
+
+        .ceo-title {
+            color: #777;
+            font-size: 16px;
+        }
+
+        @media (max-width: 991px) {
+            .ceo-section {
+                padding: 40px 0;
+            }
+
+            .ceo-content {
+                padding-top: 40px;
+            }
+        }
     </style>
 
 </head>
@@ -192,7 +288,7 @@
                         <div class="chairman-img-wrapper">
                             <!-- Chairman Image linked to Profile -->
                             <a href="dr-b-p-singh.php">
-                                <img src="assets/images/doctors/dr-b-p-singh.png"
+                                <img src="assets/images/Bhojendra-Pal-Singh.webp"
                                     alt="Dr. B. P. Singh - Founder & Chairman" class="chairman-img">
                             </a>
                         </div>
@@ -236,8 +332,8 @@
                         <div class="md-img-wrapper">
                             <!-- Managing Director Image linked to Profile -->
                             <a href="mrs-sunita-singh.php">
-                                <img src="https://www.saiwebtel.net/prayag/images/md.png"
-                                    alt="Mrs. Sunita Singh - Managing Director" class="md-img">
+                                <img src="assets/images/Sunita-Singh.webp" alt="Mrs. Sunita Singh - Managing Director"
+                                    class="md-img">
                             </a>
                         </div>
                     </div>
@@ -269,8 +365,60 @@
             </div>
         </section>
 
+        <!-- CEO Section -->
+        <section class="ceo-section">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-5 mb-5 mb-lg-0">
+                        <div class="ceo-img-wrapper">
+                            <!-- CEO Image -->
+                            <img src="assets/images/pritika-singh.webp" alt="Pritika Singh - CEO" class="ceo-img">
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="ceo-content ps-lg-5">
+                            <h3>Executive Leadership</h3>
+                            <h2>Message from the CEO</h2>
+                            <blockquote class="ceo-quote">
+                                "Our vision is to deliver high-quality, patient-centric healthcare services backed by
+                                innovation and operational excellence."
+                            </blockquote>
+                            <p style="color: var(--light-text); margin-bottom: 15px;">
+                                Pritika Singh is the dynamic Chief Executive Officer of Prayag Hospitals, where she
+                                leads with a vision to deliver high-quality, patient-centric healthcare services backed
+                                by innovation and operational excellence. With a strong focus on modern healthcare
+                                management, she has been instrumental in strengthening the hospital’s clinical
+                                capabilities, expanding service lines, and enhancing patient experience.
+                            </p>
+                            <p style="color: var(--light-text); margin-bottom: 15px;">
+                                Under her leadership, Prayag Hospitals has grown into a trusted healthcare destination
+                                in Noida, known for its advanced diagnostics, skilled medical professionals, and ethical
+                                practices. Pritika emphasizes the integration of technology with healthcare, ensuring
+                                seamless patient journeys—from consultation to diagnosis and treatment.
+                            </p>
+                            <p style="color: var(--light-text); margin-bottom: 15px;">
+                                She is deeply committed to building a healthcare ecosystem that prioritizes
+                                accessibility, affordability, and quality. Her strategic approach includes continuous
+                                investment in infrastructure, adoption of digital healthcare solutions, and fostering a
+                                culture of excellence among medical and administrative teams.
+                            </p>
+                            <p style="color: var(--light-text); margin-bottom: 30px;">
+                                Pritika Singh also actively drives community health initiatives, preventive care
+                                programs, and awareness campaigns, reinforcing the hospital’s role beyond
+                                treatment—towards holistic well-being.
+                            </p>
+                            <div class="ceo-signature">
+                                <h4 class="ceo-name">Pritika Singh</h4>
+                                <p class="ceo-title">Chief Executive Officer (CEO), Prayag Hospitals</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- Vision & Mission Section -->
-        <section class="mission-vision-section" style="background-color: #F8F9FA;">
+        <section class="mission-vision-section" style="background-color: #ffffff;">
             <div class="container">
                 <div class="row g-4">
                     <div class="col-md-6">
