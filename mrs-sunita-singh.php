@@ -239,8 +239,7 @@
                 <div class="row">
                     <div class="col-lg-5 mb-4">
                         <div class="md-image-card">
-                            <img src="https://www.saiwebtel.net/prayag/images/md.png"
-                                alt="Mrs. Sunita Singh - Managing Director">
+                            <img src="assets/images/Sunita-Singh.webp" alt="Mrs. Sunita Singh - Managing Director">
                             <div class="p-4 bg-white">
                                 <h3 class="fw-bold mb-1" style="color: #1a4d3a;">Mrs. Sunita Singh</h3>
                                 <p class="text-muted mb-0">Managing Director, Prayag Hospitals</p>

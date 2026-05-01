@@ -1,28 +1,3 @@
-<?php
-/**
- * FOUNDER PROFILE PAGE - DR. Bhojendra Pal SINGH
- */
-
-// Set the doctor ID
-$doctor_id = 'dr-b-p-singh';
-
-// Load doctor data
-include 'doctors-data.php';
-
-$doctor = null;
-foreach ($doctors as $d) {
-    if ($d['id'] === $doctor_id) {
-        $doctor = $d;
-        break;
-    }
-}
-
-// Redirect if doctor not found
-if (!$doctor) {
-    header("Location: find-doctor.php");
-    exit();
-}
-?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -300,7 +275,7 @@ if (!$doctor) {
             <div class="row align-items-center">
                 <div class="col-lg-5 order-lg-2 mb-5 mb-lg-0">
                     <div class="text-center">
-                        <img src="assets/images/doctors/dr-b-p-singh.png" alt="Dr. Bhojendra Pal Singh"
+                        <img src="assets/images/Bhojendra-Pal-Singh.webp" alt="Dr. Bhojendra Pal Singh"
                             class="founder-profile-img">
                     </div>
                 </div>

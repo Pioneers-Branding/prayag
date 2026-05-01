@@ -114,6 +114,8 @@
         .ceo-img-wrapper {
             position: relative;
             padding: 20px;
+            max-width: 380px;
+            margin: 0 auto;
         }
 
         .ceo-img-wrapper::before {
