@@ -521,7 +521,7 @@
         <div class="container py-5">
             <div class="row align-items-center">
                 <div class="col-lg-6 mb-5 mb-lg-0">
-                    <img src="assets/images/doctors/dr-b-p-singh.png" alt="Dr. Bhojendra Pal Singh"
+                    <img src="assets/images/Bhojendra-Pal-Singh.webp" alt="Dr. Bhojendra Pal Singh"
                         class="img-fluid rounded-5 shadow-lg">
                 </div>
                 <div class="col-lg-6 ps-lg-5">
