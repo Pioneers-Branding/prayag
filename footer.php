@@ -102,7 +102,7 @@
                         <li><a href="about-us.php">About Us</a></li>
                         <li><a href="infrastructure.php">Infrastructure</a></li>
                         <li><a href="our-hospitals.php">Our Network</a></li>
-                        <li><a href="media-coverage.php">Media Coverage</a></li>
+                        <!-- <li><a href="media-coverage.php">Media Coverage</a></li> -->
                         <li><a href="events.php">Events</a></li>
                         <li><a href="tpa-insurance.php">TPA & Insurance</a></li>
                         <li><a href="careers.php">Careers</a></li>
@@ -143,7 +143,17 @@
                             </li>
                             <li>
                                 <i class="fas fa-envelope"></i>
-                                <span><a href="mailto:info@prayaghospital.in">info@prayaghospital.in</a></span>
+                                <span><a href="mailto:crm@prayaghospital.in">crm@prayaghospital.in</a>
+                                    (Recaption)</span>
+                            </li>
+                            <li>
+                                <i class="fas fa-envelope"></i>
+                                <span><a href="mailto:tpa@prayaghospital.in">tpa@prayaghospital.in</a> (Billing)</span>
+                            </li>
+                            <li>
+                                <i class="fas fa-envelope"></i>
+                                <span><a href="mailto:marketing@prayaghospital.in">marketing@prayaghospital.in</a>
+                                    (Marketing)</span>
                             </li>
                         </ul>
 

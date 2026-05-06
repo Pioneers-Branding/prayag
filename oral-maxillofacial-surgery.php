@@ -106,9 +106,6 @@
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
                 <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -498,77 +495,6 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Patient Stories</h2>
-                <p class="section-subtitle-gray">
-                    Hear from patients who underwent successful surgeries.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Wisdom+Tooth"
-                                    alt="Testimonial">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I had my wisdom teeth removed here. The procedure was painless and recovery was so fast. Highly recommend!"</p>
-                                <h4 class="testimonial-name">Amit Verma</h4>
-                                <p class="testimonial-procedure">Wisdom Tooth Extraction</p>
-                            </div>
-                        </div>
-
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Jaw+Surgery"
-                                    alt="Testimonial">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"The surgeons did an amazing job reconstructing my jaw after an accident. I can finally eat and smile normally again."</p>
-                                <h4 class="testimonial-name">Rahul Singh</h4>
-                                <p class="testimonial-procedure">Jaw Fracture Repair</p>
-                            </div>
-                        </div>
-
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Cleft+Repair"
-                                    alt="Testimonial">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"My daughter's cleft lip surgery was performed here. The results are beautiful and the team was so supportive."</p>
-                                <h4 class="testimonial-name">Mrs. Anjali Desai</h4>
-                                <p class="testimonial-procedure">Cleft Lip Repair</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

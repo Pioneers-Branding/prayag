@@ -111,10 +111,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Surgeons</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -475,64 +472,6 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Patient Success Stories</h2>
-                <p class="section-subtitle-gray">
-                    Life after valve surgery.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial Video 1 -->
-                        <div class="testimonial-card" data-video-id="placeholder1">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Story"
-                                    alt="MVR Success">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I was breathless even while sitting. After my Mitral Valve Replacement, I can now walk for kilometers without any issue."</p>
-                                <h4 class="testimonial-name">Mrs. Kusum Devi</h4>
-                                <p class="testimonial-procedure">Mitral Valve Replacement</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Video 2 -->
-                        <div class="testimonial-card" data-video-id="placeholder2">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Story"
-                                    alt="TAVI Success">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"At 75, I was afraid of open surgery. The TAVI procedure was a blessing - no cuts, and I was home in 3 days."</p>
-                                <h4 class="testimonial-name">Mr. Ram Charan</h4>
-                                <p class="testimonial-procedure">TAVI Procedure</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

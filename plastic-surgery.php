@@ -105,10 +105,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -507,79 +504,6 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Patient Stories</h2>
-                <p class="section-subtitle-gray">
-                    Inspiring journeys of recovery and transformation.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial 1 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Rhinoplasty"
-                                    alt="Rhinoplasty Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I was always self-conscious about my nose. The rhinoplasty at Prayag Hospital gave me the confidence I lacked for years. It looks so natural!"</p>
-                                <h4 class="testimonial-name">Ms. K. Sharma</h4>
-                                <p class="testimonial-procedure">Rhinoplasty</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 2 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Burn+Recovery"
-                                    alt="Burn Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"The plastic surgery team was a godsend after my accident. Their care during the skin grafting and recovery was exceptional."</p>
-                                <h4 class="testimonial-name">Mr. R. Singh</h4>
-                                <p class="testimonial-procedure">Burn Reconstruction</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 3 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Body+Contouring" alt="Liposuction Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I struggled with post-pregnancy weight. The mommy makeover procedure helped me get my body back. Thank you, Prayag Hospital!"</p>
-                                <h4 class="testimonial-name">Mrs. A. Gupta</h4>
-                                <p class="testimonial-procedure">Body Contouring</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

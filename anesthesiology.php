@@ -105,10 +105,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -507,79 +504,6 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Patient Stories</h2>
-                <p class="section-subtitle-gray">
-                    Experiences of safe and comfortable recoveries.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial 1 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Painless+Delivery"
-                                    alt="Labor Analgesia Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I chose painless delivery at Prayag Hospital. The epidural was managed perfectly, and I had a comfortable birthing experience."</p>
-                                <h4 class="testimonial-name">Mrs. P. Verma</h4>
-                                <p class="testimonial-procedure">Labor Analgesia</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 2 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Knee+Surgery"
-                                    alt="Surgery Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I was worried about pain after my knee replacement. Thanks to the nerve block, I had almost zero pain immediately after surgery."</p>
-                                <h4 class="testimonial-name">Mr. S. Kumar</h4>
-                                <p class="testimonial-procedure">Regional Anesthesia</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 3 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Comfortable+Experience" alt="Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"The anesthesia team explained everything before my surgery. I felt very safe and woke up smoothly without any nausea."</p>
-                                <h4 class="testimonial-name">Mrs. A. Khan</h4>
-                                <p class="testimonial-procedure">General Anesthesia</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

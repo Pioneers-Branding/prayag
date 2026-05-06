@@ -105,10 +105,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -497,77 +494,6 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Patient Stories</h2>
-                <p class="section-subtitle-gray">
-                    Stories from patients who regained their mobility and health.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Varicose+Veins"
-                                    alt="Testimonial">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I suffered from painful varicose veins for years. The laser treatment was quick and I walked home the same day."</p>
-                                <h4 class="testimonial-name">Mrs. Sunita Sharma</h4>
-                                <p class="testimonial-procedure">Varicose Veins Laser</p>
-                            </div>
-                        </div>
-
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Leg+Saved"
-                                    alt="Testimonial">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"My father had a gangrene foot and was advised amputation elsewhere. Prayag doctors saved his leg with bypass surgery."</p>
-                                <h4 class="testimonial-name">Mr. Rajesh Gupta</h4>
-                                <p class="testimonial-procedure">Limb Salvage Bypass</p>
-                            </div>
-                        </div>
-
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Dialysis+Access"
-                                    alt="Testimonial">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"Excellent care for my dialysis fistula surgery. The doctors explained everything clearly."</p>
-                                <h4 class="testimonial-name">Mr. Suresh Kumar</h4>
-                                <p class="testimonial-procedure">AV Fistula</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

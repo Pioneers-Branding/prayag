@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -53,7 +52,8 @@
                             Centre for Joint Replacement
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
-                            Regain your mobility and live pain-free. We specialize in Total Knee and Hip Replacement surgeries using advanced robotic-assisted and minimally invasive techniques.
+                            Regain your mobility and live pain-free. We specialize in Total Knee and Hip Replacement
+                            surgeries using advanced robotic-assisted and minimally invasive techniques.
                         </p>
 
                         <!-- CTA Buttons -->
@@ -81,8 +81,8 @@
                     <div class="col-lg-5 col-md-12">
                         <div class="hero-image-wrapper">
                             <div class="hero-image-container">
-                                <img src="assets/images/Hip-Replacement-thumb.webp"
-                                    alt="Joint Replacement Model" class="hero-image">
+                                <img src="assets/images/Hip-Replacement-thumb.webp" alt="Joint Replacement Model"
+                                    class="hero-image">
                             </div>
                         </div>
                     </div>
@@ -109,9 +109,6 @@
                 </li>
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Surgeons</a>
-                </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
                 </li>
                 <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
@@ -181,21 +178,23 @@
             <div class="overview-content">
                 <h2 class="overview-heading">Transforming Lives Through Mobility</h2>
                 <p class="overview-text">
-                    Chronic joint pain can severely limit your lifestyle. At Prayag Hospital, our Joint Replacement Centre is a leader in performing 
+                    Chronic joint pain can severely limit your lifestyle. At Prayag Hospital, our Joint Replacement
+                    Centre is a leader in performing
                     Total Knee Replacement (TKR) and Total Hip Replacement (THR) surgeries with a high success rate.
                 </p>
                 <p class="overview-text">
-                    We utilize high-quality, long-lasting implants (Oxinium, Ceramics, Highly Cross-linked Polyethylene) and ensure perfect alignment 
+                    We utilize high-quality, long-lasting implants (Oxinium, Ceramics, Highly Cross-linked Polyethylene)
+                    and ensure perfect alignment
                     through computer navigation systems. This results in joints that feel natural and last for decades.
                 </p>
                 <p class="overview-text">
-                    Our "Rapid Recovery Protocol" allows most patients to stand and walk within 24 hours of surgery, significantly reducing hospital stay and complications.
+                    Our "Rapid Recovery Protocol" allows most patients to stand and walk within 24 hours of surgery,
+                    significantly reducing hospital stay and complications.
                 </p>
             </div>
 
             <div class="overview-image-wrapper">
-                <img src="assets/images/knee-replacement-main.webp" alt="Knee Implant"
-                    class="overview-image">
+                <img src="assets/images/knee-replacement-main.webp" alt="Knee Implant" class="overview-image">
             </div>
 
             <div class="overview-highlights">
@@ -293,7 +292,8 @@
                         </div>
                         <h3 class="treatment-card-title">Total Knee Replacement (TKR)</h3>
                         <p class="treatment-card-description">
-                            Resurfacing the damaged knee joint with metal and plastic components to restore smooth movement and eliminate pain.
+                            Resurfacing the damaged knee joint with metal and plastic components to restore smooth
+                            movement and eliminate pain.
                         </p>
                     </div>
                 </div>
@@ -306,7 +306,8 @@
                         </div>
                         <h3 class="treatment-card-title">Total Hip Replacement (THR)</h3>
                         <p class="treatment-card-description">
-                            Replacing the damaged ball and socket of the hip joint with durable prosthetic components like Ceramic-on-Ceramic.
+                            Replacing the damaged ball and socket of the hip joint with durable prosthetic components
+                            like Ceramic-on-Ceramic.
                         </p>
                     </div>
                 </div>
@@ -319,7 +320,8 @@
                         </div>
                         <h3 class="treatment-card-title">Robotic Assisted Surgery</h3>
                         <p class="treatment-card-description">
-                            Using robotic arms for 100% precision in bone cutting and implant placement, ensuring longevity of the joint.
+                            Using robotic arms for 100% precision in bone cutting and implant placement, ensuring
+                            longevity of the joint.
                         </p>
                     </div>
                 </div>
@@ -332,7 +334,8 @@
                         </div>
                         <h3 class="treatment-card-title">Revision Joint Replacement</h3>
                         <p class="treatment-card-description">
-                            Specialized surgery to correct failed previous implants due to loosening, infection, or wear.
+                            Specialized surgery to correct failed previous implants due to loosening, infection, or
+                            wear.
                         </p>
                     </div>
                 </div>
@@ -345,7 +348,8 @@
                         </div>
                         <h3 class="treatment-card-title">Core Decompression</h3>
                         <p class="treatment-card-description">
-                            A joint-saving procedure for early-stage Avascular Necrosis (AVN) of the hip to prevent collapse.
+                            A joint-saving procedure for early-stage Avascular Necrosis (AVN) of the hip to prevent
+                            collapse.
                         </p>
                     </div>
                 </div>
@@ -358,7 +362,8 @@
                         </div>
                         <h3 class="treatment-card-title">Customized Implants</h3>
                         <p class="treatment-card-description">
-                            Patient-specific instruments and 3D printed guides for complex deformities ensuring a perfect fit.
+                            Patient-specific instruments and 3D printed guides for complex deformities ensuring a
+                            perfect fit.
                         </p>
                     </div>
                 </div>
@@ -437,95 +442,39 @@
 
             <div class="row g-4 justify-content-center">
                 <?php include 'doctors-data.php'; ?>
-                <?php 
-                $ortho_doctors = array_filter($doctors, function($doctor) {
+                <?php
+                $ortho_doctors = array_filter($doctors, function ($doctor) {
                     return $doctor['specialty_code'] === 'orthopedics';
                 });
-                foreach ($ortho_doctors as $doctor): 
-                ?>
-                <!-- Doctor Card -->
-                <div class="col-lg-4 col-md-6 col-12">
-                    <div class="doctor-card">
-                        <div class="doctor-card-inner">
-                            <div class="doctor-card-top">
-                                <div class="doctor-image-container">
-                                    <img src="<?php echo !empty($doctor['image_small']) ? $doctor['image_small'] : $doctor['image']; ?>"
-                                        alt="<?php echo $doctor['name']; ?>" class="doctor-image">
+                foreach ($ortho_doctors as $doctor):
+                    ?>
+                    <!-- Doctor Card -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <div class="doctor-card">
+                            <div class="doctor-card-inner">
+                                <div class="doctor-card-top">
+                                    <div class="doctor-image-container">
+                                        <img src="<?php echo !empty($doctor['image_small']) ? $doctor['image_small'] : $doctor['image']; ?>"
+                                            alt="<?php echo $doctor['name']; ?>" class="doctor-image">
+                                    </div>
+                                    <div class="doctor-info">
+                                        <h3 class="doctor-name"><?php echo $doctor['name']; ?></h3>
+                                        <p class="doctor-designation"><?php echo $doctor['specialty']; ?></p>
+                                        <p class="doctor-experience">
+                                            <span class="experience-label">Experience:</span>
+                                            <span class="experience-value"><?php echo $doctor['experience']; ?> Years</span>
+                                        </p>
+                                    </div>
                                 </div>
-                                <div class="doctor-info">
-                                    <h3 class="doctor-name"><?php echo $doctor['name']; ?></h3>
-                                    <p class="doctor-designation"><?php echo $doctor['specialty']; ?></p>
-                                    <p class="doctor-experience">
-                                        <span class="experience-label">Experience:</span>
-                                        <span class="experience-value"><?php echo $doctor['experience']; ?> Years</span>
-                                    </p>
+                                <div class="doctor-actions">
+                                    <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
+                                    <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment"
+                                        class="btn-book-now">Book Apt.</a>
                                 </div>
-                            </div>
-                            <div class="doctor-actions">
-                                <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
-                                <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
                             </div>
                         </div>
                     </div>
-                </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Patient Success Stories</h2>
-                <p class="section-subtitle-gray">
-                    Back to active life.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial Video 1 -->
-                        <div class="testimonial-card" data-video-id="placeholder1">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Review"
-                                    alt="Review">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I suffered from knee pain for 10 years. Today, 2 months after surgery, I am pain-free and walking without support."</p>
-                                <h4 class="testimonial-name">Mrs. Krishna Devi</h4>
-                                <p class="testimonial-procedure">Bilateral TKR</p>
-                            </div>
-                        </div>
-
-                         <!-- Testimonial Video 2 -->
-                         <div class="testimonial-card" data-video-id="placeholder2">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Review" alt="Review">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"My hip surgery was a success. I can now climb stairs and drive my car."</p>
-                                <h4 class="testimonial-name">Col. (Retd.) R.K. Singh</h4>
-                                <p class="testimonial-procedure">Total Hip Replacement</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>
@@ -554,7 +503,9 @@
                             <div id="faqCollapse1" class="accordion-collapse collapse show"
                                 aria-labelledby="faqHeading1" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    Pain management techniques have advanced significantly. We use multi-modal pain relief, including nerve blocks and epidurals, ensuring that patients experience minimal discomfort after surgery.
+                                    Pain management techniques have advanced significantly. We use multi-modal pain
+                                    relief, including nerve blocks and epidurals, ensuring that patients experience
+                                    minimal discomfort after surgery.
                                 </div>
                             </div>
                         </div>
@@ -570,7 +521,8 @@
                             <div id="faqCollapse2" class="accordion-collapse collapse" aria-labelledby="faqHeading2"
                                 data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    Typically, patients stay for 3 to 5 days. You are discharged once you are medically stable, able to walk with support, and can perform basic daily activities.
+                                    Typically, patients stay for 3 to 5 days. You are discharged once you are medically
+                                    stable, able to walk with support, and can perform basic daily activities.
                                 </div>
                             </div>
                         </div>
@@ -586,7 +538,9 @@
                             <div id="faqCollapse3" class="accordion-collapse collapse" aria-labelledby="faqHeading3"
                                 data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    With high-flexion knee implants, sitting cross-legged is possible for some patients. However, to maximize the lifespan of the implant, we generally advise avoiding squatting or sitting on the floor regularly.
+                                    With high-flexion knee implants, sitting cross-legged is possible for some patients.
+                                    However, to maximize the lifespan of the implant, we generally advise avoiding
+                                    squatting or sitting on the floor regularly.
                                 </div>
                             </div>
                         </div>
@@ -602,7 +556,9 @@
                             <div id="faqCollapse4" class="accordion-collapse collapse" aria-labelledby="faqHeading4"
                                 data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    Yes, simultaneous (bilateral) knee replacement is common and safe for medically fit patients. It has the advantage of a single recovery period and one hospital stay. Your surgeon will evaluate your fitness for this.
+                                    Yes, simultaneous (bilateral) knee replacement is common and safe for medically fit
+                                    patients. It has the advantage of a single recovery period and one hospital stay.
+                                    Your surgeon will evaluate your fitness for this.
                                 </div>
                             </div>
                         </div>
@@ -618,4 +574,3 @@
 </body>
 
 </html>
-

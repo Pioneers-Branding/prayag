@@ -110,10 +110,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Specialists</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -467,63 +464,6 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Athlete Stories</h2>
-                <p class="section-subtitle-gray">
-                    Winning against injuries.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial Video 1 -->
-                        <div class="testimonial-card" data-video-id="placeholder1">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Review"
-                                    alt="Review">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I tore my ACL playing football. The surgery at Prayag was seamless, and the rehab helped me get back on the field in 9 months."</p>
-                                <h4 class="testimonial-name">Rohit Verma</h4>
-                                <p class="testimonial-procedure">ACL Reconstruction</p>
-                            </div>
-                        </div>
-
-                         <!-- Testimonial Video 2 -->
-                         <div class="testimonial-card" data-video-id="placeholder2">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Review" alt="Review">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"My shoulder dislocation kept recurring. After the Bankart repair, my shoulder feels rock solid."</p>
-                                <h4 class="testimonial-name">Anjali Singh</h4>
-                                <p class="testimonial-procedure">Bankart Repair</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

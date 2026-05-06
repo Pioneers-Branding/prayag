@@ -109,10 +109,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -508,95 +505,6 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Patient Success Stories</h2>
-                <p class="section-subtitle-gray">
-                    Inspiring stories of recovery and resilience from our neuroscience patients.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial Video 1 -->
-                        <div class="testimonial-card" data-video-id="placeholder1">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Story"
-                                    alt="Stroke Survivor">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I was rushed here with a stroke. The speed and skill of the team saved my life and mobility. I'm forever grateful."</p>
-                                <h4 class="testimonial-name">Mr. Vijay Singh</h4>
-                                <p class="testimonial-procedure">Stroke Recovery</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Video 2 -->
-                        <div class="testimonial-card" data-video-id="placeholder2">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Story"
-                                    alt="Spine Surgery Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"Unbearable back pain controlled my life until my spine surgery at Prayag. Now I'm pain-free and active again."</p>
-                                <h4 class="testimonial-name">Mrs. Kavita Sharma</h4>
-                                <p class="testimonial-procedure">Spine Surgery</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Video 3 -->
-                        <div class="testimonial-card" data-video-id="placeholder3">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Story" alt="Brain Tumor Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"The diagnosis of a brain tumor was terrifying, but Dr. Sharma explained everything. The surgery was a success."</p>
-                                <h4 class="testimonial-name">Mr. Rahul Verma</h4>
-                                <p class="testimonial-procedure">Brain Tumor Surgery</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Video 4 -->
-                        <div class="testimonial-card" data-video-id="placeholder4">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Story"
-                                    alt="Epilepsy Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"Managing my epilepsy was a struggle. The doctors adjusted my medication and I haven't had a seizure in months."</p>
-                                <h4 class="testimonial-name">Ms. Priya Gupta</h4>
-                                <p class="testimonial-procedure">Epilepsy Management</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

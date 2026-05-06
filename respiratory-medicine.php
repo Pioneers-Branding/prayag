@@ -109,10 +109,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -578,79 +575,6 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Patient Success Stories</h2>
-                <p class="section-subtitle-gray">
-                    Read inspiring stories from patients who have regained their breath and health at Prayag Hospital.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial 1 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Asthma+Patient"
-                                    alt="Asthma Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I struggled with severe asthma for years. The personalized treatment plan at Prayag Hospital has finally brought it under control by Dr. Mishra."</p>
-                                <h4 class="testimonial-name">Ms. S. Gupta</h4>
-                                <p class="testimonial-procedure">Asthma Treatment</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 2 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Sleep+Apnea"
-                                    alt="Sleep Apnea Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"The sleep study revealed my sleep apnea. With the right CPAP therapy prescribed here, I feel more energetic than ever."</p>
-                                <h4 class="testimonial-name">Mr. Rajiv M.</h4>
-                                <p class="testimonial-procedure">Sleep Apnea Care</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 3 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=COPD+Recovery" alt="COPD Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"My father's COPD was managed excellently here. The pulmonary rehabilitation helped him regain his independence."</p>
-                                <h4 class="testimonial-name">Mr. Singh's Family</h4>
-                                <p class="testimonial-procedure">COPD Management</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

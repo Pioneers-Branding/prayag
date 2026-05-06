@@ -281,7 +281,7 @@
                         <div class="contact-icon"><i class="fas fa-envelope"></i></div>
                         <div class="contact-info">
                             <h4>Official Email</h4>
-                            <p><a href="mailto:info@prayaghospital.in">info@prayaghospital.in</a></p>
+                            <p><a href="mailto:crm@prayaghospital.in">crm@prayaghospital.in</a></p>
                         </div>
                     </div>
                 </div>

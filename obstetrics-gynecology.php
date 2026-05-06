@@ -107,10 +107,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -503,95 +500,6 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Patient Success Stories</h2>
-                <p class="section-subtitle-gray">
-                    Hear from happy mothers and patients about their experience at Prayag Hospital.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial Video 1 -->
-                        <div class="testimonial-card" data-video-id="placeholder1">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Mom+Story"
-                                    alt="Maternity">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"My delivery experience at Prayag was wonderful. The doctors were supportive and the nursing staff took great care of me and my baby."</p>
-                                <h4 class="testimonial-name">Mrs. Priya Sharma</h4>
-                                <p class="testimonial-procedure">Maternity Care</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Video 2 -->
-                        <div class="testimonial-card" data-video-id="placeholder2">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Story"
-                                    alt="Laparoscopy">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I underwent laparoscopic surgery for fibroids. The recovery was so fast, and I was discharged in just two days. Highly recommended."</p>
-                                <h4 class="testimonial-name">Mrs. Anita Verma</h4>
-                                <p class="testimonial-procedure">Laparoscopic Surgery</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Video 3 -->
-                        <div class="testimonial-card" data-video-id="placeholder3">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Story" alt="High Risk Pregnancy">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I had a high-risk pregnancy due to diabetes. Dr. Kamna guided me throughout, and I delivered a healthy baby boy. Forever grateful."</p>
-                                <h4 class="testimonial-name">Mrs. Neha Gupta</h4>
-                                <p class="testimonial-procedure">High-Risk Pregnancy</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Video 4 -->
-                        <div class="testimonial-card" data-video-id="placeholder4">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/320x180?text=Patient+Story"
-                                    alt="PCOD Treatment">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I struggled with PCOD and weight gain. The treatment and lifestyle guidance I received here have changed my life completely."</p>
-                                <h4 class="testimonial-name">Ms. Riya Singh</h4>
-                                <p class="testimonial-procedure">PCOD Treatment</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

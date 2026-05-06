@@ -109,10 +109,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -638,101 +635,6 @@
             </div>
         </div>
     </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Real Patients, Real Stories</h2>
-                <p class="section-subtitle-gray">
-                    Hear from our patients about their transformational cardiac care journey at Prayag Hospital
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial Video 1 -->
-                        <div class="testimonial-card" data-video-id="fE7axQE9K7A">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://img.youtube.com/vi/fE7axQE9K7A/mqdefault.jpg"
-                                    alt="Bypass Surgery Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"After my bypass surgery at Prayag Hospital, my life changed
-                                    completely. The cardiac team's expertise and care were exceptional..."</p>
-                                <h4 class="testimonial-name">Mr. Rajesh Kumar</h4>
-                                <p class="testimonial-procedure">Bypass Surgery</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Video 2 -->
-                        <div class="testimonial-card" data-video-id="UZAOjYmsWgA">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://img.youtube.com/vi/UZAOjYmsWgA/mqdefault.jpg"
-                                    alt="Angioplasty Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"The angioplasty procedure was smooth and the recovery was
-                                    quick. Dr. Sharma and team gave me a new lease on life..."</p>
-                                <h4 class="testimonial-name">Mrs. Sunita Mehta</h4>
-                                <p class="testimonial-procedure">Angioplasty</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Video 3 -->
-                        <div class="testimonial-card" data-video-id="PxdxqQl_auQ">
-                            <div class="testimonial-thumbnail">
-                                <img src="assets/images/cardiac-care-main.webp" alt="Pacemaker Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"My father's pacemaker implantation at Prayag Hospital was
-                                    life-changing. The cardiac specialists were incredibly skilled..."</p>
-                                <h4 class="testimonial-name">Ms. Anita Patel</h4>
-                                <p class="testimonial-procedure">Pacemaker Implantation</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial Video 4 -->
-                        <div class="testimonial-card" data-video-id="fE7axQE9K7A">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://img.youtube.com/vi/fE7axQE9K7A/mqdefault.jpg"
-                                    alt="Heart Valve Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"Heart valve replacement surgery gave me my life back. The
-                                    post-operative care and follow-up at Prayag Hospital was excellent..."</p>
-                                <h4 class="testimonial-name">Mr. Anil Sharma</h4>
-                                <p class="testimonial-procedure">Valve Replacement</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
-            </div>
-        </div>
-    </section>
-
-
 
     <!-- FAQ Section -->
     <section class="faq-section" id="faq">

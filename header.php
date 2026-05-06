@@ -19,8 +19,8 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="media-coverage.php">Media Coverage</a></li>
-                        <li><a class="dropdown-item" href="events.php">Events</a></li>
-                        <li><a class="dropdown-item" href="blog.php">Health Blog</a></li>
+                        <!-- <li><a class="dropdown-item" href="events.php">Events</a></li>
+                        <li><a class="dropdown-item" href="blog.php">Health Blog</a></li> -->
                     </ul>
                 </li>
                 <li class="nav-item">

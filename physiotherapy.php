@@ -105,10 +105,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Therapists</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -508,79 +505,6 @@ foreach ($physio_doctors as $doctor):
                 </div>
                 <?php
 endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Success Stories</h2>
-                <p class="section-subtitle-gray">
-                    Journeys of recovery and resilience.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial 1 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Back+Pain+Relief"
-                                    alt="Back Pain Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I suffered from severe back pain for years. After a month of physiotherapy at Prayag, I am pain-free and active again."</p>
-                                <h4 class="testimonial-name">Mr. K. Sharma</h4>
-                                <p class="testimonial-procedure">Back Pain Rehab</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 2 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Knee+Recovery"
-                                    alt="Knee Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"The rehabilitation after my knee replacement was tough, but the therapists were very motivating and helped me walk within days."</p>
-                                <h4 class="testimonial-name">Mrs. L. Gupta</h4>
-                                <p class="testimonial-procedure">Post-Op Rehab</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 3 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Stroke+Rehab" alt="Patient">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"My father had a stroke and couldn't move his right arm. Thanks to neuro-rehab, he has regained significant movement."</p>
-                                <h4 class="testimonial-name">Mr. A. Verma</h4>
-                                <p class="testimonial-procedure">Neuro Rehab</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

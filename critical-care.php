@@ -108,10 +108,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -530,82 +527,6 @@
                     </div>
                 </div>
                 <?php endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Stories of Recovery</h2>
-                <p class="section-subtitle-gray">
-                    Inspiring stories of patients who recovered from critical conditions at Prayag Hospital.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial 1 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <!-- Placeholder Image -->
-                                <img src="https://via.placeholder.com/400x250/e0f7fa/006064?text=Recovery+Story"
-                                    alt="Patient Recovery">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"My father was in a very critical condition with multi-organ
-                                    failure. The ICU team's dedication and 24/7 care brought him back to us..."</p>
-                                <h4 class="testimonial-name">Son of Mr. Gupta</h4>
-                                <p class="testimonial-procedure">Multi-Organ Failure Recovery</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 2 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                               <img src="https://via.placeholder.com/400x250/e0f7fa/006064?text=Patient+Story"
-                                    alt="Accident Recovery">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"After my severe road accident, the trauma care and ICU
-                                    management at Prayag were exceptional. I owe my recovery to them."</p>
-                                <h4 class="testimonial-name">Mr. Rahul Singh</h4>
-                                <p class="testimonial-procedure">Trauma & ICU Care</p>
-                            </div>
-                        </div>
-                         <!-- Testimonial 3 -->
-                         <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                               <img src="https://via.placeholder.com/400x250/e0f7fa/006064?text=ICU+Care"
-                                    alt="Critical Care">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"The compassion shown by the nursing staff and doctors in the ICU was heartwarming during such a difficult time for our family."</p>
-                                <h4 class="testimonial-name">Mrs. Sharma</h4>
-                                <p class="testimonial-procedure">Respiratory Failure Recovery</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

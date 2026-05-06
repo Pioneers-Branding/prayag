@@ -70,7 +70,7 @@
 
                             <div class="hospital-info-item">
                                 <i class="fas fa-envelope"></i>
-                                <span><a href="mailto:info@prayaghospital.in">info@prayaghospital.in</a></span>
+                                <span><a href="mailto:crm@prayaghospital.in">crm@prayaghospital.in</a></span>
                             </div>
 
                             <div class="hospital-actions">
@@ -115,7 +115,7 @@
 
                             <div class="hospital-info-item">
                                 <i class="fas fa-envelope"></i>
-                                <span><a href="mailto:info@prayaghospital.in">info@prayaghospital.in</a></span>
+                                <span><a href="mailto:crm@prayaghospital.in">crm@prayaghospital.in</a></span>
                             </div>
 
                             <div class="hospital-actions">

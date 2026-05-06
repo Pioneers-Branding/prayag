@@ -106,9 +106,6 @@
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
                 <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -498,77 +495,6 @@ foreach ($neo_doctors as $doctor):
                 </div>
                 <?php
 endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Parent Testimonials</h2>
-                <p class="section-subtitle-gray">
-                    Stories from families whose babies received care in our NICU.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Premature+Baby+Care"
-                                    alt="Parent Testimonial">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"Our twins were born at 32 weeks. The NICU team took amazing care of them. Today they are healthy and thriving."</p>
-                                <h4 class="testimonial-name">Mr. & Mrs. Sharma</h4>
-                                <p class="testimonial-procedure">Premature Twins</p>
-                            </div>
-                        </div>
-
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=NICU+Success"
-                                    alt="Parent Testimonial">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"The doctors and nurses were so caring. They kept us informed every step of the way during our baby's NICU stay."</p>
-                                <h4 class="testimonial-name">Mrs. Priya Gupta</h4>
-                                <p class="testimonial-procedure">Neonatal Jaundice</p>
-                            </div>
-                        </div>
-
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <img src="https://via.placeholder.com/400x250/e3f2fd/1565c0?text=Expert+Care"
-                                    alt="Parent Testimonial">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"We are grateful to the neonatology team for saving our baby's life. The NICU facilities are world-class."</p>
-                                <h4 class="testimonial-name">Mr. Rajesh Kumar</h4>
-                                <p class="testimonial-procedure">Respiratory Distress</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

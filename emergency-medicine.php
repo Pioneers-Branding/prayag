@@ -109,10 +109,7 @@
                 <li class="toc-nav-item">
                     <a href="#doctors" class="toc-nav-link">Doctors</a>
                 </li>
-                <li class="toc-nav-item">
-                    <a href="#patient-speak" class="toc-nav-link">Patient Speak</a>
-                </li>
-                <li class="toc-nav-item">
+                                <li class="toc-nav-item">
                     <a href="#faq" class="toc-nav-link">FAQ</a>
                 </li>
             </ul>
@@ -524,82 +521,6 @@ foreach ($emergency_doctors as $doctor):
                 </div>
                 <?php
 endforeach; ?>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patient Speak Section (Testimonials) -->
-    <section class="patient-speak-section" id="patient-speak">
-        <div class="container">
-            <div class="section-header-center">
-                <h2 class="section-title-dark">Survivor Stories</h2>
-                <p class="section-subtitle-gray">
-                    Real stories of timely intervention and life-saving care at Prayag Hospital.
-                </p>
-            </div>
-
-            <div class="testimonials-slider-wrapper">
-                <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-
-                <div class="testimonials-slider-container">
-                    <div class="testimonials-slider">
-                        <!-- Testimonial 1 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                                <!-- Placeholder Image -->
-                                <img src="https://via.placeholder.com/400x250/fff3e0/e65100?text=Survivor+Story"
-                                    alt="Survivor Story">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"I suffered a massive heart attack, but the emergency team's
-                                    quick action saved my life. I am forever grateful."</p>
-                                <h4 class="testimonial-name">Mr. A. K. Singh</h4>
-                                <p class="testimonial-procedure">Heart Attack survivor</p>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 2 -->
-                        <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                               <img src="https://via.placeholder.com/400x250/fff3e0/e65100?text=Trauma+Recovery"
-                                    alt="Trauma Recovery">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"The ambulance reached us in minutes. The trauma care my son
-                                    received was world-class. Thank you, Prayag Hospital."</p>
-                                <h4 class="testimonial-name">Mrs. Verma</h4>
-                                <p class="testimonial-procedure">Road Accident Trauma</p>
-                            </div>
-                        </div>
-                         <!-- Testimonial 3 -->
-                         <div class="testimonial-card">
-                            <div class="testimonial-thumbnail">
-                               <img src="https://via.placeholder.com/400x250/fff3e0/e65100?text=Emergency+Care"
-                                    alt="Emergency Care">
-                                <div class="play-button">
-                                    <i class="fas fa-play"></i>
-                                </div>
-                            </div>
-                            <div class="testimonial-overlay">
-                                <p class="testimonial-text">"Severe food poisoning brought me to the ER at 2 AM. The staff were efficient kindness personified."</p>
-                                <h4 class="testimonial-name">Ms. Ritu</h4>
-                                <p class="testimonial-procedure">Medical Emergency</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
             </div>
         </div>
     </section>

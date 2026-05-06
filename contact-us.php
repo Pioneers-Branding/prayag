@@ -79,7 +79,7 @@
                         <div class="contact-block mb-4">
                             <h3 class="location-title"><i class="fas fa-envelope text-primary-orange me-2"></i> Email
                             </h3>
-                            <p class="contact-text"><a href="mailto:info@prayaghospital.in">info@prayaghospital.in</a>
+                            <p class="contact-text"><a href="mailto:crm@prayaghospital.in">crm@prayaghospital.in</a>
                             </p>
                         </div>
 

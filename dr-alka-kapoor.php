@@ -206,7 +206,7 @@ if (!$doctor) {
                                 <i class="fas fa-envelope"></i>
                                 <div>
                                     <strong>Email</strong>
-                                    <p><a href="mailto:info@prayaghospital.in">info@prayaghospital.in</a></p>
+                                    <p><a href="mailto:crm@prayaghospital.in">crm@prayaghospital.in</a></p>
                                 </div>
                             </div>
                         </div>
