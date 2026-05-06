@@ -143,20 +143,20 @@
                             </li>
                             <li>
                                 <i class="fas fa-envelope"></i><br>
-                                <div>Patient Enquiry</div>
+                                <div>Patient Enquiry : </div><br>
                                 <span><a href="mailto:crm@prayaghospital.in">crm@prayaghospital.in</a>
                                 </span>
                             </li>
                             <li>
                                 <i class="fas fa-envelope"></i><br>
-                                <div>Billing</div>
+                                <div>Billing : </div><br>
                                 <span><a href="mailto:tpa@prayaghospital.in">tpa@prayaghospital.in</a></span>
                             </li>
                             <li>
                                 <i class="fas fa-envelope"></i><br>
-                                <div>Marketing</div>
-                                <span><a href="mailto:marketing@prayaghospital.in">marketing@prayaghospital.in</a>
-                                </span>
+                                <div>Marketing : </div><br>
+                                <span><a
+                                        href="mailto:marketing@prayaghospital.in">marketing@prayaghospital.in</a></span>
                             </li>
                         </ul>
 
