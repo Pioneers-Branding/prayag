@@ -202,7 +202,8 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <p class="copyright-text">&copy; 2026 Prayag Hospital. All Rights Reserved.</p>
+                    <p class="copyright-text">&copy; 2026 Prayag Hospital. All Rights Reserved. <a
+                            href="https://www.brandingpioneers.com/">Designed by Branding Pioneers</a></p>
                 </div>
                 <div class="col-md-6 text-md-end">
                     <ul class="footer-legal">
