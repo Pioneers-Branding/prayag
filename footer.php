@@ -46,6 +46,7 @@
                         <li><a href="find-doctor.php">Find Doctor</a></li>
                         <li><a href="book-appointment.php">Book Appointment</a></li>
                         <li><a href="admission-guide.php">Admission Guide</a></li>
+                        <li><a href="patient-stories.php">Patient Stories</a></li>
                         <li><a href="tpa-insurance.php">TPA & Insurance</a></li>
                         <li><a href="visiting-hours.php">Visiting Hours</a></li>
                         <li><a href="health-checkup.php">Preventive Health</a></li>
