@@ -89,11 +89,11 @@
                     <!-- Job 1 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Senior Staff Nurse</h4>
+                            <h4>Physiotherapist</h4>
                             <div class="job-meta">
-                                <span><i class="fas fa-briefcase"></i> Nursing</span>
-                                <span><i class="fas fa-clock"></i> Full Time</span>
-                                <span><i class="fas fa-map-marker-alt"></i> Noida</span>
+                                <span><i class="fas fa-user-md"></i> Vacancies: 2</span>
+                                <span><i class="fas fa-briefcase"></i> Minimum 5 years</span>
+                                <span><i class="fas fa-graduation-cap"></i> BPT & MPT</span>
                             </div>
                         </div>
                         <div class="job-action mt-3 mt-md-0">
@@ -104,11 +104,11 @@
                     <!-- Job 2 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Resident Medical Officer (RMO)</h4>
+                            <h4>NICU Staff Nurse</h4>
                             <div class="job-meta">
-                                <span><i class="fas fa-briefcase"></i> Medical</span>
-                                <span><i class="fas fa-clock"></i> Rotational Shifts</span>
-                                <span><i class="fas fa-map-marker-alt"></i> Noida</span>
+                                <span><i class="fas fa-user-md"></i> Vacancies: 4</span>
+                                <span><i class="fas fa-briefcase"></i> Relevant experience preferred</span>
+                                <span><i class="fas fa-graduation-cap"></i> GNM or B.Sc. Nursing</span>
                             </div>
                         </div>
                         <div class="job-action mt-3 mt-md-0">
@@ -119,11 +119,11 @@
                     <!-- Job 3 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>OT Technician</h4>
+                            <h4>ICU Staff Nurse</h4>
                             <div class="job-meta">
-                                <span><i class="fas fa-briefcase"></i> Paramedical</span>
-                                <span><i class="fas fa-clock"></i> Full Time</span>
-                                <span><i class="fas fa-map-marker-alt"></i> Noida</span>
+                                <span><i class="fas fa-user-md"></i> Vacancies: 4</span>
+                                <span><i class="fas fa-briefcase"></i> Relevant experience preferred</span>
+                                <span><i class="fas fa-graduation-cap"></i> GNM or B.Sc. Nursing</span>
                             </div>
                         </div>
                         <div class="job-action mt-3 mt-md-0">
@@ -134,11 +134,41 @@
                     <!-- Job 4 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Front Desk Executive</h4>
+                            <h4>Casualty Medical Officer</h4>
                             <div class="job-meta">
-                                <span><i class="fas fa-briefcase"></i> Administration</span>
-                                <span><i class="fas fa-clock"></i> Full Time</span>
-                                <span><i class="fas fa-map-marker-alt"></i> Noida</span>
+                                <span><i class="fas fa-user-md"></i> Vacancies: 2</span>
+                                <span><i class="fas fa-briefcase"></i> > 5 years in Emergency Dept</span>
+                                <span><i class="fas fa-graduation-cap"></i> MBBS</span>
+                            </div>
+                        </div>
+                        <div class="job-action mt-3 mt-md-0">
+                            <a href="#applicationForm" class="btn-appointment btn-sm">Apply Now</a>
+                        </div>
+                    </div>
+
+                    <!-- Job 5 -->
+                    <div class="job-card">
+                        <div class="job-info">
+                            <h4>Consultant – MD Medicine (Full-Time)</h4>
+                            <div class="job-meta">
+                                <span><i class="fas fa-user-md"></i> Vacancies: 1</span>
+                                <span><i class="fas fa-briefcase"></i> More than 5 years</span>
+                                <span><i class="fas fa-graduation-cap"></i> MBBS, MD (Medicine)</span>
+                            </div>
+                        </div>
+                        <div class="job-action mt-3 mt-md-0">
+                            <a href="#applicationForm" class="btn-appointment btn-sm">Apply Now</a>
+                        </div>
+                    </div>
+
+                    <!-- Job 6 -->
+                    <div class="job-card">
+                        <div class="job-info">
+                            <h4>Consultant – Emergency Medicine</h4>
+                            <div class="job-meta">
+                                <span><i class="fas fa-user-md"></i> Vacancies: 1</span>
+                                <span><i class="fas fa-briefcase"></i> Minimum 2 years</span>
+                                <span><i class="fas fa-graduation-cap"></i> MBBS, MD (Emergency Medicine)</span>
                             </div>
                         </div>
                         <div class="job-action mt-3 mt-md-0">
@@ -182,11 +212,12 @@
                                             <label class="form-label">Position Applied For</label>
                                             <select name="position" class="form-select">
                                                 <option selected>Select Position</option>
-                                                <option value="Senior Staff Nurse">Senior Staff Nurse</option>
-                                                <option value="Resident Medical Officer">Resident Medical Officer
-                                                </option>
-                                                <option value="OT Technician">OT Technician</option>
-                                                <option value="Front Desk Executive">Front Desk Executive</option>
+                                                <option value="Physiotherapist">Physiotherapist</option>
+                                                <option value="NICU Staff Nurse">NICU Staff Nurse</option>
+                                                <option value="ICU Staff Nurse">ICU Staff Nurse</option>
+                                                <option value="Casualty Medical Officer">Casualty Medical Officer</option>
+                                                <option value="Consultant – MD Medicine (Full-Time)">Consultant – MD Medicine (Full-Time)</option>
+                                                <option value="Consultant – Emergency Medicine">Consultant – Emergency Medicine</option>
                                                 <option value="Other">Other</option>
                                             </select>
                                         </div>
