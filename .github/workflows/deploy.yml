@@ -19,8 +19,12 @@ jobs:
             # Navigate to the website document root
             cd /home/prayaghospital.in/public_html
             
-            # Pull the latest changes from the main branch
-            git pull origin main
+            # Trust the directory for the root user
+            git config --global --add safe.directory /home/prayaghospital.in/public_html
+            
+            # Force pull the latest changes from the main branch
+            git fetch origin
+            git reset --hard origin/main
             
             # Fix permissions for CyberPanel (LiteSpeed)
             chown -R nobody:nobody .
