@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prayag Hospital - Healthcare Excellencee</title>
+    <title>Prayag Hospital - Healthcare Excellence</title>
 
     <?php include 'header-links.php'; ?>
 
