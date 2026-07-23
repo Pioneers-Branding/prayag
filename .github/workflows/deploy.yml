@@ -9,23 +9,22 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Execute deployment commands via SSH
-        uses: appleboy/ssh-action@v1.0.3
+      - name: Checkout code
+        uses: actions/checkout@v4
         with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          script: |
-            # Navigate to the website document root
-            cd /home/prayaghospital.in/public_html
-            
-            # Trust the directory for the root user
-            git config --global --add safe.directory /home/prayaghospital.in/public_html
-            
-            # Force pull the latest changes from the main branch
-            git fetch origin
-            git reset --hard origin/main
-            
-            # Fix permissions for CyberPanel (LiteSpeed)
-            chown -R nobody:nobody .
-            chmod -R 755 .
+          fetch-depth: 0
+
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.VPS_SSH_KEY }}
+
+      - name: Add VPS to known_hosts
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan 72.61.224.90 >> ~/.ssh/known_hosts
+
+      - name: Deploy to VPS
+        run: |
+          git remote add vps ssh://root@72.61.224.90/home/prayaghospital.in/repo.git
+          git push -f vps main
