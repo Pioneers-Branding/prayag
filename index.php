@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prayag Hospital - Healthcare Excellence</title>
+    <title>Prayag Hospitals - Healthcare Excellence</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -119,8 +119,7 @@
                                 <!-- Speciality Card 8 -->
                                 <a href="gastroenterology.php" class="speciality-card">
                                     <div class="speciality-icon">
-                                        <img src="assets/images/liver.webp" alt="Gastroenterology"
-                                            style="width:35px">
+                                        <img src="assets/images/liver.webp" alt="Gastroenterology" style="width:35px">
                                     </div>
                                     <h3 class="speciality-name">Gastroenterology</h3>
                                 </a>
@@ -232,8 +231,7 @@
                                 <!-- Speciality Card 22 -->
                                 <a href="plastic-surgery.php" class="speciality-card">
                                     <div class="speciality-icon">
-                                        <img src="assets/images/PLASTIC.webp" alt="Plastic Surgery"
-                                            style="width:35px">
+                                        <img src="assets/images/PLASTIC.webp" alt="Plastic Surgery" style="width:35px">
                                     </div>
                                     <h3 class="speciality-name">Plastic Surgery</h3>
                                 </a>
@@ -306,7 +304,8 @@
                         <div class="stat-content">
                             <h3 class="stat-number-static">200K+</h3>
                             <h4 class="stat-label-static">Patients Treated</h4>
-                            <p class="stat-description-static">Trusted by thousands of patients for world-class healthcare.</p>
+                            <p class="stat-description-static">Trusted by thousands of patients for world-class
+                                healthcare.</p>
                         </div>
                     </div>
 
@@ -318,7 +317,8 @@
                         <div class="stat-content">
                             <h3 class="stat-number-static">25+</h3>
                             <h4 class="stat-label-static">Years of Experience</h4>
-                            <p class="stat-description-static">Over two decades of delivering excellence in medical care.</p>
+                            <p class="stat-description-static">Over two decades of delivering excellence in medical
+                                care.</p>
                         </div>
                     </div>
 
@@ -342,7 +342,8 @@
                         <div class="stat-content">
                             <h3 class="stat-number-static">100+</h3>
                             <h4 class="stat-label-static">Helplines</h4>
-                            <p class="stat-description-static">Always available to assist you with your healthcare needs.</p>
+                            <p class="stat-description-static">Always available to assist you with your healthcare
+                                needs.</p>
                         </div>
                     </div>
 
