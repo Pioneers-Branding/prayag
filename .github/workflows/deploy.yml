@@ -19,12 +19,9 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.VPS_SSH_KEY }}
 
-      - name: Add VPS to known_hosts
-        run: |
-          mkdir -p ~/.ssh
-          ssh-keyscan 72.61.224.90 >> ~/.ssh/known_hosts
-
       - name: Deploy to VPS
+        env:
+          GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
         run: |
           git remote add vps ssh://root@72.61.224.90/home/prayaghospital.in/repo.git
           git push -f vps main
