@@ -30,7 +30,7 @@
         <div class="container">
             <div class="blog-hero-content">
                 <h1 class="blog-hero-title">Our Network</h1>
-                <p class="blog-hero-subtitle">State-of-the-art medical facilities located in Noida and Gurugram,
+                <p class="blog-hero-subtitle">State-of-the-art medical facilities located in Noida and Greater Noida,
                     delievering excellence in healthcare.</p>
             </div>
         </div>
