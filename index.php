@@ -544,6 +544,7 @@
                                 </div>
                             </div>
 
+
                             <!-- News Item 1 -->
                             <div class="news-item">
                                 <div class="news-image">
