@@ -24,4 +24,4 @@ jobs:
           GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
         run: |
           git remote add vps ssh://root@72.61.224.90/home/prayaghospital.in/repo.git
-          git push -f vps main
+          git push -f vps HEAD:main
