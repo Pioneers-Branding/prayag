@@ -506,6 +506,44 @@
                     <!-- Right Side: News Slider -->
                     <div class="news-slider-container">
                         <div class="news-slider">
+                            <!-- News Item - ANI -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="assets/images/press/ANI-20260727081307.jpg"
+                                        alt="Emergency Limb-Saving Surgery">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">Emergency Limb-Saving Surgery Restores Hand Function in
+                                        35-Year-Old Patient</h3>
+                                    <p class="news-date">July 27, 2026</p>
+                                    <p class="news-excerpt">ANI reports on how emergency limb-saving surgery restored
+                                        hand function in a 35-year-old patient...</p>
+                                    <a href="https://www.aninews.in/news/business/emergency-limb-saving-surgery-restores-hand-function-in-35-year-old-patient-at-prayag-hospital20260727134329/"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- News Item - Punjab Kesari -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="assets/images/press/ANI-20260727081307.jpg"
+                                        alt="Emergency Limb-Saving Surgery">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">Emergency Limb-Saving Surgery Restores Hand Function in
+                                        35-Year-Old Patient</h3>
+                                    <p class="news-date">July 27, 2026</p>
+                                    <p class="news-excerpt">Punjab Kesari reports on how emergency limb-saving surgery
+                                        restored hand function in a 35-year-old patient...</p>
+                                    <a href="https://english.punjabkesari.com/business/emergency-limb-saving-surgery-restores-hand-function-in-35-year-old-patient-at-prayag-hospital/amp/"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
                             <!-- News Item 1 -->
                             <div class="news-item">
                                 <div class="news-image">

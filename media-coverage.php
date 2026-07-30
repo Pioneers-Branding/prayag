@@ -2,13 +2,77 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Emergency Limb-Saving Surgery Restores Hand Function in 35-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-07-27',
+        'excerpt' => 'Emergency Limb-Saving Surgery Restores Hand Function in a 35-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20260727081307.jpg',
+        'source' => 'ANI',
+        'link' => 'https://www.aninews.in/news/business/emergency-limb-saving-surgery-restores-hand-function-in-35-year-old-patient-at-prayag-hospital20260727134329/'
+    ],
+    [
+        'title' => 'Emergency Limb-Saving Surgery Restores Hand Function in 35-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-07-27',
+        'excerpt' => 'Emergency Limb-Saving Surgery Restores Hand Function in a 35-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20260727081307.jpg',
+        'source' => 'Punjab Kesari',
+        'link' => 'https://english.punjabkesari.com/business/emergency-limb-saving-surgery-restores-hand-function-in-35-year-old-patient-at-prayag-hospital/amp/'
+    ],
+    [
+        'title' => 'Emergency Limb-Saving Surgery Restores Hand Function in 35-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-07-27',
+        'excerpt' => 'Emergency Limb-Saving Surgery Restores Hand Function in a 35-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20260727081307.jpg',
+        'source' => 'The Tribune India',
+        'link' => 'https://www.tribuneindia.com/news/business/emergency-limb-saving-surgery-restores-hand-function-in-35-year-old-patient-at-prayag-hospital/amp'
+    ],
+    [
+        'title' => 'Emergency Limb-Saving Surgery Restores Hand Function in 35-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-07-27',
+        'excerpt' => 'Emergency Limb-Saving Surgery Restores Hand Function in a 35-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20260727081307.jpg',
+        'source' => 'Lokmat Times',
+        'link' => 'https://www.lokmattimes.com/business/emergency-limb-saving-surgery-restores-hand-function-in-35-year-old-patient-at-prayag-hospital/'
+    ],
+    [
+        'title' => 'Emergency Limb-Saving Surgery Restores Hand Function in 35-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-07-27',
+        'excerpt' => 'Emergency Limb-Saving Surgery Restores Hand Function in a 35-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20260727081307.jpg',
+        'source' => 'Daily Hunt',
+        'link' => 'https://m.dailyhunt.in/news/india/english/newsvoir-epaper-newsvoir/emergency+limbsaving+surgery+restores+hand+function+in+35yearold+patient+at+prayag+hospital-newsid-n721090283?listname=newspaperLanding&index=17&topicIndex=0&mode=pwa&action=click'
+    ],
+    [
+        'title' => 'Emergency Limb-Saving Surgery Restores Hand Function in 35-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-07-27',
+        'excerpt' => 'Emergency Limb-Saving Surgery Restores Hand Function in a 35-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20260727081307.jpg',
+        'source' => 'Latestly',
+        'link' => 'https://www.latestly.com/agency-news/business-news-emergency-limb-saving-surgery-restores-hand-function-in-35-year-old-patient-at-prayag-hospital-7533992.html'
+    ],
+    [
+        'title' => 'Emergency Limb-Saving Surgery Restores Hand Function in 35-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-07-27',
+        'excerpt' => 'Emergency Limb-Saving Surgery Restores Hand Function in a 35-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20260727081307.jpg',
+        'source' => 'WebIndia123',
+        'link' => 'https://news.webindia123.com/news/newsvoir.asp?c_article_id=36278&c_author_id=19539&originurl=https%3a%2f%2fnews.webindia123.com%2fnews%2fnewsvoir.asp'
+    ],
+    [
+        'title' => 'Emergency Limb-Saving Surgery Restores Hand Function in 35-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-07-27',
+        'excerpt' => 'Emergency Limb-Saving Surgery Restores Hand Function in a 35-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20260727081307.jpg',
+        'source' => 'Big News Network',
+        'link' => 'https://www.bignewsnetwork.com/news/279212028/emergency-limb-saving-surgery-restores-hand-function-in-35-year-old-patient-at-prayag-hospital'
+    ],
+    [
         'title' => 'World Mental Health Day 2025: Why Early Support For Children Changes Everything',
         'date' => '2025-10-10',
         'excerpt' => 'NDTV explores why early intervention and support for children\'s mental health is a game-changer for their future development.',
         'image' => 'https://c.ndtvimg.com/2025-10/065ea7b4_child-mental-health-1_625x300_09_October_25.jpg',
         'source' => 'NDTV',
         'link' => 'https://www.ndtv.com/health/world-mental-health-day-2025-why-early-support-for-children-changes-everything-9423991'
-    ],   
+    ],
     [
         'title' => 'Challenges to Patient Safety in India and What Hospitals Can Do About It',
         'date' => '2025-09-18',
@@ -163,7 +227,8 @@ $press_releases = [
         <div class="container">
             <div class="blog-hero-content">
                 <h1 class="blog-hero-title">Media Coverage</h1>
-                <p class="blog-hero-subtitle">Latest updates, announcements, and media coverage from Prayag Hospital.</p>
+                <p class="blog-hero-subtitle">Latest updates, announcements, and media coverage from Prayag Hospital.
+                </p>
             </div>
         </div>
     </section>
@@ -173,6 +238,7 @@ $press_releases = [
         .custom-tabs {
             gap: 15px;
         }
+
         .custom-tabs .nav-link {
             color: #555;
             font-weight: 600;
@@ -182,49 +248,59 @@ $press_releases = [
             transition: all 0.3s ease;
             background: #fff;
         }
+
         .custom-tabs .nav-link.active {
             color: #fff;
             background: var(--prayag-orange, #ff6a00);
             border-color: var(--prayag-orange, #ff6a00);
             box-shadow: 0 4px 15px rgba(255, 106, 0, 0.3);
         }
+
         .custom-tabs .nav-link:hover:not(.active) {
             border-color: var(--prayag-orange, #ff6a00);
             color: var(--prayag-orange, #ff6a00);
         }
-        
+
         .print-media-card {
             background: #fff;
             border-radius: 12px;
             overflow: hidden;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
             height: 100%;
             transition: all 0.3s ease;
             cursor: pointer;
             border: 1px solid #eee;
         }
+
         .print-media-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
         }
+
         .print-media-image-wrapper {
             position: relative;
             overflow: hidden;
             background: #f8f9fa;
         }
+
         .print-media-image {
             width: 100%;
             height: 400px;
             object-fit: contain;
             transition: transform 0.5s ease;
         }
+
         .print-media-card:hover .print-media-image {
             transform: scale(1.05);
         }
+
         .expand-overlay {
             position: absolute;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background: rgba(0,0,0,0.4);
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.4);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -233,9 +309,11 @@ $press_releases = [
             opacity: 0;
             transition: opacity 0.3s ease;
         }
+
         .print-media-card:hover .expand-overlay {
             opacity: 1;
         }
+
         .print-media-info {
             padding: 15px;
             text-align: center;
@@ -247,17 +325,20 @@ $press_releases = [
             background: transparent;
             border: none;
         }
+
         #lightboxModal .modal-body {
             padding: 0;
             display: flex;
             justify-content: center;
         }
+
         #lightboxModal .modal-img {
             max-width: 100%;
             max-height: 90vh;
             border-radius: 8px;
-            box-shadow: 0 0 40px rgba(0,0,0,0.5);
+            box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
         }
+
         #lightboxModal .btn-close {
             filter: invert(1);
             position: absolute;
@@ -272,10 +353,12 @@ $press_releases = [
             <!-- Tabs Navigation (Button Style) -->
             <ul class="nav nav-pills custom-tabs mb-5 justify-content-center border-0" id="mediaTabs" role="tablist">
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="online-tab" data-bs-toggle="tab" data-bs-target="#online" type="button" role="tab">Online Media Links</button>
+                    <button class="nav-link active" id="online-tab" data-bs-toggle="tab" data-bs-target="#online"
+                        type="button" role="tab">Online Media Links</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="print-tab" data-bs-toggle="tab" data-bs-target="#print" type="button" role="tab">Print Media</button>
+                    <button class="nav-link" id="print-tab" data-bs-toggle="tab" data-bs-target="#print" type="button"
+                        role="tab">Print Media</button>
                 </li>
             </ul>
 
@@ -284,28 +367,31 @@ $press_releases = [
                 <div class="tab-pane fade show active" id="online" role="tabpanel" aria-labelledby="online-tab">
                     <div class="row g-4">
                         <?php foreach ($press_releases as $press): ?>
-                        <div class="col-md-6 col-12">
-                            <article class="blog-post-card h-100">
-                                <div class="blog-post-image">
-                                    <img src="<?php echo $press['image']; ?>" alt="<?php echo $press['title']; ?>">
-                                    <div class="blog-category-badge"><?php echo $press['source']; ?></div>
-                                </div>
-                                <div class="blog-post-content d-flex flex-column h-100" style="min-height: 250px;">
-                                    <div class="blog-post-meta">
-                                        <span class="meta-item"><i class="far fa-calendar"></i> <?php echo date('M d, Y', strtotime($press['date'])); ?></span>
+                            <div class="col-md-6 col-12">
+                                <article class="blog-post-card h-100">
+                                    <div class="blog-post-image">
+                                        <img src="<?php echo $press['image']; ?>" alt="<?php echo $press['title']; ?>">
+                                        <div class="blog-category-badge"><?php echo $press['source']; ?></div>
                                     </div>
-                                    <h3 class="blog-post-title"><?php echo $press['title']; ?></h3>
-                                    <p class="blog-post-excerpt"><?php echo $press['excerpt']; ?></p>
-                                    <div class="blog-post-footer mt-auto">
-                                        <?php if ($press['link'] !== '#'): ?>
-                                            <a href="<?php echo $press['link']; ?>" target="_blank" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                        <?php else: ?>
-                                            <span class="btn-read-more" style="color: #666; cursor: default;">Print Coverage <i class="fas fa-newspaper"></i></span>
-                                        <?php endif; ?>
+                                    <div class="blog-post-content d-flex flex-column h-100" style="min-height: 250px;">
+                                        <div class="blog-post-meta">
+                                            <span class="meta-item"><i class="far fa-calendar"></i>
+                                                <?php echo date('M d, Y', strtotime($press['date'])); ?></span>
+                                        </div>
+                                        <h3 class="blog-post-title"><?php echo $press['title']; ?></h3>
+                                        <p class="blog-post-excerpt"><?php echo $press['excerpt']; ?></p>
+                                        <div class="blog-post-footer mt-auto">
+                                            <?php if ($press['link'] !== '#'): ?>
+                                                <a href="<?php echo $press['link']; ?>" target="_blank"
+                                                    class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                            <?php else: ?>
+                                                <span class="btn-read-more" style="color: #666; cursor: default;">Print Coverage
+                                                    <i class="fas fa-newspaper"></i></span>
+                                            <?php endif; ?>
+                                        </div>
                                     </div>
-                                </div>
-                            </article>
-                        </div>
+                                </article>
+                            </div>
                         <?php endforeach; ?>
                     </div>
                 </div>
@@ -321,22 +407,24 @@ $press_releases = [
                             ['title' => 'Community Health Features', 'image' => 'assets/images/media-coverage/press-3-nw.webp', 'date' => '2025-02-01'],
                             ['title' => 'Medical Breakthrough Coverage', 'image' => 'assets/images/media-coverage/press-4-nw.webp', 'date' => '2025-01-20']
                         ];
-                        
+
                         foreach ($print_media as $item): ?>
-                        <div class="col-lg-4 col-md-6 col-12">
-                            <div class="print-media-card" onclick="expandImage('<?php echo $item['image']; ?>', '<?php echo $item['title']; ?>')">
-                                <div class="print-media-image-wrapper">
-                                    <img src="<?php echo $item['image']; ?>" alt="<?php echo $item['title']; ?>" class="print-media-image">
-                                    <div class="expand-overlay">
-                                        <i class="fas fa-search-plus"></i>
+                            <div class="col-lg-4 col-md-6 col-12">
+                                <div class="print-media-card"
+                                    onclick="expandImage('<?php echo $item['image']; ?>', '<?php echo $item['title']; ?>')">
+                                    <div class="print-media-image-wrapper">
+                                        <img src="<?php echo $item['image']; ?>" alt="<?php echo $item['title']; ?>"
+                                            class="print-media-image">
+                                        <div class="expand-overlay">
+                                            <i class="fas fa-search-plus"></i>
+                                        </div>
                                     </div>
-                                </div>
-                                <!-- <div class="print-media-info">
+                                    <!-- <div class="print-media-info">
                                     <p class="text-muted small mb-1"><?php echo date('M d, Y', strtotime($item['date'])); ?></p>
                                     <h5 class="mb-0"><?php echo $item['title']; ?></h5>
                                 </div> -->
+                                </div>
                             </div>
-                        </div>
                         <?php endforeach; ?>
                     </div>
                 </div>
