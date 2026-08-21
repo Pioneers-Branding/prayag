@@ -5,8 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Multispeciality Hospital in Noida | Prayag Hospital</title>
-    <meta name="description" content="Prayag Hospital, Noida - NABH-accredited multispeciality hospital since 1995. 100+ doctors, 24x7 emergency & advanced care. Book an appointment today.">
-    <meta name="keywords" content="multispeciality hospital in noida, best hospital in noida, prayag hospital, NABH hospital noida, hospital near noida city centre">
+    <meta name="description"
+        content="Prayag Hospital, Noida - NABH-accredited multispeciality hospital since 1995. 100+ doctors, 24x7 emergency & advanced care. Book an appointment today.">
+    <meta name="keywords"
+        content="multispeciality hospital in noida, best hospital in noida, prayag hospital, NABH hospital noida, hospital near noida city centre">
 
     <?php include 'header-links.php'; ?>
 
@@ -32,9 +34,7 @@
                         <source src="https://brandingpioneers.co.in/prayag/final-video.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
-                    <div class="video-overlay d-flex align-items-center justify-content-center">
-                        <h1 class="text-white text-center fw-bold px-3" style="font-size: 3.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.7); z-index: 2;">Prayag Hospital — Leading Multispeciality Hospital in Noida</h1>
-                    </div>
+
                 </div>
             </div>
         </section>
