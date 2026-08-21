@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cancer Care (Oncology) - Best Oncologists in India | Prayag Hospital</title>
+    <title>Best Cancer Hospital in Noida | Oncology | Prayag</title>
+    <meta name="description" content="Comprehensive cancer care in Noida - medical, surgical & radiation oncology with a multidisciplinary team at Prayag Hospital. Consult an oncologist.">
+    <meta name="keywords" content="cancer hospital in noida, best oncologist in noida, cancer treatment noida, chemotherapy noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Comprehensive Cancer Care Centre | Prayag Hospital
+                            Oncology - Comprehensive Cancer Care in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Bringing hope through advanced cancer treatment. We offer a holistic approach with Surgical, Medical, 

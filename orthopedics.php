@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Orthopedics & Joint Replacement - Best Bone & Joint Hospital in India | Prayag Hospital</title>
+    <title>Best Orthopaedic Hospital in Noida | Joint Replacement</title>
+    <meta name="description" content="Orthopaedic & joint replacement surgery in Noida - knee, hip & sports injury care by expert surgeons at Prayag Hospital. Book a consultation.">
+    <meta name="keywords" content="orthopaedic hospital in noida, joint replacement noida, best orthopaedic doctor noida, knee replacement noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Department of Orthopedics & Joint Replacement
+                            Orthopaedics & Joint Replacement in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Bone, Joint & Spine Care Excellence

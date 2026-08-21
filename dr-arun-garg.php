@@ -29,11 +29,29 @@ if (!$doctor) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $doctor['name']; ?> - <?php echo $doctor['specialty']; ?> | Prayag Hospital</title>
+    <title>Dr. Arun Garg – ENT Specialist in Noida | Prayag Hospital</title>
+    <meta name="description" content="Consult Dr. Arun Garg, ENT Specialist at Prayag Hospital, Noida with 30 years' experience. Book an appointment online or call 0120-4021900.">
+    <meta name="keywords" content="ent specialist in noida">
 
     <?php include 'header-links.php'; ?>
 
 
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Arun Garg",
+    "medicalSpecialty": "ENT",
+    "description": "30 years of experience",
+    "url": "https://prayaghospital.in/dr-arun-garg.php",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Prayag Hospital",
+        "address": "Noida, UP"
+    }
+}
+    </script>
 </head>
 
 <body>

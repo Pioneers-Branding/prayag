@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Obstetrics & Gynecology - Best Maternity Hospital in India | Prayag Hospital</title>
+    <title>Best Gynaecologist & Maternity Hospital in Noida</title>
+    <meta name="description" content="Complete mother & child care in Noida - pregnancy, delivery, high-risk maternity & gynae care at Prayag Hospital. Consult expert gynaecologists.">
+    <meta name="keywords" content="maternity hospital in noida, best gynaecologist in noida, pregnancy delivery noida, mother and child care noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Department of Obstetrics & Gynecology
+                            Mother & Child Care - Maternity & Gynaecology in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Women's Health & Maternity Services

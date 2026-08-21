@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anesthesiology & Pain Management - Safe & Painless Surgery | Prayag Hospital</title>
+    <title>Anaesthesiology & Pain Management in Noida | Prayag</title>
+    <meta name="description" content="Expert anaesthesia & pain management for safe surgery at Prayag Hospital, Noida. Dedicated anaesthesiology team for every procedure.">
+    <meta name="keywords" content="pain management in noida, anaesthesiology noida, painless surgery noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -36,20 +38,19 @@
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">
                             Anesthesiology
-                        </li>
-                    </ol>
-                </nav>
-            </div>
+    <section class="department-hero">
+        <div class="hero-bg">
+            <img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80" alt="Anesthesiology Department" class="hero-bg-img">
+            <div class="hero-overlay"></div>
         </div>
-
-        <!-- Hero Content -->
+        
         <div class="hero-content-wrapper">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Department of Anesthesiology & Pain Management
+                            Anaesthesiology & Pain Management
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Ensuring patient safety and comfort is our top priority. We provide world-class anesthesia services for all surgical specialties, critical care, and pain management using advanced monitoring and precision techniques.

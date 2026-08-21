@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Our Hospitals - Prayag Hospital & Research Centre</title>
+    <title>Our Hospitals & Network | Prayag Hospital Noida</title>
+    <meta name="description" content="Explore the Prayag Hospital network — Sector 41 Noida and Greater Noida (Delta II) branches offering multispeciality care across NCR.">
+    <meta name="keywords" content="prayag hospital branches, prayag hospital greater noida, prayag hospital locations">
     <?php include 'header-links.php'; ?>
 </head>
 
@@ -29,7 +31,7 @@
     <section class="blog-hero-section">
         <div class="container">
             <div class="blog-hero-content">
-                <h1 class="blog-hero-title">Our Network</h1>
+                <h1 class="blog-hero-title">The Prayag Hospital Network</h1>
                 <p class="blog-hero-subtitle">State-of-the-art medical facilities located in Noida and Greater Noida,
                     delievering excellence in healthcare.</p>
             </div>

@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dietetics & Nutrition - Healthy Living | Prayag Hospital</title>
+    <title>Dietitian & Nutrition Counselling in Noida | Prayag</title>
+    <meta name="description" content="Personalised diet & nutrition counselling in Noida for weight, diabetes & clinical nutrition at Prayag Hospital. Consult a dietitian.">
+    <meta name="keywords" content="dietician in noida, nutritionist noida, diet counselling noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +51,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Department of Dietetics & Clinical Nutrition
+                            Dietetics & Nutrition in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             At Prayag Hospital, we believe that good nutrition is the foundation of good health. Our expert dieticians provide personalized diet plans to help you manage diseases, recover faster, and lead a healthy lifestyle.

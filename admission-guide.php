@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admission Guide & Process - Prayag Hospital</title>
+    <title>Patient Admission Guide | Prayag Hospital, Noida</title>
+    <meta name="description" content="Everything you need for a smooth admission at Prayag Hospital, Noida — process, documents, room options & billing. Read the admission guide.">
+    <meta name="keywords" content="hospital admission process noida, prayag hospital admission, hospital room charges noida">
     <?php include 'header-links.php'; ?>
 
 </head>
@@ -29,7 +31,7 @@
     <section class="blog-hero-section">
         <div class="container">
             <div class="blog-hero-content">
-                <h1 class="blog-hero-title">Admission Guide</h1>
+                <h1 class="blog-hero-title">Patient Admission Guide</h1>
                 <p class="blog-hero-subtitle">A step-by-step guide to make your hospital admission process smooth and
                     hassle-free.</p>
             </div>

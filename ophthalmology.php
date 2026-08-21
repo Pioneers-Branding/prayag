@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ophthalmology & Eye Care Centre - Best Eye Hospital | Prayag Hospital</title>
+    <title>Eye Specialist & Ophthalmologist in Noida | Prayag</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Centre for Ophthalmology
+                            Ophthalmology - Complete Eye Care in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital provides comprehensive eye care services ranging from routine vision correction to complex surgical procedures. We are dedicated to preserving and restoring your vision using world-class technology.

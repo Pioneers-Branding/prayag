@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blood Bank - 24/7 Life Saving Support | Prayag Hospital</title>
+    <title>Blood Bank in Noida | Prayag Hospital</title>
+    <meta name="description" content="Licensed 24x7 blood bank in Noida at Prayag Hospital — safe blood & components, donation camps & emergency supply. Call 0120-4021900.">
+    <meta name="keywords" content="blood bank in noida, blood donation noida, 24 hour blood bank noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -88,7 +90,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            24/7 State-of-the-Art Blood Bank & Storage
+                            Blood Bank in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital's Blood Bank is a licensed unit dedicated to providing safe and quality blood and its components. We follow stringent international protocols for screening and storage to ensure every drop saves a life.

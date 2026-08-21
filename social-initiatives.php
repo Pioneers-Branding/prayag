@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Social Initiatives - Prayag Hospital</title>
+    <title>Social Initiatives & CSR | Prayag Hospital, Noida</title>
+    <meta name="description" content="Prayag Hospital's community health & CSR initiatives in Noida — free camps, awareness drives & 'Sewa Parmo Dharma' in action.">
+    <meta name="keywords" content="prayag hospital CSR, hospital social initiatives noida, Social Initiatives">
 
     <?php include 'header-links.php'; ?>
 

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vascular Surgery - Blood Vessel & Circulatory Care | Prayag Hospital</title>
+    <title>Vascular Surgeon in Noida | Varicose Veins | Prayag</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Vascular Surgery Centre
+                            Vascular Surgery in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital's Department of Vascular Surgery specializes in treating diseases of the blood vessels including arteries and veins. Our vascular surgeons perform both open surgical and minimally invasive endovascular procedures for conditions like varicose veins, aneurysms, and peripheral artery disease.

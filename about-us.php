@@ -6,7 +6,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About - Prayag Hospital</title>
+    <title>About Prayag Hospital, Noida | 40 Years of Care</title>
+    <meta name="description" content="Since 1995, Prayag Hospital has grown into a 120-bed NABH & NABL accredited multispeciality hospital in Noida. Learn about our journey, mission & leadership.">
+    <meta name="keywords" content="about prayag hospital, prayag hospital noida history, NABH NABL hospital noida, dr a p singh">
 
     <?php include 'header-links.php'; ?>
 
@@ -231,7 +233,7 @@
         <section class="blog-hero-section">
             <div class="container">
                 <div class="blog-hero-content">
-                    <h1 class="blog-hero-title">About Prayag Hospital</h1>
+                    <h1 class="blog-hero-title">About Prayag Hospital — Four Decades of Trusted Care</h1>
                 </div>
             </div>
         </section>

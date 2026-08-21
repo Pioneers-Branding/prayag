@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Support Services - Patient Care & Facilities | Prayag Hospital</title>
+    <title>Patient Support Services | Prayag Hospital, Noida</title>
+    <meta name="description" content="24x7 pharmacy, dietary services, ambulance & patient support at Prayag Hospital, Noida. Everything you need for a comfortable stay.">
+    <meta name="keywords" content="hospital support services, 24 hour pharmacy noida, patient support noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +51,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Comprehensive Patient Support Services
+                            Patient Support Services
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             At Prayag Hospital, we believe that healing goes beyond medical treatment. Our dedicated support services ensure a seamless, comfortable, and hassle-free experience for patients and their families.

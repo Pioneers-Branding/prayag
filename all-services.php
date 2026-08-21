@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All Services - Comprehensive Medical Care | Prayag Hospital</title>
+    <title>Medical Services & Specialities in Noida | Prayag</title>
+    <meta name="description" content="Explore 30+ medical specialities at Prayag Hospital, Noida - cardiac, ortho, cancer, neuro, mother & child care and more, all under one roof.">
+    <meta name="keywords" content="hospital services noida, multispeciality services noida, medical specialities noida">
 
     <?php include 'header-links.php'; ?>
 

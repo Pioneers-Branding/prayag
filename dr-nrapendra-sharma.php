@@ -29,11 +29,29 @@ if (!$doctor) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $doctor['name']; ?> - <?php echo $doctor['specialty']; ?> | Prayag Hospital</title>
+    <title>Dr. Nrapendra Sharma – Urologist in Noida | Prayag Hospital</title>
+    <meta name="description" content="Consult Dr. Nrapendra Sharma, Urologist at Prayag Hospital, Noida with 6 years' experience. Book an appointment online or call 0120-4021900.">
+    <meta name="keywords" content="urologist in noida">
 
     <?php include 'header-links.php'; ?>
 
 
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Nrapendra Sharma",
+    "medicalSpecialty": "Urology",
+    "description": "6 years of experience",
+    "url": "https://prayaghospital.in/dr-nrapendra-sharma.php",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Prayag Hospital",
+        "address": "Noida, UP"
+    }
+}
+    </script>
 </head>
 
 <body>

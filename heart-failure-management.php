@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Heart Failure Clinic - Management & Treatment | Prayag Hospital</title>
+    <title>Heart Failure Treatment in Noida | Prayag Hospital</title>
+    <meta name="description" content="Comprehensive heart failure management in Noida at Prayag Hospital — medical & interventional therapies to improve quality of life.">
+    <meta name="keywords" content="heart failure treatment noida, CHF treatment noida, cardiac care noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Comprehensive Heart Failure Management
+                            Heart Failure Management
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Living well with a weak heart is possible. Our dedicated Heart Failure Clinic provides advanced medical management, 

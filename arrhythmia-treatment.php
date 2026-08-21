@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arrhythmia Treatment - Pacemaker, EPS, RFA | Prayag Hospital</title>
+    <title>Arrhythmia Treatment in Noida | Prayag Hospital</title>
+    <meta name="description" content="Treatment for irregular heartbeat in Noida — catheter ablation & electrophysiology at Prayag Hospital. Consult a heart rhythm specialist.">
+    <meta name="keywords" content="arrhythmia treatment noida, irregular heartbeat treatment noida, ablation noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Comprehensive Arrhythmia Management
+                            Arrhythmia Treatment
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Expert care for heart rhythm disorders. We provide advanced solutions like Electrophysiology Studies (EPS), 

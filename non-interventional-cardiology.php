@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Non-Interventional Cardiology - Cardiac Diagnostics | Prayag Hospital</title>
+    <title>Non-Interventional Cardiology in Noida | Prayag</title>
+    <meta name="description" content="Preventive heart care & lipid management in Noida without invasive procedures at Prayag Hospital. Expert non-interventional cardiology.">
+    <meta name="keywords" content="preventive cardiology noida, lipid management noida, heart checkup noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Non-Interventional Cardiology | Diagnostic Cardiac Care - Prayag Hospital
+                            Non-Interventional Cardiology
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Specializing in the detection and medical management of heart diseases. We use advanced diagnostic 

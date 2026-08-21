@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Infrastructure & Facilities - Prayag Hospital</title>
+    <title>Hospital Infrastructure & Facilities | Prayag Noida</title>
+    <meta name="description" content="Modular OTs, advanced ICUs, CT/MRI imaging and 120 beds — see the infrastructure behind world-class care at Prayag Hospital, Noida.">
+    <meta name="keywords" content="hospital infrastructure noida, prayag hospital facilities, ICU noida, modular OT noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -254,7 +256,7 @@
         <section class="blog-hero-section">
             <div class="container">
                 <div class="blog-hero-content">
-                    <h1 class="blog-hero-title">World Class Infrastructure</h1>
+                    <h1 class="blog-hero-title">World-Class Infrastructure & Facilities</h1>
                     <p class="blog-hero-subtitle">Designed for Patient Comfort, Safety, and Healing</p>
                 </div>
             </div>
@@ -270,9 +272,9 @@
                     // Loop through all 35 images
                     for ($i = 1; $i <= 35; $i++) {
                         echo '<div class="gallery-item" data-index="' . ($i - 1) . '">';
-                        echo '<img src="assets/images/gallery/' . $i . '-1.webp" alt="Infrastructure Image ' . $i . '">';
+                        echo '<img src="assets/images/gallery/' . $i . '-1.webp" alt="Prayag Hospital World-Class Infrastructure and Facility View ' . $i . '">';
                         echo '<div class="gallery-item-overlay">';
-                        echo '<p class="gallery-item-title">Infrastructure ' . $i . '</p>';
+                        echo '<p class="gallery-item-title">Prayag Hospital Facility ' . $i . '</p>';
                         echo '</div>';
                         echo '</div>';
                     }

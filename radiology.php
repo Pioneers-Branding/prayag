@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Radiology & Imaging - Advanced Diagnostic Centre | Prayag Hospital</title>
+    <title>Radiology & Diagnostic Imaging in Noida | CT MRI | Prayag</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Centre for Radiology & Imaging
+                            Radiology & Diagnostic Imaging in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital offers 24/7 advanced diagnostic services with high-precision imaging technology. Our expert radiologists ensure accurate and timely diagnosis for effective treatment planning.

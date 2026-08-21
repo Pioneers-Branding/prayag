@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Treadmill Testing (TMT) - Cardiac Stress Test | Prayag Hospital</title>
+    <title>TMT / Treadmill Test in Noida | Prayag Hospital</title>
+    <meta name="description" content="Cardiac stress (TMT / treadmill) testing in Noida at Prayag Hospital. Accurate heart function evaluation by expert cardiology team.">
+    <meta name="keywords" content="TMT test in noida, treadmill test noida, cardiac stress test noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +51,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Treadmill Testing (TMT / Cardiac Stress Test)
+                            Treadmill Testing (TMT)
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital's Treadmill Testing facility provides comprehensive cardiac stress testing to evaluate heart function during exercise. Essential for diagnosing coronary artery disease and assessing cardiac fitness.

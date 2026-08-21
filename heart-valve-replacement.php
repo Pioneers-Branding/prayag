@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Heart Valve Replacement Surgery (MVR, AVR) | Prayag Hospital</title>
+    <title>Heart Valve Replacement Surgery in Noida | Prayag</title>
+    <meta name="description" content="Heart valve repair & replacement surgery in Noida at Prayag Hospital — surgical & minimally invasive options by expert cardiac surgeons.">
+    <meta name="keywords" content="heart valve replacement noida, valve surgery noida, heart surgery noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Heart Valve Replacement & Repair
+                            Heart Valve Replacement
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Expert care for valvular heart diseases. We specialize in Mitral Valve Replacement (MVR), 

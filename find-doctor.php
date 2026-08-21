@@ -4,11 +4,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Find a Doctor - Expert Medical Professionals | Prayag Hospital</title>
+    <title>Find a Doctor in Noida | 100+ Specialists | Prayag</title>
+    <meta name="description" content="Find the right specialist at Prayag Hospital, Noida. Search 100+ expert doctors by department, view profiles & book an appointment online.">
+    <meta name="keywords" content="find a doctor in noida, doctors in noida, specialist doctor noida, prayag hospital doctors">
 
     <?php include 'header-links.php'; ?>
 
-
+    <?php include 'doctors-data.php'; ?>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        <?php
+        $items = [];
+        $pos = 1;
+        foreach ($doctors as $doctor) {
+            $slug = isset($doctor['slug']) ? $doctor['slug'] : $doctor['id'];
+            $url = 'https://prayaghospital.in/' . $slug . '.php';
+            $items[] = '{
+                "@type": "ListItem",
+                "position": ' . $pos . ',
+                "url": "' . $url . '"
+            }';
+            $pos++;
+        }
+        echo implode(',', $items);
+        ?>
+      ]
+    }
+    </script>
 </head>
 
 <body>

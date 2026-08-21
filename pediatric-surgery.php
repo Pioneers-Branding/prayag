@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pediatric Surgery - Child Surgical Care | Prayag Hospital</title>
+    <title>Paediatric Surgeon in Noida | Prayag Hospital</title>
+    <meta name="description" content="Expert paediatric surgical care for children in Noida at Prayag Hospital. Consult a paediatric surgeon for safe, child-friendly treatment.">
+    <meta name="keywords" content="paediatric surgeon in noida, child surgeon noida, pediatric surgery noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -13,6 +15,7 @@
             width: 100% !important;
         }
     </style>
+    <link rel="canonical" href="https://prayaghospital.in/paediatric-surgery.php">
 </head>
 
 <body>
@@ -36,20 +39,19 @@
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">
                             Pediatric Surgery
-                        </li>
-                    </ol>
-                </nav>
-            </div>
+    <section class="department-hero">
+        <div class="hero-bg">
+            <img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80" alt="Pediatric Surgery Department" class="hero-bg-img">
+            <div class="hero-overlay"></div>
         </div>
-
-        <!-- Hero Content -->
+        
         <div class="hero-content-wrapper">
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Pediatric Surgery Centre
+                            Paediatric Surgery in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital's Department of Pediatric Surgery provides specialized surgical care for infants, children, and adolescents. Our expert pediatric surgeons handle congenital anomalies, neonatal emergencies, and childhood surgical conditions with precision and compassionate care.

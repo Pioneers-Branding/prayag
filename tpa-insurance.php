@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TPA & Insurance - Cashless Mediclaim | Prayag Hospital</title>
+    <title>Cashless Mediclaim & TPA / Insurance | Prayag Hospital</title>
+    <meta name="description" content="Cashless treatment at Prayag Hospital, Noida — list of empanelled TPAs & insurance partners, Ayushman Bharat & CGHS. Check your coverage.">
+    <meta name="keywords" content="cashless hospital in noida, TPA hospital noida, ayushman bharat hospital noida, mediclaim noida">
     <?php include 'header-links.php'; ?>
 
 </head>
@@ -30,7 +32,7 @@
     <section class="blog-hero-section">
         <div class="container">
             <div class="blog-hero-content">
-                <h1 class="blog-hero-title">TPA & Insurance</h1>
+                <h1 class="blog-hero-title">TPA & Insurance — Cashless Treatment</h1>
                 <p class="blog-hero-subtitle">Hassle-free cashless hospitalization services with our wide network of insurance partners.</p>
             </div>
         </div>
@@ -123,147 +125,147 @@
             <div class="row g-3">
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/East-West-Assist-Insurance-TPA-Private-Limited.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/East-West-Assist-Insurance-TPA-Private-Limited.png" class="img-fluid" alt="East West Assist Insurance Tpa Private Limited TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/Erecson-Logo.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/Erecson-Logo.png" class="img-fluid" alt="Erecson Logo TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/Genins-India.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/Genins-India.png" class="img-fluid" alt="Genins India TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/HDFC-Ergo.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/HDFC-Ergo.png" class="img-fluid" alt="Hdfc Ergo TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/Happy-TPA.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/Happy-TPA.png" class="img-fluid" alt="Happy Tpa TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/Heritage Health Insurance.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/Heritage Health Insurance.png" class="img-fluid" alt="Heritage Health Insurance TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/ICICI-Lombard-General-Insurance.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/ICICI-Lombard-General-Insurance.png" class="img-fluid" alt="Icici Lombard General Insurance TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/Liberty-general-insurance.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/Liberty-general-insurance.png" class="img-fluid" alt="Liberty General Insurance TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/MedSSave.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/MedSSave.png" class="img-fluid" alt="Medssave TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/Medi_assist.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/Medi_assist.png" class="img-fluid" alt="Medi_Assist TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/Paramount Health Services & Insurance.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/Paramount Health Services & Insurance.png" class="img-fluid" alt="Paramount Health Services & Insurance TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/ParkNew.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/ParkNew.png" class="img-fluid" alt="Parknew TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/Raksha-TPA.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/Raksha-TPA.png" class="img-fluid" alt="Raksha Tpa TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/Star_Health.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/Star_Health.png" class="img-fluid" alt="Star_Health TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/UnitedHealthcare Parekh.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/UnitedHealthcare Parekh.png" class="img-fluid" alt="Unitedhealthcare Parekh TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/aditya-capital.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/aditya-capital.png" class="img-fluid" alt="Aditya Capital TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/bajaj-alliance.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/bajaj-alliance.png" class="img-fluid" alt="Bajaj Alliance TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/fhpl.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/fhpl.png" class="img-fluid" alt="Fhpl TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/future-generali.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/future-generali.png" class="img-fluid" alt="Future Generali TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/good-health-TPA.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/good-health-TPA.png" class="img-fluid" alt="Good Health Tpa TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/health-india-insurance-tpa.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/health-india-insurance-tpa.png" class="img-fluid" alt="Health India Insurance Tpa TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/health-insurance-tpa.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/health-insurance-tpa.png" class="img-fluid" alt="Health Insurance Tpa TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/icici-prudential-life-insurance-original.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/icici-prudential-life-insurance-original.png" class="img-fluid" alt="Icici Prudential Life Insurance Original TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/iffco-tokio-logo-english.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/iffco-tokio-logo-english.png" class="img-fluid" alt="Iffco Tokio Logo English TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/md-india.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/md-india.png" class="img-fluid" alt="Md India TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/navi-health.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/navi-health.png" class="img-fluid" alt="Navi Health TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/niva-health.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/niva-health.png" class="img-fluid" alt="Niva Health TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/safewaylogo.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/safewaylogo.png" class="img-fluid" alt="Safewaylogo TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-6 text-center">
                     <div class="tpa-card">
-                        <h4 class="tpa-name"><img src="assets/images/tpa/universal-sompo-general-insurance.png" class="img-fluid" style="max-height: 80px;"></h4>
+                        <h4 class="tpa-name"><img src="assets/images/tpa/universal-sompo-general-insurance.png" class="img-fluid" alt="Universal Sompo General Insurance TPA and Insurance Partner" style="max-height: 80px;"></h4>
                     </div>
                 </div>
             </div>

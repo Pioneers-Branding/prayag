@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plastic & Reconstructive Surgery - Best Cosmetic Hospital | Prayag Hospital</title>
+    <title>Plastic & Cosmetic Surgeon in Noida | Prayag Hospital</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Centre of Excellence for Plastic & Reconstructive Surgery
+                            Plastic & Reconstructive Surgery in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital offers world-class expertise in both cosmetic enhancements and complex reconstructive surgeries. We combine surgical precision with artistic finesse to restore form, function, and confidence.

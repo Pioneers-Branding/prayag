@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ENT (Ear, Nose, Throat) & Head Neck Surgery | Prayag Hospital</title>
+    <title>Best ENT Specialist in Noida | Cochlear Implant | Prayag</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced ENT & Head Neck Surgery Centre
+                            ENT & Cochlear Implant Centre in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital offers comprehensive care for Ear, Nose, and Throat disorders. Our state-of-the-art facility provides advanced diagnostic and surgical treatments for sinusitis, hearing loss, voice disorders, and head & neck cancers.

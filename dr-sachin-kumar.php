@@ -36,11 +36,29 @@ if (!$doctor) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $doctor['name']; ?> - <?php echo $doctor['specialty']; ?> | Prayag Hospital</title>
+    <title>Dr. Sachin Kumar – Orthopedic Surgeon in Noida | Prayag Hospital</title>
+    <meta name="description" content="Consult Dr. Sachin Kumar, Orthopedic Surgeon at Prayag Hospital, Noida with 15 years' experience. Book an appointment online or call 0120-4021900.">
+    <meta name="keywords" content="orthopedic surgeon in noida">
 
     <?php include 'header-links.php'; ?>
 
 
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Sachin Kumar",
+    "medicalSpecialty": "Orthopedics",
+    "description": "15 years of experience",
+    "url": "https://prayaghospital.in/dr-sachin-kumar.php",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Prayag Hospital",
+        "address": "Noida, UP"
+    }
+}
+    </script>
 </head>
 
 <body>

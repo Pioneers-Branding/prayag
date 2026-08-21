@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Emergency Medicine & Trauma - Best Emergency Hospital in India | Prayag Hospital</title>
+    <title>24x7 Emergency Hospital in Noida | Prayag Hospital</title>
+    <meta name="description" content="24x7 emergency & trauma care in Noida. Ambulance, casualty & rapid response at Prayag Hospital - call 0120-4021900. Immediate medical help.">
+    <meta name="keywords" content="emergency hospital in noida, 24 hour hospital noida, trauma centre noida, ambulance noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +51,8 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            24/7 Emergency & Trauma Centre | Advanced Life Support Ambulance - Prayag Hospital
+                            24x7 Emergency & Trauma Care in Noida
+                            <br><a href="tel:01204021900" class="btn btn-danger mt-3 px-4 py-2" style="font-size:1.2rem"><i class="fas fa-phone-alt me-2"></i>Call 0120-4021900</a>
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital provides round-the-clock emergency care with a dedicated trauma team, advanced

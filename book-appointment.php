@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Book Appointment - Schedule Your Visit | Prayag Hospital</title>
+    <title>Book a Doctor Appointment Online | Prayag Hospital</title>
+    <meta name="description" content="Book an appointment with top specialists at Prayag Hospital, Noida in minutes. Choose your doctor, date & time online or call 0120-4021900.">
+    <meta name="keywords" content="book appointment prayag hospital, doctor appointment noida, online appointment noida hospital">
     <?php include 'header-links.php'; ?>
 
     <style>
@@ -244,7 +246,7 @@
                 <!-- Left Column: Booking Form -->
                 <div class="appointment-form-left">
                     <div class="form-section-head">
-                        <h2 class="form-section-title">Book an Appointment</h2>
+                        <h1 class="form-section-title">Book Your Appointment</h1>
                         <p class="form-section-subtitle">Take the first step towards better health. Fill out the form
                             below to request a consultation with our expert doctors.</p>
                     </div>

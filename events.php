@@ -19,7 +19,9 @@ $events = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Events & Workshops - Prayag Hospital</title>
+    <title>Events & Health Camps | Prayag Hospital, Noida</title>
+    <meta name="description" content="Upcoming health camps, awareness drives & events at Prayag Hospital, Noida. Join our free checkups & community health initiatives.">
+    <meta name="keywords" content="health camp in noida, free health checkup camp noida, prayag hospital events">
     <?php include 'header-links.php'; ?>
 </head>
 
@@ -43,7 +45,7 @@ $events = [
     <section class="blog-hero-section">
         <div class="container">
             <div class="blog-hero-content">
-                <h1 class="blog-hero-title">Events & Workshops</h1>
+                <h1 class="blog-hero-title">Events & Health Camps</h1>
                 <p class="blog-hero-subtitle">Participate in our health camps, medical workshops, and community
                     awareness programs.</p>
             </div>

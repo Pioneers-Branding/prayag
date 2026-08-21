@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cardiac Care - Best Cardiology Hospital in India | Prayag Hospital</title>
+    <title>Best Cardiology Hospital in Noida | Prayag Hospital</title>
+    <meta name="description" content="Advanced cardiac care in Noida - cath lab, angioplasty, bypass & 24x7 heart emergency at Prayag Hospital. Consult expert cardiologists. Book now.">
+    <meta name="keywords" content="cardiology hospital in noida, best heart hospital noida, cardiologist in noida, angioplasty noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +51,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Best Cardiology Hospital in India | Top Heart Hospital - Prayag Heart Institute
+                            Best Cardiology Hospital in Noida - Prayag Heart Institute
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital offers comprehensive cardiac care with state-of-the-art facilities,

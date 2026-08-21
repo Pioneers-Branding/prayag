@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gastroenterology & Hepatology - Best Gastro Hospital in India | Prayag Hospital</title>
+    <title>Best Gastroenterologist in Noida | Liver & Digestive</title>
+    <meta name="description" content="Expert gastroenterology & hepatology in Noida - endoscopy, liver disease & digestive care at Prayag Hospital. Consult a gastroenterologist today.">
+    <meta name="keywords" content="gastroenterologist in noida, liver specialist noida, endoscopy noida, digestive care noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Centre for Gastroenterology & Hepatology | Liver & Digestive Care - Prayag Hospital
+                            Gastroenterology & Hepatology in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital provides advanced diagnostic and therapeutic services for digestive and liver disorders. 

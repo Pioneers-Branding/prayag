@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neuroscience - Best Neurology & Neurosurgery Hospital in India | Prayag Hospital</title>
+    <title>Best Neurology Hospital in Noida | Prayag Hospital</title>
+    <meta name="description" content="Expert neurology & neurosurgery in Noida for stroke, epilepsy, spine & brain disorders. Advanced care at Prayag Hospital. Consult a neurologist today.">
+    <meta name="keywords" content="neurology hospital in noida, best neurologist in noida, neurosurgeon noida, brain hospital noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Neuroscience Centre | Top Neurology & Neurosurgery Hospital - Prayag Hospital
+                            Neurosciences - Advanced Brain & Spine Care in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital offers world-class care for disorders of the brain, spine, and nervous system. 

@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Preventive Health Checkups - Wellness Packages | Prayag Hospital</title>
+    <title>Health Checkup & Preventive Packages in Noida | Prayag</title>
+    <meta name="description" content="Affordable full body health checkup packages in Noida at Prayag Hospital — preventive screening for heart, diabetes & more. Book your checkup.">
+    <meta name="keywords" content="health checkup in noida, full body checkup noida, preventive health package noida, master health checkup noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -13,6 +15,29 @@
             width: 100% !important;
         }
     </style>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Preventive Health Checkup Packages",
+      "image": "https://prayaghospital.in/assets/images/Health-Checkups-thumb.webp",
+      "description": "Affordable full body health checkup packages in Noida at Prayag Hospital — preventive screening for heart, diabetes & more.",
+      "brand": {
+        "@type": "MedicalOrganization",
+        "name": "Prayag Hospital"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "url": "https://prayaghospital.in/health-checkup.php",
+        "priceCurrency": "INR",
+        "lowPrice": "999",
+        "highPrice": "15000",
+        "offerCount": "10"
+      }
+    }
+    </script>
+
 </head>
 
 <body>
@@ -49,7 +74,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Preventive Health Checkups
+                            Preventive Health Checkup Packages in Noida
                         </h1>
                         <p class="hero-subtitle text-dark">
                             Prevention is better than cure. Our comprehensive health checkup packages are designed to detect health issues early, ensuring a longer, healthier, and happier life for you and your family.

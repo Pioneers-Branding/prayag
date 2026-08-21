@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Govt Panels - Empanelled Partnerships | Prayag Hospital</title>
+    <title>Government Panels — CGHS, Ayushman | Prayag Hospital</title>
+    <meta name="description" content="Prayag Hospital, Noida is empanelled under CGHS, Ayushman Bharat & other government health schemes. Check eligibility & panel details.">
+    <meta name="keywords" content="CGHS hospital in noida, ayushman bharat hospital noida, ECHS hospital noida">
     <?php include 'header-links.php'; ?>
 
 </head>
@@ -30,7 +32,7 @@
     <section class="blog-hero-section">
         <div class="container">
             <div class="blog-hero-content">
-                <h1 class="blog-hero-title">Govt Panels</h1>
+                <h1 class="blog-hero-title">Government Panels & Empanelment</h1>
                 <p class="blog-hero-subtitle">We are proud to be associated with various Government departments and organizations providing quality healthcare services.</p>
             </div>
         </div>

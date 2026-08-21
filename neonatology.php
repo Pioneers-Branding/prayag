@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neonatology - Newborn & Premature Baby Care | Prayag Hospital</title>
+    <title>Best NICU & Neonatologist in Noida | Prayag Hospital</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Neonatology & Newborn Care Centre
+                            Neonatology & NICU in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital's Neonatology Department provides specialized care for newborns, especially premature and critically ill babies. Our state-of-the-art NICU is equipped with advanced life support systems and staffed by expert neonatologists available 24/7.

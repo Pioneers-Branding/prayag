@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>24/7 Pharmacy Services - Reliable Healthcare | Prayag Hospital</title>
+    <title>24x7 Pharmacy in Noida | Prayag Hospital</title>
+    <meta name="description" content="In-house 24x7 pharmacy at Prayag Hospital, Noida — genuine medicines, surgical supplies & round-the-clock availability for patients.">
+    <meta name="keywords" content="24 hour pharmacy in noida, hospital pharmacy noida, medical store noida">
     <?php include 'header-links.php'; ?>
 
     <style>
@@ -99,7 +101,9 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-7">
-                        <h1 class="hero-main-title">Trusted 24/7 Pharmacy Services</h1>
+                        <h1 class="hero-main-title">
+                            24x7 Pharmacy
+                        </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Your health doesn't follow a schedule, and neither do we. Prayag Hospital's in-house pharmacy offers a comprehensive range of genuine medicines and surgical supplies around the clock. We are dedicated to ensuring that life-saving drugs and essential healthcare products are always accessible to our patients and the community.
                         </p>

@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Urology & Urodynamics Services | Prayag Hospital</title>
+    <title>Urologist in Noida | Urology Department | Prayag</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -14,6 +14,7 @@
             width: 100% !important;
         }
     </style>
+    <link rel="canonical" href="https://prayaghospital.in/urology.php">
 </head>
 
 <body>
@@ -50,7 +51,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Urological Care
+                            Urology in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Comprehensive treatment for urinary tract and reproductive system disorders. Minimally invasive solutions for kidney stones, prostate issues, and more.

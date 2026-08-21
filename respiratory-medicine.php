@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Respiratory Medicine - Best Pulmonology Hospital in India | Prayag Hospital</title>
+    <title>Pulmonologist & Chest Specialist in Noida | Prayag</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Center for Respiratory Medicine & Pulmonology
+                            Respiratory Medicine & Pulmonology in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital offers comprehensive respiratory care with state-of-the-art diagnostic facilities,

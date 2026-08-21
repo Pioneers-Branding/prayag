@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Critical Care & ICU - Best Critical Care Hospital in India | Prayag Hospital</title>
+    <title>ICU & Critical Care Hospital in Noida | Prayag</title>
+    <meta name="description" content="24x7 ICU & critical care in Noida with advanced life support & intensivists at Prayag Hospital. Expert care for critically ill patients.">
+    <meta name="keywords" content="ICU hospital in noida, critical care noida, best ICU noida, intensive care noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +51,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Critical Care & ICU Services | 24/7 Intensive Care Unit - Prayag Hospital
+                            Critical Care & ICU in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital provides comprehensive critical care with advanced life support systems,

@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>General & Laparoscopic Surgery - Best Surgeons in India | Prayag Hospital</title>
+    <title>General & Laparoscopic Surgeon in Noida | Prayag</title>
+    <meta name="description" content="Advanced general & laparoscopic (keyhole) surgery in Noida - hernia, gallbladder & appendix procedures at Prayag Hospital. Consult a surgeon.">
+    <meta name="keywords" content="laparoscopic surgeon in noida, general surgeon noida, hernia surgery noida, gallbladder surgery noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced General & Laparoscopic Surgery Centre
+                            General & Laparoscopic Surgery in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Minimally invasive surgical solutions for faster recovery and minimal scarring. 

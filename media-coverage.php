@@ -201,7 +201,9 @@ $press_releases = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Media Coverage | Prayag Hospital</title>
+    <title>Prayag Hospital in the News | Media Coverage</title>
+    <meta name="description" content="Prayag Hospital, Noida in the media — coverage in ANI, NDTV, India Today & more. See our latest achievements & health features.">
+    <meta name="keywords" content="prayag hospital news, prayag hospital media coverage">
     <?php include 'header-links.php'; ?>
 </head>
 
@@ -226,7 +228,7 @@ $press_releases = [
     <section class="blog-hero-section">
         <div class="container">
             <div class="blog-hero-content">
-                <h1 class="blog-hero-title">Media Coverage</h1>
+                <h1 class="blog-hero-title">Prayag Hospital in the News</h1>
                 <p class="blog-hero-subtitle">Latest updates, announcements, and media coverage from Prayag Hospital.
                 </p>
             </div>

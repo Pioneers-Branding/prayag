@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Psychiatry & Behavioural Sciences - Mental Health Care | Prayag Hospital</title>
+    <title>Psychiatrist in Noida | Mental Health Care | Prayag</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Centre for Psychiatry & Behavioural Sciences
+                            Psychiatry & Mental Health Care in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital offers comprehensive mental health care with compassion and confidentiality. Our team of psychiatrists and psychologists provides expert treatment for a wide range of psychological and behavioural disorders.

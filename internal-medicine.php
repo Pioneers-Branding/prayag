@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Internal Medicine & Critical Care - Best General Physicians in India | Prayag Hospital</title>
+    <title>Internal Medicine & Physician in Noida | Prayag</title>
+    <meta name="description" content="Consult expert physicians in Noida for diabetes, BP, fever & general medicine at Prayag Hospital. Comprehensive internal medicine care. Book now.">
+    <meta name="keywords" content="physician in noida, internal medicine noida, general physician noida, diabetes doctor noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Centre for Internal Medicine & Critical Care | Comprehensive Care - Prayag Hospital
+                            Internal & Family Medicine in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital provides holistic care for a wide range of adult diseases. Our team of expert physicians 

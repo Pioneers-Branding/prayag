@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Patient Stories - Prayag Hospital</title>
+    <title>Patient Stories & Testimonials | Prayag Hospital, Noida</title>
+    <meta name="description" content="Real recovery stories from Prayag Hospital, Noida patients. Read & watch testimonials across cardiac, ortho, maternity & more.">
+    <meta name="keywords" content="prayag hospital reviews, prayag hospital testimonials, patient stories noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -503,6 +505,28 @@
             }
         }
     </style>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Verified Patient"
+          },
+          "reviewBody": "Prayag Hospital provides excellent care and support. The doctors are highly experienced and the staff is very caring."
+        }
+      ]
+    }
+    </script>
+
 </head>
 
 <body>

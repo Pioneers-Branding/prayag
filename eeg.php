@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EEG (Electroencephalography) - Brain Activity Testing | Prayag Hospital</title>
+    <title>EEG Test (Brain Activity) in Noida | Prayag Hospital</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            EEG (Electroencephalography) Testing
+                            EEG — Brain Activity Testing
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital's EEG department provides advanced brain activity monitoring and diagnostic services. Our state-of-the-art equipment helps diagnose epilepsy, seizures, sleep disorders, and other neurological conditions with precision.

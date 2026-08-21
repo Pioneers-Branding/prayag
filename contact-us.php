@@ -4,9 +4,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us - Get in Touch | Prayag Hospital</title>
+    <title>Contact Prayag Hospital, Noida | Address & Phone</title>
+    <meta name="description" content="Contact Prayag Hospital, Sector 41 Noida & Greater Noida. Call 0120-4021900 for appointments, emergencies & enquiries. Address, map & timings inside.">
+    <meta name="keywords" content="prayag hospital contact number, prayag hospital address noida, prayag hospital phone number">
     <?php include 'header-links.php'; ?>
 
+    <script type="application/ld+json">
+    [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalOrganization",
+        "name": "Prayag Hospital & Research Centre - Noida",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "J-206/A-1, Sector 41",
+          "addressLocality": "Noida",
+          "addressRegion": "Uttar Pradesh",
+          "postalCode": "201301",
+          "addressCountry": "IN"
+        },
+        "telephone": "0120-4021900",
+        "email": "crm@prayaghospital.in",
+        "url": "https://prayaghospital.in/",
+        "openingHours": "Mo-Su 00:00-23:59"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalOrganization",
+        "name": "Prayag Hospital & Research Centre - Greater Noida",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "NH-021, Block M, Delta III",
+          "addressLocality": "Greater Noida",
+          "addressRegion": "UP",
+          "postalCode": "201310",
+          "addressCountry": "IN"
+        },
+        "telephone": "0120-4021900",
+        "email": "crm@prayaghospital.in",
+        "url": "https://prayaghospital.in/",
+        "openingHours": "Mo-Su 00:00-23:59"
+      }
+    ]
+    </script>
 </head>
 
 <body>
@@ -28,7 +68,7 @@
     <section class="blog-hero-section" style="margin-bottom:30px">
         <div class="container">
             <div class="blog-hero-content">
-                <h1 class="blog-hero-title">Contact Us</h1>
+                <h1 class="blog-hero-title">Contact Prayag Hospital</h1>
                 <p class="blog-hero-subtitle">We are here to help. Reach out to us for any medical queries,
                     appointments, or emergency services.</p>
             </div>

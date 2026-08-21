@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dental Science & Implant Centre - Best Dental Hospital | Prayag Hospital</title>
+    <title>Best Dentist & Dental Clinic in Noida | Prayag Hospital</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Centre for Dental Sciences
+                            Dental Science - Complete Oral Care in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital offers comprehensive dental care ranging from routine check-ups to advanced cosmetic and maxillofacial surgeries. Our goal is to provide painless, high-quality dentistry for your perfect smile.

@@ -4,10 +4,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Careers - Prayag Hospital</title>
+    <title>Careers at Prayag Hospital, Noida | Join Our Team</title>
+    <meta name="description" content="Build your healthcare career with Prayag Hospital, Noida. View current openings for doctors, nurses and support staff and apply online.">
+    <meta name="keywords" content="prayag hospital careers, hospital jobs noida, nursing jobs noida">
 
     <?php include 'header-links.php'; ?>
 
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "JobPosting",
+      "title": "Emergency Doctor",
+      "description": "We are urgently hiring an Emergency Doctor with an MBBS degree and 5+ years of emergency experience for immediate joining at Prayag Hospital.",
+      "hiringOrganization" : {
+        "@type": "Organization",
+        "name": "Prayag Hospital",
+        "sameAs": "https://prayaghospital.in"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Noida",
+          "addressRegion": "UP",
+          "addressCountry": "IN"
+        }
+      }
+    }
+    </script>
 </head>
 
 <body>
@@ -33,7 +57,7 @@
         <section class="blog-hero-section">
             <div class="container">
                 <div class="blog-hero-content">
-                    <h1 class="blog-hero-title">Join Our Team</h1>
+                    <h1 class="blog-hero-title">Careers at Prayag Hospital</h1>
                     <p class="text-white mt-3 lead">Build a rewarding career with Prayag Hospital</p>
                 </div>
             </div>

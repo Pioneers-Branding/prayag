@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pathology & Laboratory Services - Accurate Diagnostics | Prayag Hospital</title>
+    <title>Pathology Lab & Blood Test in Noida | NABL | Prayag</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Department of Pathology & Laboratory Services
+                            Laboratory & Pathology Services in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital provides 24/7 comprehensive laboratory services using fully automated analyzers. We ensure high precision and rapid turnaround times for all diagnostic tests to support effective treatment.

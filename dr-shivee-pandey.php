@@ -36,11 +36,29 @@ if (!$doctor) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $doctor['name']; ?> - <?php echo $doctor['specialty']; ?> | Prayag Hospital</title>
+    <title>Dr. Shivee Pandey – Physiotherapist in Noida | Prayag Hospital</title>
+    <meta name="description" content="Consult Dr. Shivee Pandey, Physiotherapist at Prayag Hospital, Noida with 2 years' experience. Book an appointment online or call 0120-4021900.">
+    <meta name="keywords" content="physiotherapist in noida">
 
     <?php include 'header-links.php'; ?>
 
 
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Shivee Pandey",
+    "medicalSpecialty": "Physiotherapy",
+    "description": "2 years of experience",
+    "url": "https://prayaghospital.in/dr-shivee-pandey.php",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Prayag Hospital",
+        "address": "Noida, UP"
+    }
+}
+    </script>
 </head>
 
 <body>

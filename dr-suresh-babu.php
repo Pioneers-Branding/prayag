@@ -36,11 +36,29 @@ if (!$doctor) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $doctor['name']; ?> - <?php echo $doctor['specialty']; ?> | Prayag Hospital</title>
+    <title>Dr. Suresh Babu – Physician in Noida | Prayag Hospital</title>
+    <meta name="description" content="Consult Dr. Suresh Babu, Physician at Prayag Hospital, Noida with 30 years' experience. Book an appointment online or call 0120-4021900.">
+    <meta name="keywords" content="physician in noida">
 
     <?php include 'header-links.php'; ?>
 
 
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Physician",
+    "name": "Dr. Suresh Babu",
+    "medicalSpecialty": "Internal Medicine (MD)",
+    "description": "30 years of experience",
+    "url": "https://prayaghospital.in/dr-suresh-babu.php",
+    "worksFor": {
+        "@type": "Hospital",
+        "name": "Prayag Hospital",
+        "address": "Noida, UP"
+    }
+}
+    </script>
 </head>
 
 <body>

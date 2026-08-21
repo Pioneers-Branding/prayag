@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visiting Hours & Guidelines - Prayag Hospital</title>
+    <title>Visiting Hours & Patient Guidelines | Prayag Hospital</title>
+    <meta name="description" content="Visiting hours, attendant policy & patient guidelines at Prayag Hospital, Noida. Plan your visit — timings for wards, ICU & general rooms.">
+    <meta name="keywords" content="prayag hospital visiting hours, hospital visiting time noida">
     <?php include 'header-links.php'; ?>
 
 </head>
@@ -30,7 +32,7 @@
     <section class="blog-hero-section">
         <div class="container">
             <div class="blog-hero-content">
-                <h1 class="blog-hero-title">Visiting Hours</h1>
+                <h1 class="blog-hero-title">Visiting Hours & Guidelines</h1>
                 <p class="blog-hero-subtitle">We value the support of family and friends in the healing process. Please check our visiting schedule.</p>
             </div>
         </div>

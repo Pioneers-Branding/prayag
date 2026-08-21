@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Renal Sciences & Kidney Care - Best Nephrologists in India | Prayag Hospital</title>
+    <title>Best Nephrologist & Dialysis Centre in Noida | Prayag</title>
+    <meta name="description" content="Advanced kidney care & dialysis in Noida - CKD, dialysis & renal treatment by expert nephrologists at Prayag Hospital. Book a consultation.">
+    <meta name="keywords" content="dialysis centre in noida, nephrologist in noida, kidney hospital noida, kidney specialist noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Centre of Excellence for Nephrology & Dialysis | Prayag Hospital
+                            Renal Sciences - Kidney Care & Dialysis in Noida
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Comprehensive care for all kidney-related ailments. From advanced dialysis units to management of chronic 

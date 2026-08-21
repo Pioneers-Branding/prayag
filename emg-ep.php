@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EMG/EP (Electromyography/Evoked Potentials) - Nerve & Muscle Testing | Prayag Hospital</title>
+    <title>EMG & Nerve Conduction Test in Noida | Prayag Hospital</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -49,7 +49,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            EMG/EP (Electromyography & Evoked Potentials)
+                            EMG / EP — Nerve & Muscle Testing
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital's EMG/EP lab provides comprehensive nerve and muscle function testing. We diagnose neuromuscular disorders, nerve damage, and spinal cord conditions using advanced electrophysiological techniques.

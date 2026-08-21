@@ -5,7 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cardiac Diagnostics - Echo, TMT, Holter | Prayag Hospital</title>
+    <title>Cardiac Diagnostics in Noida | 2D Echo, TMT | Prayag</title>
+    <meta name="description" content="Advanced cardiac diagnostics in Noida — 2D Echo, TMT & colour Doppler at Prayag Hospital. Accurate heart testing by cardiology experts.">
+    <meta name="keywords" content="2d echo test in noida, cardiac diagnostics noida, colour doppler noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -50,7 +52,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Advanced Cardiac Diagnostics Centre
+                            Cardiac Diagnostics
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Precision heart care begins with accurate diagnosis. We offer world-class diagnostic services 
