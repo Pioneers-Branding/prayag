@@ -492,31 +492,6 @@ $doctors = [
         'image' => 'assets/images/doctors/male-avatar-img.jpeg',
         'image_small' => 'assets/images/doctors/male-avatar-img.jpeg',
     ],
-    [
-        'id' => 'dr-shivee-pandey',
-        'name' => 'Dr. Shivee Pandey',
-        'specialty' => 'Physiotherapist',
-        'department' => 'Physiotherapy',
-        'specialty_code' => 'physiotherapy',
-        'experience' => 2,
-        'gender' => 'female',
-        'availability' => 'today',
-        'availability_text' => 'Available Today',
-        'image' => 'assets/images/doctors/dr-shivee-pandey.webp',
-        'image_small' => 'assets/images/doctors/small/dr-shivee-pandey.webp',
-    ],
-    [
-        'id' => 'dr-anshu',
-        'name' => 'Dr. Anshu Srivastava',
-        'specialty' => 'Sr. Physiotherapist',
-        'department' => 'Physiotherapy',
-        'specialty_code' => 'physiotherapy',
-        'experience' => 13,
-        'gender' => 'male',
-        'availability' => 'today',
-        'availability_text' => 'Available Today',
-        'image' => 'assets/images/doctors/dr-anshu.webp',
-        'image_small' => 'assets/images/doctors/small/dr-anshu.webp',
-    ],
 ];
+
 ?>
