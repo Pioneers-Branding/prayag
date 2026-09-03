@@ -832,14 +832,19 @@
                         <!-- Large Blog Card 1 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <img src="assets/images/blog-1.webp" alt="Blood Donation">
+                                <a href="emergency-hospital-in-noida.php">
+                                    <img src="assets/images/blog/emergency-hospital-in-noida.webp" alt="Emergency Hospital in Noida">
+                                </a>
                             </div>
                             <div class="blog-content-large">
-                                <h3 class="blog-title-large">Universal Blood Donor: Which Blood Group Can Be Donated to
-                                    Everyone?</h3>
+                                <h3 class="blog-title-large">
+                                    <a href="emergency-hospital-in-noida.php" style="color:inherit; text-decoration:none;">
+                                        Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore
+                                    </a>
+                                </h3>
                                 <div class="blog-meta">
-                                    <span class="blog-date">Nov 18, 2025</span>
-                                    <a href="#" class="blog-read-more">
+                                    <span class="blog-date">Jan 22, 2025</span>
+                                    <a href="emergency-hospital-in-noida.php" class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
                                     </a>
@@ -853,14 +858,19 @@
                         <!-- Large Blog Card 2 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <img src="assets/images/blog-2.webp" alt="Biopsy">
+                                <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php">
+                                    <img src="assets/images/blog/10-things-every-women-should-know.webp" alt="Choosing a Gynecologist in Noida">
+                                </a>
                             </div>
                             <div class="blog-content-large">
-                                <h3 class="blog-title-large">Biopsy (Needle, Incisional, Excisional, Liquid) – Used for
-                                    All Solid Tumours</h3>
+                                <h3 class="blog-title-large">
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" style="color:inherit; text-decoration:none;">
+                                        10 Things Every Woman Should Know About Choosing a Gynecologist in Noida
+                                    </a>
+                                </h3>
                                 <div class="blog-meta">
-                                    <span class="blog-date">Nov 18, 2025</span>
-                                    <a href="#" class="blog-read-more">
+                                    <span class="blog-date">Jan 25, 2025</span>
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
                                     </a>
@@ -869,7 +879,6 @@
                         </div>
                     </div>
 
-
                     <!-- Three Compact Blog Cards - col-md-4 -->
                     <div class="col-lg-4 mb-4">
                         <div class="blog-right">
@@ -877,14 +886,19 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <img src="assets/images/blog-3.webp" alt="Sciatica">
+                                        <a href="ultrasound-in-noida.php">
+                                            <img src="assets/images/blog/ultrasound-in-noida.webp" alt="Ultrasound in Noida">
+                                        </a>
                                     </div>
                                     <div class="blog-content-compact">
-                                        <h4 class="blog-title-compact">What is Sciatica: Symptoms, Causes and Treatment
+                                        <h4 class="blog-title-compact">
+                                            <a href="ultrasound-in-noida.php" style="color:inherit; text-decoration:none;">
+                                                Ultrasound in Noida: Types, Uses, Preparation & When You May Need One
+                                            </a>
                                         </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Nov 17, 2025</span>
-                                            <a href="#" class="blog-read-more-compact">
+                                            <span class="blog-date-compact">Jan 24, 2025</span>
+                                            <a href="ultrasound-in-noida.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
@@ -897,13 +911,19 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <img src="assets/images/blog-4.webp" alt="Thyroid">
+                                        <a href="best-gynecologist-in-noida.php">
+                                            <img src="assets/images/blog/best-gynocologist-in-india.webp" alt="Best Gynecologist in Noida">
+                                        </a>
                                     </div>
                                     <div class="blog-content-compact">
-                                        <h4 class="blog-title-compact">Anaplastic Thyroid Carcinoma</h4>
+                                        <h4 class="blog-title-compact">
+                                            <a href="best-gynecologist-in-noida.php" style="color:inherit; text-decoration:none;">
+                                                Best Gynecologist in Noida: When Should You See a Gynecologist?
+                                            </a>
+                                        </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Nov 17, 2025</span>
-                                            <a href="#" class="blog-read-more-compact">
+                                            <span class="blog-date-compact">Jan 20, 2025</span>
+                                            <a href="best-gynecologist-in-noida.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
@@ -916,15 +936,19 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <img src="assets/images/blog-5.webp" alt="High Platelet Count">
+                                        <a href="blog.php">
+                                            <img src="assets/images/blog-1.webp" alt="Blood Donation">
+                                        </a>
                                     </div>
                                     <div class="blog-content-compact">
-                                        <h4 class="blog-title-compact">High Platelet Count: Causes, Symptoms, &
-                                            Treatment
-                                            Options</h4>
+                                        <h4 class="blog-title-compact">
+                                            <a href="blog.php" style="color:inherit; text-decoration:none;">
+                                                Universal Blood Donor: Which Blood Group Can Be Donated to Everyone?
+                                            </a>
+                                        </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Nov 17, 2025</span>
-                                            <a href="#" class="blog-read-more-compact">
+                                            <span class="blog-date-compact">Nov 18, 2025</span>
+                                            <a href="blog.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
@@ -938,7 +962,7 @@
 
                 <!-- View All Blogs Button -->
                 <div class="text-center mt-4">
-                    <a href="#" class="btn-view-all-content">
+                    <a href="blog.php" class="btn-view-all-content">
                         View All Blogs
                         <i class="fas fa-arrow-right ms-2"></i>
                     </a>

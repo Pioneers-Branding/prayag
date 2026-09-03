@@ -57,6 +57,9 @@
                     <!-- Category Pills -->
                     <div class="category-pills-wrapper">
                         <button class="category-pill active" data-category="all">All Posts</button>
+                        <button class="category-pill" data-category="diagnostics">Diagnostics & Imaging</button>
+                        <button class="category-pill" data-category="emergency-care">Emergency Care</button>
+                        <button class="category-pill" data-category="womens-health">Women's Health</button>
                         <button class="category-pill" data-category="cardiology">Cardiology</button>
                         <button class="category-pill" data-category="nutrition">Nutrition</button>
                         <button class="category-pill" data-category="wellness">Wellness</button>
@@ -67,7 +70,7 @@
 
                     <!-- Results Info -->
                     <div class="blog-results-header">
-                        <h3>Showing <span id="blogCount">12</span> Articles</h3>
+                        <h3>Showing <span id="blogCount">16</span> Articles</h3>
                         <div class="blog-sort-wrapper">
                             <label>Sort by:</label>
                             <select id="blogSort" class="blog-sort-select">
@@ -80,6 +83,110 @@
 
                     <!-- Blog Posts Grid -->
                     <div class="blog-posts-grid" id="blogPostsGrid">
+                        <!-- Blog Post - 10 Things -->
+                        <article class="blog-post-card" data-category="womens-health" data-date="2025-01-25"
+                            data-popularity="1020">
+                            <div class="blog-post-image">
+                                <img src="assets/images/blog/10-things-every-women-should-know.webp"
+                                    alt="Choosing a Gynecologist in Noida">
+                                <div class="blog-category-badge" style="background:#4A8F73;">Women's Health</div>
+                            </div>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 25, 2025</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1020 views</span>
+                                </div>
+                                <h3 class="blog-post-title">10 Things Every Woman Should Know About Choosing a Gynecologist in Noida</h3>
+                                <p class="blog-post-excerpt">Choosing the right gynecologist is vital. Discover 10 essential factors every woman should consider—from expertise & safety to affordable ultrasound & maternity care.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png"
+                                            alt="Prayag Hospital" class="author-avatar">
+                                        <span>Prayag Hospital</span>
+                                    </div>
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+                        <!-- Blog Post - Ultrasound -->
+                        <article class="blog-post-card" data-category="diagnostics" data-date="2025-01-24"
+                            data-popularity="960">
+                            <div class="blog-post-image">
+                                <img src="assets/images/blog/ultrasound-in-noida.webp"
+                                    alt="Ultrasound in Noida">
+                                <div class="blog-category-badge" style="background:#0284c7;">Diagnostics</div>
+                            </div>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 24, 2025</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 960 views</span>
+                                </div>
+                                <h3 class="blog-post-title">Ultrasound in Noida: Types, Uses, Preparation & When You May Need One</h3>
+                                <p class="blog-post-excerpt">Looking for an ultrasound in Noida? Learn about scan types (2D, 3D, 4D, Color Doppler), preparation tips, and pregnancy ultrasound care at Prayag Hospital.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png"
+                                            alt="Prayag Hospital" class="author-avatar">
+                                        <span>Prayag Hospital</span>
+                                    </div>
+                                    <a href="ultrasound-in-noida.php" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+                        <!-- Blog Post - Emergency Care -->
+                        <article class="blog-post-card" data-category="emergency-care" data-date="2025-01-22"
+                            data-popularity="990">
+                            <div class="blog-post-image">
+                                <img src="assets/images/blog/emergency-hospital-in-noida.webp"
+                                    alt="Emergency Hospital in Noida">
+                                <div class="blog-category-badge" style="background:#d32f2f;">Emergency Care</div>
+                            </div>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 22, 2025</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 5 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 990 views</span>
+                                </div>
+                                <h3 class="blog-post-title">Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore</h3>
+                                <p class="blog-post-excerpt">Know the 10 critical warning signs that need an emergency hospital in Noida. Learn how acting quickly saves lives and what to do in medical emergencies.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png"
+                                            alt="Prayag Hospital" class="author-avatar">
+                                        <span>Prayag Hospital</span>
+                                    </div>
+                                    <a href="emergency-hospital-in-noida.php" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+                        <!-- Blog Post - Gynecologist -->
+                        <article class="blog-post-card" data-category="womens-health" data-date="2025-01-20"
+                            data-popularity="980">
+                            <div class="blog-post-image">
+                                <img src="assets/images/blog/best-gynocologist-in-india.webp"
+                                    alt="Best Gynecologist in Noida">
+                                <div class="blog-category-badge">Women's Health</div>
+                            </div>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 20, 2025</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 980 views</span>
+                                </div>
+                                <h3 class="blog-post-title">Best Gynecologist in Noida: When Should You See a Gynecologist?</h3>
+                                <p class="blog-post-excerpt">Wondering when to see the best gynecologist in Noida? Learn the signs, screenings, PCOS guidance and life stages that need a gynecologist visit.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png"
+                                            alt="Prayag Hospital" class="author-avatar">
+                                        <span>Prayag Hospital</span>
+                                    </div>
+                                    <a href="best-gynecologist-in-noida.php" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
                         <!-- Blog Post 1 -->
                         <article class="blog-post-card" data-category="cardiology" data-date="2024-01-15"
                             data-popularity="850">
