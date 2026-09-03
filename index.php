@@ -31,7 +31,7 @@
             <div class="video-hero-container">
                 <div class="video-background">
                     <video autoplay muted loop playsinline class="hero-video">
-                        <source src="https://brandingpioneers.co.in/prayag/final-video.mp4" type="video/mp4">
+                        <source src="assets/final-hero-video.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
 
@@ -833,12 +833,14 @@
                         <div class="blog-card-large">
                             <div class="blog-image-large">
                                 <a href="emergency-hospital-in-noida.php">
-                                    <img src="assets/images/blog/emergency-hospital-in-noida.webp" alt="Emergency Hospital in Noida">
+                                    <img src="assets/images/blog/emergency-hospital-in-noida.webp"
+                                        alt="Emergency Hospital in Noida">
                                 </a>
                             </div>
                             <div class="blog-content-large">
                                 <h3 class="blog-title-large">
-                                    <a href="emergency-hospital-in-noida.php" style="color:inherit; text-decoration:none;">
+                                    <a href="emergency-hospital-in-noida.php"
+                                        style="color:inherit; text-decoration:none;">
                                         Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore
                                     </a>
                                 </h3>
@@ -859,18 +861,21 @@
                         <div class="blog-card-large">
                             <div class="blog-image-large">
                                 <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php">
-                                    <img src="assets/images/blog/10-things-every-women-should-know.webp" alt="Choosing a Gynecologist in Noida">
+                                    <img src="assets/images/blog/10-things-every-women-should-know.webp"
+                                        alt="Choosing a Gynecologist in Noida">
                                 </a>
                             </div>
                             <div class="blog-content-large">
                                 <h3 class="blog-title-large">
-                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" style="color:inherit; text-decoration:none;">
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php"
+                                        style="color:inherit; text-decoration:none;">
                                         10 Things Every Woman Should Know About Choosing a Gynecologist in Noida
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
                                     <span class="blog-date">Jan 25, 2025</span>
-                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="blog-read-more">
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php"
+                                        class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
                                     </a>
@@ -887,12 +892,14 @@
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
                                         <a href="ultrasound-in-noida.php">
-                                            <img src="assets/images/blog/ultrasound-in-noida.webp" alt="Ultrasound in Noida">
+                                            <img src="assets/images/blog/ultrasound-in-noida.webp"
+                                                alt="Ultrasound in Noida">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="ultrasound-in-noida.php" style="color:inherit; text-decoration:none;">
+                                            <a href="ultrasound-in-noida.php"
+                                                style="color:inherit; text-decoration:none;">
                                                 Ultrasound in Noida: Types, Uses, Preparation & When You May Need One
                                             </a>
                                         </h4>
@@ -912,12 +919,14 @@
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
                                         <a href="best-gynecologist-in-noida.php">
-                                            <img src="assets/images/blog/best-gynocologist-in-india.webp" alt="Best Gynecologist in Noida">
+                                            <img src="assets/images/blog/best-gynocologist-in-india.webp"
+                                                alt="Best Gynecologist in Noida">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="best-gynecologist-in-noida.php" style="color:inherit; text-decoration:none;">
+                                            <a href="best-gynecologist-in-noida.php"
+                                                style="color:inherit; text-decoration:none;">
                                                 Best Gynecologist in Noida: When Should You See a Gynecologist?
                                             </a>
                                         </h4>
