@@ -832,34 +832,6 @@
                         <!-- Large Blog Card 1 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <a href="emergency-hospital-in-noida.php">
-                                    <img src="assets/images/blog/emergency-hospital-in-noida.webp"
-                                        alt="Emergency Hospital in Noida">
-                                </a>
-                            </div>
-                            <div class="blog-content-large">
-                                <h3 class="blog-title-large">
-                                    <a href="emergency-hospital-in-noida.php"
-                                        style="color:inherit; text-decoration:none;">
-                                        Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore
-                                    </a>
-                                </h3>
-                                <div class="blog-meta">
-                                    <span class="blog-date">Aug 10, 2026</span>
-                                    <a href="emergency-hospital-in-noida.php" class="blog-read-more">
-                                        Read More
-                                        <i class="fas fa-arrow-right"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Second Large Blog Card - col-md-4 -->
-                    <div class="col-lg-4 mb-4">
-                        <!-- Large Blog Card 2 -->
-                        <div class="blog-card-large">
-                            <div class="blog-image-large">
                                 <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php">
                                     <img src="assets/images/blog/10-things-every-women-should-know.webp"
                                         alt="Choosing a Gynecologist in Noida">
@@ -884,6 +856,35 @@
                         </div>
                     </div>
 
+                    <!-- Second Large Blog Card - col-md-4 -->
+                    <div class="col-lg-4 mb-4">
+                        <!-- Large Blog Card 2 -->
+                        <div class="blog-card-large">
+                            <div class="blog-image-large">
+                                <a href="ultrasound-in-noida.php">
+                                    <img src="assets/images/blog/ultrasound-in-noida.webp"
+                                        alt="Ultrasound in Noida">
+                                </a>
+                            </div>
+                            <div class="blog-content-large">
+                                <h3 class="blog-title-large">
+                                    <a href="ultrasound-in-noida.php"
+                                        style="color:inherit; text-decoration:none;">
+                                        Ultrasound in Noida: Types, Uses, Preparation & When You May Need One
+                                    </a>
+                                </h3>
+                                <div class="blog-meta">
+                                    <span class="blog-date">Aug 17, 2026</span>
+                                    <a href="ultrasound-in-noida.php"
+                                        class="blog-read-more">
+                                        Read More
+                                        <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <!-- Three Compact Blog Cards - col-md-4 -->
                     <div class="col-lg-4 mb-4">
                         <div class="blog-right">
@@ -891,21 +892,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="ultrasound-in-noida.php">
-                                            <img src="assets/images/blog/ultrasound-in-noida.webp"
-                                                alt="Ultrasound in Noida">
+                                        <a href="emergency-hospital-in-noida.php">
+                                            <img src="assets/images/blog/emergency-hospital-in-noida.webp"
+                                                alt="Emergency Hospital in Noida">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="ultrasound-in-noida.php"
+                                            <a href="emergency-hospital-in-noida.php"
                                                 style="color:inherit; text-decoration:none;">
-                                                Ultrasound in Noida: Types, Uses, Preparation & When You May Need One
+                                                Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Aug 17, 2026</span>
-                                            <a href="ultrasound-in-noida.php" class="blog-read-more-compact">
+                                            <span class="blog-date-compact">Aug 10, 2026</span>
+                                            <a href="emergency-hospital-in-noida.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
