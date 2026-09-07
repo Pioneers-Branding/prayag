@@ -510,6 +510,125 @@
                     <!-- Right Side: News Slider -->
                     <div class="news-slider-container">
                         <div class="news-slider">
+                            <!-- News Item - OnlyMyHealth (Walking & Knee) -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="https://images.onlymyhealth.com/only-my-health-english/images/2026/09/03/template/image/main-knees-walking-1788419281995.webp"
+                                        alt="Can Walking Too Much Damage Your Knees">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">Can Walking Too Much Damage Your Knees? What An Expert Says</h3>
+                                    <p class="news-date">September 03, 2026</p>
+                                    <p class="news-excerpt">OnlyMyHealth consults an orthopaedic specialist to break down whether walking excessively can harm your knees...</p>
+                                    <a href="https://www.onlymyhealth.com/can-walking-too-much-damage-your-knees-what-an-expert-says-12977850046"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- News Item - OnlyMyHealth (Barefoot Shoes) -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="https://images.onlymyhealth.com/only-my-health-english/images/2026/09/01/template/image/amin-1788250407323.webp"
+                                        alt="Benefits of Barefoot Shoes">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">5 Potential Benefits of Barefoot Shoes For Your Feet</h3>
+                                    <p class="news-date">September 01, 2026</p>
+                                    <p class="news-excerpt">OnlyMyHealth explores the pros, cons, and 5 key benefits of barefoot shoes for foot and joint health with expert insights...</p>
+                                    <a href="https://www.onlymyhealth.com/barefoot-shoes-benefits-for-feet-according-to-orthopaedic-doctor-12977849991"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- News Item - Deccan Herald -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="https://media.assettype.com/deccanherald/2026-08-29/kwzb2r98/istockphoto-1317882487-612x612.jpg"
+                                        alt="Everyday Plastics and Infants">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">From Bottles to Bloodstreams: How Plastics Expose Infants to Microplastics</h3>
+                                    <p class="news-date">August 30, 2026</p>
+                                    <p class="news-excerpt">Deccan Herald covers child health risks associated with microplastic exposure in infants and healthcare guidance...</p>
+                                    <a href="https://www.deccanherald.com/health/healthcare/from-bottles-to-bloodstreams-how-everyday-plastics-expose-infants-to-microplastics-4127106"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- News Item - NDTV -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="https://c.ndtvimg.com/2026-08/nmn2ifus_weekend-injury_625x300_06_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+                                        alt="Weekend Sports Injuries">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">Weekend Sports Injuries: Why Fitness Enthusiasts Are Landing In Orthopaedic Clinics</h3>
+                                    <p class="news-date">August 08, 2026</p>
+                                    <p class="news-excerpt">NDTV explores the rise in football, badminton, and trekking injuries among weekend fitness enthusiasts and expert prevention advice...</p>
+                                    <a href="https://www.ndtv.com/health/fitness/weekend-sports-injuries-why-fitness-enthusiasts-are-landing-in-orthopaedic-clinics-11872970"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- News Item - OnlyMyHealth (Breast Milk Variation) -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="https://images.onlymyhealth.com/only-my-health-english/images/2026/08/07/template/image/mn-Breastfeeding-one-side-1786090630864.webp"
+                                        alt="Why One Breast Makes More Milk">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">World Breastfeeding Week: Why One Breast Makes More Milk Than the Other</h3>
+                                    <p class="news-date">August 07, 2026</p>
+                                    <p class="news-excerpt">OnlyMyHealth consults expert doctors to explain why breast milk production can vary between breasts and management tips...</p>
+                                    <a href="https://www.onlymyhealth.com/why-one-breast-makes-more-milk-than-the-other-doctors-explain-12977849435"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- News Item - OnlyMyHealth (Breastfeeding Problems) -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="https://images.onlymyhealth.com/only-my-health-english/images/2026/08/07/template/image/mn-Breastfeeding-Problems-Women-Face--1786078137332.webp"
+                                        alt="Common Breastfeeding Problems">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">10 Common Breastfeeding Problems That Most Women Face and How to Deal</h3>
+                                    <p class="news-date">August 07, 2026</p>
+                                    <p class="news-excerpt">OnlyMyHealth highlights 10 frequent breastfeeding challenges new mothers face and doctor-recommended solutions...</p>
+                                    <a href="https://www.onlymyhealth.com/common-breastfeeding-problems-and-how-to-deal-with-them-12977849429"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- News Item - Boldsky -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="https://images.boldsky.com/img/2026/08/dengue-thumb-49031785730800.jpg"
+                                        alt="India's Dengue Season Is Getting Longer">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">India's Dengue Season Is Getting Longer, and Kids Are Most at Risk</h3>
+                                    <p class="news-date">August 03, 2026</p>
+                                    <p class="news-excerpt">Dr. SP Sharma, Senior Consultant - Paediatrics at Prayag Hospital, explains shifting dengue patterns and critical warning signs...</p>
+                                    <a href="https://www.boldsky.com/health/indias-dengue-season-is-getting-longer-and-kids-are-most-at-risk-172109.html"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
                             <!-- News Item - ANI -->
                             <div class="news-item">
                                 <div class="news-image">

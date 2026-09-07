@@ -2,6 +2,62 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Can Walking Too Much Damage Your Knees? What An Expert Says',
+        'date' => '2026-09-03',
+        'excerpt' => 'OnlyMyHealth consults an orthopaedic specialist to break down whether walking excessively can harm your knees and how to protect your joints.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/09/03/template/image/main-knees-walking-1788419281995.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/can-walking-too-much-damage-your-knees-what-an-expert-says-12977850046'
+    ],
+    [
+        'title' => '5 Potential Benefits of Barefoot Shoes For Your Feet, According to an Orthopaedic Specialist',
+        'date' => '2026-09-01',
+        'excerpt' => 'OnlyMyHealth explores the pros, cons, and 5 key benefits of barefoot shoes for foot and joint health with expert orthopaedic insights.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/09/01/template/image/amin-1788250407323.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/barefoot-shoes-benefits-for-feet-according-to-orthopaedic-doctor-12977849991'
+    ],
+    [
+        'title' => 'From bottles to bloodstreams: How everyday plastics expose infants to microplastics',
+        'date' => '2026-08-30',
+        'excerpt' => 'Deccan Herald covers child health risks associated with microplastic exposure in infants and practical guidance from healthcare experts.',
+        'image' => 'https://media.assettype.com/deccanherald/2026-08-29/kwzb2r98/istockphoto-1317882487-612x612.jpg',
+        'source' => 'Deccan Herald',
+        'link' => 'https://www.deccanherald.com/health/healthcare/from-bottles-to-bloodstreams-how-everyday-plastics-expose-infants-to-microplastics-4127106'
+    ],
+    [
+        'title' => 'Weekend Sports Injuries: Why Fitness Enthusiasts Are Landing In Orthopaedic Clinics',
+        'date' => '2026-08-08',
+        'excerpt' => 'NDTV explores the rise in football, badminton, and trekking injuries among weekend fitness enthusiasts and expert advice on recovery and injury prevention.',
+        'image' => 'https://c.ndtvimg.com/2026-08/nmn2ifus_weekend-injury_625x300_06_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900',
+        'source' => 'NDTV',
+        'link' => 'https://www.ndtv.com/health/fitness/weekend-sports-injuries-why-fitness-enthusiasts-are-landing-in-orthopaedic-clinics-11872970'
+    ],
+    [
+        'title' => 'World Breastfeeding Week: Why One Breast Makes More Milk Than the Other, Doctors Explain',
+        'date' => '2026-08-07',
+        'excerpt' => 'OnlyMyHealth consults expert doctors during World Breastfeeding Week to explain why breast milk production can vary between breasts and how new mothers can manage it.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/08/07/template/image/mn-Breastfeeding-one-side-1786090630864.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/why-one-breast-makes-more-milk-than-the-other-doctors-explain-12977849435'
+    ],
+    [
+        'title' => '10 Common Breastfeeding Problems That Most Women Face and How to Deal With Them',
+        'date' => '2026-08-07',
+        'excerpt' => 'OnlyMyHealth highlights 10 frequent breastfeeding challenges new mothers face—from latching difficulties to engorgement—and expert advice on dealing with them.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/08/07/template/image/mn-Breastfeeding-Problems-Women-Face--1786078137332.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/common-breastfeeding-problems-and-how-to-deal-with-them-12977849429'
+    ],
+    [
+        'title' => 'India\'s Dengue Season Is Getting Longer, and Kids Are Most at Risk',
+        'date' => '2026-08-03',
+        'excerpt' => 'Dr. SP Sharma, Senior Consultant - Paediatrics at Prayag Hospital, explains the shifting patterns of dengue cases in India and critical signs parents should watch for.',
+        'image' => 'https://images.boldsky.com/img/2026/08/dengue-thumb-49031785730800.jpg',
+        'source' => 'Boldsky',
+        'link' => 'https://www.boldsky.com/health/indias-dengue-season-is-getting-longer-and-kids-are-most-at-risk-172109.html'
+    ],
+    [
         'title' => 'Emergency Limb-Saving Surgery Restores Hand Function in 35-Year-Old Patient at Prayag Hospital',
         'date' => '2026-07-27',
         'excerpt' => 'Emergency Limb-Saving Surgery Restores Hand Function in a 35-year-old patient at Prayag Hospital.',
