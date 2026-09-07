@@ -84,7 +84,7 @@
                     <!-- Blog Posts Grid -->
                     <div class="blog-posts-grid" id="blogPostsGrid">
                         <!-- Blog Post - 10 Things -->
-                        <article class="blog-post-card" data-category="womens-health" data-date="2025-01-25"
+                        <article class="blog-post-card" data-category="womens-health" data-date="2026-08-24"
                             data-popularity="1020">
                             <div class="blog-post-image">
                                 <img src="assets/images/blog/10-things-every-women-should-know.webp"
@@ -93,7 +93,7 @@
                             </div>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 25, 2025</span>
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Aug 24, 2026</span>
                                     <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
                                     <span class="meta-item"><i class="far fa-eye"></i> 1020 views</span>
                                 </div>
@@ -110,7 +110,7 @@
                             </div>
                         </article>
                         <!-- Blog Post - Ultrasound -->
-                        <article class="blog-post-card" data-category="diagnostics" data-date="2025-01-24"
+                        <article class="blog-post-card" data-category="diagnostics" data-date="2026-08-17"
                             data-popularity="960">
                             <div class="blog-post-image">
                                 <img src="assets/images/blog/ultrasound-in-noida.webp"
@@ -119,7 +119,7 @@
                             </div>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 24, 2025</span>
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Aug 17, 2026</span>
                                     <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
                                     <span class="meta-item"><i class="far fa-eye"></i> 960 views</span>
                                 </div>
@@ -136,7 +136,7 @@
                             </div>
                         </article>
                         <!-- Blog Post - Emergency Care -->
-                        <article class="blog-post-card" data-category="emergency-care" data-date="2025-01-22"
+                        <article class="blog-post-card" data-category="emergency-care" data-date="2026-08-10"
                             data-popularity="990">
                             <div class="blog-post-image">
                                 <img src="assets/images/blog/emergency-hospital-in-noida.webp"
@@ -145,7 +145,7 @@
                             </div>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 22, 2025</span>
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Aug 10, 2026</span>
                                     <span class="meta-item"><i class="far fa-clock"></i> 5 min read</span>
                                     <span class="meta-item"><i class="far fa-eye"></i> 990 views</span>
                                 </div>
@@ -162,7 +162,7 @@
                             </div>
                         </article>
                         <!-- Blog Post - Gynecologist -->
-                        <article class="blog-post-card" data-category="womens-health" data-date="2025-01-20"
+                        <article class="blog-post-card" data-category="womens-health" data-date="2026-08-03"
                             data-popularity="980">
                             <div class="blog-post-image">
                                 <img src="assets/images/blog/best-gynocologist-in-india.webp"
@@ -171,7 +171,7 @@
                             </div>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 20, 2025</span>
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Aug 03, 2026</span>
                                     <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
                                     <span class="meta-item"><i class="far fa-eye"></i> 980 views</span>
                                 </div>

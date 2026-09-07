@@ -47,8 +47,8 @@
               "url": "https://www.prayaghospital.in/assets/images/prayag-logo.png"
             }
           },
-          "datePublished": "2025-01-20",
-          "dateModified": "2025-01-20",
+          "datePublished": "2026-08-03",
+          "dateModified": "2026-08-03",
           "mainEntityOfPage": "https://www.prayaghospital.in/best-gynecologist-in-noida"
         },
         {
@@ -832,7 +832,7 @@
                     <h1 class="blog-main-heading">Best Gynecologist in Noida: When Should You See a Gynecologist?</h1>
                     
                     <div class="blog-header-meta">
-                        <span><i class="far fa-calendar-alt"></i> Updated: Jan 2025</span>
+                        <span><i class="far fa-calendar-alt"></i> Updated: Aug 2026</span>
                         <span><i class="far fa-clock"></i> 6 min read</span>
                         <span><i class="fas fa-user-md"></i> Prayag Hospital Medical Team</span>
                         <span><i class="fas fa-map-marker-alt"></i> Sector 41, Noida</span>

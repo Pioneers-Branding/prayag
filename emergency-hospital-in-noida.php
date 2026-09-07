@@ -47,8 +47,8 @@
               "url": "https://www.prayaghospital.in/assets/images/prayag-logo.png"
             }
           },
-          "datePublished": "2025-01-22",
-          "dateModified": "2025-01-22",
+          "datePublished": "2026-08-10",
+          "dateModified": "2026-08-10",
           "mainEntityOfPage": "https://www.prayaghospital.in/emergency-hospital-in-noida"
         },
         {
@@ -848,7 +848,7 @@
                     <h1 class="blog-main-heading">Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore</h1>
                     
                     <div class="blog-header-meta">
-                        <span><i class="far fa-calendar-alt"></i> Updated: Jan 2025</span>
+                        <span><i class="far fa-calendar-alt"></i> Updated: Aug 2026</span>
                         <span><i class="far fa-clock"></i> 5 min read</span>
                         <span><i class="fas fa-user-md"></i> Emergency Care Team</span>
                         <span><i class="fas fa-map-marker-alt"></i> Sector 41, Noida</span>

@@ -845,7 +845,7 @@
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
-                                    <span class="blog-date">Jan 22, 2025</span>
+                                    <span class="blog-date">Aug 10, 2026</span>
                                     <a href="emergency-hospital-in-noida.php" class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
@@ -873,7 +873,7 @@
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
-                                    <span class="blog-date">Jan 25, 2025</span>
+                                    <span class="blog-date">Aug 24, 2026</span>
                                     <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php"
                                         class="blog-read-more">
                                         Read More
@@ -904,7 +904,7 @@
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Jan 24, 2025</span>
+                                            <span class="blog-date-compact">Aug 17, 2026</span>
                                             <a href="ultrasound-in-noida.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
@@ -931,7 +931,7 @@
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Jan 20, 2025</span>
+                                            <span class="blog-date-compact">Aug 03, 2026</span>
                                             <a href="best-gynecologist-in-noida.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
