@@ -241,14 +241,17 @@ $press_releases = [
         'source' => 'Zoom TV (Facebook)',
         'link' => 'https://www.facebook.com/zoomtv/posts/is-your-job-making-you-sick-experts-warn-of-rising-mentalhealth-disorders-in-wor/1187410823426856/'
     ]
-    // [
-    //     'title' => 'Healthcare Leaders Advocate for Mental Health Awareness',
-    //     'date' => '2025-05-06',
-    //     'excerpt' => 'eHealth highlights the growing need for mental health advocacy and early support through dedicated social outreach.',
-    //     'image' => 'assets/images/press/Menstrual-Hygiene-Day-2025-eheal.webp',
-    //     'source' => 'eHealth (LinkedIn)',
-    //     'link' => 'https://www.linkedin.com/showcase/eletsehealth/posts/?feedView=all'
-    // ]
+];
+
+$podcasts = [
+    [
+        'title' => 'Childhood Trauma Explained: Signs, Adult Impact & Healing | Pritika Singh',
+        'video_id' => 'VEWOJDmtTHA',
+        'speaker' => 'Pritika Singh',
+        'date' => '2025-05-15',
+        'excerpt' => 'An insightful podcast exploring childhood trauma, how to identify hidden emotional signs, its lasting impact on adult mental health, and transformative pathways toward healing.',
+        'link' => 'https://www.youtube.com/watch?v=VEWOJDmtTHA'
+    ]
 ];
 ?>
 <!DOCTYPE html>
@@ -404,6 +407,132 @@ $press_releases = [
             right: 0;
             opacity: 0.8;
         }
+
+        /* Podcast Card Styles */
+        .podcast-card {
+            background: #fff;
+            border-radius: 14px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.06);
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            transition: all 0.3s ease;
+            border: 1px solid #eee;
+        }
+
+        .podcast-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+        }
+
+        .podcast-thumb-wrap {
+            position: relative;
+            width: 100%;
+            height: 250px;
+            overflow: hidden;
+            cursor: pointer;
+            background: #111;
+        }
+
+        .podcast-thumb {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease, opacity 0.3s ease;
+            opacity: 0.95;
+        }
+
+        .podcast-card:hover .podcast-thumb {
+            transform: scale(1.05);
+            opacity: 1;
+        }
+
+        .podcast-play-btn {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 60px;
+            height: 60px;
+            background: #ff0000;
+            color: #fff;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.3rem;
+            padding-left: 3px;
+            box-shadow: 0 4px 20px rgba(255, 0, 0, 0.5);
+            transition: all 0.3s ease;
+        }
+
+        .podcast-card:hover .podcast-play-btn {
+            transform: translate(-50%, -50%) scale(1.15);
+            box-shadow: 0 6px 25px rgba(255, 0, 0, 0.7);
+        }
+
+        .podcast-badge {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            background: rgba(0, 0, 0, 0.75);
+            color: #fff;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            backdrop-filter: blur(4px);
+        }
+
+        .podcast-body {
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+
+        .podcast-title {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            line-height: 1.4;
+            margin-bottom: 12px;
+        }
+
+        .podcast-excerpt {
+            font-size: 0.92rem;
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 18px;
+        }
+
+        .podcast-actions {
+            border-top: 1px solid #f0f0f0;
+            padding-top: 15px;
+        }
+
+        .btn-watch-podcast {
+            background: var(--prayag-orange, #ff6a00);
+            color: #fff;
+            font-weight: 600;
+            font-size: 0.88rem;
+            border-radius: 50px;
+            padding: 7px 20px;
+            border: none;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .btn-watch-podcast:hover {
+            background: #e55e00;
+            color: #fff;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(255, 106, 0, 0.3);
+        }
     </style>
 
     <section class="blog-content-section" style="padding: 40px 0;">
@@ -417,6 +546,10 @@ $press_releases = [
                 <li class="nav-item" role="presentation">
                     <button class="nav-link" id="print-tab" data-bs-toggle="tab" data-bs-target="#print" type="button"
                         role="tab">Print Media</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="podcast-tab" data-bs-toggle="tab" data-bs-target="#podcast" type="button"
+                        role="tab">Podcasts</button>
                 </li>
             </ul>
 
@@ -441,7 +574,7 @@ $press_releases = [
                                         <div class="blog-post-footer mt-auto">
                                             <?php if ($press['link'] !== '#'): ?>
                                                 <a href="<?php echo $press['link']; ?>" target="_blank"
-                                                    class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                                     class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
                                             <?php else: ?>
                                                 <span class="btn-read-more" style="color: #666; cursor: default;">Print Coverage
                                                     <i class="fas fa-newspaper"></i></span>
@@ -458,12 +591,15 @@ $press_releases = [
                 <div class="tab-pane fade" id="print" role="tabpanel" aria-labelledby="print-tab">
                     <div class="row g-4">
                         <?php
-                        // Sample print media images
+                        // Print media images
                         $print_media = [
                             ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-1-nw.webp', 'date' => '2025-03-01'],
                             ['title' => 'Healthcare Excellence News', 'image' => 'assets/images/media-coverage/press-2-nw.webp', 'date' => '2025-02-15'],
                             ['title' => 'Community Health Features', 'image' => 'assets/images/media-coverage/press-3-nw.webp', 'date' => '2025-02-01'],
-                            ['title' => 'Medical Breakthrough Coverage', 'image' => 'assets/images/media-coverage/press-4-nw.webp', 'date' => '2025-01-20']
+                            ['title' => 'Medical Breakthrough Coverage', 'image' => 'assets/images/media-coverage/press-4-nw.webp', 'date' => '2025-01-20'],
+                            ['title' => 'Hospital Milestone & Recognition', 'image' => 'assets/images/media-coverage/press-5-nw.webp', 'date' => '2025-01-10'],
+                            ['title' => 'Clinical Excellence in Press', 'image' => 'assets/images/media-coverage/press-6-nw.webp', 'date' => '2024-12-20'],
+                            ['title' => 'Healthcare Outreach Report', 'image' => 'assets/images/media-coverage/press-7-nw.webp', 'date' => '2024-12-05']
                         ];
 
                         foreach ($print_media as $item): ?>
@@ -486,6 +622,41 @@ $press_releases = [
                         <?php endforeach; ?>
                     </div>
                 </div>
+
+                <!-- Podcast Tab -->
+                <div class="tab-pane fade" id="podcast" role="tabpanel" aria-labelledby="podcast-tab">
+                    <div class="row g-4">
+                        <?php foreach ($podcasts as $podcast): ?>
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="podcast-card">
+                                    <div class="podcast-thumb-wrap" onclick="openPodcastVideo('<?php echo $podcast['video_id']; ?>')">
+                                        <img src="https://img.youtube.com/vi/<?php echo $podcast['video_id']; ?>/hqdefault.jpg"
+                                            alt="<?php echo htmlspecialchars($podcast['title']); ?>" class="podcast-thumb">
+                                        <div class="podcast-play-btn">
+                                            <i class="fas fa-play"></i>
+                                        </div>
+                                        <div class="podcast-badge"><i class="fab fa-youtube text-danger me-1"></i> Video Podcast</div>
+                                    </div>
+                                    <div class="podcast-body">
+                                        <div class="podcast-meta mb-2">
+                                            <span class="badge bg-light text-dark border"><i class="fas fa-user text-primary me-1"></i> <?php echo $podcast['speaker']; ?></span>
+                                        </div>
+                                        <h3 class="podcast-title"><?php echo $podcast['title']; ?></h3>
+                                        <p class="podcast-excerpt"><?php echo $podcast['excerpt']; ?></p>
+                                        <div class="podcast-actions mt-auto d-flex align-items-center justify-content-between">
+                                            <button type="button" class="btn-watch-podcast" onclick="openPodcastVideo('<?php echo $podcast['video_id']; ?>')">
+                                                <i class="fas fa-play"></i> Watch Video
+                                            </button>
+                                            <a href="<?php echo $podcast['link']; ?>" target="_blank" rel="noopener noreferrer" class="btn-read-more" style="font-size: 0.88rem;">
+                                                YouTube <i class="fas fa-external-link-alt ms-1 small"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        <?php endforeach; ?>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -502,6 +673,24 @@ $press_releases = [
         </div>
     </div>
 
+    <!-- Podcast Video Modal -->
+    <div class="modal fade" id="podcastVideoModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content bg-dark border-0 rounded-4 overflow-hidden shadow-lg">
+                <div class="modal-header border-0 pb-0 justify-content-end">
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body p-3">
+                    <div class="ratio ratio-16x9">
+                        <iframe id="podcastVideoIframe" src="" title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script>
         function expandImage(src, title) {
             const modalImg = document.getElementById('lightboxImage');
@@ -510,6 +699,20 @@ $press_releases = [
             modalImg.alt = title;
             modal.show();
         }
+
+        function openPodcastVideo(videoId) {
+            const iframe = document.getElementById('podcastVideoIframe');
+            iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+            const modal = new bootstrap.Modal(document.getElementById('podcastVideoModal'));
+            modal.show();
+        }
+
+        document.getElementById('podcastVideoModal')?.addEventListener('hidden.bs.modal', function () {
+            const iframe = document.getElementById('podcastVideoIframe');
+            if (iframe) {
+                iframe.src = '';
+            }
+        });
     </script>
 
     <?php include 'footer.php'; ?>
