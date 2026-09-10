@@ -2,6 +2,14 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Why Do You Get Pimples Even After Your Teenage Years? Dermatologist Shares Insights on Adult Acne',
+        'date' => '2026-09-07',
+        'excerpt' => 'OnlyMyHealth consults Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, to explain why adults get pimples, key triggers, and effective ways to manage adult acne.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/09/06/template/image/mn-adult-acne-1788681681501.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/why-do-you-get-pimples-even-after-your-teenage-years-dermatologist-on-adult-acne-12977850107'
+    ],
+    [
         'title' => 'Can Walking Too Much Damage Your Knees? What An Expert Says',
         'date' => '2026-09-03',
         'excerpt' => 'OnlyMyHealth consults an orthopaedic specialist to break down whether walking excessively can harm your knees and how to protect your joints.',
