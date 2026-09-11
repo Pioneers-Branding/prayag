@@ -2,6 +2,22 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Why Does Your Skin Look Dull Even After Sleeping Well?',
+        'date' => '2026-09-09',
+        'excerpt' => 'OnlyMyHealth consults Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, to explain why skin can look dull despite sound sleep, key causes, and expert tips for healthier skin.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/09/09/template/image/mn-skin-looks-dull-1788950317634.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/why-does-skin-look-dull-even-after-sleeping-well-dermatologist-tells-12977850171'
+    ],
+    [
+        'title' => 'Your Waistline May Tell You More About Your Metabolic Health Than Your Weight',
+        'date' => '2026-09-09',
+        'excerpt' => 'NDTV features insights from Dr. Alok Krishna Sahay, Consultant - General Medicine & Diabetology at Prayag Hospitals, explaining why waist circumference is a vital indicator of metabolic health and visceral fat risk.',
+        'image' => 'https://c.ndtvimg.com/2026-08/nmn2ifus_weekend-injury_625x300_06_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900',
+        'source' => 'NDTV',
+        'link' => 'https://www.ndtv.com/health/weight-management/your-waistline-may-tell-you-more-about-your-metabolic-health-than-your-weight-12022990'
+    ],
+    [
         'title' => 'Why Do You Get Pimples Even After Your Teenage Years? Dermatologist Shares Insights on Adult Acne',
         'date' => '2026-09-07',
         'excerpt' => 'OnlyMyHealth consults Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, to explain why adults get pimples, key triggers, and effective ways to manage adult acne.',
