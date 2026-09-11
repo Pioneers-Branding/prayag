@@ -2,6 +2,30 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Gallic acid for skin: The new antioxidant everyone is talking about, explained',
+        'date' => '2026-09-09',
+        'excerpt' => 'The Indian Express consults Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, to explain the emerging benefits, antioxidant properties, and safe usage of gallic acid in modern skincare.',
+        'image' => 'https://images.indianexpress.com/2026/09/Untitled-design-1-4.png',
+        'source' => 'The Indian Express',
+        'link' => 'https://indianexpress.com/article/lifestyle/gallic-acid-big-skincare-antioxidant-know-benefits-10863182/'
+    ],
+    [
+        'title' => 'Why Am I Not Getting Pregnant Despite Having Regular Periods?',
+        'date' => '2026-09-09',
+        'excerpt' => 'OnlyMyHealth speaks with Dr Anuradha Vats, Senior Consultant - Obstetrics and Gynaecology at Prayag Hospitals Noida, discussing key underlying factors and fertility considerations even when menstrual cycles are regular.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/09/09/template/image/mn-why-not-getting-pregnant-1788930040543.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/why-am-i-not-getting-pregnant-despite-having-regular-periods-doctor-shares-12977850156'
+    ],
+    [
+        'title' => '7 Possible Reasons Why Your Knee Hurts When You Climb Stairs',
+        'date' => '2026-09-09',
+        'excerpt' => 'OnlyMyHealth consults Dr Sunil Kumar Sharma, Senior Consultant - Orthopaedics at Prayag Hospitals Noida, to highlight 7 common causes of knee pain during stair climbing and when to seek medical advice.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/09/09/template/image/main-knees-hurt-causes-1788960326895.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/possible-reasons-why-your-knee-hurts-when-you-climb-stairs-shares-doctors-12977850186'
+    ],
+    [
         'title' => 'Why Does Your Skin Look Dull Even After Sleeping Well?',
         'date' => '2026-09-09',
         'excerpt' => 'OnlyMyHealth consults Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, to explain why skin can look dull despite sound sleep, key causes, and expert tips for healthier skin.',
