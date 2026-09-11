@@ -285,7 +285,8 @@ $podcasts = [
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prayag Hospital in the News | Media Coverage</title>
-    <meta name="description" content="Prayag Hospital, Noida in the media — coverage in ANI, NDTV, India Today & more. See our latest achievements & health features.">
+    <meta name="description"
+        content="Prayag Hospital, Noida in the media — coverage in ANI, NDTV, India Today & more. See our latest achievements & health features.">
     <meta name="keywords" content="prayag hospital news, prayag hospital media coverage">
     <?php include 'header-links.php'; ?>
 </head>
@@ -572,8 +573,8 @@ $podcasts = [
                         role="tab">Print Media</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="podcast-tab" data-bs-toggle="tab" data-bs-target="#podcast" type="button"
-                        role="tab">Podcasts</button>
+                    <button class="nav-link" id="podcast-tab" data-bs-toggle="tab" data-bs-target="#podcast"
+                        type="button" role="tab">Podcasts</button>
                 </li>
             </ul>
 
@@ -598,7 +599,7 @@ $podcasts = [
                                         <div class="blog-post-footer mt-auto">
                                             <?php if ($press['link'] !== '#'): ?>
                                                 <a href="<?php echo $press['link']; ?>" target="_blank"
-                                                     class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                                    class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
                                             <?php else: ?>
                                                 <span class="btn-read-more" style="color: #666; cursor: default;">Print Coverage
                                                     <i class="fas fa-newspaper"></i></span>
@@ -623,7 +624,8 @@ $podcasts = [
                             ['title' => 'Medical Breakthrough Coverage', 'image' => 'assets/images/media-coverage/press-4-nw.webp', 'date' => '2025-01-20'],
                             ['title' => 'Hospital Milestone & Recognition', 'image' => 'assets/images/media-coverage/press-5-nw.webp', 'date' => '2025-01-10'],
                             ['title' => 'Clinical Excellence in Press', 'image' => 'assets/images/media-coverage/press-6-nw.webp', 'date' => '2024-12-20'],
-                            ['title' => 'Healthcare Outreach Report', 'image' => 'assets/images/media-coverage/press-7-nw.webp', 'date' => '2024-12-05']
+                            ['title' => 'Healthcare Outreach Report', 'image' => 'assets/images/media-coverage/press-7-nw.webp', 'date' => '2024-12-05'],
+                            ['title' => 'Healthcare Outreach Report', 'image' => 'assets/images/media-coverage/press-8-nw.webp', 'date' => '2024-12-05']
                         ];
 
                         foreach ($print_media as $item): ?>
@@ -653,25 +655,32 @@ $podcasts = [
                         <?php foreach ($podcasts as $podcast): ?>
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="podcast-card">
-                                    <div class="podcast-thumb-wrap" onclick="openPodcastVideo('<?php echo $podcast['video_id']; ?>')">
+                                    <div class="podcast-thumb-wrap"
+                                        onclick="openPodcastVideo('<?php echo $podcast['video_id']; ?>')">
                                         <img src="https://img.youtube.com/vi/<?php echo $podcast['video_id']; ?>/hqdefault.jpg"
                                             alt="<?php echo htmlspecialchars($podcast['title']); ?>" class="podcast-thumb">
                                         <div class="podcast-play-btn">
                                             <i class="fas fa-play"></i>
                                         </div>
-                                        <div class="podcast-badge"><i class="fab fa-youtube text-danger me-1"></i> Video Podcast</div>
+                                        <div class="podcast-badge"><i class="fab fa-youtube text-danger me-1"></i> Video
+                                            Podcast</div>
                                     </div>
                                     <div class="podcast-body">
                                         <div class="podcast-meta mb-2">
-                                            <span class="badge bg-light text-dark border"><i class="fas fa-user text-primary me-1"></i> <?php echo $podcast['speaker']; ?></span>
+                                            <span class="badge bg-light text-dark border"><i
+                                                    class="fas fa-user text-primary me-1"></i>
+                                                <?php echo $podcast['speaker']; ?></span>
                                         </div>
                                         <h3 class="podcast-title"><?php echo $podcast['title']; ?></h3>
                                         <p class="podcast-excerpt"><?php echo $podcast['excerpt']; ?></p>
-                                        <div class="podcast-actions mt-auto d-flex align-items-center justify-content-between">
-                                            <button type="button" class="btn-watch-podcast" onclick="openPodcastVideo('<?php echo $podcast['video_id']; ?>')">
+                                        <div
+                                            class="podcast-actions mt-auto d-flex align-items-center justify-content-between">
+                                            <button type="button" class="btn-watch-podcast"
+                                                onclick="openPodcastVideo('<?php echo $podcast['video_id']; ?>')">
                                                 <i class="fas fa-play"></i> Watch Video
                                             </button>
-                                            <a href="<?php echo $podcast['link']; ?>" target="_blank" rel="noopener noreferrer" class="btn-read-more" style="font-size: 0.88rem;">
+                                            <a href="<?php echo $podcast['link']; ?>" target="_blank"
+                                                rel="noopener noreferrer" class="btn-read-more" style="font-size: 0.88rem;">
                                                 YouTube <i class="fas fa-external-link-alt ms-1 small"></i>
                                             </a>
                                         </div>
@@ -702,7 +711,8 @@ $podcasts = [
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content bg-dark border-0 rounded-4 overflow-hidden shadow-lg">
                 <div class="modal-header border-0 pb-0 justify-content-end">
-                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"
+                        aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-3">
                     <div class="ratio ratio-16x9">
