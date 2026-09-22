@@ -2,6 +2,22 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Why Are My Neck And Face Two Different Colours? Common Causes And What To Do',
+        'date' => '2026-09-20',
+        'excerpt' => 'OnlyMyHealth speaks with Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, explaining why the neck can become darker than the face, common causes, and expert tips to manage uneven skin tone.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/09/20/template/image/mn-diff-face-neck-1789895983129.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/why-are-my-neck-and-face-two-different-colours-causes-and-what-to-do-explained-by-dermatologist-12977850464'
+    ],
+    [
+        'title' => 'What Is Fertility Planning and How Can It Reduce the Risk of Genetic Conditions in Babies?',
+        'date' => '2026-09-19',
+        'excerpt' => 'OnlyMyHealth speaks with Dr Anuradha Vats, Senior Consultant - Obstetrics and Gynaecology at Prayag Hospitals Noida, explaining how fertility planning and genetic screening before conception can help identify and reduce inherited risks in babies.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/09/19/template/image/mn-Fertility-Planning-genetics-1789820806548.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/what-is-fertility-planning-and-how-can-it-reduce-the-risk-of-genetic-conditions-in-babies-12977850456'
+    ],
+    [
         'title' => 'Gallic acid for skin: The new antioxidant everyone is talking about, explained',
         'date' => '2026-09-09',
         'excerpt' => 'The Indian Express consults Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, to explain the emerging benefits, antioxidant properties, and safe usage of gallic acid in modern skincare.',
