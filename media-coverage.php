@@ -658,6 +658,7 @@ $podcasts = [
                         <?php
                         // Print media images
                         $print_media = [
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-9-nw.webp', 'date' => '2026-09-23'],
                             ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-1-nw.webp', 'date' => '2025-03-01'],
                             ['title' => 'Healthcare Excellence News', 'image' => 'assets/images/media-coverage/press-2-nw.webp', 'date' => '2025-02-15'],
                             ['title' => 'Community Health Features', 'image' => 'assets/images/media-coverage/press-3-nw.webp', 'date' => '2025-02-01'],
