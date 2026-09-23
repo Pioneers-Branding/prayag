@@ -18,6 +18,14 @@ $press_releases = [
         'link' => 'https://www.onlymyhealth.com/what-is-fertility-planning-and-how-can-it-reduce-the-risk-of-genetic-conditions-in-babies-12977850456'
     ],
     [
+        'title' => 'Why Is Your Skin Suddenly Itchy? 7 Causes You Should Know',
+        'date' => '2026-09-17',
+        'excerpt' => 'OnlyMyHealth consults Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, to explain 7 common causes behind sudden, intense itchy skin and when to seek medical advice.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/09/17/template/image/mn-sudden-itchy-skin-1789619897047.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/why-is-your-skin-suddenly-itchy-dermatologist-shares-causes-12977850378'
+    ],
+    [
         'title' => 'Gallic acid for skin: The new antioxidant everyone is talking about, explained',
         'date' => '2026-09-09',
         'excerpt' => 'The Indian Express consults Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, to explain the emerging benefits, antioxidant properties, and safe usage of gallic acid in modern skincare.',
