@@ -666,15 +666,16 @@ $podcasts = [
                         <?php
                         // Print media images
                         $print_media = [
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-10-nw.webp', 'date' => '2026-09-25'],
                             ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-9-nw.webp', 'date' => '2026-09-23'],
-                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-1-nw.webp', 'date' => '2025-03-01'],
-                            ['title' => 'Healthcare Excellence News', 'image' => 'assets/images/media-coverage/press-2-nw.webp', 'date' => '2025-02-15'],
-                            ['title' => 'Community Health Features', 'image' => 'assets/images/media-coverage/press-3-nw.webp', 'date' => '2025-02-01'],
-                            ['title' => 'Medical Breakthrough Coverage', 'image' => 'assets/images/media-coverage/press-4-nw.webp', 'date' => '2025-01-20'],
-                            ['title' => 'Hospital Milestone & Recognition', 'image' => 'assets/images/media-coverage/press-5-nw.webp', 'date' => '2025-01-10'],
-                            ['title' => 'Clinical Excellence in Press', 'image' => 'assets/images/media-coverage/press-6-nw.webp', 'date' => '2024-12-20'],
-                            ['title' => 'Healthcare Outreach Report', 'image' => 'assets/images/media-coverage/press-7-nw.webp', 'date' => '2024-12-05'],
-                            ['title' => 'Healthcare Outreach Report', 'image' => 'assets/images/media-coverage/press-8-nw.webp', 'date' => '2024-12-05']
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-8-nw.webp', 'date' => '2026-09-22'],
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-7-nw.webp', 'date' => '2026-09-21'],
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-6-nw.webp', 'date' => '2026-09-20'],
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-5-nw.webp', 'date' => '2026-09-19'],
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-4-nw.webp', 'date' => '2026-09-18'],
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-3-nw.webp', 'date' => '2026-09-17'],
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-2-nw.webp', 'date' => '2026-09-16'],
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-1-nw.webp', 'date' => '2026-09-15']
                         ];
 
                         foreach ($print_media as $item): ?>
