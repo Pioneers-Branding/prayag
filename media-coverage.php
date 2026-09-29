@@ -666,6 +666,7 @@ $podcasts = [
                         <?php
                         // Print media images
                         $print_media = [
+                            ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-11-nw.webp', 'date' => '2026-09-28'],
                             ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-10-nw.webp', 'date' => '2026-09-25'],
                             ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-9-nw.webp', 'date' => '2026-09-23'],
                             ['title' => 'Recent Media Coverage', 'image' => 'assets/images/media-coverage/press-8-nw.webp', 'date' => '2026-09-22'],
