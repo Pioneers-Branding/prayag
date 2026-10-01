@@ -2,6 +2,30 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Booster Dose',
+        'date' => '2026-09-30',
+        'excerpt' => 'Medical Buyer features Dr. Pritika Singh, CEO of Prayag Hospitals, sharing perspectives on healthcare industry collaboration, evolving medical technologies, and community learning.',
+        'image' => 'assets/images/pritika-singh.webp',
+        'source' => 'Medical Buyer',
+        'link' => 'https://medicalbuyer.co.in/dr-pritika-singh-ceo-prayag-hospitals/'
+    ],
+    [
+        'title' => 'Can glucosamine affect brain health? Here\'s what doctors say',
+        'date' => '2026-09-28',
+        'excerpt' => 'Firstpost consults Dr Nupur Rajoriya, Consultant – Neuro Physician at Prayag Hospitals, on whether joint supplement glucosamine affects brain health and the link with cognitive decline.',
+        'image' => 'https://images.firstpost.com/uploads/2026/09/Untitled-design-2026-09-28T131903.908-2026-09-600312fee0d07d508d87591a01b8a3f1.jpg?im=FitAndFill,width=1200,height=675',
+        'source' => 'First Post',
+        'link' => 'https://www.firstpost.com/lifestyle/can-glucosamine-affect-brain-health-heres-what-doctors-say-14048798.html'
+    ],
+    [
+        'title' => 'Protein Deficiency Doesn\'t Always Mean Being Underweight',
+        'date' => '2026-09-21',
+        'excerpt' => 'NDTV discusses why protein deficiency doesn\'t always mean being underweight, explaining how individuals of any body weight can lack sufficient protein and key signs to recognize.',
+        'image' => 'https://c.ndtvimg.com/2026-09/92oc61ek_weight-scales_625x300_10_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900',
+        'source' => 'NDTV',
+        'link' => 'https://www.ndtv.com/health/weight-management/protein-deficiency-doesnt-always-mean-being-underweight-heres-why-12028193'
+    ],
+    [
         'title' => 'Why Are My Neck And Face Two Different Colours? Common Causes And What To Do',
         'date' => '2026-09-20',
         'excerpt' => 'OnlyMyHealth speaks with Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, explaining why the neck can become darker than the face, common causes, and expert tips to manage uneven skin tone.',
@@ -27,7 +51,7 @@ $press_releases = [
     ],
     [
         'title' => 'Gallic acid for skin: The new antioxidant everyone is talking about, explained',
-        'date' => '2026-09-09',
+        'date' => '2026-09-11',
         'excerpt' => 'The Indian Express consults Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, to explain the emerging benefits, antioxidant properties, and safe usage of gallic acid in modern skincare.',
         'image' => 'https://images.indianexpress.com/2026/09/Untitled-design-1-4.png',
         'source' => 'The Indian Express',
