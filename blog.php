@@ -5,8 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Health Blog - Latest Medical News & Insights | Prayag Hospital</title>
+    <meta name="description" content="Read expert medical articles, health tips, and wellness insights from Prayag Hospital Noida doctors and healthcare specialists.">
 
-     <?php include 'header-links.php'; ?>
+    <?php include 'header-links.php'; ?>
 
 </head>
 
@@ -25,22 +26,22 @@
             </nav>
         </div>
     </div>
+
     <!-- Hero Section -->
     <section class="blog-hero-section">
         <div class="container">
             <div class="blog-hero-content">
-                <h1 class="blog-hero-title">Health Blog</h1>
-                <p class="blog-hero-subtitle">Expert insights, medical news, and wellness tips from our healthcare
-                    professionals</p>
+                <h1 class="blog-hero-title">Health & Wellness Blog</h1>
+                <p class="blog-hero-subtitle">Expert insights, medical guidance, and healthcare tips from the medical team at Prayag Hospital</p>
 
                 <!-- Blog Search Bar -->
                 <div class="blog-search-wrapper">
                     <div class="blog-search-input-group">
                         <i class="fas fa-search"></i>
                         <input type="text" id="blogSearch" class="blog-search-input"
-                            placeholder="Search articles by title, topic, or keyword...">
+                            placeholder="Search articles by title, specialty, or topic...">
                     </div>
-                    <button class="btn-blog-search">
+                    <button class="btn-blog-search" type="button" id="btnSearchSubmit">
                         <i class="fas fa-search"></i> Search
                     </button>
                 </div>
@@ -57,22 +58,16 @@
                     <!-- Category Pills -->
                     <div class="category-pills-wrapper">
                         <button class="category-pill active" data-category="all">All Posts</button>
+                        <button class="category-pill" data-category="womens-health">Women's Health</button>
                         <button class="category-pill" data-category="diagnostics">Diagnostics & Imaging</button>
                         <button class="category-pill" data-category="emergency-care">Emergency Care</button>
-                        <button class="category-pill" data-category="womens-health">Women's Health</button>
-                        <button class="category-pill" data-category="cardiology">Cardiology</button>
-                        <button class="category-pill" data-category="nutrition">Nutrition</button>
-                        <button class="category-pill" data-category="wellness">Wellness</button>
-                        <button class="category-pill" data-category="pediatrics">Pediatrics</button>
-                        <button class="category-pill" data-category="lifestyle">Lifestyle</button>
-                        <button class="category-pill" data-category="preventive">Preventive Care</button>
                     </div>
 
                     <!-- Results Info -->
                     <div class="blog-results-header">
-                        <h3>Showing <span id="blogCount">16</span> Articles</h3>
+                        <h3>Showing <span id="blogCount">4</span> Articles</h3>
                         <div class="blog-sort-wrapper">
-                            <label>Sort by:</label>
+                            <label for="blogSort">Sort by:</label>
                             <select id="blogSort" class="blog-sort-select">
                                 <option value="newest">Newest First</option>
                                 <option value="oldest">Oldest First</option>
@@ -83,450 +78,110 @@
 
                     <!-- Blog Posts Grid -->
                     <div class="blog-posts-grid" id="blogPostsGrid">
-                        <!-- Blog Post - 10 Things -->
-                        <article class="blog-post-card" data-category="womens-health" data-date="2026-08-24"
-                            data-popularity="1020">
-                            <div class="blog-post-image">
+                        <!-- Blog Post 1: 10 Things Every Woman Should Know -->
+                        <article class="blog-post-card" data-category="womens-health" data-date="2026-08-24" data-popularity="1020">
+                            <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/10-things-every-women-should-know.webp"
-                                    alt="Choosing a Gynecologist in Noida">
-                                <div class="blog-category-badge" style="background:#4A8F73;">Women's Health</div>
-                            </div>
+                                    alt="10 Things Every Woman Should Know About Choosing a Gynecologist in Noida" loading="lazy">
+                                <span class="blog-category-badge" style="background:#4A8F73;">Women's Health</span>
+                            </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
                                     <span class="meta-item"><i class="far fa-calendar"></i> Aug 24, 2026</span>
                                     <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 1020 views</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,020 views</span>
                                 </div>
-                                <h3 class="blog-post-title">10 Things Every Woman Should Know About Choosing a Gynecologist in Noida</h3>
+                                <h3 class="blog-post-title">
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php">10 Things Every Woman Should Know About Choosing a Gynecologist in Noida</a>
+                                </h3>
                                 <p class="blog-post-excerpt">Choosing the right gynecologist is vital. Discover 10 essential factors every woman should consider—from expertise & safety to affordable ultrasound & maternity care.</p>
                                 <div class="blog-post-footer">
                                     <div class="author-info">
-                                        <img src="assets/images/favicon.png"
-                                            alt="Prayag Hospital" class="author-avatar">
+                                        <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
                                         <span>Prayag Hospital</span>
                                     </div>
-                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
-                        <!-- Blog Post - Ultrasound -->
-                        <article class="blog-post-card" data-category="diagnostics" data-date="2026-08-17"
-                            data-popularity="960">
-                            <div class="blog-post-image">
+
+                        <!-- Blog Post 2: Ultrasound in Noida -->
+                        <article class="blog-post-card" data-category="diagnostics" data-date="2026-08-17" data-popularity="960">
+                            <a href="ultrasound-in-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/ultrasound-in-noida.webp"
-                                    alt="Ultrasound in Noida">
-                                <div class="blog-category-badge" style="background:#0284c7;">Diagnostics</div>
-                            </div>
+                                    alt="Ultrasound in Noida: Types, Uses, Preparation" loading="lazy">
+                                <span class="blog-category-badge" style="background:#0284c7;">Diagnostics</span>
+                            </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
                                     <span class="meta-item"><i class="far fa-calendar"></i> Aug 17, 2026</span>
                                     <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
                                     <span class="meta-item"><i class="far fa-eye"></i> 960 views</span>
                                 </div>
-                                <h3 class="blog-post-title">Ultrasound in Noida: Types, Uses, Preparation & When You May Need One</h3>
+                                <h3 class="blog-post-title">
+                                    <a href="ultrasound-in-noida.php">Ultrasound in Noida: Types, Uses, Preparation & When You May Need One</a>
+                                </h3>
                                 <p class="blog-post-excerpt">Looking for an ultrasound in Noida? Learn about scan types (2D, 3D, 4D, Color Doppler), preparation tips, and pregnancy ultrasound care at Prayag Hospital.</p>
                                 <div class="blog-post-footer">
                                     <div class="author-info">
-                                        <img src="assets/images/favicon.png"
-                                            alt="Prayag Hospital" class="author-avatar">
+                                        <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
                                         <span>Prayag Hospital</span>
                                     </div>
-                                    <a href="ultrasound-in-noida.php" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                    <a href="ultrasound-in-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
-                        <!-- Blog Post - Emergency Care -->
-                        <article class="blog-post-card" data-category="emergency-care" data-date="2026-08-10"
-                            data-popularity="990">
-                            <div class="blog-post-image">
+
+                        <!-- Blog Post 3: Emergency Hospital in Noida -->
+                        <article class="blog-post-card" data-category="emergency-care" data-date="2026-08-10" data-popularity="990">
+                            <a href="emergency-hospital-in-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/emergency-hospital-in-noida.webp"
-                                    alt="Emergency Hospital in Noida">
-                                <div class="blog-category-badge" style="background:#d32f2f;">Emergency Care</div>
-                            </div>
+                                    alt="Emergency Hospital in Noida" loading="lazy">
+                                <span class="blog-category-badge" style="background:#d32f2f;">Emergency Care</span>
+                            </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
                                     <span class="meta-item"><i class="far fa-calendar"></i> Aug 10, 2026</span>
                                     <span class="meta-item"><i class="far fa-clock"></i> 5 min read</span>
                                     <span class="meta-item"><i class="far fa-eye"></i> 990 views</span>
                                 </div>
-                                <h3 class="blog-post-title">Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore</h3>
+                                <h3 class="blog-post-title">
+                                    <a href="emergency-hospital-in-noida.php">Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore</a>
+                                </h3>
                                 <p class="blog-post-excerpt">Know the 10 critical warning signs that need an emergency hospital in Noida. Learn how acting quickly saves lives and what to do in medical emergencies.</p>
                                 <div class="blog-post-footer">
                                     <div class="author-info">
-                                        <img src="assets/images/favicon.png"
-                                            alt="Prayag Hospital" class="author-avatar">
+                                        <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
                                         <span>Prayag Hospital</span>
                                     </div>
-                                    <a href="emergency-hospital-in-noida.php" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                    <a href="emergency-hospital-in-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
-                        <!-- Blog Post - Gynecologist -->
-                        <article class="blog-post-card" data-category="womens-health" data-date="2026-08-03"
-                            data-popularity="980">
-                            <div class="blog-post-image">
+
+                        <!-- Blog Post 4: Best Gynecologist in Noida -->
+                        <article class="blog-post-card" data-category="womens-health" data-date="2026-08-03" data-popularity="980">
+                            <a href="best-gynecologist-in-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/best-gynocologist-in-india.webp"
-                                    alt="Best Gynecologist in Noida">
-                                <div class="blog-category-badge">Women's Health</div>
-                            </div>
+                                    alt="Best Gynecologist in Noida" loading="lazy">
+                                <span class="blog-category-badge" style="background:#4A8F73;">Women's Health</span>
+                            </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
                                     <span class="meta-item"><i class="far fa-calendar"></i> Aug 03, 2026</span>
                                     <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
                                     <span class="meta-item"><i class="far fa-eye"></i> 980 views</span>
                                 </div>
-                                <h3 class="blog-post-title">Best Gynecologist in Noida: When Should You See a Gynecologist?</h3>
+                                <h3 class="blog-post-title">
+                                    <a href="best-gynecologist-in-noida.php">Best Gynecologist in Noida: When Should You See a Gynecologist?</a>
+                                </h3>
                                 <p class="blog-post-excerpt">Wondering when to see the best gynecologist in Noida? Learn the signs, screenings, PCOS guidance and life stages that need a gynecologist visit.</p>
                                 <div class="blog-post-footer">
                                     <div class="author-info">
-                                        <img src="assets/images/favicon.png"
-                                            alt="Prayag Hospital" class="author-avatar">
+                                        <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
                                         <span>Prayag Hospital</span>
                                     </div>
-                                    <a href="best-gynecologist-in-noida.php" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-                        <!-- Blog Post 1 -->
-                        <article class="blog-post-card" data-category="cardiology" data-date="2024-01-15"
-                            data-popularity="850">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/4A8F73/ffffff?text=Heart+Health"
-                                    alt="Heart Health Tips">
-                                <div class="blog-category-badge">Cardiology</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 15, 2024</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 5 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 850 views</span>
-                                </div>
-                                <h3 class="blog-post-title">10 Essential Tips for Maintaining a Healthy Heart</h3>
-                                <p class="blog-post-excerpt">Discover simple yet effective ways to keep your heart
-                                    healthy and reduce the risk of cardiovascular diseases. Learn about diet, exercise,
-                                    and lifestyle changes.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/E8964F/ffffff?text=RK"
-                                            alt="Dr. Rajesh Kumar" class="author-avatar">
-                                        <span>Dr. Rajesh Kumar</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 2 -->
-                        <article class="blog-post-card" data-category="nutrition" data-date="2024-01-12"
-                            data-popularity="720">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/E8964F/ffffff?text=Nutrition+Guide"
-                                    alt="Nutrition Guide">
-                                <div class="blog-category-badge">Nutrition</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 12, 2024</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 7 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 720 views</span>
-                                </div>
-                                <h3 class="blog-post-title">Complete Guide to Balanced Nutrition for All Ages</h3>
-                                <p class="blog-post-excerpt">Understanding nutritional needs across different life
-                                    stages. Expert advice on creating balanced meal plans for optimal health and
-                                    wellness.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/4A8F73/ffffff?text=AM"
-                                            alt="Dr. Anjali Mehta" class="author-avatar">
-                                        <span>Dr. Anjali Mehta</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 3 -->
-                        <article class="blog-post-card" data-category="wellness" data-date="2024-01-10"
-                            data-popularity="950">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/4A8F73/ffffff?text=Mental+Wellness"
-                                    alt="Mental Wellness">
-                                <div class="blog-category-badge">Wellness</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 10, 2024</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 950 views</span>
-                                </div>
-                                <h3 class="blog-post-title">Mental Wellness: Strategies for Stress Management</h3>
-                                <p class="blog-post-excerpt">Learn evidence-based techniques to manage stress and
-                                    improve mental health. Practical tips for maintaining emotional well-being in daily
-                                    life.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/E8964F/ffffff?text=PS"
-                                            alt="Dr. Priya Sharma" class="author-avatar">
-                                        <span>Dr. Priya Sharma</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 4 -->
-                        <article class="blog-post-card" data-category="pediatrics" data-date="2024-01-08"
-                            data-popularity="680">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/E8964F/ffffff?text=Child+Health"
-                                    alt="Child Health">
-                                <div class="blog-category-badge">Pediatrics</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 08, 2024</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 5 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 680 views</span>
-                                </div>
-                                <h3 class="blog-post-title">Essential Vaccinations for Children: A Parent's Guide</h3>
-                                <p class="blog-post-excerpt">Complete information about childhood vaccinations, their
-                                    importance, and recommended schedules. Keep your child protected and healthy.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/4A8F73/ffffff?text=SR"
-                                            alt="Dr. Sneha Reddy" class="author-avatar">
-                                        <span>Dr. Sneha Reddy</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 5 -->
-                        <article class="blog-post-card" data-category="lifestyle" data-date="2024-01-05"
-                            data-popularity="820">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/4A8F73/ffffff?text=Exercise+Tips"
-                                    alt="Exercise Tips">
-                                <div class="blog-category-badge">Lifestyle</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 05, 2024</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 8 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 820 views</span>
-                                </div>
-                                <h3 class="blog-post-title">Developing a Sustainable Exercise Routine for Beginners</h3>
-                                <p class="blog-post-excerpt">Start your fitness journey with expert-approved exercises
-                                    and tips. Build a workout routine that fits your lifestyle and helps achieve your
-                                    goals.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/E8964F/ffffff?text=AP"
-                                            alt="Dr. Amit Patel" class="author-avatar">
-                                        <span>Dr. Amit Patel</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 6 -->
-                        <article class="blog-post-card" data-category="preventive" data-date="2024-01-03"
-                            data-popularity="890">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/E8964F/ffffff?text=Preventive+Care"
-                                    alt="Preventive Care">
-                                <div class="blog-category-badge">Preventive Care</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Jan 03, 2024</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 890 views</span>
-                                </div>
-                                <h3 class="blog-post-title">The Importance of Regular Health Checkups</h3>
-                                <p class="blog-post-excerpt">Why preventive healthcare matters and what tests you should
-                                    get at different ages. Early detection saves lives - learn about essential
-                                    screenings.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/4A8F73/ffffff?text=RG"
-                                            alt="Dr. Rahul Gupta" class="author-avatar">
-                                        <span>Dr. Rahul Gupta</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 7 -->
-                        <article class="blog-post-card" data-category="cardiology" data-date="2023-12-28"
-                            data-popularity="760">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/4A8F73/ffffff?text=Blood+Pressure"
-                                    alt="Blood Pressure">
-                                <div class="blog-category-badge">Cardiology</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Dec 28, 2023</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 5 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 760 views</span>
-                                </div>
-                                <h3 class="blog-post-title">Understanding and Managing High Blood Pressure</h3>
-                                <p class="blog-post-excerpt">Comprehensive guide to hypertension: causes, symptoms, and
-                                    effective management strategies. Take control of your blood pressure naturally.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/E8964F/ffffff?text=SJ"
-                                            alt="Dr. Sanjay Joshi" class="author-avatar">
-                                        <span>Dr. Sanjay Joshi</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 8 -->
-                        <article class="blog-post-card" data-category="nutrition" data-date="2023-12-25"
-                            data-popularity="710">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/E8964F/ffffff?text=Diabetes+Diet"
-                                    alt="Diabetes Diet">
-                                <div class="blog-category-badge">Nutrition</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Dec 25, 2023</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 7 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 710 views</span>
-                                </div>
-                                <h3 class="blog-post-title">Diabetes-Friendly Diet: What to Eat and Avoid</h3>
-                                <p class="blog-post-excerpt">Expert nutritional advice for managing diabetes through
-                                    diet. Discover foods that help control blood sugar levels and improve overall
-                                    health.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/4A8F73/ffffff?text=DV"
-                                            alt="Dr. Divya Verma" class="author-avatar">
-                                        <span>Dr. Divya Verma</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 9 -->
-                        <article class="blog-post-card" data-category="wellness" data-date="2023-12-22"
-                            data-popularity="840">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/4A8F73/ffffff?text=Sleep+Health"
-                                    alt="Sleep Health">
-                                <div class="blog-category-badge">Wellness</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Dec 22, 2023</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 840 views</span>
-                                </div>
-                                <h3 class="blog-post-title">The Science of Sleep: Tips for Better Rest</h3>
-                                <p class="blog-post-excerpt">Understanding sleep cycles and improving sleep quality for
-                                    better health. Evidence-based strategies to overcome insomnia and sleep disorders.
-                                </p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/E8964F/ffffff?text=KR"
-                                            alt="Dr. Kavita Rao" class="author-avatar">
-                                        <span>Dr. Kavita Rao</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 10 -->
-                        <article class="blog-post-card" data-category="pediatrics" data-date="2023-12-20"
-                            data-popularity="650">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/E8964F/ffffff?text=Child+Development"
-                                    alt="Child Development">
-                                <div class="blog-category-badge">Pediatrics</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Dec 20, 2023</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 8 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 650 views</span>
-                                </div>
-                                <h3 class="blog-post-title">Milestones in Child Development: A Complete Guide</h3>
-                                <p class="blog-post-excerpt">Track your child's growth and development with this
-                                    comprehensive guide to age-appropriate milestones and what to watch for.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/4A8F73/ffffff?text=MD"
-                                            alt="Dr. Meera Das" class="author-avatar">
-                                        <span>Dr. Meera Das</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 11 -->
-                        <article class="blog-post-card" data-category="lifestyle" data-date="2023-12-18"
-                            data-popularity="780">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/4A8F73/ffffff?text=Yoga+Benefits"
-                                    alt="Yoga Benefits">
-                                <div class="blog-category-badge">Lifestyle</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Dec 18, 2023</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 5 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 780 views</span>
-                                </div>
-                                <h3 class="blog-post-title">Yoga for Health: Benefits Beyond Physical Fitness</h3>
-                                <p class="blog-post-excerpt">Explore how yoga improves both physical and mental health.
-                                    Learn about different styles and how to start your practice safely.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/E8964F/ffffff?text=VS"
-                                            alt="Dr. Vikram Singh" class="author-avatar">
-                                        <span>Dr. Vikram Singh</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </article>
-
-                        <!-- Blog Post 12 -->
-                        <article class="blog-post-card" data-category="preventive" data-date="2023-12-15"
-                            data-popularity="920">
-                            <div class="blog-post-image">
-                                <img src="https://via.placeholder.com/600x400/E8964F/ffffff?text=Cancer+Prevention"
-                                    alt="Cancer Prevention">
-                                <div class="blog-category-badge">Preventive Care</div>
-                            </div>
-                            <div class="blog-post-content">
-                                <div class="blog-post-meta">
-                                    <span class="meta-item"><i class="far fa-calendar"></i> Dec 15, 2023</span>
-                                    <span class="meta-item"><i class="far fa-clock"></i> 9 min read</span>
-                                    <span class="meta-item"><i class="far fa-eye"></i> 920 views</span>
-                                </div>
-                                <h3 class="blog-post-title">Cancer Prevention: Lifestyle Changes That Matter</h3>
-                                <p class="blog-post-excerpt">Evidence-based lifestyle modifications that can
-                                    significantly reduce cancer risk. Learn about diet, exercise, and screening
-                                    guidelines.</p>
-                                <div class="blog-post-footer">
-                                    <div class="author-info">
-                                        <img src="https://via.placeholder.com/40x40/4A8F73/ffffff?text=AN"
-                                            alt="Dr. Arun Nair" class="author-avatar">
-                                        <span>Dr. Arun Nair</span>
-                                    </div>
-                                    <a href="#" class="btn-read-more">Read More <i class="fas fa-arrow-right"></i></a>
+                                    <a href="best-gynecologist-in-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
@@ -536,7 +191,7 @@
                     <div class="blog-no-results" id="blogNoResults" style="display: none;">
                         <i class="fas fa-search"></i>
                         <h3>No Articles Found</h3>
-                        <p>Try different keywords or browse all categories</p>
+                        <p>Try different keywords or browse our categories below.</p>
                     </div>
 
                     <!-- Pagination -->
@@ -544,12 +199,8 @@
                         <button class="pagination-btn" disabled><i class="fas fa-chevron-left"></i> Previous</button>
                         <div class="pagination-numbers">
                             <button class="pagination-number active">1</button>
-                            <button class="pagination-number">2</button>
-                            <button class="pagination-number">3</button>
-                            <span>...</span>
-                            <button class="pagination-number">10</button>
                         </div>
-                        <button class="pagination-btn">Next <i class="fas fa-chevron-right"></i></button>
+                        <button class="pagination-btn" disabled>Next <i class="fas fa-chevron-right"></i></button>
                     </div>
                 </div>
 
@@ -558,40 +209,36 @@
                     <div class="blog-sidebar">
                         <!-- Popular Posts -->
                         <div class="sidebar-widget">
-                            <h3 class="widget-title">Popular Posts</h3>
+                            <h3 class="widget-title">Featured Articles</h3>
                             <div class="popular-posts-list">
-                                <div class="popular-post-item">
-                                    <img src="https://via.placeholder.com/80x80/4A8F73/ffffff?text=1" alt="Post">
+                                <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="popular-post-item">
+                                    <img src="assets/images/blog/10-things-every-women-should-know.webp" alt="Choosing a Gynecologist">
                                     <div class="popular-post-content">
-                                        <h4>Mental Wellness: Strategies for Stress</h4>
-                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Jan 10,
-                                            2024</span>
+                                        <h4>10 Things Every Woman Should Know About Choosing a Gynecologist</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Aug 24, 2026</span>
                                     </div>
-                                </div>
-                                <div class="popular-post-item">
-                                    <img src="https://via.placeholder.com/80x80/E8964F/ffffff?text=2" alt="Post">
+                                </a>
+                                <a href="ultrasound-in-noida.php" class="popular-post-item">
+                                    <img src="assets/images/blog/ultrasound-in-noida.webp" alt="Ultrasound in Noida">
                                     <div class="popular-post-content">
-                                        <h4>Cancer Prevention Lifestyle Changes</h4>
-                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Dec 15,
-                                            2023</span>
+                                        <h4>Ultrasound in Noida: Types, Uses, Preparation & Guide</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Aug 17, 2026</span>
                                     </div>
-                                </div>
-                                <div class="popular-post-item">
-                                    <img src="https://via.placeholder.com/80x80/4A8F73/ffffff?text=3" alt="Post">
+                                </a>
+                                <a href="emergency-hospital-in-noida.php" class="popular-post-item">
+                                    <img src="assets/images/blog/emergency-hospital-in-noida.webp" alt="Emergency Hospital in Noida">
                                     <div class="popular-post-content">
-                                        <h4>The Importance of Health Checkups</h4>
-                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Jan 03,
-                                            2024</span>
+                                        <h4>Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Aug 10, 2026</span>
                                     </div>
-                                </div>
-                                <div class="popular-post-item">
-                                    <img src="https://via.placeholder.com/80x80/E8964F/ffffff?text=4" alt="Post">
+                                </a>
+                                <a href="best-gynecologist-in-noida.php" class="popular-post-item">
+                                    <img src="assets/images/blog/best-gynocologist-in-india.webp" alt="Best Gynecologist in Noida">
                                     <div class="popular-post-content">
-                                        <h4>10 Tips for a Healthy Heart</h4>
-                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Jan 15,
-                                            2024</span>
+                                        <h4>When Should You See a Gynecologist? Key Signs & Advice</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Aug 03, 2026</span>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                         </div>
 
@@ -599,43 +246,42 @@
                         <div class="sidebar-widget">
                             <h3 class="widget-title">Categories</h3>
                             <ul class="categories-list">
-                                <li><a href="#"><i class="fas fa-heartbeat"></i> Cardiology <span>(45)</span></a></li>
-                                <li><a href="#"><i class="fas fa-utensils"></i> Nutrition <span>(38)</span></a></li>
-                                <li><a href="#"><i class="fas fa-spa"></i> Wellness <span>(52)</span></a></li>
-                                <li><a href="#"><i class="fas fa-baby"></i> Pediatrics <span>(29)</span></a></li>
-                                <li><a href="#"><i class="fas fa-running"></i> Lifestyle <span>(41)</span></a></li>
-                                <li><a href="#"><i class="fas fa-shield-alt"></i> Preventive Care <span>(36)</span></a>
+                                <li>
+                                    <a href="#" class="sidebar-category-link" data-category="womens-health">
+                                        <span><i class="fas fa-female"></i> Women's Health</span>
+                                        <span>2</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="sidebar-category-link" data-category="diagnostics">
+                                        <span><i class="fas fa-x-ray"></i> Diagnostics & Imaging</span>
+                                        <span>1</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="sidebar-category-link" data-category="emergency-care">
+                                        <span><i class="fas fa-ambulance"></i> Emergency Care</span>
+                                        <span>1</span>
+                                    </a>
                                 </li>
                             </ul>
                         </div>
 
                         <!-- Newsletter Subscribe -->
-                        <div class="sidebar-widget newsletter-widget">
-                            <h3 class="widget-title">Subscribe to Newsletter</h3>
-                            <p>Get the latest health tips and medical news delivered to your inbox.</p>
-                            <form class="newsletter-form">
-                                <input type="email" placeholder="Your email address" required>
-                                <button type="submit" class="btn-subscribe"><i class="fas fa-paper-plane"></i>
-                                    Subscribe</button>
-                            </form>
-                        </div>
+                        
 
                         <!-- Tags Cloud -->
                         <div class="sidebar-widget">
-                            <h3 class="widget-title">Popular Tags</h3>
+                            <h3 class="widget-title">Popular Topics</h3>
                             <div class="tags-cloud">
-                                <a href="#" class="tag-item">Heart Health</a>
-                                <a href="#" class="tag-item">Nutrition</a>
-                                <a href="#" class="tag-item">Exercise</a>
-                                <a href="#" class="tag-item">Mental Health</a>
-                                <a href="#" class="tag-item">Diabetes</a>
-                                <a href="#" class="tag-item">Prevention</a>
-                                <a href="#" class="tag-item">Pediatrics</a>
-                                <a href="#" class="tag-item">Wellness</a>
-                                <a href="#" class="tag-item">Lifestyle</a>
-                                <a href="#" class="tag-item">Sleep</a>
-                                <a href="#" class="tag-item">Cancer</a>
-                                <a href="#" class="tag-item">Yoga</a>
+                                <a href="#" class="tag-item" data-tag="gynecologist">Gynecologist</a>
+                                <a href="#" class="tag-item" data-tag="women">Women's Health</a>
+                                <a href="#" class="tag-item" data-tag="ultrasound">Ultrasound</a>
+                                <a href="#" class="tag-item" data-tag="pregnancy">Pregnancy Care</a>
+                                <a href="#" class="tag-item" data-tag="emergency">Emergency Care</a>
+                                <a href="#" class="tag-item" data-tag="diagnostics">Diagnostics</a>
+                                <a href="#" class="tag-item" data-tag="pcos">PCOS Treatment</a>
+                                <a href="#" class="tag-item" data-tag="maternity">Maternity</a>
                             </div>
                         </div>
                     </div>
@@ -651,14 +297,17 @@
         document.addEventListener('DOMContentLoaded', function () {
             const blogPosts = document.querySelectorAll('.blog-post-card');
             const searchInput = document.getElementById('blogSearch');
+            const btnSearchSubmit = document.getElementById('btnSearchSubmit');
             const categoryPills = document.querySelectorAll('.category-pill');
+            const sidebarCatLinks = document.querySelectorAll('.sidebar-category-link');
+            const tagItems = document.querySelectorAll('.tag-item');
             const sortSelect = document.getElementById('blogSort');
             const blogCount = document.getElementById('blogCount');
             const noResults = document.getElementById('blogNoResults');
             let activeCategory = 'all';
 
             function filterBlogPosts() {
-                const searchTerm = searchInput.value.toLowerCase();
+                const searchTerm = searchInput.value.toLowerCase().trim();
                 let visibleCount = 0;
 
                 blogPosts.forEach(post => {
@@ -670,7 +319,7 @@
                     const matchesCategory = activeCategory === 'all' || activeCategory === category;
 
                     if (matchesSearch && matchesCategory) {
-                        post.style.display = 'block';
+                        post.style.display = 'flex';
                         visibleCount++;
                     } else {
                         post.style.display = 'none';
@@ -679,19 +328,54 @@
 
                 blogCount.textContent = visibleCount;
                 noResults.style.display = visibleCount === 0 ? 'block' : 'none';
-                document.getElementById('blogPagination').style.display = visibleCount === 0 ? 'none' : 'flex';
+                const pagination = document.getElementById('blogPagination');
+                if (pagination) {
+                    pagination.style.display = visibleCount === 0 ? 'none' : 'flex';
+                }
             }
 
-            // Search functionality
-            searchInput.addEventListener('input', filterBlogPosts);
+            function setCategory(cat) {
+                activeCategory = cat;
+                categoryPills.forEach(p => {
+                    if (p.dataset.category === cat) {
+                        p.classList.add('active');
+                    } else {
+                        p.classList.remove('active');
+                    }
+                });
+                filterBlogPosts();
+            }
 
-            // Category filtering
+            // Search input typing
+            searchInput.addEventListener('input', filterBlogPosts);
+            if (btnSearchSubmit) {
+                btnSearchSubmit.addEventListener('click', filterBlogPosts);
+            }
+
+            // Category pills filtering
             categoryPills.forEach(pill => {
                 pill.addEventListener('click', function () {
-                    categoryPills.forEach(p => p.classList.remove('active'));
-                    this.classList.add('active');
-                    activeCategory = this.dataset.category;
+                    setCategory(this.dataset.category);
+                });
+            });
+
+            // Sidebar category links
+            sidebarCatLinks.forEach(link => {
+                link.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    setCategory(this.dataset.category);
+                    window.scrollTo({ top: document.querySelector('.blog-content-section').offsetTop - 80, behavior: 'smooth' });
+                });
+            });
+
+            // Tag clicks
+            tagItems.forEach(tag => {
+                tag.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    const tagVal = this.dataset.tag || this.textContent.trim();
+                    searchInput.value = tagVal;
                     filterBlogPosts();
+                    window.scrollTo({ top: document.querySelector('.blog-content-section').offsetTop - 80, behavior: 'smooth' });
                 });
             });
 
@@ -714,19 +398,28 @@
                 postsArray.forEach(post => grid.appendChild(post));
             });
 
-            // Newsletter form
-            document.querySelector('.newsletter-form').addEventListener('submit', function (e) {
-                e.preventDefault();
-                alert('Thank you for subscribing to our newsletter!');
-                this.reset();
-            });
+            // Newsletter form submit
+            const newsletterForm = document.getElementById('newsletterForm');
+            if (newsletterForm) {
+                newsletterForm.addEventListener('submit', function (e) {
+                    e.preventDefault();
+                    alert('Thank you for subscribing to Prayag Hospital insights!');
+                    this.reset();
+                });
+            }
 
-            // Initial count
-            filterBlogPosts();
+            // Check URL query parameters for category
+            const urlParams = new URLSearchParams(window.location.search);
+            const initialCat = urlParams.get('category');
+            if (initialCat) {
+                setCategory(initialCat);
+            } else {
+                filterBlogPosts();
+            }
         });
     </script>
 
-     <?php include 'footer-links.php'; ?>
+    <?php include 'footer-links.php'; ?>
 
 </body>
 
