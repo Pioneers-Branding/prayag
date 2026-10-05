@@ -951,21 +951,21 @@
                         <!-- Large Blog Card 1 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php">
-                                    <img src="assets/images/blog/10-things-every-women-should-know.webp"
-                                        alt="Choosing a Gynecologist in Noida">
+                                <a href="why-do-we-fall-sick-when-weather-changes.php">
+                                    <img src="assets/images/blog/why-do-we-fall-sick.webp"
+                                        alt="Why Do We Fall Sick When the Weather Changes?">
                                 </a>
                             </div>
                             <div class="blog-content-large">
                                 <h3 class="blog-title-large">
-                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php"
+                                    <a href="why-do-we-fall-sick-when-weather-changes.php"
                                         style="color:inherit; text-decoration:none;">
-                                        10 Things Every Woman Should Know About Choosing a Gynecologist in Noida
+                                        Why Do We Fall Sick When the Weather Changes?
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
-                                    <span class="blog-date">Aug 24, 2026</span>
-                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php"
+                                    <span class="blog-date">Oct 05, 2026</span>
+                                    <a href="why-do-we-fall-sick-when-weather-changes.php"
                                         class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
@@ -980,21 +980,21 @@
                         <!-- Large Blog Card 2 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <a href="ultrasound-in-noida.php">
-                                    <img src="assets/images/blog/ultrasound-in-noida.webp"
-                                        alt="Ultrasound in Noida">
+                                <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php">
+                                    <img src="assets/images/blog/10-things-every-women-should-know.webp"
+                                        alt="Choosing a Gynecologist in Noida">
                                 </a>
                             </div>
                             <div class="blog-content-large">
                                 <h3 class="blog-title-large">
-                                    <a href="ultrasound-in-noida.php"
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php"
                                         style="color:inherit; text-decoration:none;">
-                                        Ultrasound in Noida: Types, Uses, Preparation & When You May Need One
+                                        10 Things Every Woman Should Know About Choosing a Gynecologist
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
-                                    <span class="blog-date">Aug 17, 2026</span>
-                                    <a href="ultrasound-in-noida.php"
+                                    <span class="blog-date">Aug 24, 2026</span>
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php"
                                         class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
@@ -1011,6 +1011,33 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
+                                        <a href="ultrasound-in-noida.php">
+                                            <img src="assets/images/blog/ultrasound-in-noida.webp"
+                                                alt="Ultrasound in Noida">
+                                        </a>
+                                    </div>
+                                    <div class="blog-content-compact">
+                                        <h4 class="blog-title-compact">
+                                            <a href="ultrasound-in-noida.php"
+                                                style="color:inherit; text-decoration:none;">
+                                                Ultrasound in Noida: Types, Uses, Preparation &amp; Guide
+                                            </a>
+                                        </h4>
+                                        <div class="blog-meta-compact">
+                                            <span class="blog-date-compact">Aug 17, 2026</span>
+                                            <a href="ultrasound-in-noida.php" class="blog-read-more-compact">
+                                                Read More
+                                                <i class="fas fa-arrow-right"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Compact Blog Card 2 -->
+                            <div class="blog-card-compact">
+                                <div class="blog-compact-wrapper">
+                                    <div class="blog-image-compact">
                                         <a href="emergency-hospital-in-noida.php">
                                             <img src="assets/images/blog/emergency-hospital-in-noida.webp"
                                                 alt="Emergency Hospital in Noida">
@@ -1020,7 +1047,7 @@
                                         <h4 class="blog-title-compact">
                                             <a href="emergency-hospital-in-noida.php"
                                                 style="color:inherit; text-decoration:none;">
-                                                Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore
+                                                Emergency Hospital in Noida: 10 Warning Signs to Know
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
@@ -1034,7 +1061,7 @@
                                 </div>
                             </div>
 
-                            <!-- Compact Blog Card 2 -->
+                            <!-- Compact Blog Card 3 -->
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
@@ -1047,37 +1074,12 @@
                                         <h4 class="blog-title-compact">
                                             <a href="best-gynecologist-in-noida.php"
                                                 style="color:inherit; text-decoration:none;">
-                                                Best Gynecologist in Noida: When Should You See a Gynecologist?
+                                                Best Gynecologist in Noida: When Should You See a Doctor?
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Aug 03, 2026</span>
                                             <a href="best-gynecologist-in-noida.php" class="blog-read-more-compact">
-                                                Read More
-                                                <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Compact Blog Card 3 -->
-                            <div class="blog-card-compact">
-                                <div class="blog-compact-wrapper">
-                                    <div class="blog-image-compact">
-                                        <a href="blog.php">
-                                            <img src="assets/images/blog-1.webp" alt="Blood Donation">
-                                        </a>
-                                    </div>
-                                    <div class="blog-content-compact">
-                                        <h4 class="blog-title-compact">
-                                            <a href="blog.php" style="color:inherit; text-decoration:none;">
-                                                Universal Blood Donor: Which Blood Group Can Be Donated to Everyone?
-                                            </a>
-                                        </h4>
-                                        <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Nov 18, 2025</span>
-                                            <a href="blog.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>

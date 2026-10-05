@@ -58,14 +58,16 @@
                     <!-- Category Pills -->
                     <div class="category-pills-wrapper">
                         <button class="category-pill active" data-category="all">All Posts</button>
+                        <button class="category-pill" data-category="health-wellness">Health &amp; Wellness</button>
                         <button class="category-pill" data-category="womens-health">Women's Health</button>
-                        <button class="category-pill" data-category="diagnostics">Diagnostics & Imaging</button>
+                        <button class="category-pill" data-category="mens-health">Men's Health</button>
+                        <button class="category-pill" data-category="diagnostics">Diagnostics &amp; Imaging</button>
                         <button class="category-pill" data-category="emergency-care">Emergency Care</button>
                     </div>
 
                     <!-- Results Info -->
                     <div class="blog-results-header">
-                        <h3>Showing <span id="blogCount">4</span> Articles</h3>
+                        <h3>Showing <span id="blogCount">7</span> Articles</h3>
                         <div class="blog-sort-wrapper">
                             <label for="blogSort">Sort by:</label>
                             <select id="blogSort" class="blog-sort-select">
@@ -78,7 +80,88 @@
 
                     <!-- Blog Posts Grid -->
                     <div class="blog-posts-grid" id="blogPostsGrid">
-                        <!-- Blog Post 1: 10 Things Every Woman Should Know -->
+                        <!-- Blog Post 1: Why Do We Fall Sick When the Weather Changes? -->
+                        <article class="blog-post-card" data-category="health-wellness" data-date="2026-10-05" data-popularity="1150">
+                            <a href="why-do-we-fall-sick-when-weather-changes.php" class="blog-post-image">
+                                <img src="assets/images/blog/why-do-we-fall-sick.webp"
+                                    alt="Seasonal illness during weather change in Noida" loading="lazy">
+                                <span class="blog-category-badge" style="background:#166534;">Health &amp; Wellness</span>
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Oct 05, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 5 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,150 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="why-do-we-fall-sick-when-weather-changes.php">Why Do We Fall Sick When the Weather Changes?</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Learn why weather changes trigger seasonal illnesses, common symptoms of viral fever, dengue and flu, and when to see a doctor at Prayag Hospital Noida.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
+                                        <span>Prayag Hospital</span>
+                                    </div>
+                                    <a href="why-do-we-fall-sick-when-weather-changes.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Blog Post 2: When Should You See a Gynaecologist? -->
+                        <article class="blog-post-card" data-category="womens-health" data-date="2026-09-25" data-popularity="1280">
+                            <a href="when-should-you-see-a-gynaecologist.php" class="blog-post-image">
+                                <img src="assets/images/blog/when-should-you-see-a-gynecologist.webp"
+                                    alt="Gynaecologist consultation and women's health care in Noida" loading="lazy">
+                                <span class="blog-category-badge" style="background:#4A8F73;">Women's Health</span>
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Sep 25, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,280 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="when-should-you-see-a-gynaecologist.php">When Should You See a Gynaecologist? Signs Every Woman Should Know</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Learn the key signs that mean you should consult a gynaecologist—from irregular periods and heavy bleeding to PCOS, fertility, and menopause care.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png" alt="Dr. Garima Srivastav" class="author-avatar">
+                                        <span>Dr. Garima Srivastav</span>
+                                    </div>
+                                    <a href="when-should-you-see-a-gynaecologist.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Blog Post 3: Frequent Urination at Night? It Could Be Your Prostate -->
+                        <article class="blog-post-card" data-category="mens-health" data-date="2026-09-15" data-popularity="1340">
+                            <a href="frequent-urination-at-night.php" class="blog-post-image">
+                                <img src="assets/images/blog/frequent-urination-at-night.webp"
+                                    alt="Frequent urination at night and enlarged prostate symptoms in men" loading="lazy">
+                                <span class="blog-category-badge" style="background:#0f766e;">Men's Health</span>
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Sep 15, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 5 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,340 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="frequent-urination-at-night.php">Frequent Urination at Night? It Could Be Your Prostate</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Waking up frequently at night to urinate? Learn about enlarged prostate (BPH) symptoms, nocturia causes, and advanced treatments at Prayag Hospital Noida.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png" alt="Dr. Nrapendra Sharma" class="author-avatar">
+                                        <span>Dr. Nrapendra Sharma</span>
+                                    </div>
+                                    <a href="frequent-urination-at-night.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Blog Post 4: 10 Things Every Woman Should Know -->
                         <article class="blog-post-card" data-category="womens-health" data-date="2026-08-24" data-popularity="1020">
                             <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/10-things-every-women-should-know.webp"
@@ -211,6 +294,27 @@
                         <div class="sidebar-widget">
                             <h3 class="widget-title">Featured Articles</h3>
                             <div class="popular-posts-list">
+                                <a href="why-do-we-fall-sick-when-weather-changes.php" class="popular-post-item">
+                                    <img src="assets/images/blog/why-do-we-fall-sick.webp" alt="Why Do We Fall Sick When Weather Changes">
+                                    <div class="popular-post-content">
+                                        <h4>Why Do We Fall Sick When the Weather Changes?</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Oct 05, 2026</span>
+                                    </div>
+                                </a>
+                                <a href="when-should-you-see-a-gynaecologist.php" class="popular-post-item">
+                                    <img src="assets/images/blog/when-should-you-see-a-gynecologist.webp" alt="When Should You See a Gynaecologist">
+                                    <div class="popular-post-content">
+                                        <h4>When Should You See a Gynaecologist? Signs to Know</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Sep 25, 2026</span>
+                                    </div>
+                                </a>
+                                <a href="frequent-urination-at-night.php" class="popular-post-item">
+                                    <img src="assets/images/blog/frequent-urination-at-night.webp" alt="Frequent Urination at Night">
+                                    <div class="popular-post-content">
+                                        <h4>Frequent Urination at Night? It Could Be Your Prostate</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Sep 15, 2026</span>
+                                    </div>
+                                </a>
                                 <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="popular-post-item">
                                     <img src="assets/images/blog/10-things-every-women-should-know.webp" alt="Choosing a Gynecologist">
                                     <div class="popular-post-content">
@@ -247,14 +351,26 @@
                             <h3 class="widget-title">Categories</h3>
                             <ul class="categories-list">
                                 <li>
+                                    <a href="#" class="sidebar-category-link" data-category="health-wellness">
+                                        <span><i class="fas fa-heartbeat"></i> Health &amp; Wellness</span>
+                                        <span>1</span>
+                                    </a>
+                                </li>
+                                <li>
                                     <a href="#" class="sidebar-category-link" data-category="womens-health">
                                         <span><i class="fas fa-female"></i> Women's Health</span>
-                                        <span>2</span>
+                                        <span>3</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="sidebar-category-link" data-category="mens-health">
+                                        <span><i class="fas fa-male"></i> Men's Health</span>
+                                        <span>1</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="sidebar-category-link" data-category="diagnostics">
-                                        <span><i class="fas fa-x-ray"></i> Diagnostics & Imaging</span>
+                                        <span><i class="fas fa-x-ray"></i> Diagnostics &amp; Imaging</span>
                                         <span>1</span>
                                     </a>
                                 </li>
@@ -274,14 +390,19 @@
                         <div class="sidebar-widget">
                             <h3 class="widget-title">Popular Topics</h3>
                             <div class="tags-cloud">
-                                <a href="#" class="tag-item" data-tag="gynecologist">Gynecologist</a>
+                                <a href="#" class="tag-item" data-tag="prostate">Prostate Health</a>
+                                <a href="#" class="tag-item" data-tag="urology">Urology</a>
+                                <a href="#" class="tag-item" data-tag="bph">BPH</a>
+                                <a href="#" class="tag-item" data-tag="gynaecologist">Gynaecologist</a>
                                 <a href="#" class="tag-item" data-tag="women">Women's Health</a>
-                                <a href="#" class="tag-item" data-tag="ultrasound">Ultrasound</a>
-                                <a href="#" class="tag-item" data-tag="pregnancy">Pregnancy Care</a>
-                                <a href="#" class="tag-item" data-tag="emergency">Emergency Care</a>
-                                <a href="#" class="tag-item" data-tag="diagnostics">Diagnostics</a>
                                 <a href="#" class="tag-item" data-tag="pcos">PCOS Treatment</a>
-                                <a href="#" class="tag-item" data-tag="maternity">Maternity</a>
+                                <a href="#" class="tag-item" data-tag="pregnancy">Pregnancy Care</a>
+                                <a href="#" class="tag-item" data-tag="menopause">Menopause</a>
+                                <a href="#" class="tag-item" data-tag="seasonal">Seasonal Illness</a>
+                                <a href="#" class="tag-item" data-tag="viral">Viral Fever</a>
+                                <a href="#" class="tag-item" data-tag="dengue">Dengue</a>
+                                <a href="#" class="tag-item" data-tag="ultrasound">Ultrasound</a>
+                                <a href="#" class="tag-item" data-tag="emergency">Emergency Care</a>
                             </div>
                         </div>
                     </div>
