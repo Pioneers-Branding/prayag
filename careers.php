@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Careers at Prayag Hospital, Noida | Join Our Team</title>
-    <meta name="description" content="Build your healthcare career with Prayag Hospital, Noida. View current openings for doctors, nurses and support staff and apply online.">
+    <meta name="description"
+        content="Build your healthcare career with Prayag Hospital, Noida. View current openings for doctors, nurses and support staff and apply online.">
     <meta name="keywords" content="prayag hospital careers, hospital jobs noida, nursing jobs noida">
 
     <?php include 'header-links.php'; ?>
@@ -114,16 +115,38 @@
                     style="background: linear-gradient(135deg, #fff3cd, #ffe8a1); border-left: 5px solid #e6a800; border-radius: 10px;">
                     <i class="fas fa-exclamation-triangle fa-lg" style="color: #c87000;"></i>
                     <div>
-                        <strong style="color: #7a4400; font-size: 1.05rem;">🚨 URGENT HIRING – Immediate Joining Required</strong>
-                        <p class="mb-0 mt-1 text-muted small">All positions listed below require immediate joining. Interested candidates may apply directly or share their CV at <a href="mailto:hr@prayaghospital.com">hr@prayaghospital.com</a>.</p>
+                        <strong style="color: #7a4400; font-size: 1.05rem;">🚨 URGENT HIRING – Immediate Joining
+                            Required</strong>
+                        <p class="mb-0 mt-1 text-muted small">All positions listed below require immediate joining.
+                            Interested candidates may apply directly or share their CV at <a
+                                href="mailto:hr@prayaghospital.com">hr@prayaghospital.com</a>.</p>
                     </div>
                 </div>
 
                 <div class="job-list">
+                    <!-- Job 13 - Staff Nurse -->
+                    <div class="job-card">
+                        <div class="job-info">
+                            <h4>Staff Nurse <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
+                            <div class="job-meta">
+                                <span><i class="fas fa-graduation-cap"></i> GNM / B.Sc. Nursing</span>
+                                <span><i class="fas fa-briefcase"></i> Min. 2 Years Relevant Experience</span>
+                                <span><i class="fas fa-desktop"></i> Basic Computer Knowledge Mandatory</span>
+                                <span><i class="fas fa-clock"></i> Immediate Joining</span>
+                            </div>
+                        </div>
+                        <div class="job-action mt-3 mt-md-0">
+                            <a href="#applicationForm" class="btn-appointment btn-sm">Apply Now</a>
+                        </div>
+                    </div>
                     <!-- Job 1 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Emergency Incharge <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>Emergency Incharge <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-briefcase"></i> 5+ Years in Emergency</span>
                                 <span><i class="fas fa-clock"></i> Immediate Joining</span>
@@ -137,7 +160,9 @@
                     <!-- Job 2 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Emergency Doctor <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>Emergency Doctor <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-graduation-cap"></i> MBBS</span>
                                 <span><i class="fas fa-briefcase"></i> 5+ Years Emergency Experience</span>
@@ -152,7 +177,9 @@
                     <!-- Job 3 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>ICU Incharge <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>ICU Incharge <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-briefcase"></i> 3+ Years ICU Experience</span>
                                 <span><i class="fas fa-clock"></i> Immediate Joining</span>
@@ -166,7 +193,9 @@
                     <!-- Job 4 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Biomedical Engineer <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>Biomedical Engineer <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-briefcase"></i> 5 Years Experience</span>
                                 <span><i class="fas fa-clock"></i> Immediate Joining</span>
@@ -180,7 +209,9 @@
                     <!-- Job 5 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>CMO – Chief Medical Officer <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>CMO – Chief Medical Officer <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-graduation-cap"></i> MBBS with PG Preferred</span>
                                 <span><i class="fas fa-briefcase"></i> 10+ Years Experience</span>
@@ -195,7 +226,9 @@
                     <!-- Job 6 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>RMO – Resident Medical Officer <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>RMO – Resident Medical Officer <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-graduation-cap"></i> MBBS</span>
                                 <span><i class="fas fa-briefcase"></i> 0–2 Years Experience</span>
@@ -210,7 +243,9 @@
                     <!-- Job 7 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Surgeon (General Surgery) <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>Surgeon (General Surgery) <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-graduation-cap"></i> MS General Surgery</span>
                                 <span><i class="fas fa-briefcase"></i> 3+ Years Experience</span>
@@ -225,7 +260,9 @@
                     <!-- Job 8 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Orthopedic Doctor <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>Orthopedic Doctor <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-graduation-cap"></i> MS Ortho / D.Ortho</span>
                                 <span><i class="fas fa-briefcase"></i> 2+ Years Experience</span>
@@ -240,7 +277,9 @@
                     <!-- Job 9 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>MD Medicine Doctor <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>MD Medicine Doctor <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-graduation-cap"></i> MD Medicine</span>
                                 <span><i class="fas fa-briefcase"></i> 2+ Years Experience</span>
@@ -255,9 +294,12 @@
                     <!-- Job 10 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Gastroenterologist <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>Gastroenterologist <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
-                                <span><i class="fas fa-graduation-cap"></i> DM Gastroenterology / MD Medicine with 2+ Yrs Gastro Exp</span>
+                                <span><i class="fas fa-graduation-cap"></i> DM Gastroenterology / MD Medicine with 2+
+                                    Yrs Gastro Exp</span>
                                 <span><i class="fas fa-clock"></i> Immediate Joining</span>
                             </div>
                         </div>
@@ -269,7 +311,9 @@
                     <!-- Job 11 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Pediatrician <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>Pediatrician <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-graduation-cap"></i> MD Pediatrics / DCH</span>
                                 <span><i class="fas fa-briefcase"></i> 2+ Years Experience</span>
@@ -284,7 +328,9 @@
                     <!-- Job 12 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>DNS / ANS (Nursing Supervisor) <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>DNS / ANS (Nursing Supervisor) <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-graduation-cap"></i> B.Sc Nursing / GNM</span>
                                 <span><i class="fas fa-briefcase"></i> 5+ Years Experience</span>
@@ -296,12 +342,17 @@
                         </div>
                     </div>
 
-                    <!-- Job 13 -->
+
+
+                    <!-- Job 14 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Marketing Executive <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>Marketing Executive <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
-                                <span><i class="fas fa-briefcase"></i> 1–3 Years Hospital / Healthcare Marketing Experience</span>
+                                <span><i class="fas fa-briefcase"></i> 1–3 Years Hospital / Healthcare Marketing
+                                    Experience</span>
                                 <span><i class="fas fa-clock"></i> Immediate Joining</span>
                             </div>
                         </div>
@@ -310,10 +361,12 @@
                         </div>
                     </div>
 
-                    <!-- Job 14 -->
+                    <!-- Job 15 -->
                     <div class="job-card">
                         <div class="job-info">
-                            <h4>Billing Executive <span class="badge ms-2" style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span></h4>
+                            <h4>Billing Executive <span class="badge ms-2"
+                                    style="background:#dc3545;font-size:0.65rem;vertical-align:middle;">URGENT</span>
+                            </h4>
                             <div class="job-meta">
                                 <span><i class="fas fa-briefcase"></i> 1–2 Years Hospital Billing Experience</span>
                                 <span><i class="fas fa-clock"></i> Immediate Joining</span>
@@ -364,14 +417,19 @@
                                                 <option value="Emergency Doctor">Emergency Doctor</option>
                                                 <option value="ICU Incharge">ICU Incharge</option>
                                                 <option value="Biomedical Engineer">Biomedical Engineer</option>
-                                                <option value="CMO – Chief Medical Officer">CMO – Chief Medical Officer</option>
-                                                <option value="RMO – Resident Medical Officer">RMO – Resident Medical Officer</option>
-                                                <option value="Surgeon (General Surgery)">Surgeon (General Surgery)</option>
+                                                <option value="CMO – Chief Medical Officer">CMO – Chief Medical Officer
+                                                </option>
+                                                <option value="RMO – Resident Medical Officer">RMO – Resident Medical
+                                                    Officer</option>
+                                                <option value="Surgeon (General Surgery)">Surgeon (General Surgery)
+                                                </option>
                                                 <option value="Orthopedic Doctor">Orthopedic Doctor</option>
                                                 <option value="MD Medicine Doctor">MD Medicine Doctor</option>
                                                 <option value="Gastroenterologist">Gastroenterologist</option>
                                                 <option value="Pediatrician">Pediatrician</option>
-                                                <option value="DNS / ANS (Nursing Supervisor)">DNS / ANS (Nursing Supervisor)</option>
+                                                <option value="DNS / ANS (Nursing Supervisor)">DNS / ANS (Nursing
+                                                    Supervisor)</option>
+                                                <option value="Staff Nurse">Staff Nurse</option>
                                                 <option value="Marketing Executive">Marketing Executive</option>
                                                 <option value="Billing Executive">Billing Executive</option>
                                                 <option value="Other">Other</option>
