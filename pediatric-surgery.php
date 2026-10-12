@@ -181,7 +181,7 @@
                     We manage a wide range of surgical conditions including congenital anomalies, neonatal emergencies, childhood tumors, and trauma. Our team uses minimally invasive laparoscopic techniques whenever possible to ensure faster recovery and minimal scarring for young patients.
                 </p>
                 <p class="overview-text">
-                    We understand that surgery can be stressful for children and parents alike. Our child-friendly environment, dedicated pediatric anesthesiologists, and family-centered care approach ensure the best possible experience and outcomes for our young patients.
+                    We understand that surgery can be stressful for children and parents alike. Our child-friendly environment, dedicated pediatric anesthesiologists, and family-centered care approach ensure a supportive experience and optimal outcomes for our young patients.
                 </p>
             </div>
 

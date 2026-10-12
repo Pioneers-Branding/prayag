@@ -288,7 +288,7 @@
                         </div>
                         <h3 class="treatment-card-title">Follicular Monitoring</h3>
                         <p class="treatment-card-description">
-                             Serial ultrasound scans to track the growth of follicles and determine the exact time of ovulation for best results.
+                             Serial ultrasound scans to track the growth of follicles and determine the exact time of ovulation for optimal timing.
                         </p>
                     </div>
                 </div>

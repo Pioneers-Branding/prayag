@@ -207,8 +207,8 @@
                 </div>
                 <div class="overview-highlight">
                     <i class="fas fa-burn"></i>
-                    <h4>Curative Ablation</h4>
-                    <p>Radiofrequency Ablation (RFA) to permanently cure many types of tachycardias.</p>
+                    <h4>Catheter Ablation</h4>
+                    <p>Radiofrequency Ablation (RFA) to effectively treat and control many types of tachycardias.</p>
                 </div>
                 <div class="overview-highlight">
                     <i class="fas fa-heart"></i>

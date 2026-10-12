@@ -89,7 +89,7 @@ if (!$doctor) {
                             Dr. H. K. Patra is a highly experienced and reputed Senior Consultant General Surgeon specializing in advanced general surgery and minimally invasive laparoscopic procedures.
                         </p>
                         <p>
-                            He is well-known for managing complex surgical cases with excellent precision and patient safety. With vast experience in both elective and emergency surgeries, he provides comprehensive surgical care with a strong focus on faster recovery and best clinical outcomes.
+                            He is well-known for managing complex surgical cases with excellent precision and patient safety. With vast experience in both elective and emergency surgeries, he provides comprehensive surgical care with a strong focus on faster recovery and optimal clinical outcomes.
                         </p>
                         <div class="doctor-profile-stats">
                             <div class="profile-stat-item">

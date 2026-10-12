@@ -190,7 +190,7 @@
                 </p>
                 <p class="overview-text">
                     Our goal is to preserve the natural valve whenever possible. When replacement is necessary, we offer both mechanical and biological (tissue) valve options, 
-                    helping you choose the best solution for your lifestyle and health needs.
+                    helping you choose the most suitable solution for your lifestyle and health needs.
                 </p>
             </div>
 

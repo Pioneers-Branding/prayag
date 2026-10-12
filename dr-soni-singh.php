@@ -89,7 +89,7 @@ if (!$doctor) {
                             Dr. Soni Singh is a highly experienced and renowned Senior Consultant Ophthalmologist known for providing advanced and compassionate eye care.
                         </p>
                         <p>
-                            He specializes in the diagnosis and treatment of various eye disorders and is highly skilled in performing cataract surgeries, glaucoma management, and retinal disorder treatment. With patient focused care and modern techniques, he ensures the best possible visual outcomes for all age groups.
+                            He specializes in the diagnosis and treatment of various eye disorders and is highly skilled in performing cataract surgeries, glaucoma management, and retinal disorder treatment. With patient focused care and modern techniques, he ensures optimal visual outcomes for all age groups.
                         </p>
                         <div class="doctor-profile-stats">
                             <div class="profile-stat-item">

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ICU & Critical Care Hospital in Noida | Prayag</title>
     <meta name="description" content="24x7 ICU & critical care in Noida with advanced life support & intensivists at Prayag Hospital. Expert care for critically ill patients.">
-    <meta name="keywords" content="ICU hospital in noida, critical care noida, best ICU noida, intensive care noida">
+    <meta name="keywords" content="ICU hospital in noida, critical care noida, advanced ICU noida, intensive care noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -72,7 +72,7 @@
                             <div class="hero-stat-item">
                                 <strong>Excellence in Critical Care</strong>
                                 24/7 dedicated intensivists, advanced life support technology, and multispecialty
-                                critical care management for the best patient outcomes.
+                                critical care management for optimal patient outcomes.
                             </div>
                         </div>
                     </div>
@@ -402,8 +402,8 @@
             <div class="section-header">
                 <h2 class="section-title">Why Choose Prayag Critical Care?</h2>
                 <p class="section-subtitle">
-                    We combine medical expertise with compassionate care to provide the best possible outcomes for every
-                    patient.
+                    We combine medical expertise with compassionate care to provide optimal clinical care and
+                    patient outcomes for every patient.
                 </p>
             </div>
 

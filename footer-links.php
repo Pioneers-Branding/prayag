@@ -6,6 +6,8 @@
 
 <!-- Custom JavaScript -->
 <script src="assets/js/script.js?v=<?php echo time(); ?>"></script>
+<!-- DPDP Cookie & Consent Manager -->
+<script src="assets/js/cookie-consent.js?v=<?php echo time(); ?>"></script>
 
 
 <!-- Voxforce AI Assistant -->

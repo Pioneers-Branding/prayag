@@ -503,61 +503,7 @@
             margin-bottom: 0;
         }
 
-        /* Testimonial Box */
-        .testimonial-card {
-            background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
-            border: 1px solid #bbf7d0;
-            border-left: 5px solid var(--primary-gynae);
-            border-radius: 16px;
-            padding: 28px;
-            margin: 30px 0;
-            position: relative;
-        }
 
-        .testimonial-quote-icon {
-            font-size: 32px;
-            color: #86efac;
-            margin-bottom: 12px;
-        }
-
-        .testimonial-text {
-            font-size: 1.02rem;
-            font-style: italic;
-            line-height: 1.75;
-            color: #166534;
-            margin-bottom: 16px;
-        }
-
-        .testimonial-author {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        .author-avatar-icon {
-            width: 42px;
-            height: 42px;
-            border-radius: 50%;
-            background: #bbf7d0;
-            color: var(--primary-dark);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 18px;
-            font-weight: 700;
-        }
-
-        .author-details h5 {
-            font-size: 1rem;
-            font-weight: 700;
-            color: #14532d;
-            margin: 0;
-        }
-
-        .author-details span {
-            font-size: 0.85rem;
-            color: #15803d;
-        }
 
         /* OPD Banner Card */
         .opd-cta-banner {
@@ -1170,22 +1116,7 @@
                             </div>
                         </section>
 
-                        <!-- Section: Patient Testimonial -->
-                        <section id="patient-story" class="article-section">
-                            <div class="testimonial-card">
-                                <i class="fas fa-quote-left testimonial-quote-icon"></i>
-                                <p class="testimonial-text">
-                                    "I had been dealing with irregular periods for months and kept putting off a visit because I felt hesitant talking about it. At Prayag Hospital, Dr. Garima Srivastav listened patiently and never made me feel rushed or embarrassed. Everything was explained in simple words, and I always knew what was happening and why. The staff were warm and respectful throughout. I only wish I had come sooner. To every woman who is waiting, please don't ignore your health."
-                                </p>
-                                <div class="testimonial-author">
-                                    <div class="author-avatar-icon">ST</div>
-                                    <div class="author-details">
-                                        <h5>Sujata Tanwar</h5>
-                                        <span>Patient, Noida</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
+
 
                         <!-- OPD Banner CTA -->
                         <section class="article-section">

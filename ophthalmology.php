@@ -173,7 +173,7 @@
             <div class="overview-content">
                 <h2 class="overview-heading">Vision for a Brighter Future</h2>
                 <p class="overview-text">
-                    The Department of Ophthalmology at Prayag Hospital is a state-of-the-art facility providing high-quality eye care. We are equipped with advanced diagnostic and surgical technologies to treat a wide spectrum of eye disorders, ensuring the best possible visual outcomes for our patients.
+                    The Department of Ophthalmology at Prayag Hospital is a state-of-the-art facility providing high-quality eye care. We are equipped with advanced diagnostic and surgical technologies to treat a wide spectrum of eye disorders, ensuring optimal visual outcomes for our patients.
                 </p>
                 <p class="overview-text">
                     Our team comprises highly experienced ophthalmologists specializing in Cataract, Refractive Surgery (LASIK), Glaucoma, Medical & Surgical Retina, Cornea, and Oculoplasty. We are committed to delivering personalized care with compassion and precision.
@@ -381,7 +381,7 @@
             <div class="section-header">
                 <h2 class="section-title">Why Choose Prayag for Eye Care?</h2>
                 <p class="section-subtitle">
-                    We bring together expertise and technology to provide the best care for your eyes.
+                    We bring together expertise and technology to provide comprehensive, high-quality care for your eyes.
                 </p>
             </div>
 

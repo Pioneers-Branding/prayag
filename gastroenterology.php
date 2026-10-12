@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Gastroenterologist in Noida | Liver & Digestive</title>
+    <title>Gastroenterology & Digestive Care in Noida | Prayag Hospital</title>
     <meta name="description" content="Expert gastroenterology & hepatology in Noida - endoscopy, liver disease & digestive care at Prayag Hospital. Consult a gastroenterologist today.">
     <meta name="keywords" content="gastroenterologist in noida, liver specialist noida, endoscopy noida, digestive care noida">
 

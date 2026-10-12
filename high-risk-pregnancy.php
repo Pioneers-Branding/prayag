@@ -367,7 +367,7 @@
             <div class="section-header">
                 <h2 class="section-title">Why Prayag for High-Risk Care?</h2>
                 <p class="section-subtitle">
-                    Because every pregnancy deserves the best.
+                    Because every pregnancy deserves dedicated, expert care.
                 </p>
             </div>
 

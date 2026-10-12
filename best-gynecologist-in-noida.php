@@ -1,3 +1,7 @@
+<?php
+header("Location: when-should-you-see-a-gynaecologist.php", true, 301);
+exit();
+?>
 <!DOCTYPE html>
 <html lang="en">
 

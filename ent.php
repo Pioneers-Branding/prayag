@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best ENT Specialist in Noida | Cochlear Implant | Prayag</title>
+    <title>ENT Department & Specialists in Noida | Cochlear Implant | Prayag Hospital</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -179,7 +179,7 @@
                     Our department is equipped with the latest diagnostic and surgical technologies, including operating microscopes for delicate ear surgeries and high-definition endoscopes for minimally invasive nasal and sinus procedures. We focus on providing precise diagnosis and effective treatment plans tailored to each patient.
                 </p>
                 <p class="overview-text">
-                    From routine procedures like tonsillectomy and adenoidectomy to complex surgeries like Cochlear Implants, skull base surgeries, and extensive head & neck cancer resections/reconstructions, our team of highly experienced ENT surgeons ensures the best possible outcomes with minimal recovery time.
+                    From routine procedures like tonsillectomy and adenoidectomy to complex surgeries like Cochlear Implants, skull base surgeries, and extensive head & neck cancer resections/reconstructions, our team of highly experienced ENT surgeons ensures optimal clinical outcomes with minimal recovery time.
                 </p>
             </div>
 

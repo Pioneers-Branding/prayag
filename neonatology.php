@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best NICU & Neonatologist in Noida | Prayag Hospital</title>
+    <title>NICU & Neonatology Services in Noida | Prayag Hospital</title>
 
     <?php include 'header-links.php'; ?>
 

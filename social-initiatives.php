@@ -68,9 +68,9 @@
                     <div class="card h-100 border-0 shadow card-hover">
                         <div class="card-body p-4 text-center">
                             <div class="mb-3 text-orange"><i class="fas fa-heartbeat fa-3x"></i></div>
-                            <h4 class="card-title mb-3">Free Health Camps</h4>
+                            <h4 class="card-title mb-3">Community Health Camps</h4>
                             <p class="card-text">Regular health check-up camps in rural and semi-urban areas providing
-                                free consultations, blood pressure checks, and basic diagnostics.</p>
+                                general health screenings, blood pressure checks, and basic diagnostics.</p>
                         </div>
                     </div>
                 </div>

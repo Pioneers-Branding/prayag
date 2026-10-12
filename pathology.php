@@ -199,7 +199,7 @@
                 <div class="overview-highlight">
                     <i class="fas fa-check-double"></i>
                     <h4>Quality Control</h4>
-                    <p>Internal and External Quality Assurance (EQAS) programs for 100% accuracy.</p>
+                    <p>Internal and External Quality Assurance (EQAS) programs for reliable diagnostic accuracy.</p>
                 </div>
                 <div class="overview-highlight">
                     <i class="fas fa-home"></i>

@@ -8,7 +8,7 @@
     <meta name="description"
         content="Prayag Hospital, Noida - NABH-accredited multispeciality hospital since 1995. 100+ doctors, 24x7 emergency & advanced care. Book an appointment today.">
     <meta name="keywords"
-        content="multispeciality hospital in noida, best hospital in noida, prayag hospital, NABH hospital noida, hospital near noida city centre">
+        content="multispeciality hospital in noida, hospital in noida, prayag hospital, NABH hospital noida, hospital near noida city centre">
 
     <?php include 'header-links.php'; ?>
 
@@ -772,133 +772,7 @@
             </div>
         </section>
 
-        <!-- Real Patients, Real Stories Section -->
-        <section class="testimonials-section">
-            <div class="container">
-                <div class="section-header-center">
-                    <h2 class="section-title-dark">Real Patients, Real Stories</h2>
-                    <p class="section-subtitle-gray">Hear from our patients about their transformational healthcare
-                        journey</p>
-                </div>
 
-                <div class="testimonials-slider-wrapper">
-                    <button class="testimonial-nav testimonial-nav-prev" aria-label="Previous">
-                        <i class="fas fa-chevron-left"></i>
-                    </button>
-
-                    <div class="testimonials-slider-container">
-                        <div class="testimonials-slider">
-                            <!-- Testimonial Video 1 -->
-                            <div class="testimonial-card" data-video-id="fE7axQE9K7A">
-                                <div class="testimonial-thumbnail">
-                                    <img src="https://img.youtube.com/vi/fE7axQE9K7A/mqdefault.jpg"
-                                        alt="Mrs. Noor Bano">
-                                    <div class="play-button">
-                                        <i class="fas fa-play"></i>
-                                    </div>
-                                </div>
-                                <div class="testimonial-overlay">
-                                    <p class="testimonial-text">"Mrs. Noor Bano who fought the battle of Super obesity
-                                        with Multiple Obesity related comorbidities (obesity hypoventilation..."</p>
-                                    <h4 class="testimonial-name">Mrs. Noor Bano</h4>
-                                    <p class="testimonial-procedure">Bariatric Patient</p>
-                                </div>
-                            </div>
-
-                            <!-- Testimonial Video 2 -->
-                            <div class="testimonial-card" data-video-id="UZAOjYmsWgA">
-                                <div class="testimonial-thumbnail">
-                                    <img src="https://img.youtube.com/vi/UZAOjYmsWgA/mqdefault.jpg"
-                                        alt="Mrs. Neetu Aggarwal">
-                                    <div class="play-button">
-                                        <i class="fas fa-play"></i>
-                                    </div>
-                                </div>
-                                <div class="testimonial-overlay">
-                                    <p class="testimonial-text">"Mrs. Neetu Aggarwal is a story worth sharing. Before
-                                        the surgery, her weight was 88 kg with diabetes level very low and after the
-                                        surgery, it is 52 Kg and with diabetes level..."</p>
-                                    <h4 class="testimonial-name">Mrs. Neetu Aggarwal</h4>
-                                    <p class="testimonial-procedure">Surgery</p>
-                                </div>
-                            </div>
-
-                            <!-- Testimonial Video 3 -->
-                            <div class="testimonial-card" data-video-id="PxdxqQl_auQ">
-                                <div class="testimonial-thumbnail">
-                                    <img src="https://img.youtube.com/vi/PxdxqQl_auQ/mqdefault.jpg" alt="Patient Story">
-                                    <div class="play-button">
-                                        <i class="fas fa-play"></i>
-                                    </div>
-                                </div>
-                                <div class="testimonial-overlay">
-                                    <p class="testimonial-text">"Prayag Hospital provided me with exceptional care. The
-                                        doctors and staff were professional and caring throughout my treatment..."</p>
-                                    <h4 class="testimonial-name">Mr. Rajesh Kumar</h4>
-                                    <p class="testimonial-procedure">Cardiac Care</p>
-                                </div>
-                            </div>
-
-                            <!-- Testimonial Video 4 -->
-                            <div class="testimonial-card" data-video-id="6Ib4YkZQDf4">
-                                <div class="testimonial-thumbnail">
-                                    <img src="https://img.youtube.com/vi/6Ib4YkZQDf4/mqdefault.jpg" alt="Patient Story">
-                                    <div class="play-button">
-                                        <i class="fas fa-play"></i>
-                                    </div>
-                                </div>
-                                <div class="testimonial-overlay">
-                                    <p class="testimonial-text">"My experience at Prayag Hospital was life-changing.
-                                        From diagnosis to recovery, every step was handled with utmost care..."</p>
-                                    <h4 class="testimonial-name">Mrs. Priya Sharma</h4>
-                                    <p class="testimonial-procedure">Orthopedic Surgery</p>
-                                </div>
-                            </div>
-
-                            <!-- Testimonial Video 5 -->
-                            <div class="testimonial-card" data-video-id="6Ib4YkZQDf4">
-                                <div class="testimonial-thumbnail">
-                                    <img src="https://img.youtube.com/vi/6Ib4YkZQDf4/mqdefault.jpg" alt="Patient Story">
-                                    <div class="play-button">
-                                        <i class="fas fa-play"></i>
-                                    </div>
-                                </div>
-                                <div class="testimonial-overlay">
-                                    <p class="testimonial-text">"I am grateful to Prayag Hospital for giving me a new
-                                        lease on life. The medical team's expertise saved me..."</p>
-                                    <h4 class="testimonial-name">Mr. Amit Verma</h4>
-                                    <p class="testimonial-procedure">Emergency Care</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <button class="testimonial-nav testimonial-nav-next" aria-label="Next">
-                        <i class="fas fa-chevron-right"></i>
-                    </button>
-                </div>
-
-                <!-- View All Testimonials Button -->
-                <div class="text-center mt-5">
-                    <a href="#" class="btn-view-all-content">
-                        View All Testimonials
-                        <i class="fas fa-arrow-right ms-2"></i>
-                    </a>
-                </div>
-            </div>
-        </section>
-
-        <!-- YouTube Video Modal -->
-        <div id="youtubeModal" class="youtube-modal">
-            <div class="youtube-modal-content">
-                <span class="youtube-modal-close">&times;</span>
-                <div class="youtube-video-wrapper">
-                    <iframe id="youtubeIframe" src="" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
 
 
 
@@ -911,8 +785,8 @@
                         <div class="col-md-6">
                             <div class="cta-content">
                                 <h2 class="cta-title">Your Health is Our Priority</h2>
-                                <p class="cta-description">Book an appointment with our experienced doctors and get the
-                                    best healthcare services. We're here to help you live a healthier life. Our team of
+                                <p class="cta-description">Book an appointment with our experienced doctors and get
+                                    high-quality healthcare services. We're here to help you live a healthier life. Our team of
                                     specialists is dedicated to providing personalized treatment plans tailored to your
                                     unique needs. Experience compassionate care combined with medical excellence.</p>
                                 <a href="book-appointment.php">
@@ -1065,21 +939,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="best-gynecologist-in-noida.php">
+                                        <a href="when-should-you-see-a-gynaecologist.php">
                                             <img src="assets/images/blog/best-gynocologist-in-india.webp"
-                                                alt="Best Gynecologist in Noida">
+                                                alt="When Should You See a Gynaecologist">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="best-gynecologist-in-noida.php"
+                                            <a href="when-should-you-see-a-gynaecologist.php"
                                                 style="color:inherit; text-decoration:none;">
-                                                Best Gynecologist in Noida: When Should You See a Doctor?
+                                                When Should You See a Gynaecologist?
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Aug 03, 2026</span>
-                                            <a href="best-gynecologist-in-noida.php" class="blog-read-more-compact">
+                                            <a href="when-should-you-see-a-gynaecologist.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>

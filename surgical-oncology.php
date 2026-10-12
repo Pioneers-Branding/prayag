@@ -184,7 +184,7 @@
                     We use the latest minimally invasive techniques (Laparoscopic) to perform complex cancer surgeries with smaller incisions, less pain, and quicker recovery. For accessible tumors, we prioritize organ preservation strategies.
                 </p>
                 <p class="overview-text">
-                    In cases requiring extensive tissue removal, our reconstructive surgeons work alongside oncologists to rebuild tissues immediately, ensuring the best cosmetic and functional outcomes.
+                    In cases requiring extensive tissue removal, our reconstructive surgeons work alongside oncologists to rebuild tissues immediately, ensuring optimal reconstructive and functional outcomes.
                 </p>
             </div>
 
@@ -412,8 +412,8 @@
                         <i class="fas fa-heart"></i>
                     </div>
                     <div class="why-point-content">
-                        <h4>Cosmetic Focus</h4>
-                        <p>Strong emphasis on reconstruction and aesthetics alongside cure.</p>
+                        <h4>Reconstructive Excellence</h4>
+                        <p>Strong emphasis on oncological safety, reconstruction, and functional preservation.</p>
                     </div>
                 </div>
             </div>

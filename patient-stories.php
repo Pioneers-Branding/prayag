@@ -1,3 +1,7 @@
+<?php
+header("Location: about-us.php", true, 301);
+exit();
+?>
 <!DOCTYPE html>
 <html lang="en">
 

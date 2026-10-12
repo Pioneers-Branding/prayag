@@ -518,8 +518,8 @@
                 <div class="col-lg-8">
                     <div class="contact-form-wrapper">
                         <div class="form-header text-center mb-4">
-                            <h2>Request a Free Medical Opinion</h2>
-                            <p>Fill out the form below and our team will get back to you within 24 hours</p>
+                            <h2>Request Medical Opinion & Guidance</h2>
+                            <p>Fill out the form below and our international coordination team will get back to you within 24 hours</p>
                         </div>
 
                         <form class="international-patient-form">
@@ -564,6 +564,14 @@
                                 <div class="col-12">
                                     <label class="form-label">Additional Information</label>
                                     <textarea class="form-control" rows="3" placeholder="Any specific questions or requirements?"></textarea>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-check text-start">
+                                        <input class="form-check-input" type="checkbox" id="intlDpdpConsent" required>
+                                        <label class="form-check-label" for="intlDpdpConsent" style="font-size: 0.85rem; color: #64748b;">
+                                            I consent to Prayag Hospital processing my personal contact details and medical reports for clinical review and opinion in accordance with the <a href="privacy-policy.php" target="_blank" style="color: var(--prayag-teal); text-decoration: underline;">Privacy Policy (DPDP Act, 2023)</a>.
+                                        </label>
+                                    </div>
                                 </div>
                                 <div class="col-12 text-center">
                                     <button type="submit" class="btn btn-primary-prayag btn-lg px-5">

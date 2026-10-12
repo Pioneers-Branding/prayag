@@ -165,8 +165,8 @@
                 <div class="col-md-4">
                     <div class="pharmacy-feature-card">
                         <div class="pharmacy-feature-icon"><i class="fas fa-certificate"></i></div>
-                        <h4>100% Genuine</h4>
-                        <p>We source all medicines directly from authorized distributors to guarantee authenticity and safety.</p>
+                        <h4>Verified Authentic</h4>
+                        <p>We source all medicines directly from authorized distributors to ensure authenticity and safety.</p>
                     </div>
                 </div>
                 <div class="col-md-4">

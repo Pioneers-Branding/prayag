@@ -56,7 +56,7 @@
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital provides holistic care for a wide range of adult diseases. Our team of expert physicians 
-                            and intensivists is dedicated to managing acute and chronic illnesses, ensuring the best possible outcomes for our patients.
+                            and intensivists is dedicated to managing acute and chronic illnesses, ensuring optimal clinical outcomes for our patients.
                         </p>
 
                         <!-- CTA Buttons -->

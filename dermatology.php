@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Dermatologist & Skin Doctor in Noida | Prayag</title>
+    <title>Dermatologist & Skin Clinic in Noida | Prayag Hospital</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -53,8 +53,8 @@
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital offers comprehensive care for all skin, hair, and nail concerns. From
-                            clinical dermatology to advanced aesthetic procedures, our experts help you look and feel
-                            your best.
+                            clinical dermatology to advanced aesthetic procedures, our experts help you maintain healthy,
+                            radiant skin.
                         </p>
 
                         <!-- CTA Buttons -->
@@ -570,7 +570,7 @@
                                 <div class="accordion-body">
                                     Acne scars can be treated using various methods depending on their type. Options
                                     include chemical peels, microneedling, laser resurfacing (CO2 fractional), and MNRF
-                                    technology. Our dermatologists will assess your skin and suggest the best plan.
+                                    technology. Our dermatologists will assess your skin and suggest the most suitable treatment plan.
                                 </div>
                             </div>
                         </div>

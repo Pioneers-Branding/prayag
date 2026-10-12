@@ -320,7 +320,7 @@
                         </div>
                         <h3 class="treatment-card-title">Robotic Assisted Surgery</h3>
                         <p class="treatment-card-description">
-                            Using robotic arms for 100% precision in bone cutting and implant placement, ensuring
+                            Using robotic assistance for sub-millimeter precision in bone cutting and implant placement, ensuring
                             longevity of the joint.
                         </p>
                     </div>

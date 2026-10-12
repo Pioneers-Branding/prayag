@@ -196,8 +196,8 @@
             <div class="overview-highlights">
                 <div class="overview-highlight">
                     <i class="fas fa-check-circle"></i>
-                    <h4>Hepatitis Cure</h4>
-                    <p>Advanced antiviral treatments for Hepatitis B and C with high cure rates.</p>
+                    <h4>Hepatitis Management</h4>
+                    <p>Advanced antiviral treatments for Hepatitis B and C with high treatment success and sustained viral suppression.</p>
                 </div>
                 <div class="overview-highlight">
                     <i class="fas fa-check-circle"></i>

@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Nephrologist & Dialysis Centre in Noida | Prayag</title>
+    <title>Nephrology & Dialysis Centre in Noida | Prayag Hospital</title>
     <meta name="description" content="Advanced kidney care & dialysis in Noida - CKD, dialysis & renal treatment by expert nephrologists at Prayag Hospital. Book a consultation.">
     <meta name="keywords" content="dialysis centre in noida, nephrologist in noida, kidney hospital noida, kidney specialist noida">
 
@@ -517,7 +517,7 @@
                             <div id="faqCollapse1" class="accordion-collapse collapse show"
                                 aria-labelledby="faqHeading1" data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    Frequency of dialysis depends on your kidney function. Typically, hemodialysis is required 2-3 times per week, with each session lasting about 4 hours. Your nephrologist will determine the best schedule for you.
+                                    Frequency of dialysis depends on your kidney function. Typically, hemodialysis is required 2-3 times per week, with each session lasting about 4 hours. Your nephrologist will determine the optimal schedule for you.
                                 </div>
                             </div>
                         </div>

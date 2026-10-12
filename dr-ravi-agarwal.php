@@ -89,7 +89,7 @@ if (!$doctor) {
                             Dr. Ravi Agarwal is a highly experienced and well-renowned Senior Consultant Neonatologist specializing in comprehensive newborn care and advanced NICU management.
                         </p>
                         <p>
-                            She has extensive expertise in handling premature and critically ill newborn babies, including low birth weight infants and neonatal emergencies. With a compassionate approach and strong clinical skills, she provides world-class neonatal care ensuring the best survival and developmental outcomes for newborns.
+                            She has extensive expertise in handling premature and critically ill newborn babies, including low birth weight infants and neonatal emergencies. With a compassionate approach and strong clinical skills, she provides quality neonatal care ensuring optimal survival and developmental outcomes for newborns.
                         </p>
                         <div class="doctor-profile-stats">
                             <div class="profile-stat-item">

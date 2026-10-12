@@ -187,7 +187,7 @@
                     Our team of experienced neurologists uses advanced diagnostic tools to provide precise treatment plans.
                 </p>
                 <p class="overview-text">
-                    We believe in a holistic approach, working closely with neurosurgeons, physiotherapists, and rehabilitation specialists to ensure the best possible recovery for our patients.
+                    We believe in a holistic approach, working closely with neurosurgeons, physiotherapists, and rehabilitation specialists to support optimal recovery for our patients.
                 </p>
             </div>
 

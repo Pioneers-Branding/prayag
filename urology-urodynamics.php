@@ -381,7 +381,7 @@
             <div class="section-header">
                 <h2 class="section-title">Why Choose Prayag for Urology?</h2>
                 <p class="section-subtitle">
-                    State-of-the-art technology and experienced hands ensuring the best urological care.
+                    State-of-the-art technology and experienced hands ensuring comprehensive, quality urological care.
                 </p>
             </div>
 

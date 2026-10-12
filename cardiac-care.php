@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Cardiology Hospital in Noida | Prayag Hospital</title>
+    <title>Cardiology Hospital in Noida | Prayag Heart Institute</title>
     <meta name="description" content="Advanced cardiac care in Noida - cath lab, angioplasty, bypass & 24x7 heart emergency at Prayag Hospital. Consult expert cardiologists. Book now.">
-    <meta name="keywords" content="cardiology hospital in noida, best heart hospital noida, cardiologist in noida, angioplasty noida">
+    <meta name="keywords" content="cardiology hospital in noida, heart hospital noida, cardiologist in noida, angioplasty noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -51,7 +51,7 @@
                     <!-- Left Column: Text Content -->
                     <div class="col-lg-7 col-md-12">
                         <h1 class="hero-main-title">
-                            Best Cardiology Hospital in Noida - Prayag Heart Institute
+                            Cardiology Hospital in Noida - Prayag Heart Institute
                         </h1>
                         <p class="hero-subtitle" style="color:#000 !important">
                             Prayag Hospital offers comprehensive cardiac care with state-of-the-art facilities,
@@ -710,7 +710,7 @@
                                     procedure that creates a new route for blood flow around blocked coronary arteries.
                                     The
                                     choice between procedures depends on the number and location of blockages, overall
-                                    health, and other factors. Our cardiologists will recommend the best option for your
+                                    health, and other factors. Our cardiologists will recommend the most appropriate option for your
                                     specific condition.
                                 </div>
                             </div>

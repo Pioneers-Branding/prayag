@@ -497,7 +497,7 @@
             <div class="section-header">
                 <h2 class="section-title">Our Surgeons</h2>
                 <p class="section-subtitle">
-                    Meet our team of best General & Laparoscopic Surgeons.
+                    Meet our team of experienced General & Laparoscopic Surgeons.
                 </p>
             </div>
 

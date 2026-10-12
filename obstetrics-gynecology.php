@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Gynaecologist & Maternity Hospital in Noida</title>
+    <title>Gynaecology & Maternity Hospital in Noida | Prayag Hospital</title>
     <meta name="description" content="Complete mother & child care in Noida - pregnancy, delivery, high-risk maternity & gynae care at Prayag Hospital. Consult expert gynaecologists.">
-    <meta name="keywords" content="maternity hospital in noida, best gynaecologist in noida, pregnancy delivery noida, mother and child care noida">
+    <meta name="keywords" content="maternity hospital in noida, gynaecologist in noida, pregnancy delivery noida, mother and child care noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -183,7 +183,7 @@
                 </p>
                 <p class="overview-text">
                     Our maternity wing is equipped with modern Labor, Delivery, and Recovery (LDR) suites designed for comfort and safety. 
-                    Backed by a Level III NICU, we ensure the best possible start for your newborn.
+                    Backed by a Level III NICU, we ensure a safe, healthy start for your newborn.
                 </p>
                 <p class="overview-text">
                     We also specialize in minimally invasive laparoscopic surgeries for conditions like fibroids, ovarian cysts, and endometriosis, 

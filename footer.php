@@ -46,7 +46,6 @@
                         <li><a href="find-doctor.php">Find Doctor</a></li>
                         <li><a href="book-appointment.php">Book Appointment</a></li>
                         <li><a href="admission-guide.php">Admission Guide</a></li>
-                        <li><a href="patient-stories.php">Patient Stories</a></li>
                         <li><a href="tpa-insurance.php">TPA & Insurance</a></li>
                         <li><a href="visiting-hours.php">Visiting Hours</a></li>
                         <li><a href="health-checkup.php">Preventive Health</a></li>
@@ -201,6 +200,12 @@
     </div>
     <div class="footer-bottom">
         <div class="container">
+            <!-- NMC & AI Content Disclaimer -->
+            <div class="footer-disclaimer-box mb-3 pb-3 border-bottom border-secondary border-opacity-25 text-center">
+                <p class="footer-disclaimer-text mb-0">
+                    <strong>NMC & AI Disclaimer:</strong> In accordance with the National Medical Commission (NMC) Act and applicable digital healthcare regulations, certain information, medical content, and imagery across this website have been created or assisted with Artificial Intelligence (AI) for educational, awareness, and illustrative purposes only. Content on this site should not be construed as medical advice or a substitute for professional clinical consultation, diagnosis, or treatment. Always consult qualified healthcare professionals at Prayag Hospital for personal medical guidance.
+                </p>
+            </div>
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <p class="copyright-text">&copy; 2026 Prayag Hospital. All Rights Reserved. <a
@@ -208,9 +213,10 @@
                 </div>
                 <div class="col-md-6 text-md-end">
                     <ul class="footer-legal">
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Terms of Use</a></li>
-                        <li><a href="#">Sitemap</a></li>
+                        <li><a href="privacy-policy.php">Privacy Policy (DPDP)</a></li>
+                        <li><a href="terms-of-use.php">Terms of Use</a></li>
+                        <li><a href="cookie-policy.php">Cookie Policy</a></li>
+                        <li><a href="data-grievance.php">Data Principal Rights (DPO)</a></li>
                     </ul>
                 </div>
             </div>

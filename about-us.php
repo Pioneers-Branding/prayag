@@ -312,7 +312,7 @@
                             </blockquote>
                             <p style="color: var(--light-text); margin-bottom: 30px;">
                                 We are constantly upgrading our infrastructure and clinical capabilities to ensure that
-                                our patients receive the best possible care. Our team of dedicated doctors and staff
+                                our patients receive high-quality, compassionate care. Our team of dedicated doctors and staff
                                 work tirelessly to uphold the trust you place in us. Thank you for choosing Prayag
                                 Hospital as your partner in health.
                             </p>

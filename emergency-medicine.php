@@ -74,7 +74,7 @@
                             <div class="hero-stat-item">
                                 <strong>Golden Hour Care</strong>
                                 Rapid response team specialized in trauma management to provide critical care within the
-                                golden hour for best survival rates.
+                                golden hour for optimal survival outcomes.
                             </div>
                         </div>
                     </div>

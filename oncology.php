@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Cancer Hospital in Noida | Oncology | Prayag</title>
+    <title>Cancer Hospital in Noida | Oncology | Prayag Hospital</title>
     <meta name="description" content="Comprehensive cancer care in Noida - medical, surgical & radiation oncology with a multidisciplinary team at Prayag Hospital. Consult an oncologist.">
-    <meta name="keywords" content="cancer hospital in noida, best oncologist in noida, cancer treatment noida, chemotherapy noida">
+    <meta name="keywords" content="cancer hospital in noida, oncologist in noida, cancer treatment noida, chemotherapy noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -190,7 +190,7 @@
                     and advanced Linear Accelerators for precise radiation therapy.
                 </p>
                 <p class="overview-text">
-                    From robotic cancer surgeries to the latest immunotherapies, we ensure that our patients have access to the best 
+                    From robotic cancer surgeries to the latest immunotherapies, we ensure that our patients have access to advanced 
                     treatments available globally, right here at Prayag Hospital.
                 </p>
             </div>
@@ -565,7 +565,7 @@
                             <div id="faqCollapse4" class="accordion-collapse collapse" aria-labelledby="faqHeading4"
                                 data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    A Tumor Board is a meeting where doctors from different specialties (surgery, medical oncology, radiation oncology, pathology, etc.) discuss a patient's case to determine the best possible treatment plan.
+                                    A Tumor Board is a meeting where doctors from different specialties (surgery, medical oncology, radiation oncology, pathology, etc.) discuss a patient's case to determine the most effective treatment plan.
                                 </div>
                             </div>
                         </div>

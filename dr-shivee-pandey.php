@@ -101,7 +101,7 @@ if (!$doctor) {
                             With strong clinical knowledge and hands-on experience, she specializes in treating patients with musculoskeletal disorders, neurological conditions, sports injuries, post-operative rehabilitation, and geriatric care.
                         </p>
                         <p>
-                            She is well known for delivering patient-focused therapy plans, ensuring faster recovery and improving mobility through evidence-based physiotherapy techniques. Her approach includes detailed assessment, accurate diagnosis, and customized treatment plans to achieve the best possible outcomes.
+                            She is well known for delivering patient-focused therapy plans, ensuring faster recovery and improving mobility through evidence-based physiotherapy techniques. Her approach includes detailed assessment, accurate diagnosis, and customized treatment plans to achieve optimal outcomes.
                         </p>
 
                         <div class="doctor-profile-stats">

@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Neurology Hospital in Noida | Prayag Hospital</title>
+    <title>Neurology & Neurosurgery Hospital in Noida | Prayag Hospital</title>
     <meta name="description" content="Expert neurology & neurosurgery in Noida for stroke, epilepsy, spine & brain disorders. Advanced care at Prayag Hospital. Consult a neurologist today.">
-    <meta name="keywords" content="neurology hospital in noida, best neurologist in noida, neurosurgeon noida, brain hospital noida">
+    <meta name="keywords" content="neurology hospital in noida, neurologist in noida, neurosurgeon noida, brain hospital noida">
 
     <?php include 'header-links.php'; ?>
 
@@ -188,7 +188,7 @@
                 <p class="overview-text">
                     Our facility is equipped with cutting-edge technology including Neuro-Navigation systems, 
                     high-end Operating Microscopes, and advanced Neuro-Imaging capabilities. We have a dedicated 
-                    Neuro-ICU managed by neuro-intensivists to ensure the best possible outcomes for critical patients 
+                    Neuro-ICU managed by neuro-intensivists to ensure optimal clinical outcomes for critical patients 
                     surviving stroke, head injuries, and complex brain surgeries.
                 </p>
                 <p class="overview-text">
@@ -371,7 +371,7 @@
                         </div>
                         <h3 class="treatment-card-title">Neuro-Electrophysiology Lab</h3>
                         <p class="treatment-card-description">
-                            EEG (Electroencephalogram) & EMG/EP Studies. Best EEG Test Price in Noida at our EMG Test Centre in Sector 41.
+                            EEG (Electroencephalogram) & EMG/EP Studies. Quality EEG Test at affordable pricing in Noida at our EMG Test Centre in Sector 41.
                         </p>
                         <a href="neuro-electrophysiology.php" class="treatment-card-link">
                             Read More <i class="fas fa-arrow-right"></i>
@@ -388,7 +388,7 @@
             <div class="section-header">
                 <h2 class="section-title">Why Choose Prayag for Neuroscience?</h2>
                 <p class="section-subtitle">
-                    We combine medical expertise, advanced technology, and compassionate care to offer the best neurological treatment in the region.
+                    We combine medical expertise, advanced technology, and compassionate care to offer advanced neurological treatment in the region.
                 </p>
             </div>
 
@@ -558,7 +558,7 @@
                             <div id="faqCollapse2" class="accordion-collapse collapse" aria-labelledby="faqHeading2"
                                 data-bs-parent="#faqAccordion">
                                 <div class="accordion-body">
-                                    Not always. Most cases of back pain can be managed with medication, physiotherapy, and lifestyle changes. Surgery is usually considered only when conservative treatments fail or if there is nerve compression causing weakness or loss of bladder/bowel control. Our neurosurgeons will evaluate and recommend the best course of action.
+                                    Not always. Most cases of back pain can be managed with medication, physiotherapy, and lifestyle changes. Surgery is usually considered only when conservative treatments fail or if there is nerve compression causing weakness or loss of bladder/bowel control. Our neurosurgeons will evaluate and recommend the most suitable course of action.
                                 </div>
                             </div>
                         </div>

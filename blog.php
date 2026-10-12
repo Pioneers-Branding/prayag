@@ -242,11 +242,11 @@
                             </div>
                         </article>
 
-                        <!-- Blog Post 4: Best Gynecologist in Noida -->
+                        <!-- Blog Post 4: When Should You See a Gynaecologist -->
                         <article class="blog-post-card" data-category="womens-health" data-date="2026-08-03" data-popularity="980">
-                            <a href="best-gynecologist-in-noida.php" class="blog-post-image">
+                            <a href="when-should-you-see-a-gynaecologist.php" class="blog-post-image">
                                 <img src="assets/images/blog/best-gynocologist-in-india.webp"
-                                    alt="Best Gynecologist in Noida" loading="lazy">
+                                    alt="When Should You See a Gynaecologist" loading="lazy">
                                 <span class="blog-category-badge" style="background:#4A8F73;">Women's Health</span>
                             </a>
                             <div class="blog-post-content">
@@ -256,15 +256,15 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 980 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="best-gynecologist-in-noida.php">Best Gynecologist in Noida: When Should You See a Gynecologist?</a>
+                                    <a href="when-should-you-see-a-gynaecologist.php">When Should You See a Gynaecologist? Key Signs & Symptoms</a>
                                 </h3>
-                                <p class="blog-post-excerpt">Wondering when to see the best gynecologist in Noida? Learn the signs, screenings, PCOS guidance and life stages that need a gynecologist visit.</p>
+                                <p class="blog-post-excerpt">Wondering when to consult a gynecologist in Noida? Learn the signs, screenings, PCOS guidance and life stages that need a gynecologist visit.</p>
                                 <div class="blog-post-footer">
                                     <div class="author-info">
                                         <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
                                         <span>Prayag Hospital</span>
                                     </div>
-                                    <a href="best-gynecologist-in-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="when-should-you-see-a-gynaecologist.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
@@ -336,8 +336,8 @@
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Aug 10, 2026</span>
                                     </div>
                                 </a>
-                                <a href="best-gynecologist-in-noida.php" class="popular-post-item">
-                                    <img src="assets/images/blog/best-gynocologist-in-india.webp" alt="Best Gynecologist in Noida">
+                                <a href="when-should-you-see-a-gynaecologist.php" class="popular-post-item">
+                                    <img src="assets/images/blog/best-gynocologist-in-india.webp" alt="When Should You See a Gynaecologist">
                                     <div class="popular-post-content">
                                         <h4>When Should You See a Gynecologist? Key Signs & Advice</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Aug 03, 2026</span>

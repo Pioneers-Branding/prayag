@@ -9,5 +9,6 @@
 
 <!-- Custom CSS -->
 <link rel="stylesheet" href="assets/css/styles.css?v=<?php echo time(); ?>">
+<link rel="stylesheet" href="assets/css/cookie-consent.css?v=<?php echo time(); ?>">
 
 <link rel="icon" href="assets/images/favicon.png">

@@ -1075,7 +1075,7 @@
                             </div>
 
                             <p>
-                                This is precisely why a comprehensive medical check-up matters: identifying and addressing the exact underlying cause guarantees the best possible outcome.
+                                This is precisely why a comprehensive medical check-up matters: identifying and addressing the exact underlying cause enables targeted care and optimal recovery.
                             </p>
                         </section>
 
@@ -1186,7 +1186,7 @@
                                 </p>
 
                                 <div class="opd-facilities-badges">
-                                    <span class="opd-facility-badge"><i class="fas fa-user-shield"></i> 100% Confidential Consultations</span>
+                                    <span class="opd-facility-badge"><i class="fas fa-user-shield"></i> Strictly Confidential Consultations</span>
                                     <span class="opd-facility-badge"><i class="fas fa-tachometer-alt"></i> In-House Uroflowmetry &amp; Ultrasound</span>
                                     <span class="opd-facility-badge"><i class="fas fa-vial"></i> Same-Day PSA &amp; Pathology Tests</span>
                                     <span class="opd-facility-badge"><i class="fas fa-hospital-alt"></i> Advanced TURP &amp; Laser Urology</span>

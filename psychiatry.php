@@ -403,7 +403,7 @@
                     </div>
                     <div class="why-point-content">
                         <h4>Utmost Privacy</h4>
-                        <p>We guarantee complete confidentiality and discretion for all our patients.</p>
+                        <p>We uphold strict confidentiality and discretion for all our patients.</p>
                     </div>
                 </div>
 

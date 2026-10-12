@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Dentist & Dental Clinic in Noida | Prayag Hospital</title>
+    <title>Dental Clinic & Dentists in Noida | Prayag Hospital</title>
 
     <?php include 'header-links.php'; ?>
 
@@ -380,7 +380,7 @@
             <div class="section-header">
                 <h2 class="section-title">Why Choose Prayag for Dental Care?</h2>
                 <p class="section-subtitle">
-                    We combine expertise, technology, and care to give you the best dental experience.
+                    We combine expertise, technology, and care to give you a comprehensive and comfortable dental experience.
                 </p>
             </div>
 
