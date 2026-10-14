@@ -2,6 +2,14 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'World Mental Health Day: Signs You Are Stuck in a Mental Rabbit Hole And How to Break Free',
+        'date' => '2026-10-10',
+        'excerpt' => 'OnlyMyHealth consults Dr. Pritika Singh, CEO of Prayag Hospitals and mental health advocate, discussing the signs of getting trapped in a mental rabbit hole, overcoming rumination, and practical ways to regain mental clarity.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/10/10/template/image/mn-rumination-1791615253144.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/signs-you-are-stuck-in-a-mental-rabbit-hole-and-how-to-come-out-of-it-12977851018'
+    ],
+    [
         'title' => 'Booster Dose',
         'date' => '2026-09-30',
         'excerpt' => 'Medical Buyer features Dr. Pritika Singh, CEO of Prayag Hospitals, sharing perspectives on healthcare industry collaboration, evolving medical technologies, and community learning.',

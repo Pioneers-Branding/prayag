@@ -58,6 +58,7 @@
                     <!-- Category Pills -->
                     <div class="category-pills-wrapper">
                         <button class="category-pill active" data-category="all">All Posts</button>
+                        <button class="category-pill" data-category="mental-health">Mental Health</button>
                         <button class="category-pill" data-category="health-wellness">Health &amp; Wellness</button>
                         <button class="category-pill" data-category="womens-health">Women's Health</button>
                         <button class="category-pill" data-category="mens-health">Men's Health</button>
@@ -67,7 +68,7 @@
 
                     <!-- Results Info -->
                     <div class="blog-results-header">
-                        <h3>Showing <span id="blogCount">7</span> Articles</h3>
+                        <h3>Showing <span id="blogCount">9</span> Articles</h3>
                         <div class="blog-sort-wrapper">
                             <label for="blogSort">Sort by:</label>
                             <select id="blogSort" class="blog-sort-select">
@@ -80,7 +81,61 @@
 
                     <!-- Blog Posts Grid -->
                     <div class="blog-posts-grid" id="blogPostsGrid">
-                        <!-- Blog Post 1: Why Do We Fall Sick When the Weather Changes? -->
+                        <!-- Blog Post 1: Viral Flu Treatment in Noida -->
+                        <article class="blog-post-card" data-category="health-wellness" data-date="2026-10-13" data-popularity="1510">
+                            <a href="viral-flu-treatment-prayag-hospital-noida.php" class="blog-post-image">
+                                <img src="assets/images/blog/Viral-Flu-Treatment-in-Noida.webp"
+                                    alt="Viral Flu Treatment in Noida - Prayag Hospital Sector 41" loading="lazy">
+                                <span class="blog-category-badge" style="background:#b91c1c;">Health &amp; Wellness</span>
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Oct 13, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 5 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,510 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="viral-flu-treatment-prayag-hospital-noida.php">Viral Flu Treatment in Noida: A Guide for Families From Prayag Hospital, Sector 41</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Fever, cough and body ache? Learn viral flu symptoms, cold vs flu differences, warning signs, and comprehensive family care at Prayag Hospital, Noida Sector 41.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png" alt="Internal Medicine Dept" class="author-avatar">
+                                        <span>Internal Medicine</span>
+                                    </div>
+                                    <a href="viral-flu-treatment-prayag-hospital-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Blog Post 2: Anxiety and Depression Treatment in Noida -->
+                        <article class="blog-post-card" data-category="mental-health" data-date="2026-10-13" data-popularity="1420">
+                            <a href="anxiety-depression-treatment-noida.php" class="blog-post-image">
+                                <img src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp"
+                                    alt="Anxiety and depression treatment in Noida - Prayag Hospital Sector 41" loading="lazy">
+                                <span class="blog-category-badge" style="background:#0f766e;">Mental Health</span>
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Oct 13, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 6 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,420 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="anxiety-depression-treatment-noida.php">Anxiety and Depression Treatment in Noida: When to See a Doctor and What to Expect</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Discover the warning signs of anxiety and depression, why urban stress in Noida demands timely medical care, and how integrated treatment works at Prayag Hospital Sector 41.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/doctors/dr-ashish-shah.webp" alt="Dr. Ashish Kumar Shah" class="author-avatar">
+                                        <span>Dr. Ashish Kumar Shah</span>
+                                    </div>
+                                    <a href="anxiety-depression-treatment-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Blog Post 2: Why Do We Fall Sick When the Weather Changes? -->
                         <article class="blog-post-card" data-category="health-wellness" data-date="2026-10-05" data-popularity="1150">
                             <a href="why-do-we-fall-sick-when-weather-changes.php" class="blog-post-image">
                                 <img src="assets/images/blog/why-do-we-fall-sick.webp"
@@ -294,6 +349,20 @@
                         <div class="sidebar-widget">
                             <h3 class="widget-title">Featured Articles</h3>
                             <div class="popular-posts-list">
+                                <a href="viral-flu-treatment-prayag-hospital-noida.php" class="popular-post-item">
+                                    <img src="assets/images/blog/Viral-Flu-Treatment-in-Noida.webp" alt="Viral Flu Treatment in Noida">
+                                    <div class="popular-post-content">
+                                        <h4>Viral Flu Treatment in Noida: Guide for Families</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Oct 13, 2026</span>
+                                    </div>
+                                </a>
+                                <a href="anxiety-depression-treatment-noida.php" class="popular-post-item">
+                                    <img src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp" alt="Anxiety and Depression Treatment in Noida">
+                                    <div class="popular-post-content">
+                                        <h4>Anxiety and Depression Treatment in Noida</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Oct 13, 2026</span>
+                                    </div>
+                                </a>
                                 <a href="why-do-we-fall-sick-when-weather-changes.php" class="popular-post-item">
                                     <img src="assets/images/blog/why-do-we-fall-sick.webp" alt="Why Do We Fall Sick When Weather Changes">
                                     <div class="popular-post-content">
@@ -351,9 +420,15 @@
                             <h3 class="widget-title">Categories</h3>
                             <ul class="categories-list">
                                 <li>
+                                    <a href="#" class="sidebar-category-link" data-category="mental-health">
+                                        <span><i class="fas fa-brain"></i> Mental Health &amp; Psychiatry</span>
+                                        <span>1</span>
+                                    </a>
+                                </li>
+                                <li>
                                     <a href="#" class="sidebar-category-link" data-category="health-wellness">
                                         <span><i class="fas fa-heartbeat"></i> Health &amp; Wellness</span>
-                                        <span>1</span>
+                                        <span>2</span>
                                     </a>
                                 </li>
                                 <li>
@@ -390,6 +465,12 @@
                         <div class="sidebar-widget">
                             <h3 class="widget-title">Popular Topics</h3>
                             <div class="tags-cloud">
+                                <a href="#" class="tag-item" data-tag="flu">Viral Flu</a>
+                                <a href="#" class="tag-item" data-tag="influenza">Influenza Treatment</a>
+                                <a href="#" class="tag-item" data-tag="anxiety">Anxiety Treatment</a>
+                                <a href="#" class="tag-item" data-tag="depression">Depression</a>
+                                <a href="#" class="tag-item" data-tag="mental">Mental Health</a>
+                                <a href="#" class="tag-item" data-tag="psychiatry">Psychiatry</a>
                                 <a href="#" class="tag-item" data-tag="prostate">Prostate Health</a>
                                 <a href="#" class="tag-item" data-tag="urology">Urology</a>
                                 <a href="#" class="tag-item" data-tag="bph">BPH</a>
