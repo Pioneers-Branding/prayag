@@ -663,7 +663,7 @@ $podcasts = [
                 <div class="tab-pane fade show active" id="online" role="tabpanel" aria-labelledby="online-tab">
                     <div class="row g-4">
                         <?php foreach ($press_releases as $press): ?>
-                            <div class="col-md-6 col-12">
+                            <div class="col-lg-4 col-md-6 col-12">
                                 <article class="blog-post-card h-100">
                                     <div class="blog-post-image">
                                         <img src="<?php echo $press['image']; ?>" alt="<?php echo $press['title']; ?>">
