@@ -2,6 +2,30 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Is it PCOS, thyroid or ‘hormonal imbalance’? Gynaecologist on why diagnosis arrives late for women',
+        'date' => '2026-10-15',
+        'excerpt' => 'HT Lifestyle features Dr Manju Sinha, Senior Consultant - Gynaecology at Prayag Hospital with 45 years of experience, on why women face delayed diagnoses for PCOS and thyroid conditions.',
+        'image' => 'assets/images/press/ht-pcos-hormonal-imbalance.webp',
+        'source' => 'HT Lifestyle (Twitter)',
+        'link' => 'https://x.com/htlifeandstyle/status/2110578689356558406'
+    ],
+    [
+        'title' => 'Is it PCOS, thyroid or ‘hormonal imbalance’? Gynaecologist with 45 years of experience on why diagnosis arrives late for women',
+        'date' => '2026-10-14',
+        'excerpt' => 'Hindustan Times consults Dr Manju Sinha, Senior Consultant - Obstetrics and Gynaecology at Prayag Hospitals with 45 years of experience, on why conditions including PCOS and thyroid disease require specific diagnostic tests and tailored treatment rather than a vague hormonal imbalance label.',
+        'image' => 'assets/images/press/ht-pcos-hormonal-imbalance.webp',
+        'source' => 'Hindustan Times',
+        'link' => 'https://www.hindustantimes.com/lifestyle/health/is-it-pcos-thyroid-or-hormonal-imbalance-gynaecologist-with-45-years-of-experience-on-why-diagnosis-arrives-late-for-women-101791972046956.html'
+    ],
+    [
+        'title' => 'Regular Periods Don\'t Always Mean Everything Is Fine, Says Gynaecologist',
+        'date' => '2026-10-14',
+        'excerpt' => 'Bold Sky (One India) speaks with Dr Anuradha, Consultant - Obstetrics & Gynaecology at Prayag Hospitals, explaining why regular menstrual cycles do not necessarily rule out PCOS, anaemia, or endometriosis and what symptoms women should never ignore.',
+        'image' => 'assets/images/press/boldsky-regular-periods.webp',
+        'source' => 'Boldsky (One India)',
+        'link' => 'https://www.boldsky.com/health/regular-periods-don-t-always-mean-everything-is-fine-says-gynaecologist-173339.html'
+    ],
+    [
         'title' => 'World Mental Health Day: Signs You Are Stuck in a Mental Rabbit Hole And How to Break Free',
         'date' => '2026-10-10',
         'excerpt' => 'OnlyMyHealth consults Dr. Pritika Singh, CEO of Prayag Hospitals and mental health advocate, discussing the signs of getting trapped in a mental rabbit hole, overcoming rumination, and practical ways to regain mental clarity.',

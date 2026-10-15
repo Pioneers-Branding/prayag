@@ -510,6 +510,40 @@
                     <!-- Right Side: News Slider -->
                     <div class="news-slider-container">
                         <div class="news-slider">
+                            <!-- News Item - Hindustan Times -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="assets/images/press/ht-pcos-hormonal-imbalance.webp"
+                                        alt="Is it PCOS, thyroid or hormonal imbalance">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">Is it PCOS, thyroid or ‘hormonal imbalance’? Gynaecologist with 45 years of experience</h3>
+                                    <p class="news-date">October 14, 2026</p>
+                                    <p class="news-excerpt">Hindustan Times consults Dr Manju Sinha at Prayag Hospital with 45 years' experience on why diagnoses arrive late for women...</p>
+                                    <a href="https://www.hindustantimes.com/lifestyle/health/is-it-pcos-thyroid-or-hormonal-imbalance-gynaecologist-with-45-years-of-experience-on-why-diagnosis-arrives-late-for-women-101791972046956.html"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- News Item - Bold Sky (One India) -->
+                            <div class="news-item">
+                                <div class="news-image">
+                                    <img src="assets/images/press/boldsky-regular-periods.webp"
+                                        alt="Regular Periods Don't Always Mean Everything Is Fine">
+                                </div>
+                                <div class="news-content">
+                                    <h3 class="news-item-title">Regular Periods Don't Always Mean Everything Is Fine, Says Gynaecologist</h3>
+                                    <p class="news-date">October 14, 2026</p>
+                                    <p class="news-excerpt">Bold Sky consults Dr Anuradha at Prayag Hospitals on why regular cycles do not rule out underlying conditions...</p>
+                                    <a href="https://www.boldsky.com/health/regular-periods-don-t-always-mean-everything-is-fine-says-gynaecologist-173339.html"
+                                        class="news-read-more" target="_blank">
+                                        Read More <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+
                             <!-- News Item - OnlyMyHealth (Walking & Knee) -->
                             <div class="news-item">
                                 <div class="news-image">
