@@ -60,6 +60,8 @@
                         <button class="category-pill active" data-category="all">All Posts</button>
                         <button class="category-pill" data-category="mental-health">Mental Health</button>
                         <button class="category-pill" data-category="health-wellness">Health &amp; Wellness</button>
+                        <button class="category-pill" data-category="orthopaedics">Bone &amp; Joint</button>
+                        <button class="category-pill" data-category="respiratory">Lung &amp; Respiratory</button>
                         <button class="category-pill" data-category="womens-health">Women's Health</button>
                         <button class="category-pill" data-category="mens-health">Men's Health</button>
                         <button class="category-pill" data-category="diagnostics">Diagnostics &amp; Imaging</button>
@@ -68,7 +70,7 @@
 
                     <!-- Results Info -->
                     <div class="blog-results-header">
-                        <h3>Showing <span id="blogCount">9</span> Articles</h3>
+                        <h3>Showing <span id="blogCount">11</span> Articles</h3>
                         <div class="blog-sort-wrapper">
                             <label for="blogSort">Sort by:</label>
                             <select id="blogSort" class="blog-sort-select">
@@ -81,6 +83,60 @@
 
                     <!-- Blog Posts Grid -->
                     <div class="blog-posts-grid" id="blogPostsGrid">
+                        <!-- Blog Post: Air Pollution in Delhi NCR -->
+                        <article class="blog-post-card" data-category="respiratory" data-date="2026-10-26" data-popularity="1560">
+                            <a href="air-pollution-in-delhi-ncr.php" class="blog-post-image">
+                                <img src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
+                                    alt="Air Pollution in Delhi NCR - Health Risks and Protection Tips" loading="lazy">
+                                <span class="blog-category-badge" style="background:#0e7490;">Lung &amp; Respiratory</span>
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Oct 26, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 7 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,560 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="air-pollution-in-delhi-ncr.php">Air Pollution in Delhi NCR: How It Affects Your Health and How to Protect Your Family</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Rising AQI in Noida and Delhi NCR affects lungs, heart and children. Doctors at Prayag Hospital, Sector 41 Noida, explain warning signs and how to stay safe.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/doctors/Dr-Ajay-Garg.webp" alt="Dr. Ajay Garg" class="author-avatar">
+                                        <span>Dr. Ajay Garg</span>
+                                    </div>
+                                    <a href="air-pollution-in-delhi-ncr.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Blog Post: Knee Replacement Surgery in Noida -->
+                        <article class="blog-post-card" data-category="orthopaedics" data-date="2026-10-26" data-popularity="1550">
+                            <a href="knee-replacement-surgery-in-noida.php" class="blog-post-image">
+                                <img src="assets/images/blog/knee-replacement-in-noida.webp"
+                                    alt="Knee Replacement Surgery in Noida - Prayag Hospital Sector 41" loading="lazy">
+                                <span class="blog-category-badge" style="background:#1d4ed8;">Bone &amp; Joint</span>
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Oct 26, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 7 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,550 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="knee-replacement-surgery-in-noida.php">Knee Replacement Surgery in Noida: Who Needs It, Recovery Time and What to Expect</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Considering knee replacement in Noida? Learn who needs it, what happens during surgery, recovery time and what to expect at Prayag Hospital, Sector 41.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/doctors/dr-sunil-kumar.webp" alt="Dr. Sunil Kumar Sharma" class="author-avatar">
+                                        <span>Dr. Sunil Kumar Sharma</span>
+                                    </div>
+                                    <a href="knee-replacement-surgery-in-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
                         <!-- Blog Post 1: Viral Flu Treatment in Noida -->
                         <article class="blog-post-card" data-category="health-wellness" data-date="2026-10-13" data-popularity="1510">
                             <a href="viral-flu-treatment-prayag-hospital-noida.php" class="blog-post-image">
@@ -349,6 +405,20 @@
                         <div class="sidebar-widget">
                             <h3 class="widget-title">Featured Articles</h3>
                             <div class="popular-posts-list">
+                                <a href="air-pollution-in-delhi-ncr.php" class="popular-post-item">
+                                    <img src="assets/images/blog/Air_Pollution_Delhi_NCR.webp" alt="Air Pollution in Delhi NCR">
+                                    <div class="popular-post-content">
+                                        <h4>Air Pollution in Delhi NCR: Health Risks &amp; Protection Tips</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Oct 26, 2026</span>
+                                    </div>
+                                </a>
+                                <a href="knee-replacement-surgery-in-noida.php" class="popular-post-item">
+                                    <img src="assets/images/blog/knee-replacement-in-noida.webp" alt="Knee Replacement Surgery in Noida">
+                                    <div class="popular-post-content">
+                                        <h4>Knee Replacement Surgery in Noida: Recovery &amp; What to Expect</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Oct 26, 2026</span>
+                                    </div>
+                                </a>
                                 <a href="viral-flu-treatment-prayag-hospital-noida.php" class="popular-post-item">
                                     <img src="assets/images/blog/Viral-Flu-Treatment-in-Noida.webp" alt="Viral Flu Treatment in Noida">
                                     <div class="popular-post-content">
@@ -429,6 +499,18 @@
                                     <a href="#" class="sidebar-category-link" data-category="health-wellness">
                                         <span><i class="fas fa-heartbeat"></i> Health &amp; Wellness</span>
                                         <span>2</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="sidebar-category-link" data-category="orthopaedics">
+                                        <span><i class="fas fa-bone"></i> Bone &amp; Joint</span>
+                                        <span>1</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="sidebar-category-link" data-category="respiratory">
+                                        <span><i class="fas fa-lungs"></i> Lung &amp; Respiratory</span>
+                                        <span>1</span>
                                     </a>
                                 </li>
                                 <li>

@@ -853,26 +853,27 @@
                         breakthroughs from our healthcare professionals</p>
                 </div>
 
-                <div class="row">                    <!-- First Large Blog Card - col-md-4 -->
+                <div class="row">
+                    <!-- First Large Blog Card - col-md-4 -->
                     <div class="col-lg-4 mb-4">
                         <!-- Large Blog Card 1 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <a href="viral-flu-treatment-prayag-hospital-noida.php">
-                                    <img src="assets/images/blog/Viral-Flu-Treatment-in-Noida.webp"
-                                        alt="Viral Flu Treatment in Noida">
+                                <a href="air-pollution-in-delhi-ncr.php">
+                                    <img src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
+                                        alt="Air Pollution in Delhi NCR">
                                 </a>
                             </div>
                             <div class="blog-content-large">
                                 <h3 class="blog-title-large">
-                                    <a href="viral-flu-treatment-prayag-hospital-noida.php"
+                                    <a href="air-pollution-in-delhi-ncr.php"
                                         style="color:inherit; text-decoration:none;">
-                                        Viral Flu Treatment in Noida: Guide for Families
+                                        Air Pollution in Delhi NCR: Health Risks &amp; Protection Tips
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
-                                    <span class="blog-date">Oct 13, 2026</span>
-                                    <a href="viral-flu-treatment-prayag-hospital-noida.php"
+                                    <span class="blog-date">Oct 26, 2026</span>
+                                    <a href="air-pollution-in-delhi-ncr.php"
                                         class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
@@ -887,21 +888,21 @@
                         <!-- Large Blog Card 2 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <a href="anxiety-depression-treatment-noida.php">
-                                    <img src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp"
-                                        alt="Anxiety and Depression Treatment in Noida">
+                                <a href="knee-replacement-surgery-in-noida.php">
+                                    <img src="assets/images/blog/knee-replacement-in-noida.webp"
+                                        alt="Knee Replacement Surgery in Noida">
                                 </a>
                             </div>
                             <div class="blog-content-large">
                                 <h3 class="blog-title-large">
-                                    <a href="anxiety-depression-treatment-noida.php"
+                                    <a href="knee-replacement-surgery-in-noida.php"
                                         style="color:inherit; text-decoration:none;">
-                                        Anxiety &amp; Depression Treatment in Noida
+                                        Knee Replacement Surgery in Noida: Recovery &amp; What to Expect
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
-                                    <span class="blog-date">Oct 13, 2026</span>
-                                    <a href="anxiety-depression-treatment-noida.php"
+                                    <span class="blog-date">Oct 26, 2026</span>
+                                    <a href="knee-replacement-surgery-in-noida.php"
                                         class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
@@ -918,21 +919,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="why-do-we-fall-sick-when-weather-changes.php">
-                                            <img src="assets/images/blog/why-do-we-fall-sick.webp"
-                                                alt="Why Do We Fall Sick When the Weather Changes?">
+                                        <a href="viral-flu-treatment-prayag-hospital-noida.php">
+                                            <img src="assets/images/blog/Viral-Flu-Treatment-in-Noida.webp"
+                                                alt="Viral Flu Treatment in Noida">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="why-do-we-fall-sick-when-weather-changes.php"
+                                            <a href="viral-flu-treatment-prayag-hospital-noida.php"
                                                 style="color:inherit; text-decoration:none;">
-                                            Why Do We Fall Sick When the Weather Changes?
+                                                Viral Flu Treatment in Noida: Guide for Families
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Oct 05, 2026</span>
-                                            <a href="why-do-we-fall-sick-when-weather-changes.php" class="blog-read-more-compact">
+                                            <span class="blog-date-compact">Oct 13, 2026</span>
+                                            <a href="viral-flu-treatment-prayag-hospital-noida.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
@@ -945,21 +946,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="emergency-hospital-in-noida.php">
-                                            <img src="assets/images/blog/emergency-hospital-in-noida.webp"
-                                                alt="Emergency Hospital in Noida">
+                                        <a href="anxiety-depression-treatment-noida.php">
+                                            <img src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp"
+                                                alt="Anxiety and Depression Treatment in Noida">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="emergency-hospital-in-noida.php"
+                                            <a href="anxiety-depression-treatment-noida.php"
                                                 style="color:inherit; text-decoration:none;">
-                                                Emergency Hospital in Noida: 10 Warning Signs to Know
+                                                Anxiety &amp; Depression Treatment in Noida
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Aug 10, 2026</span>
-                                            <a href="emergency-hospital-in-noida.php" class="blog-read-more-compact">
+                                            <span class="blog-date-compact">Oct 13, 2026</span>
+                                            <a href="anxiety-depression-treatment-noida.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
@@ -972,21 +973,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="when-should-you-see-a-gynaecologist.php">
-                                            <img src="assets/images/blog/best-gynocologist-in-india.webp"
-                                                alt="When Should You See a Gynaecologist">
+                                        <a href="why-do-we-fall-sick-when-weather-changes.php">
+                                            <img src="assets/images/blog/why-do-we-fall-sick.webp"
+                                                alt="Why Do We Fall Sick When the Weather Changes?">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="when-should-you-see-a-gynaecologist.php"
+                                            <a href="why-do-we-fall-sick-when-weather-changes.php"
                                                 style="color:inherit; text-decoration:none;">
-                                                When Should You See a Gynaecologist?
+                                                Why Do We Fall Sick When the Weather Changes?
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Aug 03, 2026</span>
-                                            <a href="when-should-you-see-a-gynaecologist.php" class="blog-read-more-compact">
+                                            <span class="blog-date-compact">Oct 05, 2026</span>
+                                            <a href="why-do-we-fall-sick-when-weather-changes.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
