@@ -2,6 +2,126 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'ANI',
+        'link' => 'https://www.aninews.in/news/business/emergency-laparoscopic-surgery-successfully-manages-large-ovarian-teratoma-in-23-year-old-patient-at-prayag-hospital20261023124624/'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'Outlook Business',
+        'link' => 'https://www.outlookbusiness.com/spotlight/pr-wire/emergency-laparoscopic-surgery-successfully-manages-large-ovarian-teratoma-in-23-year-old-patient-at-prayag-hospital'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'Punjab Kesari',
+        'link' => 'https://english.punjabkesari.com/business/emergency-laparoscopic-surgery-successfully-manages-large-ovarian-teratoma-in-23-year-old-patient-at-prayag-hospital/'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'The Hans India',
+        'link' => 'https://www.thehansindia.com/newsvoir?c_article_id=37192&c_author_id=19539&type=old&originurl=https%3a%2f%2fwww.thehansindia.com%2fnewsvoir'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'The Tribune India',
+        'link' => 'https://www.tribuneindia.com/news/business/emergency-laparoscopic-surgery-successfully-manages-large-ovarian-teratoma-in-23-year-old-patient-at-prayag-hospital/'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'WebIndia123',
+        'link' => 'https://news.webindia123.com/news/newsvoir.asp?c_article_id=37192&c_author_id=19539&type=old&originurl=https%3a%2f%2fnews.webindia123.com%2fnews%2fnewsvoir.asp'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'Daily Hunt',
+        'link' => 'https://m.dailyhunt.in/news/india/english/newsvoir-epaper-newsvoir/emergency+laparoscopic+surgery+successfully+manages+large+ovarian+teratoma+in+23yearold+patient+at+prayag+hospital-newsid-n731317837?listname=newspaperLanding&topic=business&index=8&topicIndex=0&mode=pwa&action=click'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'Latestly',
+        'link' => 'https://www.latestly.com/agency-news/business-news-emergency-laparoscopic-surgery-successfully-manages-large-ovarian-teratoma-in-23-year-old-patient-at-prayag-hospital-7654293.html'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'Sangri Times',
+        'link' => 'https://en.sangritimes.com/newsvoir?c_article_id=37192&c_author_id=19539&type=old&originurl=https%3a%2f%2fen.sangritimes.com%2fnewsvoir'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'Sangri Today',
+        'link' => 'https://www.sangriToday.com/spotlight/newsvoir?c_article_id=37192&c_author_id=19539&type=old&originurl=https%3a%2f%2fwww.sangriToday.com%2fspotlight%2fnewsvoir'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'Jalore Live',
+        'link' => 'https://en.jalorelive.com/newsvoir?c_article_id=37192&c_author_id=19539&type=old&originurl=https%3a%2f%2fen.jalorelive.com%2fnewsvoir'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'Startupcity',
+        'link' => 'https://www.startupcityindia.com/latest-updates-of-business-and-economy/?c_article_id=37192&c_author_id=19539&type=old&originurl=https%3a%2f%2fwww.startupcityindia.com%2flatest-updates-of-business-and-economy%2f'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'The CEO Magazine',
+        'link' => 'https://www.theceo.in/news-that-you-can-use?c_article_id=37192&c_author_id=19539&type=old&originurl=https%3a%2f%2fwww.theceo.in%2fnews-that-you-can-use'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'TimesTech',
+        'link' => 'https://timestech.in/newsvoir/?c_article_id=37192&c_author_id=19539&type=old&originurl=https%3a%2f%2ftimestech.in%2fnewsvoir%2f'
+    ],
+    [
+        'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
+        'date' => '2026-10-23',
+        'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'SP Times',
+        'link' => 'https://www.sptimes.in/newsvoir?c_article_id=37192&c_author_id=19539&type=old&originurl=https%3a%2f%2fwww.sptimes.in%2fnewsvoir'
+    ],
+    [
         'title' => 'Is it PCOS, thyroid or ‘hormonal imbalance’? Gynaecologist on why diagnosis arrives late for women',
         'date' => '2026-10-15',
         'excerpt' => 'HT Lifestyle features Dr Manju Sinha, Senior Consultant - Gynaecology at Prayag Hospital with 45 years of experience, on why women face delayed diagnoses for PCOS and thyroid conditions.',
