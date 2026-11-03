@@ -122,6 +122,30 @@ $press_releases = [
         'link' => 'https://www.sptimes.in/newsvoir?c_article_id=37192&c_author_id=19539&type=old&originurl=https%3a%2f%2fwww.sptimes.in%2fnewsvoir'
     ],
     [
+        'title' => 'Wedding Season Alert: Why Brides Should Avoid New Skin and Hair Treatments Before Their Big Day',
+        'date' => '2026-10-23',
+        'excerpt' => 'OnlyMyHealth speaks with Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, on why brides should avoid trying new skin and hair treatments close to the wedding and the reactions these can trigger.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/10/23/template/image/main-no-treatment-for-brides-1792754452993.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/why-brides-should-avoid-new-skin-and-hair-treatments-before-the-wedding-12977851316'
+    ],
+    [
+        'title' => 'Hydrafacial, Chemical Peels or Laser Treatments: Which Is Best for Festive Skin Prep?',
+        'date' => '2026-10-22',
+        'excerpt' => 'OnlyMyHealth consults Dr Aditi Wadhwa, Consultant - Dermatology at Prayag Hospitals Noida, on choosing between Hydrafacial, chemical peels and laser treatments ahead of Diwali and the wedding season.',
+        'image' => 'https://images.onlymyhealth.com/only-my-health-english/images/2026/10/22/template/image/Main-Festive-Skin-Prep-1792667458295.webp',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/hydrafacial-chemical-peels-or-laser-treatments-which-is-best-for-festive-skin-preparation-12977851287'
+    ],
+    [
+        'title' => 'Gifting An Ayurvedic Skincare Set This Festive Season? Doctor Shares A Safe Buying Guide',
+        'date' => '2026-10-20',
+        'excerpt' => 'NDTV shares a doctor\'s guide to choosing safe Ayurvedic skincare gift sets this festive season, featuring expert insights from Prayag Hospitals.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'NDTV',
+        'link' => 'https://www.ndtv.com/health/living-healthy/gifting-an-ayurvedic-skincare-set-this-festive-season-doctor-shares-a-safe-buying-guide-12218960'
+    ],
+    [
         'title' => 'Is it PCOS, thyroid or ‘hormonal imbalance’? Gynaecologist on why diagnosis arrives late for women',
         'date' => '2026-10-15',
         'excerpt' => 'HT Lifestyle features Dr Manju Sinha, Senior Consultant - Gynaecology at Prayag Hospital with 45 years of experience, on why women face delayed diagnoses for PCOS and thyroid conditions.',
@@ -144,6 +168,14 @@ $press_releases = [
         'image' => 'assets/images/press/boldsky-regular-periods.webp',
         'source' => 'Boldsky (One India)',
         'link' => 'https://www.boldsky.com/health/regular-periods-don-t-always-mean-everything-is-fine-says-gynaecologist-173339.html'
+    ],
+    [
+        'title' => 'Are Natural Skincare Hampers Safe Gifts For Sensitive Skin This Festive Season?',
+        'date' => '2026-10-14',
+        'excerpt' => 'NDTV explores whether natural skincare hampers are safe festive gifts for people with sensitive skin, featuring expert insights from Prayag Hospitals.',
+        'image' => 'assets/images/press/ANI-20261023071553.jpg',
+        'source' => 'NDTV',
+        'link' => 'https://www.ndtv.com/health/living-healthy/are-natural-skincare-hampers-safe-gifts-for-sensitive-skin-this-festive-season-12190292'
     ],
     [
         'title' => 'World Mental Health Day: Signs You Are Stuck in a Mental Rabbit Hole And How to Break Free',
