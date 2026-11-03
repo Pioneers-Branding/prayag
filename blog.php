@@ -70,7 +70,7 @@
 
                     <!-- Results Info -->
                     <div class="blog-results-header">
-                        <h3>Showing <span id="blogCount">11</span> Articles</h3>
+                        <h3>Showing <span id="blogCount">12</span> Articles</h3>
                         <div class="blog-sort-wrapper">
                             <label for="blogSort">Sort by:</label>
                             <select id="blogSort" class="blog-sort-select">
@@ -83,12 +83,37 @@
 
                     <!-- Blog Posts Grid -->
                     <div class="blog-posts-grid" id="blogPostsGrid">
+                        <!-- Blog Post: CT Scan Types, Uses, Preparation and Safety -->
+                        <article class="blog-post-card" data-category="diagnostics" data-date="2026-11-03" data-popularity="1570">
+                            <a href="ct-scan-types-uses-preparation-safety.php" class="blog-post-image">
+                                <img src="assets/images/blog/ct-scan-type.webp"
+                                    alt="CT Scan: Types, Uses, Preparation and Safety - Prayag Hospital Noida" loading="lazy">
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Nov 03, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 9 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,570 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="ct-scan-types-uses-preparation-safety.php">CT Scan: Types, Uses, Preparation and Safety</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Learn about CT scans, their types, uses, preparation, contrast safety and reports. Get a CT scan in Noida at Prayag Hospital.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png" alt="Radiology Dept" class="author-avatar">
+                                        <span>Radiology</span>
+                                    </div>
+                                    <a href="ct-scan-types-uses-preparation-safety.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
                         <!-- Blog Post: Air Pollution in Delhi NCR -->
                         <article class="blog-post-card" data-category="respiratory" data-date="2026-10-26" data-popularity="1560">
                             <a href="air-pollution-in-delhi-ncr.php" class="blog-post-image">
                                 <img src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
                                     alt="Air Pollution in Delhi NCR - Health Risks and Protection Tips" loading="lazy">
-                                <span class="blog-category-badge" style="background:#0e7490;">Lung &amp; Respiratory</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -115,7 +140,6 @@
                             <a href="knee-replacement-surgery-in-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/knee-replacement-in-noida.webp"
                                     alt="Knee Replacement Surgery in Noida - Prayag Hospital Sector 41" loading="lazy">
-                                <span class="blog-category-badge" style="background:#1d4ed8;">Bone &amp; Joint</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -142,7 +166,6 @@
                             <a href="viral-flu-treatment-prayag-hospital-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/Viral-Flu-Treatment-in-Noida.webp"
                                     alt="Viral Flu Treatment in Noida - Prayag Hospital Sector 41" loading="lazy">
-                                <span class="blog-category-badge" style="background:#b91c1c;">Health &amp; Wellness</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -169,7 +192,6 @@
                             <a href="anxiety-depression-treatment-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp"
                                     alt="Anxiety and depression treatment in Noida - Prayag Hospital Sector 41" loading="lazy">
-                                <span class="blog-category-badge" style="background:#0f766e;">Mental Health</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -196,7 +218,6 @@
                             <a href="why-do-we-fall-sick-when-weather-changes.php" class="blog-post-image">
                                 <img src="assets/images/blog/why-do-we-fall-sick.webp"
                                     alt="Seasonal illness during weather change in Noida" loading="lazy">
-                                <span class="blog-category-badge" style="background:#166534;">Health &amp; Wellness</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -223,7 +244,6 @@
                             <a href="when-should-you-see-a-gynaecologist.php" class="blog-post-image">
                                 <img src="assets/images/blog/when-should-you-see-a-gynecologist.webp"
                                     alt="Gynaecologist consultation and women's health care in Noida" loading="lazy">
-                                <span class="blog-category-badge" style="background:#4A8F73;">Women's Health</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -250,7 +270,6 @@
                             <a href="frequent-urination-at-night.php" class="blog-post-image">
                                 <img src="assets/images/blog/frequent-urination-at-night.webp"
                                     alt="Frequent urination at night and enlarged prostate symptoms in men" loading="lazy">
-                                <span class="blog-category-badge" style="background:#0f766e;">Men's Health</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -277,7 +296,6 @@
                             <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/10-things-every-women-should-know.webp"
                                     alt="10 Things Every Woman Should Know About Choosing a Gynecologist in Noida" loading="lazy">
-                                <span class="blog-category-badge" style="background:#4A8F73;">Women's Health</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -304,7 +322,6 @@
                             <a href="ultrasound-in-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/ultrasound-in-noida.webp"
                                     alt="Ultrasound in Noida: Types, Uses, Preparation" loading="lazy">
-                                <span class="blog-category-badge" style="background:#0284c7;">Diagnostics</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -331,7 +348,6 @@
                             <a href="emergency-hospital-in-noida.php" class="blog-post-image">
                                 <img src="assets/images/blog/emergency-hospital-in-noida.webp"
                                     alt="Emergency Hospital in Noida" loading="lazy">
-                                <span class="blog-category-badge" style="background:#d32f2f;">Emergency Care</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -358,7 +374,6 @@
                             <a href="when-should-you-see-a-gynaecologist.php" class="blog-post-image">
                                 <img src="assets/images/blog/best-gynocologist-in-india.webp"
                                     alt="When Should You See a Gynaecologist" loading="lazy">
-                                <span class="blog-category-badge" style="background:#4A8F73;">Women's Health</span>
                             </a>
                             <div class="blog-post-content">
                                 <div class="blog-post-meta">
@@ -405,6 +420,13 @@
                         <div class="sidebar-widget">
                             <h3 class="widget-title">Featured Articles</h3>
                             <div class="popular-posts-list">
+                                <a href="ct-scan-types-uses-preparation-safety.php" class="popular-post-item">
+                                    <img src="assets/images/blog/ct-scan-type.webp" alt="CT Scan: Types, Uses, Preparation and Safety">
+                                    <div class="popular-post-content">
+                                        <h4>CT Scan: Types, Uses, Preparation and Safety</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Nov 03, 2026</span>
+                                    </div>
+                                </a>
                                 <a href="air-pollution-in-delhi-ncr.php" class="popular-post-item">
                                     <img src="assets/images/blog/Air_Pollution_Delhi_NCR.webp" alt="Air Pollution in Delhi NCR">
                                     <div class="popular-post-content">
@@ -528,7 +550,7 @@
                                 <li>
                                     <a href="#" class="sidebar-category-link" data-category="diagnostics">
                                         <span><i class="fas fa-x-ray"></i> Diagnostics &amp; Imaging</span>
-                                        <span>1</span>
+                                        <span>2</span>
                                     </a>
                                 </li>
                                 <li>

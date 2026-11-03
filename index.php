@@ -859,6 +859,35 @@
                         <!-- Large Blog Card 1 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
+                                <a href="ct-scan-types-uses-preparation-safety.php">
+                                    <img src="assets/images/blog/ct-scan-type.webp"
+                                        alt="CT Scan: Types, Uses, Preparation and Safety">
+                                </a>
+                            </div>
+                            <div class="blog-content-large">
+                                <h3 class="blog-title-large">
+                                    <a href="ct-scan-types-uses-preparation-safety.php"
+                                        style="color:inherit; text-decoration:none;">
+                                        CT Scan: Types, Uses, Preparation &amp; Safety
+                                    </a>
+                                </h3>
+                                <div class="blog-meta">
+                                    <span class="blog-date">Nov 03, 2026</span>
+                                    <a href="ct-scan-types-uses-preparation-safety.php"
+                                        class="blog-read-more">
+                                        Read More
+                                        <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Second Large Blog Card - col-md-4 -->
+                    <div class="col-lg-4 mb-4">
+                        <!-- Large Blog Card 2 -->
+                        <div class="blog-card-large">
+                            <div class="blog-image-large">
                                 <a href="air-pollution-in-delhi-ncr.php">
                                     <img src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
                                         alt="Air Pollution in Delhi NCR">
@@ -883,39 +912,37 @@
                         </div>
                     </div>
 
-                    <!-- Second Large Blog Card - col-md-4 -->
-                    <div class="col-lg-4 mb-4">
-                        <!-- Large Blog Card 2 -->
-                        <div class="blog-card-large">
-                            <div class="blog-image-large">
-                                <a href="knee-replacement-surgery-in-noida.php">
-                                    <img src="assets/images/blog/knee-replacement-in-noida.webp"
-                                        alt="Knee Replacement Surgery in Noida">
-                                </a>
-                            </div>
-                            <div class="blog-content-large">
-                                <h3 class="blog-title-large">
-                                    <a href="knee-replacement-surgery-in-noida.php"
-                                        style="color:inherit; text-decoration:none;">
-                                        Knee Replacement Surgery in Noida: Recovery &amp; What to Expect
-                                    </a>
-                                </h3>
-                                <div class="blog-meta">
-                                    <span class="blog-date">Oct 26, 2026</span>
-                                    <a href="knee-replacement-surgery-in-noida.php"
-                                        class="blog-read-more">
-                                        Read More
-                                        <i class="fas fa-arrow-right"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                     <!-- Three Compact Blog Cards - col-md-4 -->
                     <div class="col-lg-4 mb-4">
                         <div class="blog-right">
                             <!-- Compact Blog Card 1 -->
+                            <div class="blog-card-compact">
+                                <div class="blog-compact-wrapper">
+                                    <div class="blog-image-compact">
+                                        <a href="knee-replacement-surgery-in-noida.php">
+                                            <img src="assets/images/blog/knee-replacement-in-noida.webp"
+                                                alt="Knee Replacement Surgery in Noida">
+                                        </a>
+                                    </div>
+                                    <div class="blog-content-compact">
+                                        <h4 class="blog-title-compact">
+                                            <a href="knee-replacement-surgery-in-noida.php"
+                                                style="color:inherit; text-decoration:none;">
+                                                Knee Replacement Surgery in Noida: Recovery &amp; What to Expect
+                                            </a>
+                                        </h4>
+                                        <div class="blog-meta-compact">
+                                            <span class="blog-date-compact">Oct 26, 2026</span>
+                                            <a href="knee-replacement-surgery-in-noida.php" class="blog-read-more-compact">
+                                                Read More
+                                                <i class="fas fa-arrow-right"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Compact Blog Card 2 -->
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
@@ -942,7 +969,7 @@
                                 </div>
                             </div>
 
-                            <!-- Compact Blog Card 2 -->
+                            <!-- Compact Blog Card 3 -->
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
@@ -961,33 +988,6 @@
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Oct 13, 2026</span>
                                             <a href="anxiety-depression-treatment-noida.php" class="blog-read-more-compact">
-                                                Read More
-                                                <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Compact Blog Card 3 -->
-                            <div class="blog-card-compact">
-                                <div class="blog-compact-wrapper">
-                                    <div class="blog-image-compact">
-                                        <a href="why-do-we-fall-sick-when-weather-changes.php">
-                                            <img src="assets/images/blog/why-do-we-fall-sick.webp"
-                                                alt="Why Do We Fall Sick When the Weather Changes?">
-                                        </a>
-                                    </div>
-                                    <div class="blog-content-compact">
-                                        <h4 class="blog-title-compact">
-                                            <a href="why-do-we-fall-sick-when-weather-changes.php"
-                                                style="color:inherit; text-decoration:none;">
-                                                Why Do We Fall Sick When the Weather Changes?
-                                            </a>
-                                        </h4>
-                                        <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Oct 05, 2026</span>
-                                            <a href="why-do-we-fall-sick-when-weather-changes.php" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
