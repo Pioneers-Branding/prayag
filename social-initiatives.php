@@ -21,7 +21,7 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item active" aria-current="page">Social Initiatives</li>
                 </ol>
             </nav>
@@ -163,7 +163,7 @@
             <h2 class="mb-4 fw-bold">Partner With Us</h2>
             <p class="lead mb-4 col-md-8 mx-auto">Are you an NGO, Corporate, or Volunteer? Join hands with Prayag
                 Hospital to amplify our impact and serve the community better.</p>
-            <a href="contact-us.php" class="btn btn-primary-orange btn-lg fw-bold">Contact Our CSR Team</a>
+            <a href="contact-us" class="btn btn-primary-orange btn-lg fw-bold">Contact Our CSR Team</a>
         </div>
     </section>
 

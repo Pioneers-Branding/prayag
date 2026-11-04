@@ -900,8 +900,8 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="blog.php">Health Blog</a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="blog">Health Blog</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Frequent Urination at Night? It Could Be Your Prostate</li>
                 </ol>
             </nav>
@@ -1198,7 +1198,7 @@
                                     <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20would%20like%20to%20book%20a%20urology%20consultation%20at%20Prayag%20Hospital" target="_blank" class="btn-opd-wa">
                                         <i class="fab fa-whatsapp"></i> WhatsApp +91 92896 62853
                                     </a>
-                                    <a href="book-appointment.php" class="btn-opd-call" style="background: rgba(255,255,255,0.15); color:#fff; border: 1px solid rgba(255,255,255,0.4);">
+                                    <a href="book-appointment" class="btn-opd-call" style="background: rgba(255,255,255,0.15); color:#fff; border: 1px solid rgba(255,255,255,0.4);">
                                         <i class="far fa-calendar-check"></i> Book Online
                                     </a>
                                 </div>
@@ -1255,7 +1255,7 @@
                         <div class="review-box">
                             <img src="assets/images/favicon.png" alt="Dr. Nrapendra Sharma">
                             <div>
-                                <strong>Medically Reviewed By:</strong> <a href="dr-nrapendra-sharma.php" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">Dr. Nrapendra Sharma</a>, Consultant – Department of Urology, Prayag Hospital Noida.
+                                <strong>Medically Reviewed By:</strong> <a href="dr-nrapendra-sharma" style="color: #1e3a8a; font-weight: 700; text-decoration: underline;">Dr. Nrapendra Sharma</a>, Consultant – Department of Urology, Prayag Hospital Noida.
                             </div>
                         </div>
 
@@ -1307,31 +1307,31 @@
                             </h3>
                             <ul class="services-quick-list">
                                 <li>
-                                    <a href="urology.php">
+                                    <a href="urology">
                                         <span>Urology &amp; Urodynamics</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="dr-nrapendra-sharma.php">
+                                    <a href="dr-nrapendra-sharma">
                                         <span>Dr. Nrapendra Sharma (Urologist)</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="pathology.php">
+                                    <a href="pathology">
                                         <span>PSA &amp; Urine Pathology Tests</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="ultrasound-in-noida.php">
+                                    <a href="ultrasound-in-noida">
                                         <span>Ultrasound KUB &amp; Prostate</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="health-checkup.php">
+                                    <a href="health-checkup">
                                         <span>Men's Comprehensive Health Checkup</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>

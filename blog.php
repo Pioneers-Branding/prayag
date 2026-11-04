@@ -20,7 +20,7 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item active" aria-current="page">Health Blog</li>
                 </ol>
             </nav>
@@ -85,7 +85,7 @@
                     <div class="blog-posts-grid" id="blogPostsGrid">
                         <!-- Blog Post: CT Scan Types, Uses, Preparation and Safety -->
                         <article class="blog-post-card" data-category="diagnostics" data-date="2026-11-03" data-popularity="1570">
-                            <a href="ct-scan-types-uses-preparation-safety.php" class="blog-post-image">
+                            <a href="ct-scan-types-uses-preparation-safety" class="blog-post-image">
                                 <img src="assets/images/blog/ct-scan-type.webp"
                                     alt="CT Scan: Types, Uses, Preparation and Safety - Prayag Hospital Noida" loading="lazy">
                             </a>
@@ -96,7 +96,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 1,570 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="ct-scan-types-uses-preparation-safety.php">CT Scan: Types, Uses, Preparation and Safety</a>
+                                    <a href="ct-scan-types-uses-preparation-safety">CT Scan: Types, Uses, Preparation and Safety</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Learn about CT scans, their types, uses, preparation, contrast safety and reports. Get a CT scan in Noida at Prayag Hospital.</p>
                                 <div class="blog-post-footer">
@@ -104,14 +104,14 @@
                                         <img src="assets/images/favicon.png" alt="Radiology Dept" class="author-avatar">
                                         <span>Radiology</span>
                                     </div>
-                                    <a href="ct-scan-types-uses-preparation-safety.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="ct-scan-types-uses-preparation-safety" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post: Air Pollution in Delhi NCR -->
                         <article class="blog-post-card" data-category="respiratory" data-date="2026-10-26" data-popularity="1560">
-                            <a href="air-pollution-in-delhi-ncr.php" class="blog-post-image">
+                            <a href="air-pollution-in-delhi-ncr" class="blog-post-image">
                                 <img src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
                                     alt="Air Pollution in Delhi NCR - Health Risks and Protection Tips" loading="lazy">
                             </a>
@@ -122,7 +122,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 1,560 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="air-pollution-in-delhi-ncr.php">Air Pollution in Delhi NCR: How It Affects Your Health and How to Protect Your Family</a>
+                                    <a href="air-pollution-in-delhi-ncr">Air Pollution in Delhi NCR: How It Affects Your Health and How to Protect Your Family</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Rising AQI in Noida and Delhi NCR affects lungs, heart and children. Doctors at Prayag Hospital, Sector 41 Noida, explain warning signs and how to stay safe.</p>
                                 <div class="blog-post-footer">
@@ -130,14 +130,14 @@
                                         <img src="assets/images/doctors/Dr-Ajay-Garg.webp" alt="Dr. Ajay Garg" class="author-avatar">
                                         <span>Dr. Ajay Garg</span>
                                     </div>
-                                    <a href="air-pollution-in-delhi-ncr.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="air-pollution-in-delhi-ncr" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post: Knee Replacement Surgery in Noida -->
                         <article class="blog-post-card" data-category="orthopaedics" data-date="2026-10-26" data-popularity="1550">
-                            <a href="knee-replacement-surgery-in-noida.php" class="blog-post-image">
+                            <a href="knee-replacement-surgery-in-noida" class="blog-post-image">
                                 <img src="assets/images/blog/knee-replacement-in-noida.webp"
                                     alt="Knee Replacement Surgery in Noida - Prayag Hospital Sector 41" loading="lazy">
                             </a>
@@ -148,7 +148,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 1,550 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="knee-replacement-surgery-in-noida.php">Knee Replacement Surgery in Noida: Who Needs It, Recovery Time and What to Expect</a>
+                                    <a href="knee-replacement-surgery-in-noida">Knee Replacement Surgery in Noida: Who Needs It, Recovery Time and What to Expect</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Considering knee replacement in Noida? Learn who needs it, what happens during surgery, recovery time and what to expect at Prayag Hospital, Sector 41.</p>
                                 <div class="blog-post-footer">
@@ -156,14 +156,14 @@
                                         <img src="assets/images/doctors/dr-sunil-kumar.webp" alt="Dr. Sunil Kumar Sharma" class="author-avatar">
                                         <span>Dr. Sunil Kumar Sharma</span>
                                     </div>
-                                    <a href="knee-replacement-surgery-in-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="knee-replacement-surgery-in-noida" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post 1: Viral Flu Treatment in Noida -->
                         <article class="blog-post-card" data-category="health-wellness" data-date="2026-10-13" data-popularity="1510">
-                            <a href="viral-flu-treatment-prayag-hospital-noida.php" class="blog-post-image">
+                            <a href="viral-flu-treatment-prayag-hospital-noida" class="blog-post-image">
                                 <img src="assets/images/blog/Viral-Flu-Treatment-in-Noida.webp"
                                     alt="Viral Flu Treatment in Noida - Prayag Hospital Sector 41" loading="lazy">
                             </a>
@@ -174,7 +174,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 1,510 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="viral-flu-treatment-prayag-hospital-noida.php">Viral Flu Treatment in Noida: A Guide for Families From Prayag Hospital, Sector 41</a>
+                                    <a href="viral-flu-treatment-prayag-hospital-noida">Viral Flu Treatment in Noida: A Guide for Families From Prayag Hospital, Sector 41</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Fever, cough and body ache? Learn viral flu symptoms, cold vs flu differences, warning signs, and comprehensive family care at Prayag Hospital, Noida Sector 41.</p>
                                 <div class="blog-post-footer">
@@ -182,14 +182,14 @@
                                         <img src="assets/images/favicon.png" alt="Internal Medicine Dept" class="author-avatar">
                                         <span>Internal Medicine</span>
                                     </div>
-                                    <a href="viral-flu-treatment-prayag-hospital-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="viral-flu-treatment-prayag-hospital-noida" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post 2: Anxiety and Depression Treatment in Noida -->
                         <article class="blog-post-card" data-category="mental-health" data-date="2026-10-13" data-popularity="1420">
-                            <a href="anxiety-depression-treatment-noida.php" class="blog-post-image">
+                            <a href="anxiety-depression-treatment-noida" class="blog-post-image">
                                 <img src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp"
                                     alt="Anxiety and depression treatment in Noida - Prayag Hospital Sector 41" loading="lazy">
                             </a>
@@ -200,7 +200,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 1,420 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="anxiety-depression-treatment-noida.php">Anxiety and Depression Treatment in Noida: When to See a Doctor and What to Expect</a>
+                                    <a href="anxiety-depression-treatment-noida">Anxiety and Depression Treatment in Noida: When to See a Doctor and What to Expect</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Discover the warning signs of anxiety and depression, why urban stress in Noida demands timely medical care, and how integrated treatment works at Prayag Hospital Sector 41.</p>
                                 <div class="blog-post-footer">
@@ -208,14 +208,14 @@
                                         <img src="assets/images/doctors/dr-ashish-shah.webp" alt="Dr. Ashish Kumar Shah" class="author-avatar">
                                         <span>Dr. Ashish Kumar Shah</span>
                                     </div>
-                                    <a href="anxiety-depression-treatment-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="anxiety-depression-treatment-noida" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post 2: Why Do We Fall Sick When the Weather Changes? -->
                         <article class="blog-post-card" data-category="health-wellness" data-date="2026-10-05" data-popularity="1150">
-                            <a href="why-do-we-fall-sick-when-weather-changes.php" class="blog-post-image">
+                            <a href="why-do-we-fall-sick-when-weather-changes" class="blog-post-image">
                                 <img src="assets/images/blog/why-do-we-fall-sick.webp"
                                     alt="Seasonal illness during weather change in Noida" loading="lazy">
                             </a>
@@ -226,7 +226,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 1,150 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="why-do-we-fall-sick-when-weather-changes.php">Why Do We Fall Sick When the Weather Changes?</a>
+                                    <a href="why-do-we-fall-sick-when-weather-changes">Why Do We Fall Sick When the Weather Changes?</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Learn why weather changes trigger seasonal illnesses, common symptoms of viral fever, dengue and flu, and when to see a doctor at Prayag Hospital Noida.</p>
                                 <div class="blog-post-footer">
@@ -234,14 +234,14 @@
                                         <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
                                         <span>Prayag Hospital</span>
                                     </div>
-                                    <a href="why-do-we-fall-sick-when-weather-changes.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="why-do-we-fall-sick-when-weather-changes" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post 2: When Should You See a Gynaecologist? -->
                         <article class="blog-post-card" data-category="womens-health" data-date="2026-09-25" data-popularity="1280">
-                            <a href="when-should-you-see-a-gynaecologist.php" class="blog-post-image">
+                            <a href="when-should-you-see-a-gynaecologist" class="blog-post-image">
                                 <img src="assets/images/blog/when-should-you-see-a-gynecologist.webp"
                                     alt="Gynaecologist consultation and women's health care in Noida" loading="lazy">
                             </a>
@@ -252,7 +252,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 1,280 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="when-should-you-see-a-gynaecologist.php">When Should You See a Gynaecologist? Signs Every Woman Should Know</a>
+                                    <a href="when-should-you-see-a-gynaecologist">When Should You See a Gynaecologist? Signs Every Woman Should Know</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Learn the key signs that mean you should consult a gynaecologist—from irregular periods and heavy bleeding to PCOS, fertility, and menopause care.</p>
                                 <div class="blog-post-footer">
@@ -260,14 +260,14 @@
                                         <img src="assets/images/favicon.png" alt="Dr. Garima Srivastav" class="author-avatar">
                                         <span>Dr. Garima Srivastav</span>
                                     </div>
-                                    <a href="when-should-you-see-a-gynaecologist.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="when-should-you-see-a-gynaecologist" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post 3: Frequent Urination at Night? It Could Be Your Prostate -->
                         <article class="blog-post-card" data-category="mens-health" data-date="2026-09-15" data-popularity="1340">
-                            <a href="frequent-urination-at-night.php" class="blog-post-image">
+                            <a href="frequent-urination-at-night" class="blog-post-image">
                                 <img src="assets/images/blog/frequent-urination-at-night.webp"
                                     alt="Frequent urination at night and enlarged prostate symptoms in men" loading="lazy">
                             </a>
@@ -278,7 +278,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 1,340 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="frequent-urination-at-night.php">Frequent Urination at Night? It Could Be Your Prostate</a>
+                                    <a href="frequent-urination-at-night">Frequent Urination at Night? It Could Be Your Prostate</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Waking up frequently at night to urinate? Learn about enlarged prostate (BPH) symptoms, nocturia causes, and advanced treatments at Prayag Hospital Noida.</p>
                                 <div class="blog-post-footer">
@@ -286,14 +286,14 @@
                                         <img src="assets/images/favicon.png" alt="Dr. Nrapendra Sharma" class="author-avatar">
                                         <span>Dr. Nrapendra Sharma</span>
                                     </div>
-                                    <a href="frequent-urination-at-night.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="frequent-urination-at-night" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post 4: 10 Things Every Woman Should Know -->
                         <article class="blog-post-card" data-category="womens-health" data-date="2026-08-24" data-popularity="1020">
-                            <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="blog-post-image">
+                            <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida" class="blog-post-image">
                                 <img src="assets/images/blog/10-things-every-women-should-know.webp"
                                     alt="10 Things Every Woman Should Know About Choosing a Gynecologist in Noida" loading="lazy">
                             </a>
@@ -304,7 +304,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 1,020 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php">10 Things Every Woman Should Know About Choosing a Gynecologist in Noida</a>
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida">10 Things Every Woman Should Know About Choosing a Gynecologist in Noida</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Choosing the right gynecologist is vital. Discover 10 essential factors every woman should consider—from expertise & safety to affordable ultrasound & maternity care.</p>
                                 <div class="blog-post-footer">
@@ -312,14 +312,14 @@
                                         <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
                                         <span>Prayag Hospital</span>
                                     </div>
-                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post 2: Ultrasound in Noida -->
                         <article class="blog-post-card" data-category="diagnostics" data-date="2026-08-17" data-popularity="960">
-                            <a href="ultrasound-in-noida.php" class="blog-post-image">
+                            <a href="ultrasound-in-noida" class="blog-post-image">
                                 <img src="assets/images/blog/ultrasound-in-noida.webp"
                                     alt="Ultrasound in Noida: Types, Uses, Preparation" loading="lazy">
                             </a>
@@ -330,7 +330,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 960 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="ultrasound-in-noida.php">Ultrasound in Noida: Types, Uses, Preparation & When You May Need One</a>
+                                    <a href="ultrasound-in-noida">Ultrasound in Noida: Types, Uses, Preparation & When You May Need One</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Looking for an ultrasound in Noida? Learn about scan types (2D, 3D, 4D, Color Doppler), preparation tips, and pregnancy ultrasound care at Prayag Hospital.</p>
                                 <div class="blog-post-footer">
@@ -338,14 +338,14 @@
                                         <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
                                         <span>Prayag Hospital</span>
                                     </div>
-                                    <a href="ultrasound-in-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="ultrasound-in-noida" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post 3: Emergency Hospital in Noida -->
                         <article class="blog-post-card" data-category="emergency-care" data-date="2026-08-10" data-popularity="990">
-                            <a href="emergency-hospital-in-noida.php" class="blog-post-image">
+                            <a href="emergency-hospital-in-noida" class="blog-post-image">
                                 <img src="assets/images/blog/emergency-hospital-in-noida.webp"
                                     alt="Emergency Hospital in Noida" loading="lazy">
                             </a>
@@ -356,7 +356,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 990 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="emergency-hospital-in-noida.php">Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore</a>
+                                    <a href="emergency-hospital-in-noida">Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Know the 10 critical warning signs that need an emergency hospital in Noida. Learn how acting quickly saves lives and what to do in medical emergencies.</p>
                                 <div class="blog-post-footer">
@@ -364,14 +364,14 @@
                                         <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
                                         <span>Prayag Hospital</span>
                                     </div>
-                                    <a href="emergency-hospital-in-noida.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="emergency-hospital-in-noida" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
 
                         <!-- Blog Post 4: When Should You See a Gynaecologist -->
                         <article class="blog-post-card" data-category="womens-health" data-date="2026-08-03" data-popularity="980">
-                            <a href="when-should-you-see-a-gynaecologist.php" class="blog-post-image">
+                            <a href="when-should-you-see-a-gynaecologist" class="blog-post-image">
                                 <img src="assets/images/blog/best-gynocologist-in-india.webp"
                                     alt="When Should You See a Gynaecologist" loading="lazy">
                             </a>
@@ -382,7 +382,7 @@
                                     <span class="meta-item"><i class="far fa-eye"></i> 980 views</span>
                                 </div>
                                 <h3 class="blog-post-title">
-                                    <a href="when-should-you-see-a-gynaecologist.php">When Should You See a Gynaecologist? Key Signs & Symptoms</a>
+                                    <a href="when-should-you-see-a-gynaecologist">When Should You See a Gynaecologist? Key Signs & Symptoms</a>
                                 </h3>
                                 <p class="blog-post-excerpt">Wondering when to consult a gynecologist in Noida? Learn the signs, screenings, PCOS guidance and life stages that need a gynecologist visit.</p>
                                 <div class="blog-post-footer">
@@ -390,7 +390,7 @@
                                         <img src="assets/images/favicon.png" alt="Prayag Hospital" class="author-avatar">
                                         <span>Prayag Hospital</span>
                                     </div>
-                                    <a href="when-should-you-see-a-gynaecologist.php" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                    <a href="when-should-you-see-a-gynaecologist" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </article>
@@ -420,84 +420,84 @@
                         <div class="sidebar-widget">
                             <h3 class="widget-title">Featured Articles</h3>
                             <div class="popular-posts-list">
-                                <a href="ct-scan-types-uses-preparation-safety.php" class="popular-post-item">
+                                <a href="ct-scan-types-uses-preparation-safety" class="popular-post-item">
                                     <img src="assets/images/blog/ct-scan-type.webp" alt="CT Scan: Types, Uses, Preparation and Safety">
                                     <div class="popular-post-content">
                                         <h4>CT Scan: Types, Uses, Preparation and Safety</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Nov 03, 2026</span>
                                     </div>
                                 </a>
-                                <a href="air-pollution-in-delhi-ncr.php" class="popular-post-item">
+                                <a href="air-pollution-in-delhi-ncr" class="popular-post-item">
                                     <img src="assets/images/blog/Air_Pollution_Delhi_NCR.webp" alt="Air Pollution in Delhi NCR">
                                     <div class="popular-post-content">
                                         <h4>Air Pollution in Delhi NCR: Health Risks &amp; Protection Tips</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Oct 26, 2026</span>
                                     </div>
                                 </a>
-                                <a href="knee-replacement-surgery-in-noida.php" class="popular-post-item">
+                                <a href="knee-replacement-surgery-in-noida" class="popular-post-item">
                                     <img src="assets/images/blog/knee-replacement-in-noida.webp" alt="Knee Replacement Surgery in Noida">
                                     <div class="popular-post-content">
                                         <h4>Knee Replacement Surgery in Noida: Recovery &amp; What to Expect</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Oct 26, 2026</span>
                                     </div>
                                 </a>
-                                <a href="viral-flu-treatment-prayag-hospital-noida.php" class="popular-post-item">
+                                <a href="viral-flu-treatment-prayag-hospital-noida" class="popular-post-item">
                                     <img src="assets/images/blog/Viral-Flu-Treatment-in-Noida.webp" alt="Viral Flu Treatment in Noida">
                                     <div class="popular-post-content">
                                         <h4>Viral Flu Treatment in Noida: Guide for Families</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Oct 13, 2026</span>
                                     </div>
                                 </a>
-                                <a href="anxiety-depression-treatment-noida.php" class="popular-post-item">
+                                <a href="anxiety-depression-treatment-noida" class="popular-post-item">
                                     <img src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp" alt="Anxiety and Depression Treatment in Noida">
                                     <div class="popular-post-content">
                                         <h4>Anxiety and Depression Treatment in Noida</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Oct 13, 2026</span>
                                     </div>
                                 </a>
-                                <a href="why-do-we-fall-sick-when-weather-changes.php" class="popular-post-item">
+                                <a href="why-do-we-fall-sick-when-weather-changes" class="popular-post-item">
                                     <img src="assets/images/blog/why-do-we-fall-sick.webp" alt="Why Do We Fall Sick When Weather Changes">
                                     <div class="popular-post-content">
                                         <h4>Why Do We Fall Sick When the Weather Changes?</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Oct 05, 2026</span>
                                     </div>
                                 </a>
-                                <a href="when-should-you-see-a-gynaecologist.php" class="popular-post-item">
+                                <a href="when-should-you-see-a-gynaecologist" class="popular-post-item">
                                     <img src="assets/images/blog/when-should-you-see-a-gynecologist.webp" alt="When Should You See a Gynaecologist">
                                     <div class="popular-post-content">
                                         <h4>When Should You See a Gynaecologist? Signs to Know</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Sep 25, 2026</span>
                                     </div>
                                 </a>
-                                <a href="frequent-urination-at-night.php" class="popular-post-item">
+                                <a href="frequent-urination-at-night" class="popular-post-item">
                                     <img src="assets/images/blog/frequent-urination-at-night.webp" alt="Frequent Urination at Night">
                                     <div class="popular-post-content">
                                         <h4>Frequent Urination at Night? It Could Be Your Prostate</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Sep 15, 2026</span>
                                     </div>
                                 </a>
-                                <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida.php" class="popular-post-item">
+                                <a href="10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida" class="popular-post-item">
                                     <img src="assets/images/blog/10-things-every-women-should-know.webp" alt="Choosing a Gynecologist">
                                     <div class="popular-post-content">
                                         <h4>10 Things Every Woman Should Know About Choosing a Gynecologist</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Aug 24, 2026</span>
                                     </div>
                                 </a>
-                                <a href="ultrasound-in-noida.php" class="popular-post-item">
+                                <a href="ultrasound-in-noida" class="popular-post-item">
                                     <img src="assets/images/blog/ultrasound-in-noida.webp" alt="Ultrasound in Noida">
                                     <div class="popular-post-content">
                                         <h4>Ultrasound in Noida: Types, Uses, Preparation & Guide</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Aug 17, 2026</span>
                                     </div>
                                 </a>
-                                <a href="emergency-hospital-in-noida.php" class="popular-post-item">
+                                <a href="emergency-hospital-in-noida" class="popular-post-item">
                                     <img src="assets/images/blog/emergency-hospital-in-noida.webp" alt="Emergency Hospital in Noida">
                                     <div class="popular-post-content">
                                         <h4>Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore</h4>
                                         <span class="popular-post-date"><i class="far fa-calendar"></i> Aug 10, 2026</span>
                                     </div>
                                 </a>
-                                <a href="when-should-you-see-a-gynaecologist.php" class="popular-post-item">
+                                <a href="when-should-you-see-a-gynaecologist" class="popular-post-item">
                                     <img src="assets/images/blog/best-gynocologist-in-india.webp" alt="When Should You See a Gynaecologist">
                                     <div class="popular-post-content">
                                         <h4>When Should You See a Gynecologist? Key Signs & Advice</h4>

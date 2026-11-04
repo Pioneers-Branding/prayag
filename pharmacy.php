@@ -89,8 +89,8 @@
             <div class="container">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                        <li class="breadcrumb-item"><a href="support-services.php">Support Services</a></li>
+                        <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                        <li class="breadcrumb-item"><a href="support-services">Support Services</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Pharmacy</li>
                     </ol>
                 </nav>

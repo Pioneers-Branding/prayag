@@ -29,7 +29,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item">
-                            <a href="index.php">
+                            <a href="./">
                                 <i class="fas fa-home"></i>
                             </a>
                         </li>
@@ -59,7 +59,7 @@
 
                         <!-- CTA Buttons -->
                         <div class="hero-cta-buttons">
-                            <a href="find-doctor.php" class="btn-book-appointment">
+                            <a href="find-doctor" class="btn-book-appointment">
                                 Find Doctor
                             </a>
                             <a href="#tpa" class="btn-request-callback">
@@ -131,7 +131,7 @@
 
                 <!-- Feature 2 -->
                 <div class="col-lg-3 col-md-6 col-12">
-                    <a href="pharmacy.php" class="text-decoration-none">
+                    <a href="pharmacy" class="text-decoration-none">
                         <div class="feature-box">
                             <div class="feature-icon">
                                 <i class="fas fa-pills"></i>
@@ -223,7 +223,7 @@
 
             <div class="row g-3">
                 <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <a href="pharmacy.php" class="text-decoration-none">
+                    <a href="pharmacy" class="text-decoration-none">
                         <div class="condition-card">
                             <h3 class="condition-name">24/7 Pharmacy</h3>
                         </div>
@@ -240,7 +240,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                    <a href="blood-bank.php" class="text-decoration-none">
+                    <a href="blood-bank" class="text-decoration-none">
                         <div class="condition-card">
                             <h3 class="condition-name">Blood Storage Unit</h3>
                         </div>

@@ -903,10 +903,10 @@
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item">
-                        <a href="index.php"><i class="fas fa-home"></i></a>
+                        <a href="./"><i class="fas fa-home"></i></a>
                     </li>
                     <li class="breadcrumb-item">
-                        <a href="blog.php">Health Blog</a>
+                        <a href="blog">Health Blog</a>
                     </li>
                     <li class="breadcrumb-item active" aria-current="page">
                         Ultrasound in Noida
@@ -1189,7 +1189,7 @@
                                 <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20would%20like%20to%20book%20an%20ultrasound%20scan%20at%20Prayag%20Hospital" target="_blank" class="btn-cta-outline">
                                     <i class="fab fa-whatsapp"></i> WhatsApp +91 92896 62853
                                 </a>
-                                <a href="contact-us.php" class="btn-cta-outline">
+                                <a href="contact-us" class="btn-cta-outline">
                                     <i class="far fa-calendar-check"></i> Book Online
                                 </a>
                             </div>
@@ -1309,31 +1309,31 @@
                             </h3>
                             <ul class="services-quick-list">
                                 <li>
-                                    <a href="radiology.php">
+                                    <a href="radiology">
                                         <span>Radiology & Imaging</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="obstetrics-gynecology.php">
+                                    <a href="obstetrics-gynecology">
                                         <span>Pregnancy & Gynaecology</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="cardiac-diagnostics.php">
+                                    <a href="cardiac-diagnostics">
                                         <span>Cardiac Color Doppler & ECHO</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="pathology.php">
+                                    <a href="pathology">
                                         <span>NABL Pathology Lab</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="health-checkup.php">
+                                    <a href="health-checkup">
                                         <span>Preventive Health Packages</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>

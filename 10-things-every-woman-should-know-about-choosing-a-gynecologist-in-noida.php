@@ -769,10 +769,10 @@
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item">
-                        <a href="index.php"><i class="fas fa-home"></i></a>
+                        <a href="./"><i class="fas fa-home"></i></a>
                     </li>
                     <li class="breadcrumb-item">
-                        <a href="blog.php">Health Blog</a>
+                        <a href="blog">Health Blog</a>
                     </li>
                     <li class="breadcrumb-item active" aria-current="page">
                         Choosing a Gynecologist in Noida
@@ -1001,7 +1001,7 @@
                                 <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20would%20like%20to%20consult%20a%20gynecologist%20at%20Prayag%20Hospital" target="_blank" class="btn-cta-outline">
                                     <i class="fab fa-whatsapp"></i> WhatsApp +91 92896 62853
                                 </a>
-                                <a href="contact-us.php" class="btn-cta-outline">
+                                <a href="contact-us" class="btn-cta-outline">
                                     <i class="far fa-calendar-check"></i> Book Online
                                 </a>
                             </div>
@@ -1091,31 +1091,31 @@
                             </h3>
                             <ul class="services-quick-list">
                                 <li>
-                                    <a href="obstetrics-gynecology.php">
+                                    <a href="obstetrics-gynecology">
                                         <span>Obstetrics & Gynecology</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="ultrasound-in-noida.php">
+                                    <a href="ultrasound-in-noida">
                                         <span>Ultrasound in Noida</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="when-should-you-see-a-gynaecologist.php">
+                                    <a href="when-should-you-see-a-gynaecologist">
                                         <span>When to See a Gynecologist</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="high-risk-pregnancy.php">
+                                    <a href="high-risk-pregnancy">
                                         <span>High-Risk Pregnancy</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="health-checkup.php">
+                                    <a href="health-checkup">
                                         <span>Women's Health Checkup</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>

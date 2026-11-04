@@ -822,10 +822,10 @@
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item">
-                        <a href="index.php"><i class="fas fa-home"></i></a>
+                        <a href="./"><i class="fas fa-home"></i></a>
                     </li>
                     <li class="breadcrumb-item">
-                        <a href="blog.php">Health Blog</a>
+                        <a href="blog">Health Blog</a>
                     </li>
                     <li class="breadcrumb-item active" aria-current="page">
                         Emergency Hospital in Noida
@@ -1180,31 +1180,31 @@
                             </h3>
                             <ul class="services-quick-list">
                                 <li>
-                                    <a href="emergency-medicine.php">
+                                    <a href="emergency-medicine">
                                         <span>Emergency & Trauma Care</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="critical-care.php">
+                                    <a href="critical-care">
                                         <span>Critical Care & ICU</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="cardiac-care.php">
+                                    <a href="cardiac-care">
                                         <span>Emergency Cardiac Care</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blood-bank.php">
+                                    <a href="blood-bank">
                                         <span>24/7 Blood Bank</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="tpa-insurance.php">
+                                    <a href="tpa-insurance">
                                         <span>Cashless TPA & Insurance</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>

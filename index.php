@@ -219,7 +219,7 @@
                                 specialities, delivered by expert healthcare professionals using state-of-the-art
                                 technology and compassionate care. From advanced diagnostics to specialized treatments,
                                 we offer complete healthcare solutions under one roof for you and your family.</p>
-                            <a href="all-services.php"><button class="btn-view-all-specialities">
+                            <a href="all-services"><button class="btn-view-all-specialities">
                                     View All
                                     <i class="fas fa-arrow-right"></i>
                                 </button>
@@ -233,7 +233,7 @@
 
                             <div class="specialities-grid">
                                 <!-- Speciality Card 1 -->
-                                <a href="ent.php" class="speciality-card">
+                                <a href="ent" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-ear-listen"></i>
                                     </div>
@@ -241,7 +241,7 @@
                                 </a>
 
                                 <!-- Speciality Card 2 -->
-                                <a href="cardiac-care.php" class="speciality-card">
+                                <a href="cardiac-care" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-heartbeat"></i>
                                     </div>
@@ -249,7 +249,7 @@
                                 </a>
 
                                 <!-- Speciality Card 3 -->
-                                <a href="orthopedics.php" class="speciality-card">
+                                <a href="orthopedics" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-bone"></i>
                                     </div>
@@ -257,7 +257,7 @@
                                 </a>
 
                                 <!-- Speciality Card 4 -->
-                                <a href="oncology.php" class="speciality-card">
+                                <a href="oncology" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-ribbon"></i>
                                     </div>
@@ -265,7 +265,7 @@
                                 </a>
 
                                 <!-- Speciality Card 5 -->
-                                <a href="urology.php" class="speciality-card">
+                                <a href="urology" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-stethoscope"></i>
                                     </div>
@@ -273,7 +273,7 @@
                                 </a>
 
                                 <!-- Speciality Card 6 -->
-                                <a href="obstetrics-gynecology.php" class="speciality-card">
+                                <a href="obstetrics-gynecology" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-baby"></i>
                                     </div>
@@ -281,7 +281,7 @@
                                 </a>
 
                                 <!-- Speciality Card 7 -->
-                                <a href="neuroscience.php" class="speciality-card">
+                                <a href="neuroscience" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-brain"></i>
                                     </div>
@@ -289,7 +289,7 @@
                                 </a>
 
                                 <!-- Speciality Card 8 -->
-                                <a href="gastroenterology.php" class="speciality-card">
+                                <a href="gastroenterology" class="speciality-card">
                                     <div class="speciality-icon">
                                         <img src="assets/images/liver.webp" alt="Gastroenterology" style="width:35px">
                                     </div>
@@ -297,7 +297,7 @@
                                 </a>
 
                                 <!-- Speciality Card 9 -->
-                                <a href="laparoscopic-surgery.php" class="speciality-card">
+                                <a href="laparoscopic-surgery" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-lungs"></i>
                                     </div>
@@ -305,7 +305,7 @@
                                 </a>
 
                                 <!-- Speciality Card 10 -->
-                                <a href="ophthalmology.php" class="speciality-card">
+                                <a href="ophthalmology" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-eye"></i>
                                     </div>
@@ -313,7 +313,7 @@
                                 </a>
 
                                 <!-- Speciality Card 11 -->
-                                <a href="dental-science.php" class="speciality-card">
+                                <a href="dental-science" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-tooth"></i>
                                     </div>
@@ -321,7 +321,7 @@
                                 </a>
 
                                 <!-- Speciality Card 12 -->
-                                <a href="radiology.php" class="speciality-card">
+                                <a href="radiology" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-x-ray"></i>
                                     </div>
@@ -329,7 +329,7 @@
                                 </a>
 
                                 <!-- Speciality Card 13 -->
-                                <a href="anesthesiology.php" class="speciality-card">
+                                <a href="anesthesiology" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-syringe"></i>
                                     </div>
@@ -337,7 +337,7 @@
                                 </a>
 
                                 <!-- Speciality Card 14 -->
-                                <a href="pathology.php" class="speciality-card">
+                                <a href="pathology" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-vials"></i>
                                     </div>
@@ -345,7 +345,7 @@
                                 </a>
 
                                 <!-- Speciality Card 15 -->
-                                <a href="emergency-medicine.php" class="speciality-card">
+                                <a href="emergency-medicine" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-user-nurse"></i>
                                     </div>
@@ -353,7 +353,7 @@
                                 </a>
 
                                 <!-- Speciality Card 16 -->
-                                <a href="physiotherapy.php" class="speciality-card">
+                                <a href="physiotherapy" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-hand-holding-medical"></i>
                                     </div>
@@ -361,7 +361,7 @@
                                 </a>
 
                                 <!-- Speciality Card 17 -->
-                                <a href="support-services.php" class="speciality-card">
+                                <a href="support-services" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-pills"></i>
                                     </div>
@@ -369,7 +369,7 @@
                                 </a>
 
                                 <!-- Speciality Card 18 -->
-                                <a href="internal-medicine.php" class="speciality-card">
+                                <a href="internal-medicine" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-notes-medical"></i>
                                     </div>
@@ -377,7 +377,7 @@
                                 </a>
 
                                 <!-- Speciality Card 19 -->
-                                <a href="nephrology-dialysis.php" class="speciality-card">
+                                <a href="nephrology-dialysis" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-filter"></i>
                                     </div>
@@ -385,7 +385,7 @@
                                 </a>
 
                                 <!-- Speciality Card 20 -->
-                                <a href="dermatology.php" class="speciality-card">
+                                <a href="dermatology" class="speciality-card">
                                     <div class="speciality-icon">
                                         <img src="assets/images/DERMA.webp" alt="Skin" style="width:35px">
                                     </div>
@@ -393,7 +393,7 @@
                                 </a>
 
                                 <!-- Speciality Card 21 -->
-                                <a href="neonatology.php" class="speciality-card">
+                                <a href="neonatology" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-child"></i>
                                     </div>
@@ -401,7 +401,7 @@
                                 </a>
 
                                 <!-- Speciality Card 22 -->
-                                <a href="plastic-surgery.php" class="speciality-card">
+                                <a href="plastic-surgery" class="speciality-card">
                                     <div class="speciality-icon">
                                         <img src="assets/images/PLASTIC.webp" alt="Plastic Surgery" style="width:35px">
                                     </div>
@@ -409,7 +409,7 @@
                                 </a>
 
                                 <!-- Speciality Card 23 -->
-                                <a href="psychiatry.php" class="speciality-card">
+                                <a href="psychiatry" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-puzzle-piece"></i>
                                     </div>
@@ -417,7 +417,7 @@
                                 </a>
 
                                 <!-- Speciality Card 24 -->
-                                <a href="dietetics.php" class="speciality-card">
+                                <a href="dietetics" class="speciality-card">
                                     <div class="speciality-icon">
                                         <i class="fas fa-apple-alt"></i>
                                     </div>
@@ -638,8 +638,8 @@
                                         </div>
                                     </div>
                                     <div class="doctor-actions">
-                                        <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
-                                        <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment"
+                                        <a href="<?php echo $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
+                                        <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>#book-appointment"
                                             class="btn-book-now">Book Apt.</a>
                                     </div>
                                 </div>
@@ -649,7 +649,7 @@
                 </div>
 
                 <div class="text-center mt-4">
-                    <a href="find-doctor.php" class="btn-view-all-content">
+                    <a href="find-doctor" class="btn-view-all-content">
                         View All Doctors
                         <i class="fas fa-arrow-right ms-2"></i>
                     </a>
@@ -669,7 +669,7 @@
                         <p class="news-description">Stay updated with the latest news, achievements, and milestones from
                             Prayag Hospital. Explore our journey in delivering exceptional healthcare and making a
                             difference in people's lives.</p>
-                        <a href="media-coverage.php" class="btn-view-all">
+                        <a href="media-coverage" class="btn-view-all">
                             View All
                             <i class="fas fa-arrow-right"></i>
                         </a>
@@ -1010,7 +1010,7 @@
                                     team of
                                     specialists is dedicated to providing personalized treatment plans tailored to your
                                     unique needs. Experience compassionate care combined with medical excellence.</p>
-                                <a href="book-appointment.php">
+                                <a href="book-appointment">
                                     <button class="btn-schedule-appointment mt-3">
                                         Schedule an Appointment
                                         <i class="fas fa-calendar-check"></i>
@@ -1046,21 +1046,21 @@
                         <!-- Large Blog Card 1 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <a href="ct-scan-types-uses-preparation-safety.php">
+                                <a href="ct-scan-types-uses-preparation-safety">
                                     <img src="assets/images/blog/ct-scan-type.webp"
                                         alt="CT Scan: Types, Uses, Preparation and Safety">
                                 </a>
                             </div>
                             <div class="blog-content-large">
                                 <h3 class="blog-title-large">
-                                    <a href="ct-scan-types-uses-preparation-safety.php"
+                                    <a href="ct-scan-types-uses-preparation-safety"
                                         style="color:inherit; text-decoration:none;">
                                         CT Scan: Types, Uses, Preparation &amp; Safety
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
                                     <span class="blog-date">Nov 03, 2026</span>
-                                    <a href="ct-scan-types-uses-preparation-safety.php" class="blog-read-more">
+                                    <a href="ct-scan-types-uses-preparation-safety" class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
                                     </a>
@@ -1074,21 +1074,21 @@
                         <!-- Large Blog Card 2 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <a href="air-pollution-in-delhi-ncr.php">
+                                <a href="air-pollution-in-delhi-ncr">
                                     <img src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
                                         alt="Air Pollution in Delhi NCR">
                                 </a>
                             </div>
                             <div class="blog-content-large">
                                 <h3 class="blog-title-large">
-                                    <a href="air-pollution-in-delhi-ncr.php"
+                                    <a href="air-pollution-in-delhi-ncr"
                                         style="color:inherit; text-decoration:none;">
                                         Air Pollution in Delhi NCR: Health Risks &amp; Protection Tips
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
                                     <span class="blog-date">Oct 26, 2026</span>
-                                    <a href="air-pollution-in-delhi-ncr.php" class="blog-read-more">
+                                    <a href="air-pollution-in-delhi-ncr" class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
                                     </a>
@@ -1104,21 +1104,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="knee-replacement-surgery-in-noida.php">
+                                        <a href="knee-replacement-surgery-in-noida">
                                             <img src="assets/images/blog/knee-replacement-in-noida.webp"
                                                 alt="Knee Replacement Surgery in Noida">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="knee-replacement-surgery-in-noida.php"
+                                            <a href="knee-replacement-surgery-in-noida"
                                                 style="color:inherit; text-decoration:none;">
                                                 Knee Replacement Surgery in Noida: Recovery &amp; What to Expect
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Oct 26, 2026</span>
-                                            <a href="knee-replacement-surgery-in-noida.php"
+                                            <a href="knee-replacement-surgery-in-noida"
                                                 class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
@@ -1132,21 +1132,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="viral-flu-treatment-prayag-hospital-noida.php">
+                                        <a href="viral-flu-treatment-prayag-hospital-noida">
                                             <img src="assets/images/blog/Viral-Flu-Treatment-in-Noida.webp"
                                                 alt="Viral Flu Treatment in Noida">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="viral-flu-treatment-prayag-hospital-noida.php"
+                                            <a href="viral-flu-treatment-prayag-hospital-noida"
                                                 style="color:inherit; text-decoration:none;">
                                                 Viral Flu Treatment in Noida: Guide for Families
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Oct 13, 2026</span>
-                                            <a href="viral-flu-treatment-prayag-hospital-noida.php"
+                                            <a href="viral-flu-treatment-prayag-hospital-noida"
                                                 class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
@@ -1160,21 +1160,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="anxiety-depression-treatment-noida.php">
+                                        <a href="anxiety-depression-treatment-noida">
                                             <img src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp"
                                                 alt="Anxiety and Depression Treatment in Noida">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="anxiety-depression-treatment-noida.php"
+                                            <a href="anxiety-depression-treatment-noida"
                                                 style="color:inherit; text-decoration:none;">
                                                 Anxiety &amp; Depression Treatment in Noida
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Oct 13, 2026</span>
-                                            <a href="anxiety-depression-treatment-noida.php"
+                                            <a href="anxiety-depression-treatment-noida"
                                                 class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
@@ -1189,7 +1189,7 @@
 
                 <!-- View All Blogs Button -->
                 <div class="text-center mt-4">
-                    <a href="blog.php" class="btn-view-all-content">
+                    <a href="blog" class="btn-view-all-content">
                         View All Blogs
                         <i class="fas fa-arrow-right ms-2"></i>
                     </a>

@@ -45,7 +45,7 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item active" aria-current="page">Find a Doctor</li>
                 </ol>
             </nav>
@@ -230,8 +230,8 @@
                                 <p class="doctor-card-specialty"><?php echo $doctor['specialty']; ?></p>
                                 <p class="doctor-card-expertise"><?php echo $doctor['department']; ?></p>
                                 <div class="doctor-card-actions">
-                                    <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
-                                    <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
+                                    <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
+                                    <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>#book-appointment" class="btn-book-now">Book Apt.</a>
                                 </div>
                             </div>
                         </div>

@@ -30,7 +30,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item">
-                            <a href="index.php">
+                            <a href="./">
                                 <i class="fas fa-home"></i>
                             </a>
                         </li>
@@ -60,8 +60,8 @@
 
                         <!-- CTA Buttons -->
                         <div class="hero-cta-buttons">
-                            <a href="find-doctor.php" class="btn-book-appointment">Find Doctor</a>
-                            <a href="contact-us.php" class="btn-request-callback">
+                            <a href="find-doctor" class="btn-book-appointment">Find Doctor</a>
+                            <a href="contact-us" class="btn-request-callback">
                                 Contact Us
                             </a>
                         </div>
@@ -336,7 +336,7 @@
                         <p class="treatment-card-description">
                             Management of Preeclampsia & Gestational Diabetes. Specialized care for complex pregnancies and safe deliveries.
                         </p>
-                        <a href="high-risk-pregnancy.php" class="treatment-card-link">
+                        <a href="high-risk-pregnancy" class="treatment-card-link">
                             Read More <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -352,7 +352,7 @@
                         <p class="treatment-card-description">
                             Minimally invasive removal of uterus (Hysterectomy), fibroids (Myomectomy), and ovarian cysts.
                         </p>
-                        <a href="laparoscopic-surgery.php" class="treatment-card-link">
+                        <a href="laparoscopic-surgery" class="treatment-card-link">
                             Read More <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -368,7 +368,7 @@
                         <p class="treatment-card-description">
                             Diagnosis and treatment for infertility including follicular monitoring, IUI (Intrauterine Insemination), and IVF support.
                         </p>
-                        <a href="infertility-treatment.php" class="treatment-card-link">
+                        <a href="infertility-treatment" class="treatment-card-link">
                             Read More <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -495,8 +495,8 @@
                                 </div>
                             </div>
                             <div class="doctor-actions">
-                                <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
-                                <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
+                                <a href="<?php echo $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
+                                <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>#book-appointment" class="btn-book-now">Book Apt.</a>
                             </div>
                         </div>
                     </div>

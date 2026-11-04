@@ -9,7 +9,7 @@ $events = [
         'description' => 'Celebrating our incredible nurses whose care, commitment, and compassion make a difference every day. Heartfelt gratitude to our healthcare heroes.',
         'image' => 'assets/images/events/nurse-day-2.webp',
         'status' => 'Completed',
-        'link' => 'international-nurses-day.php'
+        'link' => 'international-nurses-day'
     ]
 ];
 ?>
@@ -34,7 +34,7 @@ $events = [
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item"><a href="#">News & Media</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Events & Workshops</li>
                 </ol>

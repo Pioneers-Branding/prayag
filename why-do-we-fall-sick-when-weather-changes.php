@@ -962,8 +962,8 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="blog.php">Health Blog</a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="blog">Health Blog</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Why Do We Fall Sick When the Weather Changes?</li>
                 </ol>
             </nav>
@@ -1283,7 +1283,7 @@
                                     <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20would%20like%20to%20book%20an%20OPD%20appointment%20at%20Prayag%20Hospital" target="_blank" class="btn-opd-wa">
                                         <i class="fab fa-whatsapp"></i> WhatsApp +91 92896 62853
                                     </a>
-                                    <a href="book-appointment.php" class="btn-opd-call" style="background: rgba(255,255,255,0.15); color:#fff; border: 1px solid rgba(255,255,255,0.4);">
+                                    <a href="book-appointment" class="btn-opd-call" style="background: rgba(255,255,255,0.15); color:#fff; border: 1px solid rgba(255,255,255,0.4);">
                                         <i class="far fa-calendar-check"></i> Book Online
                                     </a>
                                 </div>
@@ -1382,31 +1382,31 @@
                             </h3>
                             <ul class="services-quick-list">
                                 <li>
-                                    <a href="internal-medicine.php">
+                                    <a href="internal-medicine">
                                         <span>Internal Medicine (General OPD)</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="respiratory-medicine.php">
+                                    <a href="respiratory-medicine">
                                         <span>Respiratory &amp; Pulmonology</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="emergency-hospital-in-noida.php">
+                                    <a href="emergency-hospital-in-noida">
                                         <span>24/7 Emergency &amp; Critical Care</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="pathology.php">
+                                    <a href="pathology">
                                         <span>Pathology &amp; Lab Tests</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="health-checkup.php">
+                                    <a href="health-checkup">
                                         <span>Comprehensive Health Checkup</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>

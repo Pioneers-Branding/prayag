@@ -20,7 +20,7 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item"><a href="#">Patient Guide</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Admission Guide</li>
                 </ol>
@@ -91,7 +91,7 @@
                                     <strong>For Cash Patients:</strong> An initial deposit is required at the time of
                                     admission.<br>
                                     <strong>For Insurance/TPA:</strong> Visit the TPA desk for pre-authorization. (See
-                                    our <a href="tpa-insurance.php"
+                                    our <a href="tpa-insurance"
                                         style="color: var(--prayag-teal); text-decoration: none; font-weight: 600;">TPA
                                         Guide</a>).
                                 </p>

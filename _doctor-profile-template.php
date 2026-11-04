@@ -52,8 +52,8 @@ if (!$doctor) {
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="find-doctor.php">Find a Doctor</a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="find-doctor">Find a Doctor</a></li>
                     <li class="breadcrumb-item active" aria-current="page"><?php echo $doctor['name']; ?></li>
                 </ol>
             </nav>
@@ -198,7 +198,7 @@ if (!$doctor) {
                                     <div class="form-check text-start">
                                         <input class="form-check-input" type="checkbox" id="docTplDpdpConsent" required>
                                         <label class="form-check-label" for="docTplDpdpConsent" style="font-size: 0.8rem; color: #64748b;">
-                                            I agree to share my details to schedule a consultation under the <a href="privacy-policy.php" target="_blank" style="color: var(--prayag-teal); text-decoration: underline;">Privacy Policy</a>.
+                                            I agree to share my details to schedule a consultation under the <a href="privacy-policy" target="_blank" style="color: var(--prayag-teal); text-decoration: underline;">Privacy Policy</a>.
                                         </label>
                                     </div>
                                 </div>

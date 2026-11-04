@@ -162,7 +162,7 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item"><a href="#">Legal & Statutory</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Privacy Policy (DPDP Act)</li>
                 </ol>
@@ -201,7 +201,7 @@
                             <li><a href="#grievance">10. Grievance Redressal & DPBI</a></li>
                         </ul>
                         <div class="mt-4 pt-3 border-top text-center">
-                            <a href="data-grievance.php" class="btn btn-sm btn-outline-success w-100" style="border-radius: 8px; font-weight:600;">
+                            <a href="data-grievance" class="btn btn-sm btn-outline-success w-100" style="border-radius: 8px; font-weight:600;">
                                 <i class="fas fa-user-shield me-1"></i> Exercise Your Data Rights
                             </a>
                         </div>
@@ -270,7 +270,7 @@
                             <ul>
                                 <li><strong>Notice at Point of Collection:</strong> Whenever you submit data through forms on this website, an itemized notice is provided detailing the purpose of data collection.</li>
                                 <li><strong>Unbundled Checkboxes:</strong> We never use pre-ticked checkboxes. You have the right to grant or deny consent freely.</li>
-                                <li><strong>Right to Withdraw Consent:</strong> You have the right to withdraw your consent at any point in time by submitting a request via our <a href="data-grievance.php">Data Rights Portal</a> or emailing <a href="mailto:dpo@prayaghospital.in">dpo@prayaghospital.in</a>. Withdrawal of consent does not affect the legality of processing carried out prior to the withdrawal, nor does it impact statutory record-keeping required by healthcare laws.</li>
+                                <li><strong>Right to Withdraw Consent:</strong> You have the right to withdraw your consent at any point in time by submitting a request via our <a href="data-grievance">Data Rights Portal</a> or emailing <a href="mailto:dpo@prayaghospital.in">dpo@prayaghospital.in</a>. Withdrawal of consent does not affect the legality of processing carried out prior to the withdrawal, nor does it impact statutory record-keeping required by healthcare laws.</li>
                             </ul>
                         </section>
 
@@ -302,7 +302,7 @@
                                 </div>
                             </div>
                             <p class="mt-3">
-                                To exercise any of the above rights, please submit an official request through our <a href="data-grievance.php" class="fw-bold">Data Principal Rights Form</a>.
+                                To exercise any of the above rights, please submit an official request through our <a href="data-grievance" class="fw-bold">Data Principal Rights Form</a>.
                             </p>
                         </section>
 

@@ -1023,8 +1023,8 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="blog.php">Health Blog</a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="blog">Health Blog</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Knee Replacement Surgery in Noida</li>
                 </ol>
             </nav>
@@ -1407,7 +1407,7 @@
                                 <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20want%20to%20consult%20an%20orthopaedic%20surgeon%20for%20knee%20pain%20at%20Prayag%20Hospital" target="_blank" class="btn-opd-wa">
                                     <i class="fab fa-whatsapp"></i> WhatsApp Appointment
                                 </a>
-                                <a href="book-appointment.php" class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
+                                <a href="book-appointment" class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
                                     <i class="far fa-calendar-check"></i> Book Online
                                 </a>
                             </div>
@@ -1493,7 +1493,7 @@
                         <div class="review-box">
                             <img src="assets/images/doctors/dr-sunil-kumar.webp" alt="Dr. Sunil Kumar Sharma">
                             <div>
-                                <strong>Medically Reviewed By:</strong> <a href="dr-sunil-kumar-sharma.php" style="color: #1d4ed8; font-weight: 700; text-decoration: underline;">Dr. Sunil Kumar Sharma</a>, Consultant Orthopedic, Department of Orthopaedics, Prayag Hospital Noida.
+                                <strong>Medically Reviewed By:</strong> <a href="dr-sunil-kumar-sharma" style="color: #1d4ed8; font-weight: 700; text-decoration: underline;">Dr. Sunil Kumar Sharma</a>, Consultant Orthopedic, Department of Orthopaedics, Prayag Hospital Noida.
                             </div>
                         </div>
 
@@ -1544,31 +1544,31 @@
                             </h3>
                             <ul class="services-quick-list">
                                 <li>
-                                    <a href="dr-sunil-kumar-sharma.php">
+                                    <a href="dr-sunil-kumar-sharma">
                                         <span>Dr. Sunil Kumar Sharma (Profile)</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="orthopedics.php">
+                                    <a href="orthopedics">
                                         <span>Orthopaedics &amp; Joint Replacement</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="knee-hip-replacement.php">
+                                    <a href="knee-hip-replacement">
                                         <span>Knee &amp; Hip Replacement</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="arthroscopy-sports.php">
+                                    <a href="arthroscopy-sports">
                                         <span>Arthroscopy &amp; Sports Injury</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="physiotherapy.php">
+                                    <a href="physiotherapy">
                                         <span>Physiotherapy &amp; Rehabilitation</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>

@@ -21,7 +21,7 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item active" aria-current="page">All Services</li>
                 </ol>
             </nav>
@@ -107,7 +107,7 @@
                     <div class="services-grid" id="servicesGrid">
                         <!-- Centres of Excellence -->
                         <div class="service-card" data-category="excellence" data-name="Cardiac Sciences">
-                            <a href="cardiac-care.php" class="service-card-link">
+                            <a href="cardiac-care" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-heartbeat"></i>
                                 </div>
@@ -120,7 +120,7 @@
                         </div>
 
                         <div class="service-card" data-category="excellence" data-name="Neurosciences">
-                            <a href="neuroscience.php" class="service-card-link">
+                            <a href="neuroscience" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-brain"></i>
                                 </div>
@@ -133,7 +133,7 @@
                         </div>
 
                         <div class="service-card" data-category="excellence" data-name="Orthopedics">
-                            <a href="orthopedics.php" class="service-card-link">
+                            <a href="orthopedics" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-bone"></i>
                                 </div>
@@ -146,7 +146,7 @@
                         </div>
 
                         <div class="service-card" data-category="excellence" data-name="Obstetrics & Gynecology">
-                            <a href="obstetrics-gynecology.php" class="service-card-link">
+                            <a href="obstetrics-gynecology" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-baby"></i>
                                 </div>
@@ -159,7 +159,7 @@
                         </div>
 
                         <div class="service-card" data-category="excellence" data-name="Gastroenterology">
-                            <a href="gastroenterology.php" class="service-card-link">
+                            <a href="gastroenterology" class="service-card-link">
                                 <div class="service-icon">
                                     <img src="assets/images/liver.webp" alt="Gastroenterology" style="width: 37px;">
                                 </div>
@@ -172,7 +172,7 @@
                         </div>
 
                         <div class="service-card" data-category="excellence" data-name="Nephrology">
-                            <a href="nephrology-dialysis.php" class="service-card-link">
+                            <a href="nephrology-dialysis" class="service-card-link">
                                 <div class="service-icon">
                                     <img src="assets/images/RENAL.webp" alt="Renal Sciences" style="width: 37px;">
                                 </div>
@@ -185,7 +185,7 @@
                         </div>
 
                         <div class="service-card" data-category="excellence" data-name="Oncology">
-                            <a href="oncology.php" class="service-card-link">
+                            <a href="oncology" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-ribbon"></i>
                                 </div>
@@ -199,7 +199,7 @@
 
                         <!-- Clinical Departments -->
                         <div class="service-card" data-category="clinical" data-name="Internal Medicine">
-                            <a href="internal-medicine.php" class="service-card-link">
+                            <a href="internal-medicine" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-user-md"></i>
                                 </div>
@@ -212,7 +212,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Critical Care">
-                            <a href="critical-care.php" class="service-card-link">
+                            <a href="critical-care" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-procedures"></i>
                                 </div>
@@ -225,7 +225,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Emergency Medicine">
-                            <a href="emergency-medicine.php" class="service-card-link">
+                            <a href="emergency-medicine" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-ambulance"></i>
                                 </div>
@@ -238,7 +238,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="General Surgery">
-                            <a href="general-surgery.php" class="service-card-link">
+                            <a href="general-surgery" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-scalpel"></i>
                                 </div>
@@ -251,7 +251,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="ENT">
-                            <a href="ent.php" class="service-card-link">
+                            <a href="ent" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-ear-listen"></i>
                                 </div>
@@ -264,7 +264,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Dermatology">
-                            <a href="dermatology.php" class="service-card-link">
+                            <a href="dermatology" class="service-card-link">
                                 <div class="service-icon">
                                     <img src="assets/images/DERMA.webp" alt="Dermatology" style="width: 37px;">
                                 </div>
@@ -277,7 +277,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Plastic Surgery">
-                            <a href="plastic-surgery.php" class="service-card-link">
+                            <a href="plastic-surgery" class="service-card-link">
                                 <div class="service-icon">
                                     <img src="assets/images/PLASTIC.webp" alt="Plastic Surgery" style="width: 37px;">
                                 </div>
@@ -290,7 +290,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Psychiatry">
-                            <a href="psychiatry.php" class="service-card-link">
+                            <a href="psychiatry" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-brain"></i>
                                 </div>
@@ -303,7 +303,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Dental">
-                            <a href="dental-science.php" class="service-card-link">
+                            <a href="dental-science" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-tooth"></i>
                                 </div>
@@ -316,7 +316,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Urology">
-                            <a href="urology-urodynamics.php" class="service-card-link">
+                            <a href="urology-urodynamics" class="service-card-link">
                                 <div class="service-icon">
                                    <img src="assets/images/UROLOGY.webp" alt="Urology" style="width: 37px;">
                                 </div>
@@ -329,7 +329,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Pediatric Surgery">
-                            <a href="pediatric-surgery.php" class="service-card-link">
+                            <a href="pediatric-surgery" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-child"></i>
                                 </div>
@@ -342,7 +342,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Vascular Surgery">
-                            <a href="vascular-surgery.php" class="service-card-link">
+                            <a href="vascular-surgery" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-heartbeat"></i>
                                 </div>
@@ -355,7 +355,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Respiratory Medicine">
-                            <a href="respiratory-medicine.php" class="service-card-link">
+                            <a href="respiratory-medicine" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-lungs"></i>
                                 </div>
@@ -368,7 +368,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Oral & Maxillofacial Surgery">
-                            <a href="oral-maxillofacial-surgery.php" class="service-card-link">
+                            <a href="oral-maxillofacial-surgery" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-head-side-mask"></i>
                                 </div>
@@ -381,7 +381,7 @@
                         </div>
 
                         <div class="service-card" data-category="clinical" data-name="Neonatology">
-                            <a href="neonatology.php" class="service-card-link">
+                            <a href="neonatology" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-baby"></i>
                                 </div>
@@ -395,7 +395,7 @@
 
                         <!-- Diagnostics & Support -->
                         <div class="service-card" data-category="diagnostics" data-name="Ophthalmology">
-                            <a href="ophthalmology.php" class="service-card-link">
+                            <a href="ophthalmology" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-eye"></i>
                                 </div>
@@ -408,7 +408,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="Anesthesiology">
-                            <a href="anesthesiology.php" class="service-card-link">
+                            <a href="anesthesiology" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-syringe"></i>
                                 </div>
@@ -421,7 +421,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="Radiology">
-                            <a href="radiology.php" class="service-card-link">
+                            <a href="radiology" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-x-ray"></i>
                                 </div>
@@ -434,7 +434,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="Pathology">
-                            <a href="pathology.php" class="service-card-link">
+                            <a href="pathology" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-vial"></i>
                                 </div>
@@ -447,7 +447,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="Physiotherapy">
-                            <a href="physiotherapy.php" class="service-card-link">
+                            <a href="physiotherapy" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-walking"></i>
                                 </div>
@@ -460,7 +460,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="Dietetics">
-                            <a href="dietetics.php" class="service-card-link">
+                            <a href="dietetics" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-apple-alt"></i>
                                 </div>
@@ -473,7 +473,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="EEG">
-                            <a href="eeg.php" class="service-card-link">
+                            <a href="eeg" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-brain"></i>
                                 </div>
@@ -486,7 +486,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="EMG/EP">
-                            <a href="emg-ep.php" class="service-card-link">
+                            <a href="emg-ep" class="service-card-link">
                                 <div class="service-icon">
                                     <img src="assets/images/EMG_EP.webp" alt="EMG" style="width: 37px;">
                                 </div>
@@ -499,7 +499,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="Pulmonary Function Test (PFT) & Spirometry">
-                            <a href="respiratory-medicine.php#diagnostics" class="service-card-link">
+                            <a href="respiratory-medicine#diagnostics" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-lungs"></i>
                                 </div>
@@ -512,7 +512,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="Treadmill Testing">
-                            <a href="treadmill-testing.php" class="service-card-link">
+                            <a href="treadmill-testing" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-heartbeat"></i>
                                 </div>
@@ -525,7 +525,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="Support Services">
-                            <a href="support-services.php" class="service-card-link">
+                            <a href="support-services" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-hands-helping"></i>
                                 </div>
@@ -538,7 +538,7 @@
                         </div>
 
                         <div class="service-card" data-category="diagnostics" data-name="Health Checkups">
-                            <a href="health-checkup.php" class="service-card-link">
+                            <a href="health-checkup" class="service-card-link">
                                 <div class="service-icon">
                                     <i class="fas fa-notes-medical"></i>
                                 </div>

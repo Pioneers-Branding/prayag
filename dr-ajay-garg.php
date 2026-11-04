@@ -63,8 +63,8 @@ if (!$doctor) {
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="find-doctor.php">Find a Doctor</a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="find-doctor">Find a Doctor</a></li>
                     <li class="breadcrumb-item active" aria-current="page"><?php echo $doctor['name']; ?></li>
                 </ol>
             </nav>

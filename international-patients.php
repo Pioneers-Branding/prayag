@@ -20,7 +20,7 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item active" aria-current="page">International Patients</li>
                 </ol>
             </nav>
@@ -569,7 +569,7 @@
                                     <div class="form-check text-start">
                                         <input class="form-check-input" type="checkbox" id="intlDpdpConsent" required>
                                         <label class="form-check-label" for="intlDpdpConsent" style="font-size: 0.85rem; color: #64748b;">
-                                            I consent to Prayag Hospital processing my personal contact details and medical reports for clinical review and opinion in accordance with the <a href="privacy-policy.php" target="_blank" style="color: var(--prayag-teal); text-decoration: underline;">Privacy Policy (DPDP Act, 2023)</a>.
+                                            I consent to Prayag Hospital processing my personal contact details and medical reports for clinical review and opinion in accordance with the <a href="privacy-policy" target="_blank" style="color: var(--prayag-teal); text-decoration: underline;">Privacy Policy (DPDP Act, 2023)</a>.
                                         </label>
                                     </div>
                                 </div>

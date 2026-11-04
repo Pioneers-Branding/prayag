@@ -44,7 +44,7 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item"><a href="#">Prayag Group</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Careers</li>
                 </ol>
@@ -449,7 +449,7 @@
                                             <div class="form-check text-start mt-2">
                                                 <input class="form-check-input" type="checkbox" id="careerDpdpConsent" name="dpdp_consent" required>
                                                 <label class="form-check-label" for="careerDpdpConsent" style="font-size: 0.85rem; color: #64748b;">
-                                                    I consent to Prayag Hospital collecting and processing my personal details, qualifications, and resume solely for recruitment and evaluation purposes in accordance with the <a href="privacy-policy.php" target="_blank" style="color: var(--prayag-teal); text-decoration: underline;">Privacy Policy (DPDP Act, 2023)</a>.
+                                                    I consent to Prayag Hospital collecting and processing my personal details, qualifications, and resume solely for recruitment and evaluation purposes in accordance with the <a href="privacy-policy" target="_blank" style="color: var(--prayag-teal); text-decoration: underline;">Privacy Policy (DPDP Act, 2023)</a>.
                                                 </label>
                                             </div>
                                         </div>

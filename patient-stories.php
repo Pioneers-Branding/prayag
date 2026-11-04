@@ -542,7 +542,7 @@ exit();
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item"><a href="#">Patient Guide</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Patient Stories</li>
                 </ol>
@@ -717,11 +717,11 @@ exit();
                 <p class="story-cta-text">Trust Prayag Hospital for advanced maternity care, experienced specialists,
                     and compassionate support on your path to parenthood.</p>
                 <div class="story-cta-buttons">
-                    <a href="book-appointment.php" class="btn-story-primary">
+                    <a href="book-appointment" class="btn-story-primary">
                         <i class="fas fa-calendar-alt"></i>
                         Book Appointment
                     </a>
-                    <a href="obstetrics-gynecology.php" class="btn-story-secondary">
+                    <a href="obstetrics-gynecology" class="btn-story-secondary">
                         <i class="fas fa-arrow-right"></i>
                         Explore Mother & Child Care
                     </a>

@@ -498,8 +498,8 @@ $eventDetails = [
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="events.php">Events</a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="events">Events</a></li>
                     <li class="breadcrumb-item active" aria-current="page">International Nurses Day</li>
                 </ol>
             </nav>
@@ -617,7 +617,7 @@ $eventDetails = [
             <div class="cta-section">
                 <h3>Join Us in Celebrating Our Healthcare Heroes</h3>
                 <p>To learn more about our nursing team or to express your gratitude, please reach out to us.</p>
-                <a href="contact-us.php" class="btn-join">Get in Touch</a>
+                <a href="contact-us" class="btn-join">Get in Touch</a>
             </div>
         </div>
     </section>

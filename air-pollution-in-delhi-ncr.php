@@ -1032,8 +1032,8 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="blog.php">Health Blog</a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="blog">Health Blog</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Air Pollution in Delhi NCR</li>
                 </ol>
             </nav>
@@ -1431,7 +1431,7 @@
                                 <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20want%20to%20consult%20a%20chest%20specialist%20for%20breathing%20problems%20at%20Prayag%20Hospital" target="_blank" class="btn-opd-wa">
                                     <i class="fab fa-whatsapp"></i> WhatsApp Appointment
                                 </a>
-                                <a href="book-appointment.php" class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
+                                <a href="book-appointment" class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
                                     <i class="far fa-calendar-check"></i> Book Online
                                 </a>
                             </div>
@@ -1507,7 +1507,7 @@
                         <div class="review-box">
                             <img src="assets/images/doctors/Dr-Ajay-Garg.webp" alt="Dr. Ajay Garg">
                             <div>
-                                <strong>Medically Reviewed By:</strong> <a href="dr-ajay-garg.php" style="color: #0e7490; font-weight: 700; text-decoration: underline;">Dr. Ajay Garg</a>, MBBS, MD (Respiratory Medicine), Consultant Pulmonologist, Prayag Hospital Noida.
+                                <strong>Medically Reviewed By:</strong> <a href="dr-ajay-garg" style="color: #0e7490; font-weight: 700; text-decoration: underline;">Dr. Ajay Garg</a>, MBBS, MD (Respiratory Medicine), Consultant Pulmonologist, Prayag Hospital Noida.
                             </div>
                         </div>
 
@@ -1558,31 +1558,31 @@
                             </h3>
                             <ul class="services-quick-list">
                                 <li>
-                                    <a href="dr-ajay-garg.php">
+                                    <a href="dr-ajay-garg">
                                         <span>Dr. Ajay Garg (Profile)</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="respiratory-medicine.php">
+                                    <a href="respiratory-medicine">
                                         <span>Respiratory &amp; Pulmonology</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="pulmonary-function-test.php">
+                                    <a href="pulmonary-function-test">
                                         <span>Pulmonary Function Test</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="cardiac-care.php">
+                                    <a href="cardiac-care">
                                         <span>Cardiac Care</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="emergency-hospital-in-noida.php">
+                                    <a href="emergency-hospital-in-noida">
                                         <span>24/7 Emergency &amp; Critical Care</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>

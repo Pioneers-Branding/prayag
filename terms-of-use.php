@@ -54,7 +54,7 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item"><a href="#">Legal</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Terms of Use</li>
                 </ol>
@@ -81,7 +81,7 @@
 
                         <h2>1. Acceptance of Terms</h2>
                         <p>
-                            By accessing, browsing, or using the website of <strong>Prayag Hospital & Research Centre Private Limited</strong> (<a href="https://prayaghospital.in/">prayaghospital.in</a>) or utilizing any online booking or enquiry features, you agree to be bound by these Terms of Use, our <a href="privacy-policy.php">Privacy Policy</a>, and applicable Indian laws.
+                            By accessing, browsing, or using the website of <strong>Prayag Hospital & Research Centre Private Limited</strong> (<a href="https://prayaghospital.in/">prayaghospital.in</a>) or utilizing any online booking or enquiry features, you agree to be bound by these Terms of Use, our <a href="privacy-policy">Privacy Policy</a>, and applicable Indian laws.
                         </p>
 
                         <h2>2. Medical Emergency Disclaimer</h2>
@@ -102,7 +102,7 @@
 
                         <h2>5. Data Privacy & DPDP Compliance</h2>
                         <p>
-                            Personal data submitted through our forms (such as appointment requests, medical opinion inquiries, or job applications) is processed in accordance with the <strong>Digital Personal Data Protection (DPDP) Act, 2023</strong> and our <a href="privacy-policy.php">Privacy Policy</a>. You retain full statutory rights over your personal data.
+                            Personal data submitted through our forms (such as appointment requests, medical opinion inquiries, or job applications) is processed in accordance with the <strong>Digital Personal Data Protection (DPDP) Act, 2023</strong> and our <a href="privacy-policy">Privacy Policy</a>. You retain full statutory rights over your personal data.
                         </p>
 
                         <h2>6. Intellectual Property</h2>

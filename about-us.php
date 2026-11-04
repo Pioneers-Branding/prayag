@@ -219,7 +219,7 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item"><a href="#">Prayag Group</a></li>
                     <li class="breadcrumb-item active" aria-current="page">About Us</li>
                 </ol>
@@ -293,7 +293,7 @@
                     <div class="col-lg-5 mb-5 mb-lg-0">
                         <div class="chairman-img-wrapper">
                             <!-- Chairman Image linked to Profile -->
-                            <a href="dr-b-p-singh.php">
+                            <a href="dr-b-p-singh">
                                 <img src="assets/images/Bhojendra-Pal-Singh.webp"
                                     alt="Dr. B. P. Singh - Founder & Chairman" class="chairman-img">
                             </a>
@@ -317,11 +317,11 @@
                                 Hospital as your partner in health.
                             </p>
                             <div class="chairman-signature">
-                                <h4 class="chairman-name"><a href="dr-b-p-singh.php"
+                                <h4 class="chairman-name"><a href="dr-b-p-singh"
                                         style="color: inherit; text-decoration: none;">Dr. Bhojendra Pal Singh</a></h4>
                                 <p class="chairman-title">Founder & Chairman, Prayag Group</p>
                                 <div class="d-flex gap-3">
-                                    <a href="dr-b-p-singh.php" class="btn-request-callback btn-sm">View Profile</a>
+                                    <a href="dr-b-p-singh" class="btn-request-callback btn-sm">View Profile</a>
                                 </div>
                             </div>
                         </div>
@@ -337,7 +337,7 @@
                     <div class="col-lg-5 mb-5 mb-lg-0">
                         <div class="md-img-wrapper">
                             <!-- Managing Director Image linked to Profile -->
-                            <a href="mrs-sunita-singh.php">
+                            <a href="mrs-sunita-singh">
                                 <img src="assets/images/Sunita-Singh.webp" alt="Mrs. Sunita Singh - Managing Director"
                                     class="md-img">
                             </a>
@@ -358,11 +358,11 @@
                                 modern healthcare standards and continuously improving service delivery.
                             </p>
                             <div class="md-signature">
-                                <h4 class="md-name"><a href="mrs-sunita-singh.php"
+                                <h4 class="md-name"><a href="mrs-sunita-singh"
                                         style="color: inherit; text-decoration: none;">Mrs. Sunita Singh</a></h4>
                                 <p class="md-title">Managing Director, Prayag Group</p>
                                 <div class="d-flex gap-3">
-                                    <a href="mrs-sunita-singh.php" class="btn-request-callback btn-sm">View Profile</a>
+                                    <a href="mrs-sunita-singh" class="btn-request-callback btn-sm">View Profile</a>
                                 </div>
                             </div>
                         </div>
@@ -562,7 +562,7 @@
             <div class="container">
                 <h2>World-Class Infrastructure</h2>
                 <p>Experience healthcare in a facility designed for comfort, safety, and advanced medical care.</p>
-                <a href="infrastructure.php" class="btn btn-outline-light-custom">View Our Infrastructure</a>
+                <a href="infrastructure" class="btn btn-outline-light-custom">View Our Infrastructure</a>
             </div>
         </section>
 

@@ -83,9 +83,9 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item"><a href="#">Prayag Group</a></li>
-                    <li class="breadcrumb-item"><a href="careers.php">Careers</a></li>
+                    <li class="breadcrumb-item"><a href="careers">Careers</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Application Submitted</li>
                 </ol>
             </nav>
@@ -104,8 +104,8 @@
                             <p class="thank-you-text">Thank you for your interest in joining Prayag Hospital. Your application has been successfully submitted. Our HR team will review your profile and get in touch with you if your qualifications match our current requirements.</p>
                             
                             <div class="action-buttons mt-4">
-                                <a href="index.php" class="btn-home"><i class="fas fa-home me-2"></i>Back to Home</a>
-                                <a href="careers.php" class="btn-careers">More Openings</a>
+                                <a href="./" class="btn-home"><i class="fas fa-home me-2"></i>Back to Home</a>
+                                <a href="careers" class="btn-careers">More Openings</a>
                             </div>
                         </div>
                     </div>

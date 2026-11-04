@@ -72,7 +72,7 @@
             <div class="cookie-banner-body">
                 <p>
                     In compliance with the <strong>Digital Personal Data Protection (DPDP) Act, 2023</strong>, Prayag Hospital uses cookies to ensure secure operation, enhance patient experience, and analyze hospital website traffic. You can customize your preferences at any time.
-                    <a href="cookie-policy.php" target="_blank">Read Cookie Policy</a>.
+                    <a href="cookie-policy" target="_blank">Read Cookie Policy</a>.
                 </p>
                 
                 <div class="cookie-preferences-panel" id="cookiePrefPanel">

@@ -25,8 +25,8 @@
             <!-- Buttons Column (3) -->
             <div class="col-md-4">
                 <div class="trust-actions d-flex flex-column gap-2">
-                    <a href="find-doctor.php" class="btn btn-outline-teal w-100">Find a Doctor</a>
-                    <a href="book-appointment.php" class="btn btn-primary-orange w-100">Book Appointment</a>
+                    <a href="find-doctor" class="btn btn-outline-teal w-100">Find a Doctor</a>
+                    <a href="book-appointment" class="btn btn-primary-orange w-100">Book Appointment</a>
                 </div>
             </div>
         </div>
@@ -43,13 +43,13 @@
                 <div class="footer-col">
                     <h4 class="footer-title">Patient Support</h4>
                     <ul class="footer-links">
-                        <li><a href="find-doctor.php">Find Doctor</a></li>
-                        <li><a href="book-appointment.php">Book Appointment</a></li>
-                        <li><a href="admission-guide.php">Admission Guide</a></li>
-                        <li><a href="tpa-insurance.php">TPA & Insurance</a></li>
-                        <li><a href="visiting-hours.php">Visiting Hours</a></li>
-                        <li><a href="health-checkup.php">Preventive Health</a></li>
-                        <li><a href="blog.php">Health Blog</a></li>
+                        <li><a href="find-doctor">Find Doctor</a></li>
+                        <li><a href="book-appointment">Book Appointment</a></li>
+                        <li><a href="admission-guide">Admission Guide</a></li>
+                        <li><a href="tpa-insurance">TPA & Insurance</a></li>
+                        <li><a href="visiting-hours">Visiting Hours</a></li>
+                        <li><a href="health-checkup">Preventive Health</a></li>
+                        <li><a href="blog">Health Blog</a></li>
                     </ul>
                 </div>
 
@@ -57,13 +57,13 @@
                 <div class="footer-col">
                     <h4 class="footer-title">Centres of Excellence</h4>
                     <ul class="footer-links">
-                        <li><a href="cardiac-care.php">Cardiac Sciences</a></li>
-                        <li><a href="neuroscience.php">Neurosciences</a></li>
-                        <li><a href="orthopedics.php">Orthopedics</a></li>
-                        <li><a href="obstetrics-gynecology.php">Mother & Child Care</a></li>
-                        <li><a href="gastroenterology.php">Gastroenterology</a></li>
-                        <li><a href="nephrology-dialysis.php">Renal Sciences</a></li>
-                        <li><a href="oncology.php">Cancer Care</a></li>
+                        <li><a href="cardiac-care">Cardiac Sciences</a></li>
+                        <li><a href="neuroscience">Neurosciences</a></li>
+                        <li><a href="orthopedics">Orthopedics</a></li>
+                        <li><a href="obstetrics-gynecology">Mother & Child Care</a></li>
+                        <li><a href="gastroenterology">Gastroenterology</a></li>
+                        <li><a href="nephrology-dialysis">Renal Sciences</a></li>
+                        <li><a href="oncology">Cancer Care</a></li>
                     </ul>
                 </div>
 
@@ -71,13 +71,13 @@
                 <div class="footer-col">
                     <h4 class="footer-title">Clinical Departments</h4>
                     <ul class="footer-links">
-                        <li><a href="internal-medicine.php">Internal Medicine</a></li>
-                        <li><a href="critical-care.php">Critical Care & ICU</a></li>
-                        <li><a href="emergency-medicine.php">Emergency Medicine</a></li>
-                        <li><a href="general-surgery.php">General Surgery</a></li>
-                        <li><a href="respiratory-medicine.php">Respiratory Medicine</a></li>
-                        <li><a href="ent.php">ENT</a></li>
-                        <li><a href="dental-science.php">Dental Science</a></li>
+                        <li><a href="internal-medicine">Internal Medicine</a></li>
+                        <li><a href="critical-care">Critical Care & ICU</a></li>
+                        <li><a href="emergency-medicine">Emergency Medicine</a></li>
+                        <li><a href="general-surgery">General Surgery</a></li>
+                        <li><a href="respiratory-medicine">Respiratory Medicine</a></li>
+                        <li><a href="ent">ENT</a></li>
+                        <li><a href="dental-science">Dental Science</a></li>
                     </ul>
                 </div>
 
@@ -85,13 +85,13 @@
                 <div class="footer-col">
                     <h4 class="footer-title">Diagnostics & Support</h4>
                     <ul class="footer-links">
-                        <li><a href="ophthalmology.php">Ophthalmology</a></li>
-                        <li><a href="anesthesiology.php">Anesthesiology</a></li>
-                        <li><a href="radiology.php">Radiology & Imaging</a></li>
-                        <li><a href="pathology.php">Laboratory Services</a></li>
-                        <li><a href="physiotherapy.php">Physiotherapy</a></li>
-                        <li><a href="blood-bank.php">Blood Bank</a></li>
-                        <li><a href="pharmacy.php">Pharmacy</a></li>
+                        <li><a href="ophthalmology">Ophthalmology</a></li>
+                        <li><a href="anesthesiology">Anesthesiology</a></li>
+                        <li><a href="radiology">Radiology & Imaging</a></li>
+                        <li><a href="pathology">Laboratory Services</a></li>
+                        <li><a href="physiotherapy">Physiotherapy</a></li>
+                        <li><a href="blood-bank">Blood Bank</a></li>
+                        <li><a href="pharmacy">Pharmacy</a></li>
                     </ul>
                 </div>
 
@@ -99,13 +99,13 @@
                 <div class="footer-col">
                     <h4 class="footer-title">Corporate</h4>
                     <ul class="footer-links">
-                        <li><a href="about-us.php">About Us</a></li>
-                        <li><a href="infrastructure.php">Infrastructure</a></li>
-                        <li><a href="our-hospitals.php">Our Network</a></li>
-                        <li><a href="media-coverage.php">Media Coverage</a></li>
-                        <li><a href="events.php">Events</a></li>
-                        <li><a href="tpa-insurance.php">TPA & Insurance</a></li>
-                        <li><a href="careers.php">Careers</a></li>
+                        <li><a href="about-us">About Us</a></li>
+                        <li><a href="infrastructure">Infrastructure</a></li>
+                        <li><a href="our-hospitals">Our Network</a></li>
+                        <li><a href="media-coverage">Media Coverage</a></li>
+                        <li><a href="events">Events</a></li>
+                        <li><a href="tpa-insurance">TPA & Insurance</a></li>
+                        <li><a href="careers">Careers</a></li>
                     </ul>
                 </div>
             </div>
@@ -213,10 +213,10 @@
                 </div>
                 <div class="col-md-6 text-md-end">
                     <ul class="footer-legal">
-                        <li><a href="privacy-policy.php">Privacy Policy (DPDP)</a></li>
-                        <li><a href="terms-of-use.php">Terms of Use</a></li>
-                        <li><a href="cookie-policy.php">Cookie Policy</a></li>
-                        <li><a href="data-grievance.php">Data Principal Rights (DPO)</a></li>
+                        <li><a href="privacy-policy">Privacy Policy (DPDP)</a></li>
+                        <li><a href="terms-of-use">Terms of Use</a></li>
+                        <li><a href="cookie-policy">Cookie Policy</a></li>
+                        <li><a href="data-grievance">Data Principal Rights (DPO)</a></li>
                     </ul>
                 </div>
             </div>

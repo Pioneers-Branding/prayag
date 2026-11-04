@@ -1260,8 +1260,8 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="blog.php">Health Blog</a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="blog">Health Blog</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Anxiety &amp; Depression Treatment in Noida</li>
                 </ol>
             </nav>
@@ -1614,7 +1614,7 @@
                                             <div class="doctor-quote-name">Dr. Ashish Shah</div>
                                             <div class="doctor-quote-title">Consultant Psychiatrist, Prayag Hospital, Noida</div>
                                         </div>
-                                        <a href="dr-ashish-kumar-shah.php" class="btn-view-doc-profile">
+                                        <a href="dr-ashish-kumar-shah" class="btn-view-doc-profile">
                                             <i class="fas fa-id-badge"></i> View Profile
                                         </a>
                                     </div>
@@ -1690,7 +1690,7 @@
                                 <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20would%20like%20to%20book%20a%20psychiatry%20consultation%20at%20Prayag%20Hospital" target="_blank" class="btn-opd-wa">
                                     <i class="fab fa-whatsapp"></i> WhatsApp Appointment
                                 </a>
-                                <a href="book-appointment.php" class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
+                                <a href="book-appointment" class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
                                     <i class="far fa-calendar-check"></i> Book Online
                                 </a>
                             </div>
@@ -1756,7 +1756,7 @@
                         <div class="review-box">
                             <img src="assets/images/doctors/dr-ashish-shah.webp" alt="Dr. Ashish Kumar Shah">
                             <div>
-                                <strong>Medically Reviewed By:</strong> <a href="dr-ashish-kumar-shah.php" style="color: #0f766e; font-weight: 700; text-decoration: underline;">Dr. Ashish Kumar Shah</a>, Consultant Psychiatrist, Department of Psychiatry &amp; Mental Health, Prayag Hospital Noida.
+                                <strong>Medically Reviewed By:</strong> <a href="dr-ashish-kumar-shah" style="color: #0f766e; font-weight: 700; text-decoration: underline;">Dr. Ashish Kumar Shah</a>, Consultant Psychiatrist, Department of Psychiatry &amp; Mental Health, Prayag Hospital Noida.
                             </div>
                         </div>
 
@@ -1807,43 +1807,43 @@
                             </h3>
                             <ul class="services-quick-list">
                                 <li>
-                                    <a href="psychiatry.php">
+                                    <a href="psychiatry">
                                         <span>Psychiatry &amp; Mental Health</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="dr-ashish-kumar-shah.php">
+                                    <a href="dr-ashish-kumar-shah">
                                         <span>Dr. Ashish Kumar Shah (Profile)</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="clinical-neurology.php">
+                                    <a href="clinical-neurology">
                                         <span>Clinical Neurology</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="internal-medicine.php">
+                                    <a href="internal-medicine">
                                         <span>Internal Medicine (General OPD)</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="emergency-hospital-in-noida.php">
+                                    <a href="emergency-hospital-in-noida">
                                         <span>24/7 Emergency &amp; Critical Care</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="pathology.php">
+                                    <a href="pathology">
                                         <span>Thyroid &amp; Vitamin Lab Panels</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="health-checkup.php">
+                                    <a href="health-checkup">
                                         <span>Executive Health Checkup</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>

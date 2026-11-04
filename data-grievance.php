@@ -134,8 +134,8 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="privacy-policy.php">Privacy Policy</a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="privacy-policy">Privacy Policy</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Data Principal Rights & Grievance</li>
                 </ol>
             </nav>
@@ -305,7 +305,7 @@
                             within 30 days or are unsatisfied with the resolution, you have the right to escalate your
                             grievance to the <strong>Data Protection Board of India (DPBI)</strong>.
                         </p>
-                        <a href="privacy-policy.php" class="btn btn-sm btn-outline-secondary w-100"
+                        <a href="privacy-policy" class="btn btn-sm btn-outline-secondary w-100"
                             style="border-radius:8px;">
                             <i class="fas fa-book-open me-1"></i> View Full Privacy Policy
                         </a>

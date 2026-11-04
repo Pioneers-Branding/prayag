@@ -30,7 +30,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item">
-                            <a href="index.php">
+                            <a href="./">
                                 <i class="fas fa-home"></i>
                             </a>
                         </li>
@@ -62,8 +62,8 @@
 
                         <!-- CTA Buttons -->
                         <div class="hero-cta-buttons">
-                            <a href="find-doctor.php" class="btn-book-appointment">Find Doctor</a>
-                            <a href="contact-us.php" class="btn-request-callback">
+                            <a href="find-doctor" class="btn-book-appointment">Find Doctor</a>
+                            <a href="contact-us" class="btn-request-callback">
                                 Contact Us
                             </a>
                         </div>
@@ -341,7 +341,7 @@
                         <p class="treatment-card-description">
                             Treatment for Stroke, Epilepsy, and Migraine. Our top-rated Neurologists in Noida specialize in advanced stroke treatment in G B Nagar.
                         </p>
-                        <a href="clinical-neurology.php" class="treatment-card-link">
+                        <a href="clinical-neurology" class="treatment-card-link">
                             Read More <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -357,7 +357,7 @@
                         <p class="treatment-card-description">
                             Brain Tumor Removal & Spinal Cord Surgery. Expert Neurosurgeons in Noida offering affordable Spine Surgery cost in Sector 41.
                         </p>
-                        <a href="neurosurgery-spine.php" class="treatment-card-link">
+                        <a href="neurosurgery-spine" class="treatment-card-link">
                             Read More <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -373,7 +373,7 @@
                         <p class="treatment-card-description">
                             EEG (Electroencephalogram) & EMG/EP Studies. Quality EEG Test at affordable pricing in Noida at our EMG Test Centre in Sector 41.
                         </p>
-                        <a href="neuro-electrophysiology.php" class="treatment-card-link">
+                        <a href="neuro-electrophysiology" class="treatment-card-link">
                             Read More <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -500,8 +500,8 @@
                                 </div>
                             </div>
                             <div class="doctor-actions">
-                                <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
-                                <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
+                                <a href="<?php echo $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
+                                <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>#book-appointment" class="btn-book-now">Book Apt.</a>
                             </div>
                         </div>
                     </div>

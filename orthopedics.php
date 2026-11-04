@@ -30,7 +30,7 @@
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item">
-                            <a href="index.php">
+                            <a href="./">
                                 <i class="fas fa-home"></i>
                             </a>
                         </li>
@@ -60,8 +60,8 @@
 
                         <!-- CTA Buttons -->
                         <div class="hero-cta-buttons">
-                            <a href="find-doctor.php" class="btn-book-appointment">Find Doctor</a>
-                            <a href="contact-us.php" class="btn-request-callback">
+                            <a href="find-doctor" class="btn-book-appointment">Find Doctor</a>
+                            <a href="contact-us" class="btn-request-callback">
                                 Contact Us
                             </a>
                         </div>
@@ -338,7 +338,7 @@
                         <p class="treatment-card-description">
                             Robot-Assisted & Minimally Invasive Joint Surgery for precision and faster recovery.
                         </p>
-                        <a href="knee-hip-replacement.php" class="treatment-card-link">
+                        <a href="knee-hip-replacement" class="treatment-card-link">
                             Read More <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -354,7 +354,7 @@
                         <p class="treatment-card-description">
                              Ligament Repair (ACL/PCL) & Shoulder Arthroscopy. Specialized care for sports-related injuries.
                         </p>
-                        <a href="arthroscopy-sports.php" class="treatment-card-link">
+                        <a href="arthroscopy-sports" class="treatment-card-link">
                             Read More <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -370,7 +370,7 @@
                         <p class="treatment-card-description">
                             Internal and external fixation procedures for complex bone fractures to ensure proper union and healing.
                         </p>
-                        <a href="fracture-fixation.php" class="treatment-card-link">
+                        <a href="fracture-fixation" class="treatment-card-link">
                             Read More <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
@@ -497,8 +497,8 @@
                                 </div>
                             </div>
                             <div class="doctor-actions">
-                                <a href="<?php echo $doctor['id']; ?>.php" class="btn-view-profile">View Profile</a>
-                                <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>.php#book-appointment" class="btn-book-now">Book Apt.</a>
+                                <a href="<?php echo $doctor['id']; ?>" class="btn-view-profile">View Profile</a>
+                                <a href="<?php echo isset($doctor['slug']) ? $doctor['slug'] : $doctor['id']; ?>#book-appointment" class="btn-book-now">Book Apt.</a>
                             </div>
                         </div>
                     </div>

@@ -1073,8 +1073,8 @@
         <div class="container">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i></a></li>
-                    <li class="breadcrumb-item"><a href="blog.php">Health Blog</a></li>
+                    <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
+                    <li class="breadcrumb-item"><a href="blog">Health Blog</a></li>
                     <li class="breadcrumb-item active" aria-current="page">CT Scan: Types, Uses, Preparation and Safety</li>
                 </ol>
             </nav>
@@ -1143,7 +1143,7 @@
                                 <span class="highlight-lead">A CT scan is one of the fastest and most informative tests a doctor can order.</span> In a few minutes, it produces detailed cross-sectional pictures of the bones, organs, blood vessels and soft tissues inside your body, helping doctors find problems that a regular X-ray may miss.
                             </p>
                             <p>
-                                Doctors recommend a <a href="radiology.php">CT scan</a> when they need a clear, quick answer: after an accident, when someone has sudden severe abdominal pain, a persistent cough, unexplained weight loss, or a sudden severe headache. It is also used to plan surgery, guide biopsies and check whether a treatment is working.
+                                Doctors recommend a <a href="radiology">CT scan</a> when they need a clear, quick answer: after an accident, when someone has sudden severe abdominal pain, a persistent cough, unexplained weight loss, or a sudden severe headache. It is also used to plan surgery, guide biopsies and check whether a treatment is working.
                             </p>
                             <p>
                                 The three most commonly requested scans are the <strong>chest CT scan</strong>, the <strong>CT scan abdomen</strong> and the <strong>CT brain scan</strong>. Each looks at a different part of the body and answers different clinical questions.
@@ -1618,7 +1618,7 @@
                         <section id="ct-at-prayag" class="article-section">
                             <h2>CT Scan Services at Prayag Hospital</h2>
                             <p>
-                                <a href="index.php">Prayag Hospital</a>, a multi-speciality hospital at J-206/A-1, Sector 41, Noida (near Noida City Centre), offers diagnostic imaging services through its <a href="radiology.php">radiology department</a>. Having CT scanning within a multi-speciality hospital means your scan, report and specialist consultation can happen under one roof, with emergency, orthopaedic, neurology, surgery and internal medicine teams on hand.
+                                <a href="./">Prayag Hospital</a>, a multi-speciality hospital at J-206/A-1, Sector 41, Noida (near Noida City Centre), offers diagnostic imaging services through its <a href="radiology">radiology department</a>. Having CT scanning within a multi-speciality hospital means your scan, report and specialist consultation can happen under one roof, with emergency, orthopaedic, neurology, surgery and internal medicine teams on hand.
                             </p>
                             <p>
                                 <strong>Booking an appointment:</strong> To enquire about a CT scan in Noida, appointment slots or preparation instructions, call Prayag Hospital at 0120 - 4021900 or visit the Radiology Department at Prayag Hospital. Please bring your doctor's prescription and previous reports when you come for your scan.
@@ -1655,7 +1655,7 @@
                                 <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20want%20to%20book%20a%20CT%20scan%20at%20Prayag%20Hospital" target="_blank" class="btn-opd-wa">
                                     <i class="fab fa-whatsapp"></i> WhatsApp Booking
                                 </a>
-                                <a href="book-appointment.php" class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
+                                <a href="book-appointment" class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
                                     <i class="far fa-calendar-check"></i> Book Online
                                 </a>
                             </div>
@@ -1721,7 +1721,7 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        You can get a CT scan at Prayag Hospital, J-206/A-1, Sector 41, Noida, near Noida City Centre. Visit the <a href="radiology.php">radiology page</a> or call <a href="tel:01204021900">0120 - 4021900</a> to book.
+                                        You can get a CT scan at Prayag Hospital, J-206/A-1, Sector 41, Noida, near Noida City Centre. Visit the <a href="radiology">radiology page</a> or call <a href="tel:01204021900">0120 - 4021900</a> to book.
                                     </div>
                                 </div>
                             </div>
@@ -1784,31 +1784,31 @@
                             </h3>
                             <ul class="services-quick-list">
                                 <li>
-                                    <a href="radiology.php">
+                                    <a href="radiology">
                                         <span>Radiology &amp; Imaging</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="ultrasound-in-noida.php">
+                                    <a href="ultrasound-in-noida">
                                         <span>Ultrasound in Noida</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="emergency-hospital-in-noida.php">
+                                    <a href="emergency-hospital-in-noida">
                                         <span>24/7 Emergency &amp; Critical Care</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="clinical-neurology.php">
+                                    <a href="clinical-neurology">
                                         <span>Neurology</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="health-checkup.php">
+                                    <a href="health-checkup">
                                         <span>Comprehensive Health Checkup</span>
                                         <i class="fas fa-chevron-right"></i>
                                     </a>
