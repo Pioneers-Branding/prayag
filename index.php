@@ -194,7 +194,7 @@
     <!-- Main Content Area (Demo) -->
     <main class="main-content">
         <!-- Video Hero Section -->
-        <section class="video-hero-section">
+        <div class="video-hero-section">
             <div class="video-hero-container">
                 <div class="video-background">
                     <video autoplay muted loop playsinline class="hero-video">
@@ -204,7 +204,7 @@
 
                 </div>
             </div>
-        </section>
+        </div>
 
         <!-- Our Specialities Section -->
         <section class="specialities-section">
@@ -219,10 +219,9 @@
                                 specialities, delivered by expert healthcare professionals using state-of-the-art
                                 technology and compassionate care. From advanced diagnostics to specialized treatments,
                                 we offer complete healthcare solutions under one roof for you and your family.</p>
-                            <a href="all-services"><button class="btn-view-all-specialities">
+                            <a href="all-services" class="btn-view-all-specialities">
                                     View All
                                     <i class="fas fa-arrow-right"></i>
-                                </button>
                             </a>
                         </div>
                     </div>
@@ -535,7 +534,8 @@
                     <div class="col-12">
                         <div>
                             <img src="https://www.prayaghospital.in/images/banner1.jpg"
-                                style="border-top-left-radius: 30px;border-top-right-radius: 30px;" class="img-fluid">
+                                style="border-top-left-radius: 30px;border-top-right-radius: 30px;" class="img-fluid"
+                                alt="Prayag Hospital &amp; Research Centre, Noida">
                         </div>
                     </div>
                 </div>
@@ -1010,11 +1010,9 @@
                                     team of
                                     specialists is dedicated to providing personalized treatment plans tailored to your
                                     unique needs. Experience compassionate care combined with medical excellence.</p>
-                                <a href="book-appointment">
-                                    <button class="btn-schedule-appointment mt-3">
+                                <a href="book-appointment" class="btn-schedule-appointment mt-3">
                                         Schedule an Appointment
                                         <i class="fas fa-calendar-check"></i>
-                                    </button>
                                 </a>
                             </div>
                         </div>

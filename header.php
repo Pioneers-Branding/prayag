@@ -45,7 +45,7 @@
             <!-- Logo Section -->
             <div class="logo-section d-flex align-items-center gap-3">
                 <a href="./" class="brand-logo">
-                    <img src="assets/images/prayag-logo.png" class="img-fluid" style="width: 160px;">
+                    <img src="assets/images/prayag-logo.png" class="img-fluid" style="width: 160px;" alt="Prayag Hospital logo">
                 </a>
                 <div class="accreditation-logos d-flex gap-2 align-items-center">
                     <img src="assets/images/nabh-logo.png" alt="NABH Accredited"

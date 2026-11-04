@@ -179,7 +179,7 @@
                         style="border-radius: 10px; overflow: hidden; height: 100%; min-height: 250px;">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4348.318508646015!2d77.36311237549829!3d28.563566875702502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5edc2bde1b3%3A0x44fc09ae7697699!2sPrayag%20Hospital%20%26%20Research%20Centre!5e1!3m2!1sen!2sin!4v1771410172086!5m2!1sen!2sin"
-                            width="100%" height="100%" style="border:0; min-height: 250px;" allowfullscreen=""
+                            style="border:0; width: 100%; height: 100%; min-height: 250px;" allowfullscreen=""
                             loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                         </iframe>
                     </div>
@@ -189,7 +189,7 @@
                         style="border-radius: 10px; overflow: hidden; height: 100%; min-height: 250px;">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4351.138892126511!2d77.51493737616077!3d28.49522719030132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ceb2bda0821c7%3A0xd0c8b5f9043321ef!2sPrayag%20Hospital%20%26%20Research%20Centre%20Private%20Limited%20Greater%20Noida%20Branch!5e1!3m2!1sen!2sin!4v1771410270899!5m2!1sen!2sin"
-                            width="100%" height="100%" style="border:0; min-height: 250px;" allowfullscreen=""
+                            style="border:0; width: 100%; height: 100%; min-height: 250px;" allowfullscreen=""
                             loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                         </iframe>
                     </div>
