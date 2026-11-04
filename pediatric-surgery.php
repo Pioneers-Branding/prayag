@@ -15,7 +15,6 @@
             width: 100% !important;
         }
     </style>
-    <link rel="canonical" href="https://prayaghospital.in/paediatric-surgery.php">
 </head>
 
 <body>
@@ -39,12 +38,13 @@
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">
                             Pediatric Surgery
-    <section class="department-hero">
-        <div class="hero-bg">
-            <img src="https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80" alt="Pediatric Surgery Department" class="hero-bg-img">
-            <div class="hero-overlay"></div>
+                        </li>
+                    </ol>
+                </nav>
+            </div>
         </div>
-        
+
+        <!-- Hero Content -->
         <div class="hero-content-wrapper">
             <div class="container">
                 <div class="row align-items-center">

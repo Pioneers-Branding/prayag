@@ -18,6 +18,173 @@
         }
     </style>
 
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalOrganization",
+      "@id": "https://www.prayaghospital.in/#organization",
+      "name": "Prayag Hospital & Research Centre",
+      "url": "https://www.prayaghospital.in/",
+      "description": "Prayag Hospital & Research Centre is a multispeciality hospital providing comprehensive healthcare, advanced diagnostics, emergency care and specialized medical services in Noida and Greater Noida, Uttar Pradesh.",
+      "image": [
+        "https://www.prayaghospital.in/assets/images/crrt-home.webp",
+        "https://www.prayaghospital.in/assets/images/Complex-brain.webp",
+        "https://www.prayaghospital.in/assets/images/latest-mri.webp"
+      ],
+      "email": "crm@prayaghospital.in",
+      "telephone": [
+        "+91-120-4021900",
+        "+91-120-4021914"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "J-206/A-1, Sector 41, Near Noida City Centre Metro Station",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "201301",
+        "addressCountry": "IN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-120-4021900",
+        "email": "crm@prayaghospital.in",
+        "contactType": "Patient Enquiries",
+        "availableLanguage": [
+          "English",
+          "Hindi"
+        ]
+      },
+      "knowsAbout": [
+        "Cardiology",
+        "Orthopaedics",
+        "Neurosciences",
+        "Urology",
+        "Oncology",
+        "Cancer Care",
+        "Gastroenterology",
+        "Obstetrics and Gynaecology",
+        "Ophthalmology",
+        "ENT",
+        "Dermatology",
+        "Paediatrics",
+        "Nephrology",
+        "Internal Medicine",
+        "General Surgery",
+        "Emergency Medicine",
+        "Critical Care",
+        "Radiology and Imaging",
+        "Laboratory Services",
+        "Dental Sciences",
+        "Physiotherapy"
+      ],
+      "subOrganization": [
+        {
+          "@id": "https://www.prayaghospital.in/#noida-hospital"
+        },
+        {
+          "@id": "https://www.prayaghospital.in/#greater-noida-hospital"
+        }
+      ]
+    },
+    {
+      "@type": "Hospital",
+      "@id": "https://www.prayaghospital.in/#noida-hospital",
+      "name": "Prayag Hospital & Research Centre",
+      "url": "https://www.prayaghospital.in/",
+      "parentOrganization": {
+        "@id": "https://www.prayaghospital.in/#organization"
+      },
+      "image": [
+        "https://www.prayaghospital.in/assets/images/crrt-home.webp",
+        "https://www.prayaghospital.in/assets/images/latest-mri.webp"
+      ],
+      "telephone": [
+        "+91-120-4021900",
+        "+91-120-4021914"
+      ],
+      "email": "crm@prayaghospital.in",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "J-206/A-1, Sector 41, Near Noida City Centre Metro Station",
+        "addressLocality": "Noida",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "201301",
+        "addressCountry": "IN"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "areaServed": [
+        "Noida",
+        "Sector 41",
+        "Gautam Buddha Nagar",
+        "Uttar Pradesh"
+      ]
+    },
+    {
+      "@type": "Hospital",
+      "@id": "https://www.prayaghospital.in/#greater-noida-hospital",
+      "name": "Prayag Hospital & Research Centre",
+      "url": "https://www.prayaghospital.in/",
+      "parentOrganization": {
+        "@id": "https://www.prayaghospital.in/#organization"
+      },
+      "image": [
+        "https://www.prayaghospital.in/assets/images/crrt-home.webp",
+        "https://www.prayaghospital.in/assets/images/latest-mri.webp"
+      ],
+      "telephone": [
+        "+91-120-4021900",
+        "+91-120-4021914"
+      ],
+      "email": "crm@prayaghospital.in",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "NH-021, Block M, Delta III",
+        "addressLocality": "Greater Noida",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "201310",
+        "addressCountry": "IN"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "areaServed": [
+        "Greater Noida",
+        "Delta III",
+        "Gautam Buddha Nagar",
+        "Uttar Pradesh"
+      ]
+    }
+  ]
+}
+</script>
+
+
 </head>
 
 <body>
@@ -42,6 +209,7 @@
         <!-- Our Specialities Section -->
         <section class="specialities-section">
             <div class="container">
+                <h1 class="home-page-h1">Multispeciality Hospital in Noida | Prayag Hospital &amp; Research Centre</h1>
                 <div class="row">
                     <!-- Left Column: Speciality Brief -->
                     <div class="col-md-4">
@@ -517,9 +685,11 @@
                                         alt="Is it PCOS, thyroid or hormonal imbalance">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">Is it PCOS, thyroid or ‘hormonal imbalance’? Gynaecologist with 45 years of experience</h3>
+                                    <h3 class="news-item-title">Is it PCOS, thyroid or ‘hormonal imbalance’?
+                                        Gynaecologist with 45 years of experience</h3>
                                     <p class="news-date">October 14, 2026</p>
-                                    <p class="news-excerpt">Hindustan Times consults Dr Manju Sinha at Prayag Hospital with 45 years' experience on why diagnoses arrive late for women...</p>
+                                    <p class="news-excerpt">Hindustan Times consults Dr Manju Sinha at Prayag Hospital
+                                        with 45 years' experience on why diagnoses arrive late for women...</p>
                                     <a href="https://www.hindustantimes.com/lifestyle/health/is-it-pcos-thyroid-or-hormonal-imbalance-gynaecologist-with-45-years-of-experience-on-why-diagnosis-arrives-late-for-women-101791972046956.html"
                                         class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
@@ -534,9 +704,11 @@
                                         alt="Regular Periods Don't Always Mean Everything Is Fine">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">Regular Periods Don't Always Mean Everything Is Fine, Says Gynaecologist</h3>
+                                    <h3 class="news-item-title">Regular Periods Don't Always Mean Everything Is Fine,
+                                        Says Gynaecologist</h3>
                                     <p class="news-date">October 14, 2026</p>
-                                    <p class="news-excerpt">Bold Sky consults Dr Anuradha at Prayag Hospitals on why regular cycles do not rule out underlying conditions...</p>
+                                    <p class="news-excerpt">Bold Sky consults Dr Anuradha at Prayag Hospitals on why
+                                        regular cycles do not rule out underlying conditions...</p>
                                     <a href="https://www.boldsky.com/health/regular-periods-don-t-always-mean-everything-is-fine-says-gynaecologist-173339.html"
                                         class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
@@ -551,9 +723,11 @@
                                         alt="Can Walking Too Much Damage Your Knees">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">Can Walking Too Much Damage Your Knees? What An Expert Says</h3>
+                                    <h3 class="news-item-title">Can Walking Too Much Damage Your Knees? What An Expert
+                                        Says</h3>
                                     <p class="news-date">September 03, 2026</p>
-                                    <p class="news-excerpt">OnlyMyHealth consults an orthopaedic specialist to break down whether walking excessively can harm your knees...</p>
+                                    <p class="news-excerpt">OnlyMyHealth consults an orthopaedic specialist to break
+                                        down whether walking excessively can harm your knees...</p>
                                     <a href="https://www.onlymyhealth.com/can-walking-too-much-damage-your-knees-what-an-expert-says-12977850046"
                                         class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
@@ -568,9 +742,11 @@
                                         alt="Benefits of Barefoot Shoes">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">5 Potential Benefits of Barefoot Shoes For Your Feet</h3>
+                                    <h3 class="news-item-title">5 Potential Benefits of Barefoot Shoes For Your Feet
+                                    </h3>
                                     <p class="news-date">September 01, 2026</p>
-                                    <p class="news-excerpt">OnlyMyHealth explores the pros, cons, and 5 key benefits of barefoot shoes for foot and joint health with expert insights...</p>
+                                    <p class="news-excerpt">OnlyMyHealth explores the pros, cons, and 5 key benefits of
+                                        barefoot shoes for foot and joint health with expert insights...</p>
                                     <a href="https://www.onlymyhealth.com/barefoot-shoes-benefits-for-feet-according-to-orthopaedic-doctor-12977849991"
                                         class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
@@ -585,9 +761,11 @@
                                         alt="Everyday Plastics and Infants">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">From Bottles to Bloodstreams: How Plastics Expose Infants to Microplastics</h3>
+                                    <h3 class="news-item-title">From Bottles to Bloodstreams: How Plastics Expose
+                                        Infants to Microplastics</h3>
                                     <p class="news-date">August 30, 2026</p>
-                                    <p class="news-excerpt">Deccan Herald covers child health risks associated with microplastic exposure in infants and healthcare guidance...</p>
+                                    <p class="news-excerpt">Deccan Herald covers child health risks associated with
+                                        microplastic exposure in infants and healthcare guidance...</p>
                                     <a href="https://www.deccanherald.com/health/healthcare/from-bottles-to-bloodstreams-how-everyday-plastics-expose-infants-to-microplastics-4127106"
                                         class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
@@ -602,9 +780,11 @@
                                         alt="Weekend Sports Injuries">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">Weekend Sports Injuries: Why Fitness Enthusiasts Are Landing In Orthopaedic Clinics</h3>
+                                    <h3 class="news-item-title">Weekend Sports Injuries: Why Fitness Enthusiasts Are
+                                        Landing In Orthopaedic Clinics</h3>
                                     <p class="news-date">August 08, 2026</p>
-                                    <p class="news-excerpt">NDTV explores the rise in football, badminton, and trekking injuries among weekend fitness enthusiasts and expert prevention advice...</p>
+                                    <p class="news-excerpt">NDTV explores the rise in football, badminton, and trekking
+                                        injuries among weekend fitness enthusiasts and expert prevention advice...</p>
                                     <a href="https://www.ndtv.com/health/fitness/weekend-sports-injuries-why-fitness-enthusiasts-are-landing-in-orthopaedic-clinics-11872970"
                                         class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
@@ -619,9 +799,11 @@
                                         alt="Why One Breast Makes More Milk">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">World Breastfeeding Week: Why One Breast Makes More Milk Than the Other</h3>
+                                    <h3 class="news-item-title">World Breastfeeding Week: Why One Breast Makes More Milk
+                                        Than the Other</h3>
                                     <p class="news-date">August 07, 2026</p>
-                                    <p class="news-excerpt">OnlyMyHealth consults expert doctors to explain why breast milk production can vary between breasts and management tips...</p>
+                                    <p class="news-excerpt">OnlyMyHealth consults expert doctors to explain why breast
+                                        milk production can vary between breasts and management tips...</p>
                                     <a href="https://www.onlymyhealth.com/why-one-breast-makes-more-milk-than-the-other-doctors-explain-12977849435"
                                         class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
@@ -636,9 +818,11 @@
                                         alt="Common Breastfeeding Problems">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">10 Common Breastfeeding Problems That Most Women Face and How to Deal</h3>
+                                    <h3 class="news-item-title">10 Common Breastfeeding Problems That Most Women Face
+                                        and How to Deal</h3>
                                     <p class="news-date">August 07, 2026</p>
-                                    <p class="news-excerpt">OnlyMyHealth highlights 10 frequent breastfeeding challenges new mothers face and doctor-recommended solutions...</p>
+                                    <p class="news-excerpt">OnlyMyHealth highlights 10 frequent breastfeeding challenges
+                                        new mothers face and doctor-recommended solutions...</p>
                                     <a href="https://www.onlymyhealth.com/common-breastfeeding-problems-and-how-to-deal-with-them-12977849429"
                                         class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
@@ -653,9 +837,11 @@
                                         alt="India's Dengue Season Is Getting Longer">
                                 </div>
                                 <div class="news-content">
-                                    <h3 class="news-item-title">India's Dengue Season Is Getting Longer, and Kids Are Most at Risk</h3>
+                                    <h3 class="news-item-title">India's Dengue Season Is Getting Longer, and Kids Are
+                                        Most at Risk</h3>
                                     <p class="news-date">August 03, 2026</p>
-                                    <p class="news-excerpt">Dr. SP Sharma, Senior Consultant - Paediatrics at Prayag Hospital, explains shifting dengue patterns and critical warning signs...</p>
+                                    <p class="news-excerpt">Dr. SP Sharma, Senior Consultant - Paediatrics at Prayag
+                                        Hospital, explains shifting dengue patterns and critical warning signs...</p>
                                     <a href="https://www.boldsky.com/health/indias-dengue-season-is-getting-longer-and-kids-are-most-at-risk-172109.html"
                                         class="news-read-more" target="_blank">
                                         Read More <i class="fas fa-arrow-right"></i>
@@ -820,7 +1006,8 @@
                             <div class="cta-content">
                                 <h2 class="cta-title">Your Health is Our Priority</h2>
                                 <p class="cta-description">Book an appointment with our experienced doctors and get
-                                    high-quality healthcare services. We're here to help you live a healthier life. Our team of
+                                    high-quality healthcare services. We're here to help you live a healthier life. Our
+                                    team of
                                     specialists is dedicated to providing personalized treatment plans tailored to your
                                     unique needs. Experience compassionate care combined with medical excellence.</p>
                                 <a href="book-appointment.php">
@@ -873,8 +1060,7 @@
                                 </h3>
                                 <div class="blog-meta">
                                     <span class="blog-date">Nov 03, 2026</span>
-                                    <a href="ct-scan-types-uses-preparation-safety.php"
-                                        class="blog-read-more">
+                                    <a href="ct-scan-types-uses-preparation-safety.php" class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
                                     </a>
@@ -902,8 +1088,7 @@
                                 </h3>
                                 <div class="blog-meta">
                                     <span class="blog-date">Oct 26, 2026</span>
-                                    <a href="air-pollution-in-delhi-ncr.php"
-                                        class="blog-read-more">
+                                    <a href="air-pollution-in-delhi-ncr.php" class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
                                     </a>
@@ -933,7 +1118,8 @@
                                         </h4>
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Oct 26, 2026</span>
-                                            <a href="knee-replacement-surgery-in-noida.php" class="blog-read-more-compact">
+                                            <a href="knee-replacement-surgery-in-noida.php"
+                                                class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
@@ -960,7 +1146,8 @@
                                         </h4>
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Oct 13, 2026</span>
-                                            <a href="viral-flu-treatment-prayag-hospital-noida.php" class="blog-read-more-compact">
+                                            <a href="viral-flu-treatment-prayag-hospital-noida.php"
+                                                class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
@@ -987,7 +1174,8 @@
                                         </h4>
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Oct 13, 2026</span>
-                                            <a href="anxiety-depression-treatment-noida.php" class="blog-read-more-compact">
+                                            <a href="anxiety-depression-treatment-noida.php"
+                                                class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>

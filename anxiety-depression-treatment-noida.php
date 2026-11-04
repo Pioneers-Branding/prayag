@@ -7,7 +7,6 @@
     <title>Anxiety and Depression Treatment in Noida | Prayag Hospital</title>
     <meta name="description" content="Looking for anxiety treatment in Noida? Know the signs of anxiety and depression and how care works at Prayag Hospital, Noida Sector 41.">
     <meta name="keywords" content="Anxiety and depression treatment in Noida, Anxiety treatment in Noida, Noida hospital for anxiety, Prayag Hospital Noida Sector 41, depression treatment in Noida hospital, Psychiatrist in Noida, Mental health clinic Noida, Dr Ashish Shah psychiatrist">
-    <link rel="canonical" href="https://www.prayaghospital.in/anxiety-depression-treatment-noida">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

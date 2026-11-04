@@ -7,7 +7,6 @@
     <title>Viral Flu Treatment in Noida | Prayag Hospital Sector 41</title>
     <meta name="description" content="Fever, cough and body ache? Know viral flu symptoms, warning signs and prevention, and get viral flu treatment at Prayag Hospital, Noida Sector 41.">
     <meta name="keywords" content="viral flu treatment in Noida, Prayag Hospital Noida, flu symptoms and treatment, hospital for viral flu in Noida, flu doctor in Noida, Prayag Hospital Noida Sector 41, influenza treatment Noida, fever and cough doctor Noida">
-    <link rel="canonical" href="https://www.prayaghospital.in/viral-flu-treatment-prayag-hospital-noida">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

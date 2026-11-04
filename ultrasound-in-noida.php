@@ -7,7 +7,6 @@
     <title>Ultrasound in Noida: Types, Uses, Preparation & When You Need One | Prayag Hospital</title>
     <meta name="description" content="Looking for an ultrasound in Noida? Learn about ultrasound types, uses, preparation and when you need one. Book a pregnancy, 4D or Color Doppler scan at Prayag Hospital.">
     <meta name="keywords" content="Ultrasound in Noida, Ultrasound Centre in Noida, Pregnancy Ultrasound Noida, 4D Ultrasound Noida, Color Doppler Noida, Ultrasound Test">
-    <link rel="canonical" href="https://www.prayaghospital.in/ultrasound-in-noida">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

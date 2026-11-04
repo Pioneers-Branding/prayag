@@ -1,0 +1,15 @@
+# robots.txt for https://www.prayaghospital.in
+
+User-agent: *
+# Page fragments, data files and templates (not standalone pages)
+Disallow: /header.php
+Disallow: /header-links.php
+Disallow: /footer.php
+Disallow: /footer-links.php
+Disallow: /doctors-data.php
+Disallow: /_doctor-profile-template.php
+Disallow: /doctor-profile
+# Form confirmation pages
+Disallow: /career-thank-you
+
+Sitemap: https://www.prayaghospital.in/sitemap.xml

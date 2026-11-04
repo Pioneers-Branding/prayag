@@ -7,7 +7,6 @@
     <title>When Should You See a Gynaecologist? | Prayag Hospital Noida</title>
     <meta name="description" content="Learn the signs that mean you should see a gynaecologist, from irregular periods and pelvic pain to PCOS, pregnancy and menopause.">
     <meta name="keywords" content="Gynaecologist in Noida, Gynaecologist in Sector 41 Noida, Women's health in Noida, PCOS treatment in Noida, Pregnancy care in Noida, Women's health check-up, Gynaecology consultation Noida">
-    <link rel="canonical" href="https://www.prayaghospital.in/when-should-you-see-a-gynaecologist">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

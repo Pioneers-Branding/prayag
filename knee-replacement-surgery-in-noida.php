@@ -7,7 +7,6 @@
     <title>Knee Replacement Surgery in Noida: Who Needs It and Recovery</title>
     <meta name="description" content="Considering knee replacement in Noida? Learn who needs it, what happens during surgery, recovery time and what to expect at Prayag Hospital, Sector 41.">
     <meta name="keywords" content="knee replacement surgery in Noida, knee replacement recovery time, total knee replacement, best orthopaedic hospital in Noida, knee pain treatment Noida, knee arthritis surgery, Prayag Hospital Noida Sector 41">
-    <link rel="canonical" href="https://www.prayaghospital.in/knee-replacement-surgery-in-noida">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

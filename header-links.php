@@ -12,3 +12,24 @@
 <link rel="stylesheet" href="assets/css/cookie-consent.css?v=<?php echo time(); ?>">
 
 <link rel="icon" href="assets/images/favicon.png">
+
+<?php
+// Canonical URL: www, no .php, no query string. A page can override it by setting $canonical_url before including this file.
+if (!isset($canonical_url)) {
+    $canonical_page = basename($_SERVER['SCRIPT_NAME'], '.php');
+    $canonical_url = 'https://www.prayaghospital.in/' . ($canonical_page === 'index' ? '' : $canonical_page);
+}
+?>
+<link rel="canonical" href="<?php echo htmlspecialchars($canonical_url); ?>">
+
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q83RPQ6P5N"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-Q83RPQ6P5N');
+</script>

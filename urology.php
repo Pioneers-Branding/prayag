@@ -14,7 +14,6 @@
             width: 100% !important;
         }
     </style>
-    <link rel="canonical" href="https://prayaghospital.in/urology.php">
 </head>
 
 <body>

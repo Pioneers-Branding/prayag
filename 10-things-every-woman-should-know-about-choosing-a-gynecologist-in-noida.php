@@ -7,7 +7,6 @@
     <title>10 Things Every Woman Should Know About Choosing a Gynecologist in Noida | Prayag Hospital</title>
     <meta name="description" content="Looking for a trusted gynecologist in Noida or Sector 41? Discover 10 essential factors every woman should know—from doctor expertise and patient safety to ultrasound & maternity care.">
     <meta name="keywords" content="Gynecologist in Noida, Gynecologist in Sector 41, Choosing a Gynecologist in Noida, Ultrasound in Noida for Pregnancy, Women Health Noida, Maternity Hospital Sector 41">
-    <link rel="canonical" href="https://www.prayaghospital.in/10-things-every-woman-should-know-about-choosing-a-gynecologist-in-noida">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

@@ -7,7 +7,6 @@
     <title>CT Scan: Types, Uses, Preparation &amp; Safety | Prayag Hospital</title>
     <meta name="description" content="Learn about CT scans, their types, uses, preparation, contrast safety and reports. Get a CT scan in Noida at Prayag Hospital.">
     <meta name="keywords" content="ct scan, chest ct scan, ct scan abdomen, ct brain scan, ct scan in Noida, ct scan with contrast, Prayag Hospital Noida Sector 41">
-    <link rel="canonical" href="https://www.prayaghospital.in/ct-scan-types-uses-preparation-safety">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

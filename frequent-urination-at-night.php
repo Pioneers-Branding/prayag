@@ -7,7 +7,6 @@
     <title>Frequent Urination at Night? It Could Be Your Prostate | Prayag Hospital</title>
     <meta name="description" content="Waking up frequently at night to urinate? Learn about enlarged prostate, BPH symptoms, other causes and when to see a urologist in Noida.">
     <meta name="keywords" content="Frequent urination at night, Enlarged prostate in Noida, BPH treatment in Noida, Urologist in Noida, Urologist in Sector 41 Noida, Prostate problems in men, Prostate health, Frequent urination in men">
-    <link rel="canonical" href="https://www.prayaghospital.in/frequent-urination-at-night">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

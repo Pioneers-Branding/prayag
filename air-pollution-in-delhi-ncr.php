@@ -7,7 +7,6 @@
     <title>Air Pollution in Delhi NCR: Health Risks and Protection Tips</title>
     <meta name="description" content="Rising AQI in Noida and Delhi NCR affects lungs, heart and children. Doctors at Prayag Hospital, Sector 41 Noida, explain warning signs and how to stay safe.">
     <meta name="keywords" content="air pollution in Delhi NCR, AQI health effects, pollution cough Noida, best hospital in Noida for breathing problems, pulmonologist in Noida, asthma in winter, Prayag Hospital Noida Sector 41">
-    <link rel="canonical" href="https://www.prayaghospital.in/air-pollution-in-delhi-ncr">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

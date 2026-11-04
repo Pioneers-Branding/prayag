@@ -7,7 +7,6 @@
     <title>Why Do We Fall Sick When Weather Changes? | Prayag Hospital</title>
     <meta name="description" content="Learn why weather changes can trigger seasonal illnesses, common symptoms, dengue warning signs and when to see a doctor in Noida.">
     <meta name="keywords" content="Seasonal Illness During Weather Change, Seasonal illness in Noida, Weather change fever, Viral fever in Noida, Dengue symptoms, Seasonal infections, General physician in Noida, General Medicine Noida">
-    <link rel="canonical" href="https://www.prayaghospital.in/why-do-we-fall-sick-when-weather-changes">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

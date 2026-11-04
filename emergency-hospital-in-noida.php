@@ -7,7 +7,6 @@
     <title>Emergency Hospital in Noida: 10 Warning Signs You Should Never Ignore | Prayag Hospital</title>
     <meta name="description" content="Know the 10 warning signs that need an emergency hospital in Noida. Prayag Hospital, Sector 41, offers 24/7 emergency and accident care. Learn when to act fast.">
     <meta name="keywords" content="Emergency Hospital in Noida, 24/7 Emergency Hospital Noida, Emergency Care Noida, Emergency Department Noida, Hospital Near Sector 41 Noida, Accident & Emergency Care">
-    <link rel="canonical" href="https://www.prayaghospital.in/emergency-hospital-in-noida">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">

@@ -38,12 +38,13 @@
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">
                             Anesthesiology
-    <section class="department-hero">
-        <div class="hero-bg">
-            <img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80" alt="Anesthesiology Department" class="hero-bg-img">
-            <div class="hero-overlay"></div>
+                        </li>
+                    </ol>
+                </nav>
+            </div>
         </div>
-        
+
+        <!-- Hero Content -->
         <div class="hero-content-wrapper">
             <div class="container">
                 <div class="row align-items-center">

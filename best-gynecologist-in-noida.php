@@ -11,7 +11,6 @@ exit();
     <title>Best Gynecologist in Noida: When Should You See One? | Prayag Hospital</title>
     <meta name="description" content="Wondering when to see the best gynecologist in Noida? Learn the signs, screenings and life stages that need a gynecologist visit. Book women's health care at Prayag Hospital, Sector 41.">
     <meta name="keywords" content="Best Gynecologist in Noida, Gynecologist in Sector 41 Noida, Women's Health Noida, PCOS Treatment Noida, Pregnancy Care Noida">
-    <link rel="canonical" href="https://www.prayaghospital.in/best-gynecologist-in-noida">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
