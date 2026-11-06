@@ -5,20 +5,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CT Scan: Types, Uses, Preparation &amp; Safety | Prayag Hospital</title>
-    <meta name="description" content="Learn about CT scans, their types, uses, preparation, contrast safety and reports. Get a CT scan in Noida at Prayag Hospital.">
-    <meta name="keywords" content="ct scan, chest ct scan, ct scan abdomen, ct brain scan, ct scan in Noida, ct scan with contrast, Prayag Hospital Noida Sector 41">
+    <meta name="description"
+        content="Learn about CT scans, their types, uses, preparation, contrast safety and reports. Get a CT scan in Noida at Prayag Hospital.">
+    <meta name="keywords"
+        content="ct scan, chest ct scan, ct scan abdomen, ct brain scan, ct scan in Noida, ct scan with contrast, Prayag Hospital Noida Sector 41">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
     <meta property="og:title" content="CT Scan: Types, Uses, Preparation &amp; Safety | Prayag Hospital">
-    <meta property="og:description" content="Learn about CT scans, their types, uses, preparation, contrast safety and reports. Get a CT scan in Noida at Prayag Hospital.">
+    <meta property="og:description"
+        content="Learn about CT scans, their types, uses, preparation, contrast safety and reports. Get a CT scan in Noida at Prayag Hospital.">
     <meta property="og:image" content="https://www.prayaghospital.in/assets/images/blog/ct-scan-type.webp">
     <meta property="og:url" content="https://www.prayaghospital.in/ct-scan-types-uses-preparation-safety">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="CT Scan: Types, Uses, Preparation &amp; Safety | Prayag Hospital">
-    <meta name="twitter:description" content="Learn about CT scans, their types, uses, preparation, contrast safety and reports. Get a CT scan in Noida at Prayag Hospital.">
+    <meta name="twitter:description"
+        content="Learn about CT scans, their types, uses, preparation, contrast safety and reports. Get a CT scan in Noida at Prayag Hospital.">
     <meta name="twitter:image" content="https://www.prayaghospital.in/assets/images/blog/ct-scan-type.webp">
 
     <?php include 'header-links.php'; ?>
@@ -572,9 +576,20 @@
             margin-bottom: 14px;
         }
 
-        .flow-icon.icon-before { background: #e0f2fe; color: #0284c7; }
-        .flow-icon.icon-during { background: #e0e7ff; color: #4338ca; }
-        .flow-icon.icon-after { background: #dcfce7; color: #16a34a; }
+        .flow-icon.icon-before {
+            background: #e0f2fe;
+            color: #0284c7;
+        }
+
+        .flow-icon.icon-during {
+            background: #e0e7ff;
+            color: #4338ca;
+        }
+
+        .flow-icon.icon-after {
+            background: #dcfce7;
+            color: #16a34a;
+        }
 
         .flow-card h4 {
             font-size: 1.15rem;
@@ -838,10 +853,21 @@
             transition: all 0.2s ease;
         }
 
-        .share-btn.fb { background: #1877f2; }
-        .share-btn.tw { background: #1da1f2; }
-        .share-btn.wa { background: #25d366; }
-        .share-btn.in { background: #0077b5; }
+        .share-btn.fb {
+            background: #1877f2;
+        }
+
+        .share-btn.tw {
+            background: #1da1f2;
+        }
+
+        .share-btn.wa {
+            background: #25d366;
+        }
+
+        .share-btn.in {
+            background: #0077b5;
+        }
 
         .share-btn:hover {
             transform: translateY(-2px);
@@ -1075,7 +1101,8 @@
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="./"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item"><a href="blog">Health Blog</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">CT Scan: Types, Uses, Preparation and Safety</li>
+                    <li class="breadcrumb-item active" aria-current="page">CT Scan: Types, Uses, Preparation and Safety
+                    </li>
                 </ol>
             </nav>
         </div>
@@ -1088,7 +1115,8 @@
                 <div class="col-lg-10">
                     <div class="blog-badge-wrapper">
                         <span class="post-category-tag"><i class="fas fa-x-ray"></i> Diagnostics &amp; Imaging</span>
-                        <span class="post-category-tag"><i class="fas fa-hospital-alt"></i> Prayag Hospital Sector 41</span>
+                        <span class="post-category-tag"><i class="fas fa-hospital-alt"></i> Prayag Hospital Sector
+                            41</span>
                     </div>
                     <h1 class="blog-main-heading">
                         CT Scan: Types, Uses, Preparation and Safety
@@ -1124,33 +1152,55 @@
                                 <i class="fas fa-list-ul"></i> Quick Navigation
                             </div>
                             <ul class="toc-list">
-                                <li><a href="#what-is-ct-scan"><i class="fas fa-chevron-right"></i> What Is a CT Scan?</a></li>
-                                <li><a href="#types-of-ct-scans"><i class="fas fa-chevron-right"></i> Types of CT Scans</a></li>
-                                <li><a href="#how-to-prepare"><i class="fas fa-chevron-right"></i> How to Prepare for a CT Scan</a></li>
-                                <li><a href="#during-ct-scan"><i class="fas fa-chevron-right"></i> What Happens During a CT Scan?</a></li>
-                                <li><a href="#contrast"><i class="fas fa-chevron-right"></i> CT Scan With vs Without Contrast</a></li>
-                                <li><a href="#is-ct-safe"><i class="fas fa-chevron-right"></i> Is a CT Scan Safe?</a></li>
-                                <li><a href="#ct-vs-xray-vs-mri"><i class="fas fa-chevron-right"></i> CT Scan vs X-Ray vs MRI</a></li>
-                                <li><a href="#ct-report"><i class="fas fa-chevron-right"></i> When Will You Get Your Report?</a></li>
-                                <li><a href="#ct-at-prayag"><i class="fas fa-chevron-right"></i> CT Scan Services at Prayag Hospital</a></li>
-                                <li><a href="#frequently-asked-questions"><i class="fas fa-chevron-right"></i> Frequently Asked Questions</a></li>
+                                <li><a href="#what-is-ct-scan"><i class="fas fa-chevron-right"></i> What Is a CT
+                                        Scan?</a></li>
+                                <li><a href="#types-of-ct-scans"><i class="fas fa-chevron-right"></i> Types of CT
+                                        Scans</a></li>
+                                <li><a href="#how-to-prepare"><i class="fas fa-chevron-right"></i> How to Prepare for a
+                                        CT Scan</a></li>
+                                <li><a href="#during-ct-scan"><i class="fas fa-chevron-right"></i> What Happens During a
+                                        CT Scan?</a></li>
+                                <li><a href="#contrast"><i class="fas fa-chevron-right"></i> CT Scan With vs Without
+                                        Contrast</a></li>
+                                <li><a href="#is-ct-safe"><i class="fas fa-chevron-right"></i> Is a CT Scan Safe?</a>
+                                </li>
+                                <li><a href="#ct-vs-xray-vs-mri"><i class="fas fa-chevron-right"></i> CT Scan vs X-Ray
+                                        vs MRI</a></li>
+                                <li><a href="#ct-report"><i class="fas fa-chevron-right"></i> When Will You Get Your
+                                        Report?</a></li>
+                                <li><a href="#ct-at-prayag"><i class="fas fa-chevron-right"></i> CT Scan Services at
+                                        Prayag Hospital</a></li>
+                                <li><a href="#frequently-asked-questions"><i class="fas fa-chevron-right"></i>
+                                        Frequently Asked Questions</a></li>
                             </ul>
                         </div>
 
                         <!-- Section: Introduction -->
                         <section class="article-section">
                             <p class="article-intro">
-                                <span class="highlight-lead">A CT scan is one of the fastest and most informative tests a doctor can order.</span> In a few minutes, it produces detailed cross-sectional pictures of the bones, organs, blood vessels and soft tissues inside your body, helping doctors find problems that a regular X-ray may miss.
+                                <span class="highlight-lead">A CT scan is one of the fastest and most informative tests
+                                    a doctor can order.</span> In a few minutes, it produces detailed cross-sectional
+                                pictures of the bones, organs, blood vessels and soft tissues inside your body, helping
+                                doctors find problems that a regular X-ray may miss.
                             </p>
                             <p>
-                                Doctors recommend a <a href="radiology">CT scan</a> when they need a clear, quick answer: after an accident, when someone has sudden severe abdominal pain, a persistent cough, unexplained weight loss, or a sudden severe headache. It is also used to plan surgery, guide biopsies and check whether a treatment is working.
+                                Doctors recommend a <a href="radiology"
+                                    style="text-decoration: underline !important;">CT scan</a> when they need a clear,
+                                quick answer: after an accident, when someone has sudden severe abdominal pain, a
+                                persistent cough, unexplained weight loss, or a sudden severe headache. It is also used
+                                to plan surgery, guide biopsies and check whether a treatment is working.
                             </p>
                             <p>
-                                The three most commonly requested scans are the <strong>chest CT scan</strong>, the <strong>CT scan abdomen</strong> and the <strong>CT brain scan</strong>. Each looks at a different part of the body and answers different clinical questions.
+                                The three most commonly requested scans are the <strong>chest CT scan</strong>, the
+                                <strong>CT scan abdomen</strong> and the <strong>CT brain scan</strong>. Each looks at a
+                                different part of the body and answers different clinical questions.
                             </p>
                             <div class="narrative-callout">
                                 <p>
-                                    In this guide, you will learn what a CT scan is and how it works, the main types and their uses, how to prepare, what happens on the day, the difference between scans with and without contrast, how safe CT scans are, how CT compares with X-ray and MRI, and when you can expect your report.
+                                    In this guide, you will learn what a CT scan is and how it works, the main types and
+                                    their uses, how to prepare, what happens on the day, the difference between scans
+                                    with and without contrast, how safe CT scans are, how CT compares with X-ray and
+                                    MRI, and when you can expect your report.
                                 </p>
                             </div>
                         </section>
@@ -1159,15 +1209,22 @@
                         <section id="what-is-ct-scan" class="article-section">
                             <h2>What Is a CT Scan?</h2>
                             <p>
-                                CT stands for <strong>computed tomography</strong>. It is also called a CAT scan (computed axial tomography). A CT scan uses X-rays and a computer to create detailed cross-sectional images, or "slices", of the body.
+                                CT stands for <strong>computed tomography</strong>. It is also called a CAT scan
+                                (computed axial tomography). A CT scan uses X-rays and a computer to create detailed
+                                cross-sectional images, or "slices", of the body.
                             </p>
 
                             <h3>How does a CT scanner work?</h3>
                             <p>
-                                A CT scanner is a large, ring-shaped machine with a short tunnel in the middle. You lie on a motorised table that slides slowly through the ring. Inside, an X-ray tube rotates around you while detectors on the opposite side measure how much X-ray energy passes through each part of the body.
+                                A CT scanner is a large, ring-shaped machine with a short tunnel in the middle. You lie
+                                on a motorised table that slides slowly through the ring. Inside, an X-ray tube rotates
+                                around you while detectors on the opposite side measure how much X-ray energy passes
+                                through each part of the body.
                             </p>
                             <p>
-                                A computer turns these measurements into thin slices. Think of it like slicing a loaf of bread and looking at each slice separately. The slices can also be stacked to create 3D images, which help doctors see the exact size, shape and location of a problem.
+                                A computer turns these measurements into thin slices. Think of it like slicing a loaf of
+                                bread and looking at each slice separately. The slices can also be stacked to create 3D
+                                images, which help doctors see the exact size, shape and location of a problem.
                             </p>
 
                             <h3>What can a CT scan help detect?</h3>
@@ -1231,12 +1288,18 @@
                                 </div>
                             </div>
                             <p>
-                                CT is also used to guide biopsies and drainage procedures, plan surgery and radiotherapy, and monitor how a disease responds to treatment.
+                                CT is also used to guide biopsies and drainage procedures, plan surgery and
+                                radiotherapy, and monitor how a disease responds to treatment.
                             </p>
 
                             <h3>CT scan vs regular X-ray</h3>
                             <p>
-                                A regular X-ray takes a single flat (2D) picture, in which organs overlap one another. A CT scan takes hundreds of images from many angles and builds detailed slices, so structures do not hide behind each other. This makes CT far better at showing soft tissues, blood vessels and small abnormalities. The trade-off is that a CT scan uses a higher radiation dose than a single X-ray, which is why doctors order it only when the extra detail is needed.
+                                A regular X-ray takes a single flat (2D) picture, in which organs overlap one another. A
+                                CT scan takes hundreds of images from many angles and builds detailed slices, so
+                                structures do not hide behind each other. This makes CT far better at showing soft
+                                tissues, blood vessels and small abnormalities. The trade-off is that a CT scan uses a
+                                higher radiation dose than a single X-ray, which is why doctors order it only when the
+                                extra detail is needed.
                             </p>
                         </section>
 
@@ -1244,14 +1307,20 @@
                         <section id="types-of-ct-scans" class="article-section">
                             <h2>Types of CT Scans</h2>
                             <p>
-                                CT scans are named after the part of the body being examined. Your doctor chooses the type based on your symptoms and the question they need answered. The three most common are explained below.
+                                CT scans are named after the part of the body being examined. Your doctor chooses the
+                                type based on your symptoms and the question they need answered. The three most common
+                                are explained below.
                             </p>
 
                             <!-- Chest CT -->
                             <div class="scan-type-block">
                                 <h3><i class="fas fa-lungs"></i> Chest CT Scan</h3>
-                                <p><strong>What is a chest CT scan?</strong> A chest CT scan takes detailed images of the lungs, heart, major blood vessels, airways, ribs and the lymph nodes in the chest.</p>
-                                <p><strong>Why do doctors recommend it?</strong> It is advised for a long-standing cough, coughing up blood, breathlessness, chest pain, an abnormal chest X-ray, or to follow up a known lung condition.</p>
+                                <p><strong>What is a chest CT scan?</strong> A chest CT scan takes detailed images of
+                                    the lungs, heart, major blood vessels, airways, ribs and the lymph nodes in the
+                                    chest.</p>
+                                <p><strong>Why do doctors recommend it?</strong> It is advised for a long-standing
+                                    cough, coughing up blood, breathlessness, chest pain, an abnormal chest X-ray, or to
+                                    follow up a known lung condition.</p>
                                 <p><strong>Conditions it can help identify:</strong></p>
                                 <ul class="content-list">
                                     <li>Pneumonia, tuberculosis and other lung infections</li>
@@ -1260,18 +1329,31 @@
                                     <li>Interstitial lung disease, emphysema and bronchiectasis</li>
                                     <li>Fluid around the lungs and chest injuries</li>
                                 </ul>
-                                <p><strong>Chest CT scan vs chest X-ray:</strong> A chest X-ray is quick, low-dose and often the first test. A chest CT shows far more detail and can pick up small nodules, early infections or clots that an X-ray may miss. A standard chest CT gives about 7 mSv of radiation, compared with about 0.1 mSv for a chest X-ray, so it is used when the extra detail will change your care. A low-dose chest CT, used for lung screening, gives about 1.5 mSv.</p>
+                                <p><strong>Chest CT scan vs chest X-ray:</strong> A chest X-ray is quick, low-dose and
+                                    often the first test. A chest CT shows far more detail and can pick up small
+                                    nodules, early infections or clots that an X-ray may miss. A standard chest CT gives
+                                    about 7 mSv of radiation, compared with about 0.1 mSv for a chest X-ray, so it is
+                                    used when the extra detail will change your care. A low-dose chest CT, used for lung
+                                    screening, gives about 1.5 mSv.</p>
                                 <div class="inline-figure">
-                                    <img src="assets/images/blog/ct-scan-1.webp" alt="Chest CT scan - CT scanner with lung images on monitor" loading="lazy">
+                                    <img src="assets/images/blog/ct-scan-1.webp"
+                                        alt="Chest CT scan - CT scanner with lung images on monitor" loading="lazy">
                                 </div>
-                                <p class="mb-0"><strong>How to prepare:</strong> Most plain chest CT scans need no fasting. If contrast is planned (for example, to check for a clot), you may be asked not to eat for a few hours. You will be asked to hold your breath for a few seconds during the scan.</p>
+                                <p class="mb-0"><strong>How to prepare:</strong> Most plain chest CT scans need no
+                                    fasting. If contrast is planned (for example, to check for a clot), you may be asked
+                                    not to eat for a few hours. You will be asked to hold your breath for a few seconds
+                                    during the scan.</p>
                             </div>
 
                             <!-- Abdomen CT -->
                             <div class="scan-type-block">
                                 <h3><i class="fas fa-procedures"></i> CT Scan Abdomen</h3>
-                                <p><strong>What is an abdominal CT scan?</strong> A CT scan abdomen examines the organs in the belly. It is often combined with the pelvis and called a CT abdomen and pelvis.</p>
-                                <p><strong>Organs it can examine:</strong> liver, gallbladder, pancreas, spleen, kidneys, adrenal glands, stomach, small and large intestine, appendix, urinary bladder, reproductive organs and major blood vessels.</p>
+                                <p><strong>What is an abdominal CT scan?</strong> A CT scan abdomen examines the organs
+                                    in the belly. It is often combined with the pelvis and called a CT abdomen and
+                                    pelvis.</p>
+                                <p><strong>Organs it can examine:</strong> liver, gallbladder, pancreas, spleen,
+                                    kidneys, adrenal glands, stomach, small and large intestine, appendix, urinary
+                                    bladder, reproductive organs and major blood vessels.</p>
                                 <p><strong>Conditions it can help detect:</strong></p>
                                 <ul class="content-list">
                                     <li>Appendicitis, diverticulitis and bowel obstruction</li>
@@ -1281,42 +1363,68 @@
                                     <li>Internal bleeding or organ injury after an accident</li>
                                     <li>Hernias and enlarged lymph nodes</li>
                                 </ul>
-                                <p><strong>When is contrast required?</strong> Contrast is often used to assess tumours, infections, abscesses, inflammation, blood vessels and injuries. It may be given through a vein, as a drink, or both. A plain (non-contrast) CT is usually enough for kidney stones.</p>
+                                <p><strong>When is contrast required?</strong> Contrast is often used to assess tumours,
+                                    infections, abscesses, inflammation, blood vessels and injuries. It may be given
+                                    through a vein, as a drink, or both. A plain (non-contrast) CT is usually enough for
+                                    kidney stones.</p>
                                 <div class="inline-figure">
-                                    <img src="assets/images/blog/ct-scan-2.webp" alt="CT scan abdomen - CT scanner with abdominal images on monitor" loading="lazy">
+                                    <img src="assets/images/blog/ct-scan-2.webp"
+                                        alt="CT scan abdomen - CT scanner with abdominal images on monitor"
+                                        loading="lazy">
                                 </div>
-                                <p class="mb-0"><strong>How to prepare:</strong> You may be asked to fast for 4 to 6 hours. If oral contrast is needed, you will drink it over about an hour before the scan, so arrive early. Bring your recent kidney function test (serum creatinine) if contrast is planned.</p>
+                                <p class="mb-0"><strong>How to prepare:</strong> You may be asked to fast for 4 to 6
+                                    hours. If oral contrast is needed, you will drink it over about an hour before the
+                                    scan, so arrive early. Bring your recent kidney function test (serum creatinine) if
+                                    contrast is planned.</p>
                             </div>
 
                             <!-- Brain CT -->
                             <div class="scan-type-block">
                                 <h3><i class="fas fa-brain"></i> CT Brain Scan</h3>
-                                <p><strong>What is a CT brain scan?</strong> A CT brain scan (also called a CT head scan) creates images of the brain, skull, sinuses and surrounding structures.</p>
-                                <p><strong>Why do doctors recommend it?</strong> It is commonly advised for a head injury, a sudden severe headache, suspected stroke, seizures, sudden confusion, fainting with injury, or sudden weakness, numbness or loss of speech.</p>
-                                <p><strong>Head injury and suspected bleeding:</strong> CT is the first-choice test to check for bleeding inside the skull after a head injury, because it is quick and very good at showing fresh blood and skull fractures.</p>
+                                <p><strong>What is a CT brain scan?</strong> A CT brain scan (also called a CT head
+                                    scan) creates images of the brain, skull, sinuses and surrounding structures.</p>
+                                <p><strong>Why do doctors recommend it?</strong> It is commonly advised for a head
+                                    injury, a sudden severe headache, suspected stroke, seizures, sudden confusion,
+                                    fainting with injury, or sudden weakness, numbness or loss of speech.</p>
+                                <p><strong>Head injury and suspected bleeding:</strong> CT is the first-choice test to
+                                    check for bleeding inside the skull after a head injury, because it is quick and
+                                    very good at showing fresh blood and skull fractures.</p>
 
                                 <div class="hospital-warning-box is-alert">
                                     <div class="hospital-warning-title">
-                                        <i class="fas fa-exclamation-triangle"></i> Doctors Usually Advise an Urgent CT Brain Scan If a Person
+                                        <i class="fas fa-exclamation-triangle"></i> Doctors Usually Advise an Urgent CT
+                                        Brain Scan If a Person
                                     </div>
                                     <ul class="warning-checklist">
-                                        <li><i class="fas fa-check-circle"></i> Has lost consciousness or cannot remember events around the injury</li>
+                                        <li><i class="fas fa-check-circle"></i> Has lost consciousness or cannot
+                                            remember events around the injury</li>
                                         <li><i class="fas fa-check-circle"></i> Vomits more than once</li>
-                                        <li><i class="fas fa-check-circle"></i> Has a seizure, weakness, or blurred or double vision</li>
-                                        <li><i class="fas fa-check-circle"></i> Has signs of a skull fracture, such as clear fluid from the nose or ears</li>
+                                        <li><i class="fas fa-check-circle"></i> Has a seizure, weakness, or blurred or
+                                            double vision</li>
+                                        <li><i class="fas fa-check-circle"></i> Has signs of a skull fracture, such as
+                                            clear fluid from the nose or ears</li>
                                         <li><i class="fas fa-check-circle"></i> Is elderly, or takes blood thinners</li>
                                     </ul>
                                     <div class="emergency-quick-bar">
-                                        <span><i class="fas fa-ambulance me-2"></i> In suspected stroke, a CT brain scan quickly shows whether there is bleeding, which decides the right emergency treatment. Go to an emergency department immediately.</span>
+                                        <span><i class="fas fa-ambulance me-2"></i> In suspected stroke, a CT brain scan
+                                            quickly shows whether there is bleeding, which decides the right emergency
+                                            treatment. Go to an emergency department immediately.</span>
                                         <a href="tel:01204021900"><i class="fas fa-phone-alt"></i> ER: 0120 4021900</a>
                                     </div>
                                 </div>
 
-                                <p><strong>CT brain scan vs MRI:</strong> A CT brain scan takes a few minutes and is ideal in emergencies. MRI takes longer (often 30 to 45 minutes) and uses no radiation. It shows finer detail of brain tissue, so it is preferred for small tumours, multiple sclerosis, epilepsy work-up and early stroke changes. Your doctor may order both.</p>
+                                <p><strong>CT brain scan vs MRI:</strong> A CT brain scan takes a few minutes and is
+                                    ideal in emergencies. MRI takes longer (often 30 to 45 minutes) and uses no
+                                    radiation. It shows finer detail of brain tissue, so it is preferred for small
+                                    tumours, multiple sclerosis, epilepsy work-up and early stroke changes. Your doctor
+                                    may order both.</p>
                                 <div class="inline-figure">
-                                    <img src="assets/images/blog/ct-scan-4.webp" alt="CT brain scan - CT scanner with brain images on monitor" loading="lazy">
+                                    <img src="assets/images/blog/ct-scan-4.webp"
+                                        alt="CT brain scan - CT scanner with brain images on monitor" loading="lazy">
                                 </div>
-                                <p class="mb-0"><strong>How to prepare:</strong> A plain CT brain scan needs no special preparation. Remove hairpins, earrings, spectacles and dentures if asked. Fasting is needed only if contrast is planned.</p>
+                                <p class="mb-0"><strong>How to prepare:</strong> A plain CT brain scan needs no special
+                                    preparation. Remove hairpins, earrings, spectacles and dentures if asked. Fasting is
+                                    needed only if contrast is planned.</p>
                             </div>
                         </section>
 
@@ -1324,13 +1432,19 @@
                         <section id="how-to-prepare" class="article-section">
                             <h2>How to Prepare for a CT Scan</h2>
                             <p>
-                                Good preparation makes the scan safer and the images clearer. Your hospital will give you specific instructions, but these general steps apply to most patients.
+                                Good preparation makes the scan safer and the images clearer. Your hospital will give
+                                you specific instructions, but these general steps apply to most patients.
                             </p>
                             <p>
-                                <strong>Is fasting required?</strong> For a plain CT scan, usually not. For a scan with contrast, especially a CT scan abdomen, you may be asked to avoid food for 4 to 6 hours. Small sips of water are generally allowed. Continue your regular medicines unless your doctor advises otherwise.
+                                <strong>Is fasting required?</strong> For a plain CT scan, usually not. For a scan with
+                                contrast, especially a CT scan abdomen, you may be asked to avoid food for 4 to 6 hours.
+                                Small sips of water are generally allowed. Continue your regular medicines unless your
+                                doctor advises otherwise.
                             </p>
                             <p>
-                                <strong>What should you wear?</strong> Loose, comfortable clothes without metal zips, buttons or hooks. Leave jewellery at home. You may be asked to change into a hospital gown and remove hairpins, spectacles, hearing aids and removable dentures.
+                                <strong>What should you wear?</strong> Loose, comfortable clothes without metal zips,
+                                buttons or hooks. Leave jewellery at home. You may be asked to change into a hospital
+                                gown and remove hairpins, spectacles, hearing aids and removable dentures.
                             </p>
 
                             <div class="treatment-flow-grid">
@@ -1359,7 +1473,10 @@
                             </div>
 
                             <p>
-                                <strong>Precautions for contrast:</strong> Your team will check your kidney function and allergy history before injecting contrast. Patients with a past mild reaction may be given medicines beforehand. Drink plenty of water after the scan, unless you have been told to limit fluids.
+                                <strong>Precautions for contrast:</strong> Your team will check your kidney function and
+                                allergy history before injecting contrast. Patients with a past mild reaction may be
+                                given medicines beforehand. Drink plenty of water after the scan, unless you have been
+                                told to limit fluids.
                             </p>
                         </section>
 
@@ -1371,7 +1488,8 @@
                                     <div class="step-icon">1</div>
                                     <div>
                                         <h5>Registration and Checks</h5>
-                                        <p>You arrive, complete a short form and a technologist confirms your details, allergies and pregnancy status.</p>
+                                        <p>You arrive, complete a short form and a technologist confirms your details,
+                                            allergies and pregnancy status.</p>
                                     </div>
                                 </div>
                                 <div class="step-item">
@@ -1392,21 +1510,25 @@
                                     <div class="step-icon">4</div>
                                     <div>
                                         <h5>Positioning</h5>
-                                        <p>You lie on the scanner table, usually on your back. Pillows or straps help you stay still.</p>
+                                        <p>You lie on the scanner table, usually on your back. Pillows or straps help
+                                            you stay still.</p>
                                     </div>
                                 </div>
                                 <div class="step-item">
                                     <div class="step-icon">5</div>
                                     <div>
                                         <h5>Scanning</h5>
-                                        <p>The table moves slowly through the ring. You may hear a soft whirring sound. The technologist watches from the next room and speaks to you through an intercom, asking you to hold your breath for a few seconds.</p>
+                                        <p>The table moves slowly through the ring. You may hear a soft whirring sound.
+                                            The technologist watches from the next room and speaks to you through an
+                                            intercom, asking you to hold your breath for a few seconds.</p>
                                     </div>
                                 </div>
                                 <div class="step-item">
                                     <div class="step-icon">6</div>
                                     <div>
                                         <h5>Contrast Injection</h5>
-                                        <p>If used, you may feel a warm, flushing sensation or a metallic taste for a few seconds. This is normal.</p>
+                                        <p>If used, you may feel a warm, flushing sensation or a metallic taste for a
+                                            few seconds. This is normal.</p>
                                     </div>
                                 </div>
                                 <div class="step-item">
@@ -1419,13 +1541,19 @@
                             </div>
 
                             <p>
-                                <strong>Is a CT scan painful?</strong> No. The scan itself is painless. The only discomfort may be the needle prick for contrast or lying still on a firm table.
+                                <strong>Is a CT scan painful?</strong> No. The scan itself is painless. The only
+                                discomfort may be the needle prick for contrast or lying still on a firm table.
                             </p>
                             <p>
-                                <strong>How long does a CT scan take?</strong> The actual scanning usually takes less than five minutes. Including preparation, the full appointment can take 15 to 30 minutes, and up to an hour or more if oral contrast is needed.
+                                <strong>How long does a CT scan take?</strong> The actual scanning usually takes less
+                                than five minutes. Including preparation, the full appointment can take 15 to 30
+                                minutes, and up to an hour or more if oral contrast is needed.
                             </p>
                             <p>
-                                <strong>What happens after the scan?</strong> Most people go home and return to normal activities straight away. If you had contrast, you may be asked to wait for a short time to make sure you feel well, and to drink extra water over the next day to help flush it out.
+                                <strong>What happens after the scan?</strong> Most people go home and return to normal
+                                activities straight away. If you had contrast, you may be asked to wait for a short time
+                                to make sure you feel well, and to drink extra water over the next day to help flush it
+                                out.
                             </p>
                         </section>
 
@@ -1433,16 +1561,21 @@
                         <section id="contrast" class="article-section">
                             <h2>CT Scan With Contrast vs Without Contrast</h2>
                             <p>
-                                <strong>What is contrast material?</strong> Contrast (often called dye) is a special liquid that shows up brightly on CT images. For CT, it is usually iodine-based and given through a vein. Some abdominal scans also use contrast you drink.
+                                <strong>What is contrast material?</strong> Contrast (often called dye) is a special
+                                liquid that shows up brightly on CT images. For CT, it is usually iodine-based and given
+                                through a vein. Some abdominal scans also use contrast you drink.
                             </p>
                             <div class="inline-figure">
-                                <img src="assets/images/blog/ct-scan-3.webp" alt="CT scan without contrast vs CT scan with contrast comparison" loading="lazy">
+                                <img src="assets/images/blog/ct-scan-3.webp"
+                                    alt="CT scan without contrast vs CT scan with contrast comparison" loading="lazy">
                             </div>
                             <p>
-                                <strong>Why is contrast used?</strong> It highlights blood vessels, organs and abnormal tissue, making it easier to see tumours, infections, inflammation, clots and bleeding.
+                                <strong>Why is contrast used?</strong> It highlights blood vessels, organs and abnormal
+                                tissue, making it easier to see tumours, infections, inflammation, clots and bleeding.
                             </p>
                             <p>
-                                <strong>When is contrast necessary?</strong> It depends on the question your doctor is asking:
+                                <strong>When is contrast necessary?</strong> It depends on the question your doctor is
+                                asking:
                             </p>
 
                             <div class="comparison-table-wrapper">
@@ -1475,7 +1608,11 @@
                             </div>
 
                             <p>
-                                <strong>What precautions should you take?</strong> Tell your team about kidney disease, diabetes, previous contrast reactions, asthma or thyroid problems. Most reactions are mild, such as nausea, itching or a rash, and serious reactions are rare. Staff are trained to treat them immediately. Breastfeeding mothers can usually continue feeding normally; ask your doctor if you have concerns.
+                                <strong>What precautions should you take?</strong> Tell your team about kidney disease,
+                                diabetes, previous contrast reactions, asthma or thyroid problems. Most reactions are
+                                mild, such as nausea, itching or a rash, and serious reactions are rare. Staff are
+                                trained to treat them immediately. Breastfeeding mothers can usually continue feeding
+                                normally; ask your doctor if you have concerns.
                             </p>
                         </section>
 
@@ -1483,10 +1620,13 @@
                         <section id="is-ct-safe" class="article-section">
                             <h2>Is a CT Scan Safe?</h2>
                             <p>
-                                Yes, when it is medically needed. For most patients, the benefit of an accurate, timely diagnosis far outweighs the small risk.
+                                Yes, when it is medically needed. For most patients, the benefit of an accurate, timely
+                                diagnosis far outweighs the small risk.
                             </p>
                             <p>
-                                <strong>Radiation exposure:</strong> CT uses ionising radiation, measured in millisieverts (mSv). Everyone receives natural background radiation of about 3 mSv a year. Typical adult doses are roughly:
+                                <strong>Radiation exposure:</strong> CT uses ionising radiation, measured in
+                                millisieverts (mSv). Everyone receives natural background radiation of about 3 mSv a
+                                year. Typical adult doses are roughly:
                             </p>
 
                             <div class="comparison-table-wrapper">
@@ -1522,19 +1662,30 @@
                                     </tbody>
                                 </table>
                             </div>
-                            <p class="table-source">Source: RadiologyInfo.org (RSNA and ACR). Actual doses vary by scanner, protocol and body size.</p>
+                            <p class="table-source">Source: RadiologyInfo.org (RSNA and ACR). Actual doses vary by
+                                scanner, protocol and body size.</p>
 
                             <p>
-                                <strong>Possible risks:</strong> a very small increase in lifetime cancer risk with high or repeated exposure, reactions to contrast dye, and rarely, kidney strain from contrast in people with existing kidney disease.
+                                <strong>Possible risks:</strong> a very small increase in lifetime cancer risk with high
+                                or repeated exposure, reactions to contrast dye, and rarely, kidney strain from contrast
+                                in people with existing kidney disease.
                             </p>
                             <p>
-                                <strong>Is a CT scan safe during pregnancy?</strong> Always tell your doctor if you are or might be pregnant. Scans of the head, chest or limbs expose the baby to very little radiation. Scans of the abdomen and pelvis give more exposure, so doctors consider ultrasound or MRI first. In an emergency, a CT scan is done if it is the best way to protect the mother's health.
+                                <strong>Is a CT scan safe during pregnancy?</strong> Always tell your doctor if you are
+                                or might be pregnant. Scans of the head, chest or limbs expose the baby to very little
+                                radiation. Scans of the abdomen and pelvis give more exposure, so doctors consider
+                                ultrasound or MRI first. In an emergency, a CT scan is done if it is the best way to
+                                protect the mother's health.
                             </p>
                             <p>
-                                <strong>How is radiation minimised?</strong> Modern scanners adjust the dose to the patient's size, use advanced image reconstruction, and scan only the area needed. Children receive specially reduced-dose settings.
+                                <strong>How is radiation minimised?</strong> Modern scanners adjust the dose to the
+                                patient's size, use advanced image reconstruction, and scan only the area needed.
+                                Children receive specially reduced-dose settings.
                             </p>
                             <p>
-                                <strong>Why avoid unnecessary repeat scans?</strong> Radiation adds up over a lifetime. Always carry your previous scans and reports, and tell your doctor about recent imaging, so a repeat scan can be avoided where possible.
+                                <strong>Why avoid unnecessary repeat scans?</strong> Radiation adds up over a lifetime.
+                                Always carry your previous scans and reports, and tell your doctor about recent imaging,
+                                so a repeat scan can be avoided where possible.
                             </p>
                         </section>
 
@@ -1542,7 +1693,8 @@
                         <section id="ct-vs-xray-vs-mri" class="article-section">
                             <h2>CT Scan vs X-Ray vs MRI</h2>
                             <p>
-                                Each test has its strengths. Your doctor chooses the one most likely to answer the clinical question safely.
+                                Each test has its strengths. Your doctor chooses the one most likely to answer the
+                                clinical question safely.
                             </p>
 
                             <div class="comparison-table-wrapper">
@@ -1583,14 +1735,16 @@
                                         <tr>
                                             <td><strong>Common investigations</strong></td>
                                             <td>Broken bones, pneumonia, arthritis</td>
-                                            <td>Stroke, internal bleeding, appendicitis, kidney stones, lung nodules, pulmonary embolism</td>
+                                            <td>Stroke, internal bleeding, appendicitis, kidney stones, lung nodules,
+                                                pulmonary embolism</td>
                                             <td>Slipped disc, tumours, multiple sclerosis, sports injuries</td>
                                         </tr>
                                         <tr>
                                             <td><strong>Points to note</strong></td>
                                             <td>Limited soft tissue detail</td>
                                             <td>Contrast may be needed; avoid unnecessary repeats</td>
-                                            <td>Not suitable with some metal implants or pacemakers; noisy and enclosed</td>
+                                            <td>Not suitable with some metal implants or pacemakers; noisy and enclosed
+                                            </td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -1601,16 +1755,26 @@
                         <section id="ct-report" class="article-section">
                             <h2>When Will You Get Your CT Scan Report?</h2>
                             <p>
-                                <strong>How radiologists review the images:</strong> After the scan, hundreds of images are sent to a radiologist, a doctor specialised in reading medical images. They review the scan slice by slice and in 3D, and compare it with your previous scans where available.
+                                <strong>How radiologists review the images:</strong> After the scan, hundreds of images
+                                are sent to a radiologist, a doctor specialised in reading medical images. They review
+                                the scan slice by slice and in 3D, and compare it with your previous scans where
+                                available.
                             </p>
                             <p>
-                                <strong>How the report is prepared:</strong> The report usually describes how the scan was done, the findings in each organ, and an "impression" that summarises the most important results and any suggested next steps.
+                                <strong>How the report is prepared:</strong> The report usually describes how the scan
+                                was done, the findings in each organ, and an "impression" that summarises the most
+                                important results and any suggested next steps.
                             </p>
                             <p>
-                                <strong>Reporting time at Prayag Hospital:</strong> In emergency settings, CT reports are prioritised so that treatment is not delayed. For routine scans, our radiology team will tell you when your report will be ready.
+                                <strong>Reporting time at Prayag Hospital:</strong> In emergency settings, CT reports
+                                are prioritised so that treatment is not delayed. For routine scans, our radiology team
+                                will tell you when your report will be ready.
                             </p>
                             <p>
-                                <strong>Why discuss results with your doctor?</strong> A report can contain technical terms and incidental findings that may sound worrying but are often harmless. Your doctor will interpret the results alongside your symptoms, examination and other tests, and explain what they mean for your treatment.
+                                <strong>Why discuss results with your doctor?</strong> A report can contain technical
+                                terms and incidental findings that may sound worrying but are often harmless. Your
+                                doctor will interpret the results alongside your symptoms, examination and other tests,
+                                and explain what they mean for your treatment.
                             </p>
                         </section>
 
@@ -1618,10 +1782,18 @@
                         <section id="ct-at-prayag" class="article-section">
                             <h2>CT Scan Services at Prayag Hospital</h2>
                             <p>
-                                <a href="./">Prayag Hospital</a>, a multi-speciality hospital at J-206/A-1, Sector 41, Noida (near Noida City Centre), offers diagnostic imaging services through its <a href="radiology">radiology department</a>. Having CT scanning within a multi-speciality hospital means your scan, report and specialist consultation can happen under one roof, with emergency, orthopaedic, neurology, surgery and internal medicine teams on hand.
+                                <a href="./">Prayag Hospital</a>, a multi-speciality hospital at J-206/A-1, Sector 41,
+                                Noida (near Noida City Centre), offers diagnostic imaging services through its <a
+                                    href="radiology">radiology department</a>. Having CT scanning within a
+                                multi-speciality hospital means your scan, report and specialist consultation can happen
+                                under one roof, with emergency, orthopaedic, neurology, surgery and internal medicine
+                                teams on hand.
                             </p>
                             <p>
-                                <strong>Booking an appointment:</strong> To enquire about a CT scan in Noida, appointment slots or preparation instructions, call Prayag Hospital at 0120 - 4021900 or visit the Radiology Department at Prayag Hospital. Please bring your doctor's prescription and previous reports when you come for your scan.
+                                <strong>Booking an appointment:</strong> To enquire about a CT scan in Noida,
+                                appointment slots or preparation instructions, call Prayag Hospital at 0120 - 4021900 or
+                                visit the Radiology Department at Prayag Hospital. Please bring your doctor's
+                                prescription and previous reports when you come for your scan.
                             </p>
                         </section>
 
@@ -1629,10 +1801,17 @@
                         <section class="article-section">
                             <h2>Conclusion</h2>
                             <p>
-                                A CT scan is a fast, painless and highly detailed imaging test that helps doctors diagnose injuries, infections, bleeding, stones and cancers with confidence. A chest CT scan looks closely at the lungs and heart, a CT scan abdomen examines the digestive and urinary organs, and a CT brain scan is the first choice in head injury and suspected stroke.
+                                A CT scan is a fast, painless and highly detailed imaging test that helps doctors
+                                diagnose injuries, infections, bleeding, stones and cancers with confidence. A chest CT
+                                scan looks closely at the lungs and heart, a CT scan abdomen examines the digestive and
+                                urinary organs, and a CT brain scan is the first choice in head injury and suspected
+                                stroke.
                             </p>
                             <p>
-                                With the right preparation, honest communication about allergies, kidney health and pregnancy, and a scan done only when it is needed, a CT scan is a safe and valuable step towards the right treatment. If your doctor has advised a CT scan, the radiology team at Prayag Hospital, Noida, can guide you through every step.
+                                With the right preparation, honest communication about allergies, kidney health and
+                                pregnancy, and a scan done only when it is needed, a CT scan is a safe and valuable step
+                                towards the right treatment. If your doctor has advised a CT scan, the radiology team at
+                                Prayag Hospital, Noida, can guide you through every step.
                             </p>
                         </section>
 
@@ -1640,22 +1819,29 @@
                         <div class="opd-cta-banner">
                             <h3>Book a CT Scan at Prayag Hospital, Noida</h3>
                             <p>
-                                Call our team for appointment slots and preparation instructions. Please bring your doctor's prescription and previous reports when you come for your scan.
+                                Call our team for appointment slots and preparation instructions. Please bring your
+                                doctor's prescription and previous reports when you come for your scan.
                             </p>
                             <div class="opd-facilities-badges">
-                                <span class="opd-facility-badge"><i class="fas fa-x-ray"></i> Chest, Abdomen &amp; Brain CT</span>
-                                <span class="opd-facility-badge"><i class="fas fa-user-md"></i> Reported by Radiologists</span>
-                                <span class="opd-facility-badge"><i class="fas fa-ambulance"></i> 24x7 Emergency Care</span>
-                                <span class="opd-facility-badge"><i class="fas fa-hospital"></i> Specialists Under One Roof</span>
+                                <span class="opd-facility-badge"><i class="fas fa-x-ray"></i> Chest, Abdomen &amp; Brain
+                                    CT</span>
+                                <span class="opd-facility-badge"><i class="fas fa-user-md"></i> Reported by
+                                    Radiologists</span>
+                                <span class="opd-facility-badge"><i class="fas fa-ambulance"></i> 24x7 Emergency
+                                    Care</span>
+                                <span class="opd-facility-badge"><i class="fas fa-hospital"></i> Specialists Under One
+                                    Roof</span>
                             </div>
                             <div class="opd-cta-buttons">
                                 <a href="tel:01204021900" class="btn-opd-call">
                                     <i class="fas fa-phone-alt"></i> Call: 0120 - 4021900
                                 </a>
-                                <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20want%20to%20book%20a%20CT%20scan%20at%20Prayag%20Hospital" target="_blank" class="btn-opd-wa">
+                                <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20want%20to%20book%20a%20CT%20scan%20at%20Prayag%20Hospital"
+                                    target="_blank" class="btn-opd-wa">
                                     <i class="fab fa-whatsapp"></i> WhatsApp Booking
                                 </a>
-                                <a href="book-appointment" class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
+                                <a href="book-appointment"
+                                    class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
                                     <i class="far fa-calendar-check"></i> Book Online
                                 </a>
                             </div>
@@ -1671,7 +1857,9 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        No. A CT scan is painless. You only need to lie still for a few minutes. If contrast is used, you may feel a brief needle prick and a warm sensation as the dye is injected.
+                                        No. A CT scan is painless. You only need to lie still for a few minutes. If
+                                        contrast is used, you may feel a brief needle prick and a warm sensation as the
+                                        dye is injected.
                                     </div>
                                 </div>
 
@@ -1681,7 +1869,9 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        The scanning itself usually takes less than five minutes. Including registration and preparation, plan for 15 to 30 minutes, or up to an hour or more if you need to drink oral contrast.
+                                        The scanning itself usually takes less than five minutes. Including registration
+                                        and preparation, plan for 15 to 30 minutes, or up to an hour or more if you need
+                                        to drink oral contrast.
                                     </div>
                                 </div>
 
@@ -1691,7 +1881,9 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        Not for most plain CT scans. Fasting of about 4 to 6 hours may be advised for scans with contrast, especially a CT scan abdomen. Always follow the specific instructions from your hospital.
+                                        Not for most plain CT scans. Fasting of about 4 to 6 hours may be advised for
+                                        scans with contrast, especially a CT scan abdomen. Always follow the specific
+                                        instructions from your hospital.
                                     </div>
                                 </div>
 
@@ -1701,7 +1893,10 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        A CT brain scan is advised after a head injury with warning signs such as loss of consciousness, repeated vomiting, seizures, confusion or weakness, and for a sudden severe headache or suspected stroke. Elderly patients and people on blood thinners may need a scan even after a minor head injury.
+                                        A CT brain scan is advised after a head injury with warning signs such as loss
+                                        of consciousness, repeated vomiting, seizures, confusion or weakness, and for a
+                                        sudden severe headache or suspected stroke. Elderly patients and people on blood
+                                        thinners may need a scan even after a minor head injury.
                                     </div>
                                 </div>
 
@@ -1711,7 +1906,9 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        It depends on the urgency and the complexity of the scan. Emergency scans are reported on priority. For routine scans, the radiology team at Prayag Hospital will tell you when your report will be ready.
+                                        It depends on the urgency and the complexity of the scan. Emergency scans are
+                                        reported on priority. For routine scans, the radiology team at Prayag Hospital
+                                        will tell you when your report will be ready.
                                     </div>
                                 </div>
 
@@ -1721,7 +1918,9 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        You can get a CT scan at Prayag Hospital, J-206/A-1, Sector 41, Noida, near Noida City Centre. Visit the <a href="radiology">radiology page</a> or call <a href="tel:01204021900">0120 - 4021900</a> to book.
+                                        You can get a CT scan at Prayag Hospital, J-206/A-1, Sector 41, Noida, near
+                                        Noida City Centre. Visit the <a href="radiology">radiology page</a> or call <a
+                                            href="tel:01204021900">0120 - 4021900</a> to book.
                                     </div>
                                 </div>
                             </div>
@@ -1731,24 +1930,38 @@
                         <div class="review-box">
                             <i class="fas fa-user-shield" style="font-size: 28px; color: #4338ca; flex-shrink: 0;"></i>
                             <div>
-                                <strong>Medically Reviewed By:</strong> Department of Radiology, Prayag Hospital, Sector 41, Noida.
+                                <strong>Medically Reviewed By:</strong> Department of Radiology, Prayag Hospital, Sector
+                                41, Noida.
                             </div>
                         </div>
 
                         <!-- Medical Disclaimer -->
                         <div class="medical-disclaimer">
                             <i class="fas fa-info-circle me-1 text-danger"></i>
-                            <strong>Disclaimer:</strong> This article is for general awareness only and is not a substitute for professional medical advice, diagnosis or treatment. The need for a CT scan, the type of scan and its preparation vary from person to person. Please follow the advice of your doctor and the radiology team. In an emergency, contact your nearest hospital immediately.
+                            <strong>Disclaimer:</strong> This article is for general awareness only and is not a
+                            substitute for professional medical advice, diagnosis or treatment. The need for a CT scan,
+                            the type of scan and its preparation vary from person to person. Please follow the advice of
+                            your doctor and the radiology team. In an emergency, contact your nearest hospital
+                            immediately.
                         </div>
 
                         <!-- Social Share -->
-                        <div class="d-flex align-items-center justify-content-between mt-4 pt-3 border-top flex-wrap gap-3">
+                        <div
+                            class="d-flex align-items-center justify-content-between mt-4 pt-3 border-top flex-wrap gap-3">
                             <span class="fw-bold text-muted">Share this health guide:</span>
                             <div class="share-buttons-container">
-                                <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode('https://www.prayaghospital.in/ct-scan-types-uses-preparation-safety'); ?>" target="_blank" class="share-btn fb" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                                <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode('https://www.prayaghospital.in/ct-scan-types-uses-preparation-safety'); ?>&text=CT%20Scan%3A%20Types%2C%20Uses%2C%20Preparation%20and%20Safety" target="_blank" class="share-btn tw" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                                <a href="https://api.whatsapp.com/send?text=<?php echo urlencode('CT Scan: Types, Uses, Preparation and Safety: https://www.prayaghospital.in/ct-scan-types-uses-preparation-safety'); ?>" target="_blank" class="share-btn wa" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
-                                <a href="https://www.linkedin.com/shareArticle?mini=true&url=<?php echo urlencode('https://www.prayaghospital.in/ct-scan-types-uses-preparation-safety'); ?>" target="_blank" class="share-btn in" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode('https://www.prayaghospital.in/ct-scan-types-uses-preparation-safety'); ?>"
+                                    target="_blank" class="share-btn fb" aria-label="Facebook"><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode('https://www.prayaghospital.in/ct-scan-types-uses-preparation-safety'); ?>&text=CT%20Scan%3A%20Types%2C%20Uses%2C%20Preparation%20and%20Safety"
+                                    target="_blank" class="share-btn tw" aria-label="Twitter"><i
+                                        class="fab fa-twitter"></i></a>
+                                <a href="https://api.whatsapp.com/send?text=<?php echo urlencode('CT Scan: Types, Uses, Preparation and Safety: https://www.prayaghospital.in/ct-scan-types-uses-preparation-safety'); ?>"
+                                    target="_blank" class="share-btn wa" aria-label="WhatsApp"><i
+                                        class="fab fa-whatsapp"></i></a>
+                                <a href="https://www.linkedin.com/shareArticle?mini=true&url=<?php echo urlencode('https://www.prayaghospital.in/ct-scan-types-uses-preparation-safety'); ?>"
+                                    target="_blank" class="share-btn in" aria-label="LinkedIn"><i
+                                        class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
 
@@ -1762,16 +1975,19 @@
                         <!-- Quick Contact Widget -->
                         <div class="sidebar-card">
                             <div class="doctor-quick-contact">
-                                <div class="mb-3" style="width: 70px; height: 70px; border-radius: 50%; background: #e0e7ff; color: #4338ca; display: inline-flex; align-items: center; justify-content: center; font-size: 30px;">
+                                <div class="mb-3"
+                                    style="width: 70px; height: 70px; border-radius: 50%; background: #e0e7ff; color: #4338ca; display: inline-flex; align-items: center; justify-content: center; font-size: 30px;">
                                     <i class="fas fa-x-ray"></i>
                                 </div>
                                 <h4>Radiology &amp; CT Scan</h4>
                                 <div class="doc-subtext">Prayag Hospital, Sector 41</div>
-                                <p>Enquire about CT scan appointment slots and preparation instructions at Prayag Hospital, Noida.</p>
+                                <p>Enquire about CT scan appointment slots and preparation instructions at Prayag
+                                    Hospital, Noida.</p>
                                 <a href="tel:01204021900" class="quick-phone-btn">
                                     <i class="fas fa-phone-alt me-2"></i> 0120 4021900
                                 </a>
-                                <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20want%20to%20book%20a%20CT%20scan%20at%20Prayag%20Hospital" target="_blank" class="quick-wa-btn">
+                                <a href="https://api.whatsapp.com/send?phone=919289662853&text=Hi%2C%20I%20want%20to%20book%20a%20CT%20scan%20at%20Prayag%20Hospital"
+                                    target="_blank" class="quick-wa-btn">
                                     <i class="fab fa-whatsapp me-2"></i> +91 92896 62853
                                 </a>
                             </div>
@@ -1824,11 +2040,13 @@
                             <ul class="hospital-info-list">
                                 <li>
                                     <i class="fas fa-building"></i>
-                                    <span><strong>Prayag Hospital &amp; Research Centre</strong><br>J-206 A/1, Sector 41, Noida, Uttar Pradesh 201301</span>
+                                    <span><strong>Prayag Hospital &amp; Research Centre</strong><br>J-206 A/1, Sector
+                                        41, Noida, Uttar Pradesh 201301</span>
                                 </li>
                                 <li>
                                     <i class="fas fa-clock"></i>
-                                    <span><strong>OPD Timings:</strong> Mon - Sat: 9:00 AM - 8:00 PM<br><strong>Emergency &amp; Lab:</strong> 24x7 Available</span>
+                                    <span><strong>OPD Timings:</strong> Mon - Sat: 9:00 AM - 8:00
+                                        PM<br><strong>Emergency &amp; Lab:</strong> 24x7 Available</span>
                                 </li>
                                 <li>
                                     <i class="fas fa-award"></i>
@@ -1865,7 +2083,7 @@
         }
 
         // Open first FAQ by default
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             const firstFaq = document.querySelector('.faq-question');
             if (firstFaq) {
                 toggleFaq(firstFaq);
