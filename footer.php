@@ -15,9 +15,9 @@
             <!-- Logos Column (4) -->
             <!-- <div class="col-md-4">
                         <div class="trust-logos d-flex align-items-center gap-4">
-                            <img src="assets/images/nabh-logo.png"
+                            <img loading="lazy" decoding="async" src="assets/images/nabh-logo.webp"
                                 alt="NABH Accredited" class="trust-logo" style="max-height: 90px;">
-                            <img src="assets/images/nabl-logo.png"
+                            <img loading="lazy" decoding="async" src="assets/images/nabl-logo.webp"
                                 alt="NABL Accredited" class="trust-logo" style="max-height: 90px;">
                         </div>
                     </div> -->

@@ -1,6 +1,10 @@
 # HSTS: tell browsers to always use HTTPS for this site (1 year). Browsers ignore it on plain HTTP.
 <IfModule mod_headers.c>
     Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+    # Let browsers keep the hero video for 30 days
+    <FilesMatch "\.mp4$">
+        Header set Cache-Control "public, max-age=2592000"
+    </FilesMatch>
 </IfModule>
 
 RewriteEngine on

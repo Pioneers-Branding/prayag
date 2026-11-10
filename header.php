@@ -45,12 +45,12 @@
             <!-- Logo Section -->
             <div class="logo-section d-flex align-items-center gap-3">
                 <a href="./" class="brand-logo">
-                    <img src="assets/images/prayag-logo.png" class="img-fluid" style="width: 160px;" alt="Prayag Hospital logo">
+                    <img src="assets/images/prayag-logo.webp" class="img-fluid" style="width: 160px;" alt="Prayag Hospital logo">
                 </a>
                 <div class="accreditation-logos d-flex gap-2 align-items-center">
-                    <img src="assets/images/nabh-logo.png" alt="NABH Accredited"
+                    <img src="assets/images/nabh-logo.webp" alt="NABH Accredited"
                         style="height: 58px; object-fit: contain;">
-                    <img src="assets/images/nabl-logo.png" alt="NABL Accredited"
+                    <img src="assets/images/nabl-logo.webp" alt="NABL Accredited"
                         style="height: 58px; object-fit: contain;">
                 </div>
             </div>
@@ -109,14 +109,14 @@
                                             </li>
                                             <li>
                                                 <a href="gastroenterology" class="mega-menu-item">
-                                                    <img src="assets/images/liver.webp" alt="Liver"
+                                                    <img loading="lazy" decoding="async" src="assets/images/liver.webp" alt="Liver"
                                                         style="width: 20px;">
                                                     <span>Gastroenterology & Hepatology</span>
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="nephrology-dialysis" class="mega-menu-item">
-                                                    <img src="assets/images/RENAL.webp" alt="Renal Sciences"
+                                                    <img loading="lazy" decoding="async" src="assets/images/RENAL.webp" alt="Renal Sciences"
                                                         style="width: 20px;">
                                                     <span>Renal Sciences (Kidney Care)</span>
                                                 </a>
@@ -155,11 +155,11 @@
                                             <li><a href="ent" class="mega-menu-item"><i
                                                         class="fas fa-ear-listen"></i> <span>ENT (Ear, Nose,
                                                         Throat)</span></a></li>
-                                            <li><a href="dermatology" class="mega-menu-item"><img
+                                            <li><a href="dermatology" class="mega-menu-item"><img loading="lazy" decoding="async"
                                                         src="assets/images/DERMA.webp" alt="Dermatology"
                                                         style="width: 20px;"> <span>Dermatology</span></a>
                                             </li>
-                                            <li><a href="plastic-surgery" class="mega-menu-item"><img
+                                            <li><a href="plastic-surgery" class="mega-menu-item"><img loading="lazy" decoding="async"
                                                         src="assets/images/PLASTIC.webp" alt="Plastic Surgery"
                                                         style="width: 20px;"><span>Plastic Surgery</span></a>
                                             </li>
@@ -175,7 +175,7 @@
                                             <li><a href="neonatology" class="mega-menu-item"><i
                                                         class="fas fa-baby"></i> <span>Neonatology</span></a>
                                             </li>
-                                            <li><a href="urology-urodynamics" class="mega-menu-item"><img
+                                            <li><a href="urology-urodynamics" class="mega-menu-item"><img loading="lazy" decoding="async"
                                                         src="assets/images/UROLOGY.webp" alt="Urology"
                                                         style="width: 20px;"><span>Urology</span></a>
                                             </li>
@@ -194,7 +194,7 @@
                                             <li><a href="radiology" class="mega-menu-item"><i
                                                         class="fas fa-x-ray"></i> <span>Radiology &
                                                         Imaging</span></a></li>
-                                            <li><a href="emg-ep" class="mega-menu-item"><img
+                                            <li><a href="emg-ep" class="mega-menu-item"><img loading="lazy" decoding="async"
                                                         src="assets/images/EMG_EP.webp" alt="EMG/EP"
                                                         style="width: 20px;"><span>EMG/EP (Nerve & Muscle)</span></a>
                                             </li>

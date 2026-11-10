@@ -10,6 +10,7 @@
     <meta name="keywords"
         content="multispeciality hospital in noida, hospital in noida, prayag hospital, NABH hospital noida, hospital near noida city centre">
 
+    <link rel="preload" as="image" href="assets/images/hero-poster.webp" fetchpriority="high">
     <?php include 'header-links.php'; ?>
 
     <style>
@@ -197,10 +198,20 @@
         <div class="video-hero-section">
             <div class="video-hero-container">
                 <div class="video-background">
-                    <video autoplay muted loop playsinline class="hero-video">
-                        <source src="assets/final-hero-video.mp4" type="video/mp4">
+                    <video autoplay muted loop playsinline preload="none" width="1920" height="1080"
+                        class="hero-video" poster="assets/images/hero-poster.webp"
+                        data-src-desktop="assets/hero-video-720.mp4" data-src-mobile="assets/hero-video-480.mp4">
                         Your browser does not support the video tag.
                     </video>
+                    <script>
+                        // Start the hero video only after the page has finished loading; the poster shows until then.
+                        window.addEventListener('load', function () {
+                            var video = document.querySelector('.hero-video');
+                            if (navigator.connection && navigator.connection.saveData) return;
+                            video.src = window.innerWidth < 768 ? video.dataset.srcMobile : video.dataset.srcDesktop;
+                            video.play().catch(function () {});
+                        });
+                    </script>
 
                 </div>
             </div>
@@ -290,7 +301,7 @@
                                 <!-- Speciality Card 8 -->
                                 <a href="gastroenterology" class="speciality-card">
                                     <div class="speciality-icon">
-                                        <img src="assets/images/liver.webp" alt="Gastroenterology" style="width:35px">
+                                        <img loading="lazy" decoding="async" src="assets/images/liver.webp" alt="Gastroenterology" style="width:35px">
                                     </div>
                                     <h3 class="speciality-name">Gastroenterology</h3>
                                 </a>
@@ -386,7 +397,7 @@
                                 <!-- Speciality Card 20 -->
                                 <a href="dermatology" class="speciality-card">
                                     <div class="speciality-icon">
-                                        <img src="assets/images/DERMA.webp" alt="Skin" style="width:35px">
+                                        <img loading="lazy" decoding="async" src="assets/images/DERMA.webp" alt="Skin" style="width:35px">
                                     </div>
                                     <h3 class="speciality-name">Dermatology</h3>
                                 </a>
@@ -402,7 +413,7 @@
                                 <!-- Speciality Card 22 -->
                                 <a href="plastic-surgery" class="speciality-card">
                                     <div class="speciality-icon">
-                                        <img src="assets/images/PLASTIC.webp" alt="Plastic Surgery" style="width:35px">
+                                        <img loading="lazy" decoding="async" src="assets/images/PLASTIC.webp" alt="Plastic Surgery" style="width:35px">
                                     </div>
                                     <h3 class="speciality-name">Plastic Surgery</h3>
                                 </a>
@@ -533,7 +544,7 @@
                 <div class="row mt-5">
                     <div class="col-12">
                         <div>
-                            <img src="https://www.prayaghospital.in/images/banner1.jpg"
+                            <img loading="lazy" decoding="async" src="https://www.prayaghospital.in/images/banner1.jpg"
                                 style="border-top-left-radius: 30px;border-top-right-radius: 30px;" class="img-fluid"
                                 alt="Prayag Hospital &amp; Research Centre, Noida">
                         </div>
@@ -556,7 +567,7 @@
                     <!-- Technology Card 1 -->
                     <div class="tech-card">
                         <div class="tech-image">
-                            <img src="assets/images/crrt-home.webp" alt="Advanced Technology">
+                            <img loading="lazy" decoding="async" src="assets/images/crrt-home.webp" alt="Advanced Technology">
                         </div>
                         <div class="tech-content">
                             <h3 class="tech-title">Advanced Surgical Suites</h3>
@@ -568,7 +579,7 @@
                     <!-- Technology Card 2 -->
                     <div class="tech-card">
                         <div class="tech-image">
-                            <img src="assets/images/Complex-brain.webp" alt="Diagnostic Equipment">
+                            <img loading="lazy" decoding="async" src="assets/images/Complex-brain.webp" alt="Diagnostic Equipment">
                         </div>
                         <div class="tech-content">
                             <h3 class="tech-title">Modern Diagnostic Centers</h3>
@@ -580,7 +591,7 @@
                     <!-- Technology Card 3 -->
                     <div class="tech-card">
                         <div class="tech-image">
-                            <img src="assets/images/latest-mri.webp" alt="ICU Facility">
+                            <img loading="lazy" decoding="async" src="assets/images/latest-mri.webp" alt="ICU Facility">
                         </div>
                         <div class="tech-content">
                             <h3 class="tech-title">Critical Care Units</h3>
@@ -624,7 +635,7 @@
                                 <div class="doctor-card-inner">
                                     <div class="doctor-card-top">
                                         <div class="doctor-image-container">
-                                            <img src="<?php echo !empty($doctor['image_small']) ? $doctor['image_small'] : $doctor['image']; ?>"
+                                            <img loading="lazy" decoding="async" src="<?php echo !empty($doctor['image_small']) ? $doctor['image_small'] : $doctor['image']; ?>"
                                                 alt="<?php echo $doctor['name']; ?>" class="doctor-image">
                                         </div>
                                         <div class="doctor-info">
@@ -681,7 +692,7 @@
                             <!-- News Item - Hindustan Times -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="assets/images/press/ht-pcos-hormonal-imbalance.webp"
+                                    <img loading="lazy" decoding="async" src="assets/images/press/ht-pcos-hormonal-imbalance.webp"
                                         alt="Is it PCOS, thyroid or hormonal imbalance">
                                 </div>
                                 <div class="news-content">
@@ -700,7 +711,7 @@
                             <!-- News Item - Bold Sky (One India) -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="assets/images/press/boldsky-regular-periods.webp"
+                                    <img loading="lazy" decoding="async" src="assets/images/press/boldsky-regular-periods.webp"
                                         alt="Regular Periods Don't Always Mean Everything Is Fine">
                                 </div>
                                 <div class="news-content">
@@ -719,7 +730,7 @@
                             <!-- News Item - OnlyMyHealth (Walking & Knee) -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://images.onlymyhealth.com/only-my-health-english/images/2026/09/03/template/image/main-knees-walking-1788419281995.webp"
+                                    <img loading="lazy" decoding="async" src="https://images.onlymyhealth.com/only-my-health-english/images/2026/09/03/template/image/main-knees-walking-1788419281995.webp"
                                         alt="Can Walking Too Much Damage Your Knees">
                                 </div>
                                 <div class="news-content">
@@ -738,7 +749,7 @@
                             <!-- News Item - OnlyMyHealth (Barefoot Shoes) -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://images.onlymyhealth.com/only-my-health-english/images/2026/09/01/template/image/amin-1788250407323.webp"
+                                    <img loading="lazy" decoding="async" src="https://images.onlymyhealth.com/only-my-health-english/images/2026/09/01/template/image/amin-1788250407323.webp"
                                         alt="Benefits of Barefoot Shoes">
                                 </div>
                                 <div class="news-content">
@@ -757,7 +768,7 @@
                             <!-- News Item - Deccan Herald -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://media.assettype.com/deccanherald/2026-08-29/kwzb2r98/istockphoto-1317882487-612x612.jpg"
+                                    <img loading="lazy" decoding="async" src="https://media.assettype.com/deccanherald/2026-08-29/kwzb2r98/istockphoto-1317882487-612x612.jpg"
                                         alt="Everyday Plastics and Infants">
                                 </div>
                                 <div class="news-content">
@@ -776,7 +787,7 @@
                             <!-- News Item - NDTV -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://c.ndtvimg.com/2026-08/nmn2ifus_weekend-injury_625x300_06_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
+                                    <img loading="lazy" decoding="async" src="https://c.ndtvimg.com/2026-08/nmn2ifus_weekend-injury_625x300_06_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900"
                                         alt="Weekend Sports Injuries">
                                 </div>
                                 <div class="news-content">
@@ -795,7 +806,7 @@
                             <!-- News Item - OnlyMyHealth (Breast Milk Variation) -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://images.onlymyhealth.com/only-my-health-english/images/2026/08/07/template/image/mn-Breastfeeding-one-side-1786090630864.webp"
+                                    <img loading="lazy" decoding="async" src="https://images.onlymyhealth.com/only-my-health-english/images/2026/08/07/template/image/mn-Breastfeeding-one-side-1786090630864.webp"
                                         alt="Why One Breast Makes More Milk">
                                 </div>
                                 <div class="news-content">
@@ -814,7 +825,7 @@
                             <!-- News Item - OnlyMyHealth (Breastfeeding Problems) -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://images.onlymyhealth.com/only-my-health-english/images/2026/08/07/template/image/mn-Breastfeeding-Problems-Women-Face--1786078137332.webp"
+                                    <img loading="lazy" decoding="async" src="https://images.onlymyhealth.com/only-my-health-english/images/2026/08/07/template/image/mn-Breastfeeding-Problems-Women-Face--1786078137332.webp"
                                         alt="Common Breastfeeding Problems">
                                 </div>
                                 <div class="news-content">
@@ -833,7 +844,7 @@
                             <!-- News Item - Boldsky -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="https://images.boldsky.com/img/2026/08/dengue-thumb-49031785730800.jpg"
+                                    <img loading="lazy" decoding="async" src="https://images.boldsky.com/img/2026/08/dengue-thumb-49031785730800.jpg"
                                         alt="India's Dengue Season Is Getting Longer">
                                 </div>
                                 <div class="news-content">
@@ -852,7 +863,7 @@
                             <!-- News Item - ANI -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="assets/images/press/ANI-20260727081307.jpg"
+                                    <img loading="lazy" decoding="async" src="assets/images/press/ANI-20260727081307.webp"
                                         alt="Emergency Limb-Saving Surgery">
                                 </div>
                                 <div class="news-content">
@@ -871,7 +882,7 @@
                             <!-- News Item - Punjab Kesari -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="assets/images/press/ANI-20260727081307.jpg"
+                                    <img loading="lazy" decoding="async" src="assets/images/press/ANI-20260727081307.webp"
                                         alt="Emergency Limb-Saving Surgery">
                                 </div>
                                 <div class="news-content">
@@ -891,7 +902,7 @@
                             <!-- News Item 1 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="assets/images/press/child-care.png" alt="Child Mental Health Support">
+                                    <img loading="lazy" decoding="async" src="assets/images/press/child-care.webp" alt="Child Mental Health Support">
                                 </div>
                                 <div class="news-content">
                                     <h3 class="news-item-title">World Mental Health Day: Why Early Support For Children
@@ -909,7 +920,7 @@
                             <!-- News Item 4 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="assets/images/press/challenges-to-patient-safety-in-india-and-what-hospitals-can-do-about-it.webp"
+                                    <img loading="lazy" decoding="async" src="assets/images/press/challenges-to-patient-safety-in-india-and-what-hospitals-can-do-about-it.webp"
                                         alt="Patient Safety">
                                 </div>
                                 <div class="news-content">
@@ -928,7 +939,7 @@
                             <!-- News Item 5 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="assets/images/press/The-Power-of-Small-Things-in-Suicide-Prevention.webp"
+                                    <img loading="lazy" decoding="async" src="assets/images/press/The-Power-of-Small-Things-in-Suicide-Prevention.webp"
                                         alt="Suicide Prevention Support">
                                 </div>
                                 <div class="news-content">
@@ -946,7 +957,7 @@
                             <!-- News Item 6 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="assets/images/press/mental-support.png" alt="Mental Stress Awareness">
+                                    <img loading="lazy" decoding="async" src="assets/images/press/mental-support.webp" alt="Mental Stress Awareness">
                                 </div>
                                 <div class="news-content">
                                     <h3 class="news-item-title">Breaking the Stigma Around Mental Stress and Suicidal
@@ -964,7 +975,7 @@
                             <!-- News Item 7 -->
                             <div class="news-item">
                                 <div class="news-image">
-                                    <img src="assets/images/press/The-Burnout-of-Being-Emotionally-Intelligent.webp"
+                                    <img loading="lazy" decoding="async" src="assets/images/press/The-Burnout-of-Being-Emotionally-Intelligent.webp"
                                         alt="Burnout Awareness">
                                 </div>
                                 <div class="news-content">
@@ -1020,7 +1031,7 @@
                         <!-- Right Side: Doctor Image -->
                         <div class="col-md-6">
                             <div class="cta-image">
-                                <img src="assets/images/homepage-cta-img.webp" alt="Our Doctors">
+                                <img loading="lazy" decoding="async" src="assets/images/homepage-cta-img.webp" alt="Our Doctors">
                             </div>
                         </div>
                     </div>
@@ -1045,7 +1056,7 @@
                         <div class="blog-card-large">
                             <div class="blog-image-large">
                                 <a href="ct-scan-types-uses-preparation-safety">
-                                    <img src="assets/images/blog/ct-scan-type.webp"
+                                    <img loading="lazy" decoding="async" src="assets/images/blog/ct-scan-type.webp"
                                         alt="CT Scan: Types, Uses, Preparation and Safety">
                                 </a>
                             </div>
@@ -1073,7 +1084,7 @@
                         <div class="blog-card-large">
                             <div class="blog-image-large">
                                 <a href="air-pollution-in-delhi-ncr">
-                                    <img src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
+                                    <img loading="lazy" decoding="async" src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
                                         alt="Air Pollution in Delhi NCR">
                                 </a>
                             </div>
@@ -1103,7 +1114,7 @@
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
                                         <a href="knee-replacement-surgery-in-noida">
-                                            <img src="assets/images/blog/knee-replacement-in-noida.webp"
+                                            <img loading="lazy" decoding="async" src="assets/images/blog/knee-replacement-in-noida.webp"
                                                 alt="Knee Replacement Surgery in Noida">
                                         </a>
                                     </div>
@@ -1131,7 +1142,7 @@
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
                                         <a href="viral-flu-treatment-prayag-hospital-noida">
-                                            <img src="assets/images/blog/Viral-Flu-Treatment-in-Noida.webp"
+                                            <img loading="lazy" decoding="async" src="assets/images/blog/Viral-Flu-Treatment-in-Noida-thumb.webp"
                                                 alt="Viral Flu Treatment in Noida">
                                         </a>
                                     </div>
@@ -1159,7 +1170,7 @@
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
                                         <a href="anxiety-depression-treatment-noida">
-                                            <img src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp"
+                                            <img loading="lazy" decoding="async" src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp"
                                                 alt="Anxiety and Depression Treatment in Noida">
                                         </a>
                                     </div>

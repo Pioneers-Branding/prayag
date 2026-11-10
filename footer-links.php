@@ -5,9 +5,9 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 <!-- Custom JavaScript -->
-<script src="assets/js/script.js?v=<?php echo time(); ?>"></script>
+<script src="assets/js/script.js?v=<?php echo filemtime(__DIR__ . '/assets/js/script.js'); ?>"></script>
 <!-- DPDP Cookie & Consent Manager -->
-<script src="assets/js/cookie-consent.js?v=<?php echo time(); ?>"></script>
+<script src="assets/js/cookie-consent.js?v=<?php echo filemtime(__DIR__ . '/assets/js/cookie-consent.js'); ?>"></script>
 
 
 <!-- Voxforce Surface -->
