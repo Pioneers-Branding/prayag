@@ -1055,6 +1055,35 @@
                         <!-- Large Blog Card 1 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
+                                <a href="icu-support-in-noida">
+                                    <img loading="lazy" decoding="async" src="assets/images/blog/icu-support-in-noida.webp"
+                                        alt="ICU Support in Noida">
+                                </a>
+                            </div>
+                            <div class="blog-content-large">
+                                <h3 class="blog-title-large">
+                                    <a href="icu-support-in-noida"
+                                        style="color:inherit; text-decoration:none;">
+                                        ICU Support in Noida: Critical Care &amp; ICU Home Care
+                                    </a>
+                                </h3>
+                                <div class="blog-meta">
+                                    <span class="blog-date">Nov 11, 2026</span>
+                                    <a href="icu-support-in-noida"
+                                        class="blog-read-more">
+                                        Read More
+                                        <i class="fas fa-arrow-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Second Large Blog Card - col-md-4 -->
+                    <div class="col-lg-4 mb-4">
+                        <!-- Large Blog Card 2 -->
+                        <div class="blog-card-large">
+                            <div class="blog-image-large">
                                 <a href="ct-scan-types-uses-preparation-safety">
                                     <img loading="lazy" decoding="async" src="assets/images/blog/ct-scan-type.webp"
                                         alt="CT Scan: Types, Uses, Preparation and Safety">
@@ -1069,35 +1098,8 @@
                                 </h3>
                                 <div class="blog-meta">
                                     <span class="blog-date">Nov 03, 2026</span>
-                                    <a href="ct-scan-types-uses-preparation-safety" class="blog-read-more">
-                                        Read More
-                                        <i class="fas fa-arrow-right"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Second Large Blog Card - col-md-4 -->
-                    <div class="col-lg-4 mb-4">
-                        <!-- Large Blog Card 2 -->
-                        <div class="blog-card-large">
-                            <div class="blog-image-large">
-                                <a href="air-pollution-in-delhi-ncr">
-                                    <img loading="lazy" decoding="async" src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
-                                        alt="Air Pollution in Delhi NCR">
-                                </a>
-                            </div>
-                            <div class="blog-content-large">
-                                <h3 class="blog-title-large">
-                                    <a href="air-pollution-in-delhi-ncr"
-                                        style="color:inherit; text-decoration:none;">
-                                        Air Pollution in Delhi NCR: Health Risks &amp; Protection Tips
-                                    </a>
-                                </h3>
-                                <div class="blog-meta">
-                                    <span class="blog-date">Oct 26, 2026</span>
-                                    <a href="air-pollution-in-delhi-ncr" class="blog-read-more">
+                                    <a href="ct-scan-types-uses-preparation-safety"
+                                        class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
                                     </a>
@@ -1110,6 +1112,33 @@
                     <div class="col-lg-4 mb-4">
                         <div class="blog-right">
                             <!-- Compact Blog Card 1 -->
+                            <div class="blog-card-compact">
+                                <div class="blog-compact-wrapper">
+                                    <div class="blog-image-compact">
+                                        <a href="air-pollution-in-delhi-ncr">
+                                            <img loading="lazy" decoding="async" src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
+                                                alt="Air Pollution in Delhi NCR">
+                                        </a>
+                                    </div>
+                                    <div class="blog-content-compact">
+                                        <h4 class="blog-title-compact">
+                                            <a href="air-pollution-in-delhi-ncr"
+                                                style="color:inherit; text-decoration:none;">
+                                                Air Pollution in Delhi NCR: Health Risks &amp; Protection Tips
+                                            </a>
+                                        </h4>
+                                        <div class="blog-meta-compact">
+                                            <span class="blog-date-compact">Oct 26, 2026</span>
+                                            <a href="air-pollution-in-delhi-ncr" class="blog-read-more-compact">
+                                                Read More
+                                                <i class="fas fa-arrow-right"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Compact Blog Card 2 -->
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
@@ -1127,8 +1156,7 @@
                                         </h4>
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Oct 26, 2026</span>
-                                            <a href="knee-replacement-surgery-in-noida"
-                                                class="blog-read-more-compact">
+                                            <a href="knee-replacement-surgery-in-noida" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
@@ -1137,7 +1165,7 @@
                                 </div>
                             </div>
 
-                            <!-- Compact Blog Card 2 -->
+                            <!-- Compact Blog Card 3 -->
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
@@ -1155,36 +1183,7 @@
                                         </h4>
                                         <div class="blog-meta-compact">
                                             <span class="blog-date-compact">Oct 13, 2026</span>
-                                            <a href="viral-flu-treatment-prayag-hospital-noida"
-                                                class="blog-read-more-compact">
-                                                Read More
-                                                <i class="fas fa-arrow-right"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Compact Blog Card 3 -->
-                            <div class="blog-card-compact">
-                                <div class="blog-compact-wrapper">
-                                    <div class="blog-image-compact">
-                                        <a href="anxiety-depression-treatment-noida">
-                                            <img loading="lazy" decoding="async" src="assets/images/blog/Anxiety-and-depression-Treatment-in-Noida.webp"
-                                                alt="Anxiety and Depression Treatment in Noida">
-                                        </a>
-                                    </div>
-                                    <div class="blog-content-compact">
-                                        <h4 class="blog-title-compact">
-                                            <a href="anxiety-depression-treatment-noida"
-                                                style="color:inherit; text-decoration:none;">
-                                                Anxiety &amp; Depression Treatment in Noida
-                                            </a>
-                                        </h4>
-                                        <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Oct 13, 2026</span>
-                                            <a href="anxiety-depression-treatment-noida"
-                                                class="blog-read-more-compact">
+                                            <a href="viral-flu-treatment-prayag-hospital-noida" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>

@@ -70,7 +70,7 @@
 
                     <!-- Results Info -->
                     <div class="blog-results-header">
-                        <h3>Showing <span id="blogCount">12</span> Articles</h3>
+                        <h3>Showing <span id="blogCount">13</span> Articles</h3>
                         <div class="blog-sort-wrapper">
                             <label for="blogSort">Sort by:</label>
                             <select id="blogSort" class="blog-sort-select">
@@ -83,6 +83,32 @@
 
                     <!-- Blog Posts Grid -->
                     <div class="blog-posts-grid" id="blogPostsGrid">
+                        <!-- Blog Post: ICU Support in Noida -->
+                        <article class="blog-post-card" data-category="emergency-care" data-date="2026-11-11" data-popularity="1580">
+                            <a href="icu-support-in-noida" class="blog-post-image">
+                                <img src="assets/images/blog/icu-support-in-noida.webp"
+                                    alt="ICU Support in Noida - Critical Care and ICU Home Care at Prayag Hospital" loading="lazy">
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Nov 11, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 9 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,580 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="icu-support-in-noida">ICU Support in Noida: Understanding Critical Care Services and ICU Home Care</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Understand ICU support in Noida, when a patient needs intensive care, what modern ICU facilities offer, and when ICU home care in Noida is a safe option.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png" alt="Critical Care Dept" class="author-avatar">
+                                        <span>Critical Care</span>
+                                    </div>
+                                    <a href="icu-support-in-noida" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
                         <!-- Blog Post: CT Scan Types, Uses, Preparation and Safety -->
                         <article class="blog-post-card" data-category="diagnostics" data-date="2026-11-03" data-popularity="1570">
                             <a href="ct-scan-types-uses-preparation-safety" class="blog-post-image">
@@ -420,6 +446,13 @@
                         <div class="sidebar-widget">
                             <h3 class="widget-title">Featured Articles</h3>
                             <div class="popular-posts-list">
+                                <a href="icu-support-in-noida" class="popular-post-item">
+                                    <img src="assets/images/blog/icu-support-in-noida.webp" alt="ICU Support in Noida">
+                                    <div class="popular-post-content">
+                                        <h4>ICU Support in Noida: Critical Care &amp; ICU Home Care</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Nov 11, 2026</span>
+                                    </div>
+                                </a>
                                 <a href="ct-scan-types-uses-preparation-safety" class="popular-post-item">
                                     <img src="assets/images/blog/ct-scan-type.webp" alt="CT Scan: Types, Uses, Preparation and Safety">
                                     <div class="popular-post-content">
@@ -556,7 +589,7 @@
                                 <li>
                                     <a href="#" class="sidebar-category-link" data-category="emergency-care">
                                         <span><i class="fas fa-ambulance"></i> Emergency Care</span>
-                                        <span>1</span>
+                                        <span>2</span>
                                     </a>
                                 </li>
                             </ul>
