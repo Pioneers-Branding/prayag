@@ -2,6 +2,22 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Reheating Leftover Festive Food: Common Mistakes That Can Make You Sick',
+        'date' => '2026-11-08',
+        'excerpt' => 'NDTV features Dr. Alka Kapoor, Consultant - Microbiologist at Prayag Hospitals, breaking down common mistakes when storing and reheating festive food leftovers, bacterial risks, and safe practices.',
+        'image' => 'https://c.ndtvimg.com/2026-11/1gmnm3c8_reheating-food_625x300_08_November_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900',
+        'source' => 'NDTV',
+        'link' => 'https://www.ndtv.com/health/healthy-diet/reheating-leftover-festive-food-common-mistakes-that-can-make-you-sick-12299158'
+    ],
+    [
+        'title' => 'Food Poisoning After A Festive Meal: Which Symptoms Should Never Be Ignored?',
+        'date' => '2026-11-07',
+        'excerpt' => 'NDTV features Dr. Alok Krishna Sahay, Senior Consultant - General Physician & Diabetologist at Prayag Hospitals, explaining warning signs of festive food poisoning, red-flag symptoms that should never be ignored, and safe recovery guidelines.',
+        'image' => 'https://c.ndtvimg.com/2026-11/8tr5i6g_festive-food-pexels-2_625x300_06_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900',
+        'source' => 'NDTV',
+        'link' => 'https://www.ndtv.com/health/healthy-diet/food-poisoning-after-a-festive-meal-which-symptoms-should-never-be-ignored-12293360'
+    ],
+    [
         'title' => 'Emergency Laparoscopic Surgery Successfully Manages Large Ovarian Teratoma in 23-Year-Old Patient at Prayag Hospital',
         'date' => '2026-10-23',
         'excerpt' => 'Emergency laparoscopic surgery successfully manages a large ovarian teratoma in a 23-year-old patient at Prayag Hospital.',
@@ -842,7 +858,7 @@ $podcasts = [
                             <div class="col-lg-4 col-md-6 col-12">
                                 <article class="blog-post-card h-100">
                                     <div class="blog-post-image">
-                                        <img src="<?php echo $press['image']; ?>" alt="<?php echo $press['title']; ?>">
+                                        <img src="<?php echo $press['image']; ?>" alt="<?php echo htmlspecialchars($press['title']); ?>" loading="lazy" referrerpolicy="no-referrer">
                                         <div class="blog-category-badge"><?php echo $press['source']; ?></div>
                                     </div>
                                     <div class="blog-post-content d-flex flex-column h-100" style="min-height: 250px;">
