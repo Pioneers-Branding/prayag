@@ -5,20 +5,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ICU Support in Noida: Critical Care and ICU Home Care Guide</title>
-    <meta name="description" content="Understand ICU support in Noida, when a patient needs intensive care, what modern ICU facilities offer, and when ICU home care in Noida is a safe option.">
-    <meta name="keywords" content="icu support in noida, icu home care in noida, critical care hospital in Noida, ICU facilities in Noida, 24/7 critical care support, Prayag Hospital Noida Sector 41">
+    <meta name="description"
+        content="Understand ICU support in Noida, when a patient needs intensive care, what modern ICU facilities offer, and when ICU home care in Noida is a safe option.">
+    <meta name="keywords"
+        content="icu support in noida, icu home care in noida, critical care hospital in Noida, ICU facilities in Noida, 24/7 critical care support, Prayag Hospital Noida Sector 41">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="article">
     <meta property="og:title" content="ICU Support in Noida: Critical Care and ICU Home Care Guide">
-    <meta property="og:description" content="Understand ICU support in Noida, when a patient needs intensive care, what modern ICU facilities offer, and when ICU home care in Noida is a safe option.">
+    <meta property="og:description"
+        content="Understand ICU support in Noida, when a patient needs intensive care, what modern ICU facilities offer, and when ICU home care in Noida is a safe option.">
     <meta property="og:image" content="https://www.prayaghospital.in/assets/images/blog/icu-support-in-noida.webp">
     <meta property="og:url" content="https://www.prayaghospital.in/icu-support-in-noida">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="ICU Support in Noida: Critical Care and ICU Home Care Guide">
-    <meta name="twitter:description" content="Understand ICU support in Noida, when a patient needs intensive care, what modern ICU facilities offer, and when ICU home care in Noida is a safe option.">
+    <meta name="twitter:description"
+        content="Understand ICU support in Noida, when a patient needs intensive care, what modern ICU facilities offer, and when ICU home care in Noida is a safe option.">
     <meta name="twitter:image" content="https://www.prayaghospital.in/assets/images/blog/icu-support-in-noida.webp">
 
     <?php include 'header-links.php'; ?>
@@ -580,9 +584,20 @@
             margin-bottom: 14px;
         }
 
-        .flow-icon.icon-before { background: #e0f2fe; color: #0284c7; }
-        .flow-icon.icon-during { background: #ffe4e6; color: #be123c; }
-        .flow-icon.icon-after { background: #dcfce7; color: #16a34a; }
+        .flow-icon.icon-before {
+            background: #e0f2fe;
+            color: #0284c7;
+        }
+
+        .flow-icon.icon-during {
+            background: #ffe4e6;
+            color: #be123c;
+        }
+
+        .flow-icon.icon-after {
+            background: #dcfce7;
+            color: #16a34a;
+        }
 
         .flow-card h4 {
             font-size: 1.15rem;
@@ -846,10 +861,21 @@
             transition: all 0.2s ease;
         }
 
-        .share-btn.fb { background: #1877f2; }
-        .share-btn.tw { background: #1da1f2; }
-        .share-btn.wa { background: #25d366; }
-        .share-btn.in { background: #0077b5; }
+        .share-btn.fb {
+            background: #1877f2;
+        }
+
+        .share-btn.tw {
+            background: #1da1f2;
+        }
+
+        .share-btn.wa {
+            background: #25d366;
+        }
+
+        .share-btn.in {
+            background: #0077b5;
+        }
 
         .share-btn:hover {
             transform: translateY(-2px);
@@ -1128,7 +1154,8 @@
                 <div class="col-lg-10">
                     <div class="blog-badge-wrapper">
                         <span class="post-category-tag"><i class="fas fa-procedures"></i> Critical Care &amp; ICU</span>
-                        <span class="post-category-tag"><i class="fas fa-hospital-alt"></i> Prayag Hospital Sector 41</span>
+                        <span class="post-category-tag"><i class="fas fa-hospital-alt"></i> Prayag Hospital Sector
+                            41</span>
                     </div>
                     <h1 class="blog-main-heading">
                         ICU Support in Noida: Understanding Critical Care Services and ICU Home Care
@@ -1165,29 +1192,49 @@
                             </div>
                             <ul class="toc-list">
                                 <li><a href="#what-is-icu"><i class="fas fa-chevron-right"></i> What Is an ICU?</a></li>
-                                <li><a href="#when-icu-needed"><i class="fas fa-chevron-right"></i> When Does a Patient Need ICU Support?</a></li>
-                                <li><a href="#icu-facilities"><i class="fas fa-chevron-right"></i> Facilities in a Modern ICU</a></li>
-                                <li><a href="#icu-home-care"><i class="fas fa-chevron-right"></i> What Is ICU Home Care?</a></li>
-                                <li><a href="#who-benefits"><i class="fas fa-chevron-right"></i> Who May Benefit from ICU Home Care</a></li>
-                                <li><a href="#hospital-vs-home"><i class="fas fa-chevron-right"></i> Hospital ICU vs ICU Home Care</a></li>
-                                <li><a href="#before-home-care"><i class="fas fa-chevron-right"></i> Before Choosing ICU Home Care</a></li>
-                                <li><a href="#choose-hospital"><i class="fas fa-chevron-right"></i> Choosing a Critical Care Hospital</a></li>
-                                <li><a href="#icu-at-prayag"><i class="fas fa-chevron-right"></i> Critical Care at Prayag Hospital</a></li>
-                                <li><a href="#frequently-asked-questions"><i class="fas fa-chevron-right"></i> Frequently Asked Questions</a></li>
+                                <li><a href="#when-icu-needed"><i class="fas fa-chevron-right"></i> When Does a Patient
+                                        Need ICU Support?</a></li>
+                                <li><a href="#icu-facilities"><i class="fas fa-chevron-right"></i> Facilities in a
+                                        Modern ICU</a></li>
+                                <li><a href="#icu-home-care"><i class="fas fa-chevron-right"></i> What Is ICU Home
+                                        Care?</a></li>
+                                <li><a href="#who-benefits"><i class="fas fa-chevron-right"></i> Who May Benefit from
+                                        ICU Home Care</a></li>
+                                <li><a href="#hospital-vs-home"><i class="fas fa-chevron-right"></i> Hospital ICU vs ICU
+                                        Home Care</a></li>
+                                <li><a href="#before-home-care"><i class="fas fa-chevron-right"></i> Before Choosing ICU
+                                        Home Care</a></li>
+                                <li><a href="#choose-hospital"><i class="fas fa-chevron-right"></i> Choosing a Critical
+                                        Care Hospital</a></li>
+                                <li><a href="#icu-at-prayag"><i class="fas fa-chevron-right"></i> Critical Care at
+                                        Prayag Hospital</a></li>
+                                <li><a href="#frequently-asked-questions"><i class="fas fa-chevron-right"></i>
+                                        Frequently Asked Questions</a></li>
                             </ul>
                         </div>
 
                         <!-- Introduction -->
                         <div class="article-section">
                             <p class="article-intro">
-                                <span class="highlight-lead">Most families hear the word "ICU" for the first time in a hospital corridor, usually at the worst possible moment.</span> A parent has collapsed, a sibling is struggling to breathe, or a surgery has not gone as planned. Decisions have to be made quickly, and very few people know what intensive care actually involves.
+                                <span class="highlight-lead">Most families hear the word "ICU" for the first time in a
+                                    hospital corridor, usually at the worst possible moment.</span> A parent has
+                                collapsed, a sibling is struggling to breathe, or a surgery has not gone as planned.
+                                Decisions have to be made quickly, and very few people know what intensive care actually
+                                involves.
                             </p>
                             <p>
-                                This guide is meant to change that. It explains what <strong>ICU support in Noida</strong> looks like, which conditions usually need it, and what to expect from a well-run unit. It also covers a question many families now ask after discharge: is <strong>ICU home care in Noida</strong> a safe way to continue recovery at home?
+                                This guide is meant to change that. It explains what <a
+                                    href="https://www.prayaghospital.in/critical-care"><strong>ICU support in
+                                        Noida</strong> </a>looks like, which conditions usually need it, and what to
+                                expect from a well-run unit. It also covers a question many families now ask after
+                                discharge: is <strong>ICU home care in Noida</strong> a safe way to continue recovery at
+                                home?
                             </p>
                             <div class="narrative-callout">
                                 <p>
-                                    The short answer is that both have a place. A hospital ICU saves lives during a crisis. Home-based critical nursing can support recovery once the crisis has passed. Knowing the difference helps you choose well for someone you love.
+                                    The short answer is that both have a place. A hospital ICU saves lives during a
+                                    crisis. Home-based critical nursing can support recovery once the crisis has passed.
+                                    Knowing the difference helps you choose well for someone you love.
                                 </p>
                             </div>
                         </div>
@@ -1196,16 +1243,25 @@
                         <section id="what-is-icu" class="article-section">
                             <h2>What Is an Intensive Care Unit (ICU) and Why Is It Important?</h2>
                             <p>
-                                An Intensive Care Unit is a dedicated hospital area for patients whose vital organs are failing or are at serious risk of failing. Compared with a general ward, it has more nurses per patient, round-the-clock specialist doctors and equipment that can take over the work of the lungs, heart or kidneys for a while.
+                                An Intensive Care Unit is a dedicated hospital area for patients whose vital organs are
+                                failing or are at serious risk of failing. Compared with a general ward, it has more
+                                nurses per patient, round-the-clock specialist doctors and equipment that can take over
+                                the work of the lungs, heart or kidneys for a while.
                             </p>
                             <div class="inline-figure">
-                                <img loading="lazy" decoding="async" src="assets/images/blog/icu-support-1.webp" alt="Critical care nurse monitoring a patient in the ICU">
+                                <img loading="lazy" decoding="async" src="assets/images/blog/icu-support-1.webp"
+                                    alt="Critical care nurse monitoring a patient in the ICU">
                             </div>
                             <p>
-                                India's Union Health Ministry released national guidelines on ICU admission and discharge in December 2023, drafted with critical care experts. They state that admission should be based on organ failure, the need for organ support, or an expected worsening of the patient's condition. In simple terms, the ICU exists to buy the body time while doctors treat the underlying problem.
+                                India's Union Health Ministry released national guidelines on ICU admission and
+                                discharge in December 2023, drafted with critical care experts. They state that
+                                admission should be based on organ failure, the need for organ support, or an expected
+                                worsening of the patient's condition. In simple terms, the ICU exists to buy the body
+                                time while doctors treat the underlying problem.
                             </p>
                             <p>
-                                That is why choosing the right <strong>critical care hospital in Noida</strong> matters. In a crisis, the first few hours often shape how the rest of the illness unfolds.
+                                That is why choosing the right <strong>critical care hospital in Noida</strong> matters.
+                                In a crisis, the first few hours often shape how the rest of the illness unfolds.
                             </p>
                         </section>
 
@@ -1213,45 +1269,64 @@
                         <section id="when-icu-needed" class="article-section">
                             <h2>When Does a Patient Need ICU Support?</h2>
                             <p>
-                                The decision always rests with the treating doctor. Even so, most ICU admissions fall into a few broad groups.
+                                The decision always rests with the treating doctor. Even so, most ICU admissions fall
+                                into a few broad groups.
                             </p>
                             <div class="inline-figure">
-                                <img loading="lazy" decoding="async" src="assets/images/blog/icu-support-2.webp" alt="Emergency medical team moving a critically ill patient to the ICU">
+                                <img loading="lazy" decoding="async" src="assets/images/blog/icu-support-2.webp"
+                                    alt="Emergency medical team moving a critically ill patient to the ICU">
                             </div>
                             <div class="symptoms-grid">
                                 <div class="symptom-card">
                                     <div class="symptom-icon"><i class="fas fa-lungs"></i></div>
                                     <div class="symptom-info">
                                         <h3 class="h5 fw-bold">Severe Respiratory Problems</h3>
-                                        <p>Severe pneumonia, a bad flare of COPD or asthma, and acute respiratory distress can leave a person unable to get enough oxygen on their own. Warning signs include fast, laboured breathing, bluish lips and falling oxygen levels despite supplemental oxygen. These patients may need high-flow oxygen, non-invasive ventilation (BiPAP) or a mechanical ventilator.</p>
+                                        <p>Severe pneumonia, a bad flare of COPD or asthma, and acute respiratory
+                                            distress can leave a person unable to get enough oxygen on their own.
+                                            Warning signs include fast, laboured breathing, bluish lips and falling
+                                            oxygen levels despite supplemental oxygen. These patients may need high-flow
+                                            oxygen, non-invasive ventilation (BiPAP) or a mechanical ventilator.</p>
                                     </div>
                                 </div>
                                 <div class="symptom-card">
                                     <div class="symptom-icon"><i class="fas fa-heartbeat"></i></div>
                                     <div class="symptom-info">
                                         <h3 class="h5 fw-bold">Heart-Related Emergencies</h3>
-                                        <p>Heart attacks, dangerous rhythm problems, severe heart failure and very low blood pressure all call for close cardiac monitoring. In the ICU, doctors can watch every beat, give medicines that support blood pressure and act within seconds if the heart stops.</p>
+                                        <p>Heart attacks, dangerous rhythm problems, severe heart failure and very low
+                                            blood pressure all call for close cardiac monitoring. In the ICU, doctors
+                                            can watch every beat, give medicines that support blood pressure and act
+                                            within seconds if the heart stops.</p>
                                     </div>
                                 </div>
                                 <div class="symptom-card">
                                     <div class="symptom-icon"><i class="fas fa-brain"></i></div>
                                     <div class="symptom-info">
                                         <h3 class="h5 fw-bold">Brain and Neurological Emergencies</h3>
-                                        <p>Stroke, brain haemorrhage, head injury, prolonged seizures and sudden unconsciousness need neuro-critical care. Patients are watched for changes in alertness and breathing, and some need airway protection or a ventilator until the brain recovers.</p>
+                                        <p>Stroke, brain haemorrhage, head injury, prolonged seizures and sudden
+                                            unconsciousness need neuro-critical care. Patients are watched for changes
+                                            in alertness and breathing, and some need airway protection or a ventilator
+                                            until the brain recovers.</p>
                                     </div>
                                 </div>
                                 <div class="symptom-card">
                                     <div class="symptom-icon"><i class="fas fa-virus"></i></div>
                                     <div class="symptom-info">
                                         <h3 class="h5 fw-bold">Severe Infections and Sepsis</h3>
-                                        <p>Sepsis happens when the body's response to an infection starts damaging its own organs. It can move fast, with fever or very low temperature, confusion, rapid breathing and falling blood pressure. Early antibiotics, fluids and organ support in the ICU make a real difference to survival.</p>
+                                        <p>Sepsis happens when the body's response to an infection starts damaging its
+                                            own organs. It can move fast, with fever or very low temperature, confusion,
+                                            rapid breathing and falling blood pressure. Early antibiotics, fluids and
+                                            organ support in the ICU make a real difference to survival.</p>
                                     </div>
                                 </div>
                                 <div class="symptom-card">
                                     <div class="symptom-icon"><i class="fas fa-car-crash"></i></div>
                                     <div class="symptom-info">
-                                        <h3 class="h5 fw-bold">Major Accidents, Trauma and Post-Surgical Complications</h3>
-                                        <p>Road accidents, falls and major injuries can cause heavy blood loss and multiple organ injuries. Patients recovering from major or emergency surgery may also need a short ICU stay, especially if they are elderly or have heart, lung or kidney disease.</p>
+                                        <h3 class="h5 fw-bold">Major Accidents, Trauma and Post-Surgical Complications
+                                        </h3>
+                                        <p>Road accidents, falls and major injuries can cause heavy blood loss and
+                                            multiple organ injuries. Patients recovering from major or emergency surgery
+                                            may also need a short ICU stay, especially if they are elderly or have
+                                            heart, lung or kidney disease.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1261,41 +1336,56 @@
                         <section id="icu-facilities" class="article-section">
                             <h2>What Facilities and Services Are Available in a Modern ICU?</h2>
                             <p>
-                                When families compare <strong>ICU facilities in Noida</strong>, these are the services worth asking about.
+                                When families compare <strong>ICU facilities in Noida</strong>, these are the services
+                                worth asking about.
                             </p>
                             <div class="inline-figure">
-                                <img loading="lazy" decoding="async" src="assets/images/blog/icu-support-3.webp" alt="Modern ICU bed with patient monitors and life support equipment">
+                                <img loading="lazy" decoding="async" src="assets/images/blog/icu-support-3.webp"
+                                    alt="Modern ICU bed with patient monitors and life support equipment">
                             </div>
                             <div class="treatment-flow-grid">
                                 <div class="flow-card">
                                     <div class="flow-icon icon-before"><i class="fas fa-desktop"></i></div>
                                     <h3 class="h5 fw-bold">24/7 Patient Monitoring</h3>
-                                    <p>Bedside monitors track heart rhythm, blood pressure, oxygen levels, breathing rate and temperature continuously. Alarms alert the team the moment something changes, often before the patient shows visible distress.</p>
+                                    <p>Bedside monitors track heart rhythm, blood pressure, oxygen levels, breathing
+                                        rate and temperature continuously. Alarms alert the team the moment something
+                                        changes, often before the patient shows visible distress.</p>
                                 </div>
                                 <div class="flow-card">
                                     <div class="flow-icon icon-during"><i class="fas fa-wind"></i></div>
                                     <h3 class="h5 fw-bold">Mechanical Ventilator Support</h3>
-                                    <p>A ventilator breathes for the patient, or assists their own breathing, when the lungs cannot cope. Modern ICUs offer both invasive ventilation through a breathing tube and non-invasive support through a mask.</p>
+                                    <p>A ventilator breathes for the patient, or assists their own breathing, when the
+                                        lungs cannot cope. Modern ICUs offer both invasive ventilation through a
+                                        breathing tube and non-invasive support through a mask.</p>
                                 </div>
                                 <div class="flow-card">
                                     <div class="flow-icon icon-after"><i class="fas fa-heartbeat"></i></div>
                                     <h3 class="h5 fw-bold">Advanced Life Support Systems</h3>
-                                    <p>This includes defibrillators, infusion pumps for precise drug delivery, medicines that support blood pressure and, where needed, dialysis for failing kidneys. Quick access to lab tests, X-ray and CT scans helps doctors adjust treatment hour by hour.</p>
+                                    <p>This includes defibrillators, infusion pumps for precise drug delivery, medicines
+                                        that support blood pressure and, where needed, dialysis for failing kidneys.
+                                        Quick access to lab tests, X-ray and CT scans helps doctors adjust treatment
+                                        hour by hour.</p>
                                 </div>
                                 <div class="flow-card">
                                     <div class="flow-icon icon-before"><i class="fas fa-user-nurse"></i></div>
                                     <h3 class="h5 fw-bold">Specialized Critical Care Nursing</h3>
-                                    <p>ICU nurses are trained to manage ventilated and unstable patients. Critical care training material based on ISCCM guidance suggests at least one nurse for every two ICU patients, and one-to-one care for the sickest.</p>
+                                    <p>ICU nurses are trained to manage ventilated and unstable patients. Critical care
+                                        training material based on ISCCM guidance suggests at least one nurse for every
+                                        two ICU patients, and one-to-one care for the sickest.</p>
                                 </div>
                                 <div class="flow-card">
                                     <div class="flow-icon icon-during"><i class="fas fa-user-md"></i></div>
                                     <h3 class="h5 fw-bold">Multidisciplinary Medical Support</h3>
-                                    <p>Critically ill patients rarely have just one problem. Intensivists work alongside cardiologists, pulmonologists, neurologists, nephrologists, surgeons, physiotherapists and dietitians, with daily rounds to review the plan.</p>
+                                    <p>Critically ill patients rarely have just one problem. Intensivists work alongside
+                                        cardiologists, pulmonologists, neurologists, nephrologists, surgeons,
+                                        physiotherapists and dietitians, with daily rounds to review the plan.</p>
                                 </div>
                                 <div class="flow-card">
                                     <div class="flow-icon icon-after"><i class="fas fa-shield-virus"></i></div>
                                     <h3 class="h5 fw-bold">Infection Prevention and Isolation Facilities</h3>
-                                    <p>ICU patients are especially vulnerable to hospital-acquired infections. Strict hand hygiene, sterile procedures, regular disinfection and isolation rooms for infectious patients protect everyone in the unit.</p>
+                                    <p>ICU patients are especially vulnerable to hospital-acquired infections. Strict
+                                        hand hygiene, sterile procedures, regular disinfection and isolation rooms for
+                                        infectious patients protect everyone in the unit.</p>
                                 </div>
                             </div>
                         </section>
@@ -1304,12 +1394,21 @@
                         <section id="icu-home-care" class="article-section">
                             <h2>What Is ICU Home Care and How Does It Work?</h2>
                             <p>
-                                ICU home care means setting up selected critical care equipment and trained nursing support in the patient's home. A typical setup may include a hospital bed, a patient monitor, oxygen support, suction, a feeding pump and, in some cases, a home ventilator. Trained nurses manage daily care, while doctors review the patient through visits or teleconsultation.
+                                ICU home care means setting up selected critical care equipment and trained nursing
+                                support in the patient's home. A typical setup may include a hospital bed, a patient
+                                monitor, oxygen support, suction, a feeding pump and, in some cases, a home ventilator.
+                                Trained nurses manage daily care, while doctors review the patient through visits or
+                                teleconsultation.
                             </p>
                             <div class="key-note">
-                                <h3 class="h5 fw-bold" style="color: #92400e;"><i class="fas fa-exclamation-circle me-2"></i>ICU Home Care Is Not the Same as a Hospital ICU</h3>
+                                <h3 class="h5 fw-bold" style="color: #92400e;"><i
+                                        class="fas fa-exclamation-circle me-2"></i>ICU Home Care Is Not the Same as a
+                                    Hospital ICU</h3>
                                 <p>
-                                    A home has no on-site intensivist, no emergency team down the corridor and no immediate access to scans, blood tests or surgery. It works only for patients who are medically stable and whose needs are predictable, and only after a doctor has assessed them and agreed that home is safe.
+                                    A home has no on-site intensivist, no emergency team down the corridor and no
+                                    immediate access to scans, blood tests or surgery. It works only for patients who
+                                    are medically stable and whose needs are predictable, and only after a doctor has
+                                    assessed them and agreed that home is safe.
                                 </p>
                             </div>
                         </section>
@@ -1322,28 +1421,36 @@
                                     <div class="symptom-icon"><i class="fas fa-home"></i></div>
                                     <div class="symptom-info">
                                         <h3 class="h5 fw-bold">Patients Recovering After ICU Discharge</h3>
-                                        <p>Some patients leave the ICU stable but still weak, perhaps with a tracheostomy, a feeding tube or ongoing oxygen needs. A structured home setup can continue their recovery in familiar surroundings.</p>
+                                        <p>Some patients leave the ICU stable but still weak, perhaps with a
+                                            tracheostomy, a feeding tube or ongoing oxygen needs. A structured home
+                                            setup can continue their recovery in familiar surroundings.</p>
                                     </div>
                                 </div>
                                 <div class="symptom-card">
                                     <div class="symptom-icon"><i class="fas fa-blind"></i></div>
                                     <div class="symptom-info">
                                         <h3 class="h5 fw-bold">Elderly Patients Requiring Specialized Care</h3>
-                                        <p>For older adults, long hospital stays can bring confusion, infections and loss of muscle strength. Where the doctor agrees, skilled care at home can reduce these risks while keeping a close watch on vital signs.</p>
+                                        <p>For older adults, long hospital stays can bring confusion, infections and
+                                            loss of muscle strength. Where the doctor agrees, skilled care at home can
+                                            reduce these risks while keeping a close watch on vital signs.</p>
                                     </div>
                                 </div>
                                 <div class="symptom-card">
                                     <div class="symptom-icon"><i class="fas fa-calendar-check"></i></div>
                                     <div class="symptom-info">
                                         <h3 class="h5 fw-bold">Patients Requiring Long-Term Nursing Support</h3>
-                                        <p>People living with advanced neurological conditions, late-stage illnesses or chronic lung disease may need daily skilled nursing for months. Home care avoids repeated admissions for needs that are serious but stable.</p>
+                                        <p>People living with advanced neurological conditions, late-stage illnesses or
+                                            chronic lung disease may need daily skilled nursing for months. Home care
+                                            avoids repeated admissions for needs that are serious but stable.</p>
                                     </div>
                                 </div>
                                 <div class="symptom-card">
                                     <div class="symptom-icon"><i class="fas fa-bed"></i></div>
                                     <div class="symptom-info">
                                         <h3 class="h5 fw-bold">Bedridden Patients Requiring Continuous Assistance</h3>
-                                        <p>Patients who cannot move on their own need regular turning, pressure sore prevention, catheter care and help with feeding and hygiene. Trained caregivers handle these safely and teach the family what to watch for.</p>
+                                        <p>Patients who cannot move on their own need regular turning, pressure sore
+                                            prevention, catheter care and help with feeding and hygiene. Trained
+                                            caregivers handle these safely and teach the family what to watch for.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1407,10 +1514,15 @@
                             </div>
                             <div class="hospital-warning-box is-alert">
                                 <div class="hospital-warning-title">
-                                    <i class="fas fa-exclamation-triangle"></i> When a Hospital ICU Is the Only Safe Option
+                                    <i class="fas fa-exclamation-triangle"></i> When a Hospital ICU Is the Only Safe
+                                    Option
                                 </div>
                                 <p class="mb-0 text-dark">
-                                    Any patient who needs immediate life support, may deteriorate suddenly or needs emergency procedures should be in a hospital ICU. In a cardiac arrest, a sudden drop in oxygen or a major bleed, the minutes lost in reaching a hospital can be the difference between recovery and permanent harm. Home care is a step in recovery, never a substitute for <strong>24/7 critical care support</strong> in a hospital.
+                                    Any patient who needs immediate life support, may deteriorate suddenly or needs
+                                    emergency procedures should be in a hospital ICU. In a cardiac arrest, a sudden drop
+                                    in oxygen or a major bleed, the minutes lost in reaching a hospital can be the
+                                    difference between recovery and permanent harm. Home care is a step in recovery,
+                                    never a substitute for <strong>24/7 critical care support</strong> in a hospital.
                                 </p>
                             </div>
                         </section>
@@ -1421,12 +1533,24 @@
                             <p>Before arranging ICU home care in Noida, families should check the following:</p>
                             <div class="hospital-warning-box">
                                 <ul class="warning-checklist">
-                                    <li><i class="fas fa-check-circle"></i> <span><strong>Doctor's clearance:</strong> Get written approval from the treating intensivist that the patient is stable enough for home.</span></li>
-                                    <li><i class="fas fa-check-circle"></i> <span><strong>Staff qualifications:</strong> Ask whether nurses have critical care training and experience with ventilators or tracheostomy care.</span></li>
-                                    <li><i class="fas fa-check-circle"></i> <span><strong>Medical oversight:</strong> Confirm how often a doctor will review the patient and who to call at night.</span></li>
-                                    <li><i class="fas fa-check-circle"></i> <span><strong>Equipment and backup:</strong> Check that equipment is serviced and that there is power backup and spare oxygen.</span></li>
-                                    <li><i class="fas fa-check-circle"></i> <span><strong>Emergency plan:</strong> Know the nearest critical care hospital in Noida, the ambulance number and the transfer plan before you need them.</span></li>
-                                    <li><i class="fas fa-check-circle"></i> <span><strong>Home readiness:</strong> Make sure there is space for the bed and equipment, and that the room can be kept clean.</span></li>
+                                    <li><i class="fas fa-check-circle"></i> <span><strong>Doctor's clearance:</strong>
+                                            Get written approval from the treating intensivist that the patient is
+                                            stable enough for home.</span></li>
+                                    <li><i class="fas fa-check-circle"></i> <span><strong>Staff qualifications:</strong>
+                                            Ask whether nurses have critical care training and experience with
+                                            ventilators or tracheostomy care.</span></li>
+                                    <li><i class="fas fa-check-circle"></i> <span><strong>Medical oversight:</strong>
+                                            Confirm how often a doctor will review the patient and who to call at
+                                            night.</span></li>
+                                    <li><i class="fas fa-check-circle"></i> <span><strong>Equipment and backup:</strong>
+                                            Check that equipment is serviced and that there is power backup and spare
+                                            oxygen.</span></li>
+                                    <li><i class="fas fa-check-circle"></i> <span><strong>Emergency plan:</strong> Know
+                                            the nearest critical care hospital in Noida, the ambulance number and the
+                                            transfer plan before you need them.</span></li>
+                                    <li><i class="fas fa-check-circle"></i> <span><strong>Home readiness:</strong> Make
+                                            sure there is space for the bed and equipment, and that the room can be kept
+                                            clean.</span></li>
                                 </ul>
                             </div>
                         </section>
@@ -1436,13 +1560,35 @@
                             <h2>How to Choose the Right Critical Care Hospital in Noida</h2>
                             <p>It helps to decide this before an emergency, not during one. Look for:</p>
                             <ul class="hospital-tips-list mb-3 list-unstyled">
-                                <li class="d-flex align-items-start gap-2 mb-2"><i class="fas fa-check-circle text-success mt-1"></i><span><strong>Accreditation:</strong> NABH accreditation shows the hospital meets national standards for patient safety and clinical care.</span></li>
-                                <li class="d-flex align-items-start gap-2 mb-2"><i class="fas fa-check-circle text-success mt-1"></i><span><strong>Qualified intensivists:</strong> Ask whether trained critical care specialists lead the ICU, rather than only duty doctors.</span></li>
-                                <li class="d-flex align-items-start gap-2 mb-2"><i class="fas fa-check-circle text-success mt-1"></i><span><strong>A 24/7 emergency department:</strong> The ICU should be backed by an emergency team, ambulance service and round-the-clock diagnostics.</span></li>
-                                <li class="d-flex align-items-start gap-2 mb-2"><i class="fas fa-check-circle text-success mt-1"></i><span><strong>Specialist depth:</strong> Cardiology, pulmonology, neurology, neurosurgery and nephrology under one roof save time when a patient has more than one problem.</span></li>
-                                <li class="d-flex align-items-start gap-2 mb-2"><i class="fas fa-check-circle text-success mt-1"></i><span><strong>Location:</strong> A hospital you can reach quickly from home or work is worth a lot in an emergency.</span></li>
-                                <li class="d-flex align-items-start gap-2 mb-2"><i class="fas fa-check-circle text-success mt-1"></i><span><strong>Communication:</strong> Good units update families daily and explain decisions in plain language.</span></li>
-                                <li class="d-flex align-items-start gap-2 mb-2"><i class="fas fa-check-circle text-success mt-1"></i><span><strong>Insurance and panels:</strong> Check whether your insurer, CGHS or other schemes are accepted.</span></li>
+                                <li class="d-flex align-items-start gap-2 mb-2"><i
+                                        class="fas fa-check-circle text-success mt-1"></i><span><strong>Accreditation:</strong>
+                                        NABH accreditation shows the hospital meets national standards for patient
+                                        safety and clinical care.</span></li>
+                                <li class="d-flex align-items-start gap-2 mb-2"><i
+                                        class="fas fa-check-circle text-success mt-1"></i><span><strong>Qualified
+                                            intensivists:</strong> Ask whether trained critical care specialists lead
+                                        the ICU, rather than only duty doctors.</span></li>
+                                <li class="d-flex align-items-start gap-2 mb-2"><i
+                                        class="fas fa-check-circle text-success mt-1"></i><span><strong>A 24/7 emergency
+                                            department:</strong> The ICU should be backed by an emergency team,
+                                        ambulance service and round-the-clock diagnostics.</span></li>
+                                <li class="d-flex align-items-start gap-2 mb-2"><i
+                                        class="fas fa-check-circle text-success mt-1"></i><span><strong>Specialist
+                                            depth:</strong> Cardiology, pulmonology, neurology, neurosurgery and
+                                        nephrology under one roof save time when a patient has more than one
+                                        problem.</span></li>
+                                <li class="d-flex align-items-start gap-2 mb-2"><i
+                                        class="fas fa-check-circle text-success mt-1"></i><span><strong>Location:</strong>
+                                        A hospital you can reach quickly from home or work is worth a lot in an
+                                        emergency.</span></li>
+                                <li class="d-flex align-items-start gap-2 mb-2"><i
+                                        class="fas fa-check-circle text-success mt-1"></i><span><strong>Communication:</strong>
+                                        Good units update families daily and explain decisions in plain language.</span>
+                                </li>
+                                <li class="d-flex align-items-start gap-2 mb-2"><i
+                                        class="fas fa-check-circle text-success mt-1"></i><span><strong>Insurance and
+                                            panels:</strong> Check whether your insurer, CGHS or other schemes are
+                                        accepted.</span></li>
                             </ul>
                         </section>
 
@@ -1450,16 +1596,27 @@
                         <section id="icu-at-prayag" class="article-section">
                             <h2>Critical Care and ICU Facilities at Prayag Hospital, Noida</h2>
                             <p>
-                                Prayag Hospital &amp; Research Centre in Sector 41, near Noida City Centre, has served the city for decades. It began as a small orthopaedic centre in 1995 and has grown into a multispeciality hospital with 24/7 emergency services.
+                                Prayag Hospital &amp; Research Centre in Sector 41, near Noida City Centre, has served
+                                the city for decades. It began as a small orthopaedic centre in 1995 and has grown into
+                                a multispeciality hospital with 24/7 emergency services.
                             </p>
                             <p>
-                                The hospital is NABH accredited, and its accredited scope covers critical care, including speciality ICU, along with emergency medicine and ambulance services. This means patients have ICU support in Noida backed by an emergency team that can stabilise them from the moment they arrive.
+                                The hospital is NABH accredited, and its accredited scope covers critical care,
+                                including speciality ICU, along with emergency medicine and ambulance services. This
+                                means patients have ICU support in Noida backed by an emergency team that can stabilise
+                                them from the moment they arrive.
                             </p>
                             <p>
-                                Critically ill patients at Prayag are supported by specialists across pulmonary and respiratory medicine, cardiology, neurology, neurosurgery, nephrology with dialysis, general and laparoscopic surgery, and orthopaedics. Physiotherapy and rehabilitation teams help patients regain strength once they move out of the ICU. Prayag is also a CGHS empanelled hospital, which makes care more accessible for central government employees and pensioners.
+                                Critically ill patients at Prayag are supported by specialists across pulmonary and
+                                respiratory medicine, cardiology, neurology, neurosurgery, nephrology with dialysis,
+                                general and laparoscopic surgery, and orthopaedics. Physiotherapy and rehabilitation
+                                teams help patients regain strength once they move out of the ICU. Prayag is also a CGHS
+                                empanelled hospital, which makes care more accessible for central government employees
+                                and pensioners.
                             </p>
                             <p>
-                                For families planning the next step after an ICU stay, the treating team can advise on whether the patient is ready for home and what level of care they will need there.
+                                For families planning the next step after an ICU stay, the treating team can advise on
+                                whether the patient is ready for home and what level of care they will need there.
                             </p>
                         </section>
 
@@ -1467,10 +1624,15 @@
                         <section class="article-section">
                             <h2>Why Timely Critical Care and Continuous Monitoring Matter</h2>
                             <p>
-                                In conditions like sepsis, stroke, heart attack and respiratory failure, delay costs more than time. Treatment started early often works better and needs less aggressive support later. Continuous monitoring catches small changes, such as a slow fall in blood pressure or oxygen, before they become emergencies.
+                                In conditions like sepsis, stroke, heart attack and respiratory failure, delay costs
+                                more than time. Treatment started early often works better and needs less aggressive
+                                support later. Continuous monitoring catches small changes, such as a slow fall in blood
+                                pressure or oxygen, before they become emergencies.
                             </p>
                             <div class="emergency-quick-bar">
-                                <span><i class="fas fa-ambulance me-2"></i> Breathlessness, chest pain, confusion, sudden weakness on one side, a seizure or uncontrolled bleeding? Go to the nearest emergency department straight away.</span>
+                                <span><i class="fas fa-ambulance me-2"></i> Breathlessness, chest pain, confusion,
+                                    sudden weakness on one side, a seizure or uncontrolled bleeding? Go to the nearest
+                                    emergency department straight away.</span>
                                 <a href="tel:01204021900"><i class="fas fa-phone-alt"></i> ER: 0120 4021900</a>
                             </div>
                         </section>
@@ -1479,7 +1641,13 @@
                         <section class="article-section">
                             <h2>Conclusion</h2>
                             <p>
-                                An ICU is where the sickest patients get the closest care, and choosing a well-equipped critical care hospital in Noida can shape how a critical illness ends. ICU home care has a useful role too, but only for stable patients and only with a doctor's approval. If you or a family member needs ICU support in Noida, or advice on continuing care after discharge, the team at Prayag Hospital, Sector 41, is available round the clock.
+                                An ICU is where the sickest patients get the closest care, and choosing a well-equipped
+                                critical care hospital in Noida can shape how a critical illness ends. ICU home care has
+                                a useful role too, but only for stable patients and only with a doctor's approval. If
+                                you or a family member needs ICU support in Noida, or advice on continuing care after
+                                discharge, the team at <a href="https://www.prayaghospital.in/"
+                                    style="text-decoration:underline">Prayag Hospital, Sector 41</a>, is available round
+                                the clock.
                             </p>
                         </section>
 
@@ -1487,10 +1655,12 @@
                         <div class="opd-cta-banner">
                             <h3>24/7 Critical Care at Prayag Hospital, Noida</h3>
                             <p>
-                                For ICU support, emergency care or advice on continuing care after discharge, our team at Sector 41 is available round the clock.
+                                For ICU support, emergency care or advice on continuing care after discharge, our team
+                                at Sector 41 is available round the clock.
                             </p>
                             <div class="opd-facilities-badges">
-                                <span class="opd-facility-badge"><i class="fas fa-procedures"></i> Critical Care &amp; ICU</span>
+                                <span class="opd-facility-badge"><i class="fas fa-procedures"></i> Critical Care &amp;
+                                    ICU</span>
                                 <span class="opd-facility-badge"><i class="fas fa-ambulance"></i> 24/7 Emergency</span>
                                 <span class="opd-facility-badge"><i class="fas fa-award"></i> NABH Accredited</span>
                                 <span class="opd-facility-badge"><i class="fas fa-id-card"></i> CGHS Empanelled</span>
@@ -1499,10 +1669,12 @@
                                 <a href="tel:01204021900" class="btn-opd-call">
                                     <i class="fas fa-phone-alt"></i> Call: 0120 - 4021900
                                 </a>
-                                <a href="https://api.whatsapp.com/send?phone=919289662853&amp;text=Hi%2C%20I%20need%20information%20about%20ICU%20and%20critical%20care%20at%20Prayag%20Hospital" target="_blank" class="btn-opd-wa">
+                                <a href="https://api.whatsapp.com/send?phone=919289662853&amp;text=Hi%2C%20I%20need%20information%20about%20ICU%20and%20critical%20care%20at%20Prayag%20Hospital"
+                                    target="_blank" class="btn-opd-wa">
                                     <i class="fab fa-whatsapp"></i> WhatsApp Us
                                 </a>
-                                <a href="book-appointment" class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
+                                <a href="book-appointment"
+                                    class="btn btn-outline-light d-inline-flex align-items-center gap-2 px-3 py-2 rounded-3">
                                     <i class="far fa-calendar-check"></i> Book Online
                                 </a>
                             </div>
@@ -1518,7 +1690,9 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        An ICU provides continuous monitoring and organ support, such as ventilation, blood pressure support or dialysis, for patients whose life is at immediate risk. It keeps the body stable while doctors treat the underlying illness.
+                                        An ICU provides continuous monitoring and organ support, such as ventilation,
+                                        blood pressure support or dialysis, for patients whose life is at immediate
+                                        risk. It keeps the body stable while doctors treat the underlying illness.
                                     </div>
                                 </div>
 
@@ -1528,7 +1702,10 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        A patient is usually admitted when one or more organs are failing, when they need organ support, or when doctors expect their condition to worsen quickly. Common examples are respiratory failure, sepsis, stroke, major trauma and complications after surgery.
+                                        A patient is usually admitted when one or more organs are failing, when they
+                                        need organ support, or when doctors expect their condition to worsen quickly.
+                                        Common examples are respiratory failure, sepsis, stroke, major trauma and
+                                        complications after surgery.
                                     </div>
                                 </div>
 
@@ -1538,7 +1715,9 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        Yes, ICU home care in Noida is offered by several healthcare providers. It is suitable only for stable patients, and the decision should be made with the treating doctor after a proper medical assessment.
+                                        Yes, ICU home care in Noida is offered by several healthcare providers. It is
+                                        suitable only for stable patients, and the decision should be made with the
+                                        treating doctor after a proper medical assessment.
                                     </div>
                                 </div>
 
@@ -1548,7 +1727,10 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        ICU care treats life-threatening, unstable conditions with on-site specialists and full life support. Home nursing care supports stable patients with daily needs such as medicines, wound care, feeding and hygiene. ICU home care sits between the two.
+                                        ICU care treats life-threatening, unstable conditions with on-site specialists
+                                        and full life support. Home nursing care supports stable patients with daily
+                                        needs such as medicines, wound care, feeding and hygiene. ICU home care sits
+                                        between the two.
                                     </div>
                                 </div>
 
@@ -1558,7 +1740,9 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        Some long-term ventilator patients who are otherwise stable can be cared for at home, with a home ventilator, trained nurses, power backup and a clear emergency plan. This needs careful evaluation by a critical care specialist first.
+                                        Some long-term ventilator patients who are otherwise stable can be cared for at
+                                        home, with a home ventilator, trained nurses, power backup and a clear emergency
+                                        plan. This needs careful evaluation by a critical care specialist first.
                                     </div>
                                 </div>
 
@@ -1568,7 +1752,9 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        It can be, if the elderly patient is medically stable and the doctor approves. Home care can reduce the risk of hospital infections and confusion. Elderly patients who are unstable or getting worse still need a hospital ICU.
+                                        It can be, if the elderly patient is medically stable and the doctor approves.
+                                        Home care can reduce the risk of hospital infections and confusion. Elderly
+                                        patients who are unstable or getting worse still need a hospital ICU.
                                     </div>
                                 </div>
 
@@ -1578,7 +1764,10 @@
                                         <i class="fas fa-chevron-down"></i>
                                     </div>
                                     <div class="faq-answer">
-                                        A good ICU should offer 24/7 monitoring, ventilators, defibrillators and life support equipment, trained intensivists, adequate critical care nurses, quick access to diagnostics, dialysis and strict infection control. These are the key points to compare when evaluating ICU facilities in Noida.
+                                        A good ICU should offer 24/7 monitoring, ventilators, defibrillators and life
+                                        support equipment, trained intensivists, adequate critical care nurses, quick
+                                        access to diagnostics, dialysis and strict infection control. These are the key
+                                        points to compare when evaluating ICU facilities in Noida.
                                     </div>
                                 </div>
                             </div>
@@ -1588,24 +1777,38 @@
                         <div class="review-box">
                             <i class="fas fa-user-shield" style="font-size: 28px; color: #be123c; flex-shrink: 0;"></i>
                             <div>
-                                <strong>Medically Reviewed By:</strong> Department of Critical Care, Prayag Hospital, Sector 41, Noida.
+                                <strong>Medically Reviewed By:</strong> Department of Critical Care, Prayag Hospital,
+                                Sector 41, Noida.
                             </div>
                         </div>
 
                         <!-- Medical Disclaimer -->
                         <div class="medical-disclaimer">
                             <i class="fas fa-info-circle me-1 text-danger"></i>
-                            <strong>Disclaimer:</strong> This article is for general information and awareness only and should not be taken as medical advice. Every patient's condition is different, so decisions about ICU admission, discharge or ICU home care should always be made with a qualified doctor after a proper medical assessment. In a medical emergency, call an ambulance or go to the nearest hospital emergency department immediately.
+                            <strong>Disclaimer:</strong> This article is for general information and awareness only and
+                            should not be taken as medical advice. Every patient's condition is different, so decisions
+                            about ICU admission, discharge or ICU home care should always be made with a qualified
+                            doctor after a proper medical assessment. In a medical emergency, call an ambulance or go to
+                            the nearest hospital emergency department immediately.
                         </div>
 
                         <!-- Social Share -->
-                        <div class="d-flex align-items-center justify-content-between mt-4 pt-3 border-top flex-wrap gap-3">
+                        <div
+                            class="d-flex align-items-center justify-content-between mt-4 pt-3 border-top flex-wrap gap-3">
                             <span class="fw-bold text-muted">Share this health guide:</span>
                             <div class="share-buttons-container">
-                                <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode('https://www.prayaghospital.in/icu-support-in-noida'); ?>" target="_blank" class="share-btn fb" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                                <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode('https://www.prayaghospital.in/icu-support-in-noida'); ?>&amp;text=ICU%20Support%20in%20Noida" target="_blank" class="share-btn tw" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                                <a href="https://api.whatsapp.com/send?text=<?php echo urlencode('ICU Support in Noida: Understanding Critical Care Services and ICU Home Care: https://www.prayaghospital.in/icu-support-in-noida'); ?>" target="_blank" class="share-btn wa" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
-                                <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=<?php echo urlencode('https://www.prayaghospital.in/icu-support-in-noida'); ?>" target="_blank" class="share-btn in" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode('https://www.prayaghospital.in/icu-support-in-noida'); ?>"
+                                    target="_blank" class="share-btn fb" aria-label="Facebook"><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a href="https://twitter.com/intent/tweet?url=<?php echo urlencode('https://www.prayaghospital.in/icu-support-in-noida'); ?>&amp;text=ICU%20Support%20in%20Noida"
+                                    target="_blank" class="share-btn tw" aria-label="Twitter"><i
+                                        class="fab fa-twitter"></i></a>
+                                <a href="https://api.whatsapp.com/send?text=<?php echo urlencode('ICU Support in Noida: Understanding Critical Care Services and ICU Home Care: https://www.prayaghospital.in/icu-support-in-noida'); ?>"
+                                    target="_blank" class="share-btn wa" aria-label="WhatsApp"><i
+                                        class="fab fa-whatsapp"></i></a>
+                                <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=<?php echo urlencode('https://www.prayaghospital.in/icu-support-in-noida'); ?>"
+                                    target="_blank" class="share-btn in" aria-label="LinkedIn"><i
+                                        class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
 
@@ -1619,16 +1822,19 @@
                         <!-- Quick Contact Widget -->
                         <div class="sidebar-card">
                             <div class="doctor-quick-contact">
-                                <div class="mb-3" style="width: 70px; height: 70px; border-radius: 50%; background: #ffe4e6; color: #be123c; display: inline-flex; align-items: center; justify-content: center; font-size: 30px;">
+                                <div class="mb-3"
+                                    style="width: 70px; height: 70px; border-radius: 50%; background: #ffe4e6; color: #be123c; display: inline-flex; align-items: center; justify-content: center; font-size: 30px;">
                                     <i class="fas fa-procedures"></i>
                                 </div>
                                 <h3 class="h4 fw-bold">Critical Care &amp; ICU</h3>
                                 <div class="doc-subtext">24/7 at Prayag Hospital, Sector 41</div>
-                                <p>For emergencies, ICU admission queries or advice on care after discharge, call our team any time.</p>
+                                <p>For emergencies, ICU admission queries or advice on care after discharge, call our
+                                    team any time.</p>
                                 <a href="tel:01204021900" class="quick-phone-btn">
                                     <i class="fas fa-phone-alt me-2"></i> 0120 4021900
                                 </a>
-                                <a href="https://api.whatsapp.com/send?phone=919289662853&amp;text=Hi%2C%20I%20need%20information%20about%20ICU%20and%20critical%20care%20at%20Prayag%20Hospital" target="_blank" class="quick-wa-btn">
+                                <a href="https://api.whatsapp.com/send?phone=919289662853&amp;text=Hi%2C%20I%20need%20information%20about%20ICU%20and%20critical%20care%20at%20Prayag%20Hospital"
+                                    target="_blank" class="quick-wa-btn">
                                     <i class="fab fa-whatsapp me-2"></i> +91 92896 62853
                                 </a>
                             </div>
@@ -1681,11 +1887,13 @@
                             <ul class="hospital-info-list">
                                 <li>
                                     <i class="fas fa-building"></i>
-                                    <span><strong>Prayag Hospital &amp; Research Centre</strong><br>J-206 A/1, Sector 41, Noida, Uttar Pradesh 201301</span>
+                                    <span><strong>Prayag Hospital &amp; Research Centre</strong><br>J-206 A/1, Sector
+                                        41, Noida, Uttar Pradesh 201301</span>
                                 </li>
                                 <li>
                                     <i class="fas fa-clock"></i>
-                                    <span><strong>OPD Timings:</strong> Mon - Sat: 9:00 AM - 8:00 PM<br><strong>Emergency &amp; ICU:</strong> 24x7 Available</span>
+                                    <span><strong>OPD Timings:</strong> Mon - Sat: 9:00 AM - 8:00
+                                        PM<br><strong>Emergency &amp; ICU:</strong> 24x7 Available</span>
                                 </li>
                                 <li>
                                     <i class="fas fa-award"></i>
@@ -1722,7 +1930,7 @@
         }
 
         // Open first FAQ by default
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             const firstFaq = document.querySelector('.faq-question');
             if (firstFaq) {
                 toggleFaq(firstFaq);
