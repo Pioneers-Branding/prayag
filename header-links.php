@@ -1,3 +1,12 @@
+<?php
+// HSTS: OpenLiteSpeed ignores "Header" lines in .htaccess, so send it from PHP (HTTPS only).
+$isHttps = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off')
+    || (($_SERVER['SERVER_PORT'] ?? '') == 443)
+    || (strtolower($_SERVER['HTTP_X_FORWARDED_PROTO'] ?? '') === 'https');
+if ($isHttps && !headers_sent()) {
+    header('Strict-Transport-Security: max-age=31536000; includeSubDomains');
+}
+?>
 <!-- Connect early to third-party hosts -->
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
