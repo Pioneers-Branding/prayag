@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ICU & Critical Care Hospital in Noida | Prayag</title>
-    <meta name="description" content="24x7 ICU & critical care in Noida with advanced life support & intensivists at Prayag Hospital. Expert care for critically ill patients.">
+    <title>ICU Support in Noida | 24x7 Critical Care | Prayag Hospital</title>
+    <meta name="description" content="24x7 ICU support in Noida at Prayag Hospital, Sector 41. Advanced critical care with continuous monitoring, life support & ICU home care in Noida guidance.">
     <meta name="keywords" content="ICU hospital in noida, critical care noida, advanced ICU noida, intensive care noida">
 
     <?php include 'header-links.php'; ?>

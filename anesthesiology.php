@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anaesthesiology & Pain Management in Noida | Prayag</title>
-    <meta name="description" content="Expert anaesthesia & pain management for safe surgery at Prayag Hospital, Noida. Dedicated anaesthesiology team for every procedure.">
+    <title>Anesthesiology & Critical Care in Noida | Prayag Hospital</title>
+    <meta name="description" content="Safe general anesthesia services at Prayag Hospital, Noida. Experienced medical anesthesiologists for surgery, regional anesthesia & pain management.">
     <meta name="keywords" content="pain management in noida, anaesthesiology noida, painless surgery noida">
 
     <?php include 'header-links.php'; ?>

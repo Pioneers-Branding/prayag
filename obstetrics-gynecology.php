@@ -5,8 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gynaecology & Maternity Hospital in Noida | Prayag Hospital</title>
-    <meta name="description" content="Complete mother & child care in Noida - pregnancy, delivery, high-risk maternity & gynae care at Prayag Hospital. Consult expert gynaecologists.">
+    <title>Gynaecologist Sector 41 Noida | OBGYN & Maternity | Prayag</title>
+    <meta name="description" content="Consult a gynecology doctor in Noida at Prayag Hospital. Maternity and gynaecology in Noida: obstetrics, high-risk pregnancy, painless delivery, PCOS care.">
     <meta name="keywords" content="maternity hospital in noida, gynaecologist in noida, pregnancy delivery noida, mother and child care noida">
 
     <?php include 'header-links.php'; ?>

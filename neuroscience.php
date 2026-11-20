@@ -5,8 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neurology & Neurosurgery Hospital in Noida | Prayag Hospital</title>
-    <meta name="description" content="Expert neurology & neurosurgery in Noida for stroke, epilepsy, spine & brain disorders. Advanced care at Prayag Hospital. Consult a neurologist today.">
+    <title>Brain & Spine Care Noida | Neuro Surgery | Prayag Hospital</title>
+    <meta name="description" content="Brain and spine care in Noida & Greater Noida. Consult a neurologist in Greater Noida or our neuro surgeons for stroke, epilepsy, brain tumor & spine care.">
     <meta name="keywords" content="neurology hospital in noida, neurologist in noida, neurosurgeon noida, brain hospital noida">
 
     <?php include 'header-links.php'; ?>

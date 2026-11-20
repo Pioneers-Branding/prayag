@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Physiotherapy & Rehab Centre in Noida | Prayag Hospital</title>
+    <title>Physiotherapy in Noida | Back Pain Physiotherapy | Prayag</title>
     <meta name="description" content="Expert physiotherapy & rehabilitation in Noida for pain, injury & post-surgery recovery at Prayag Hospital. Book a physio session today.">
     <meta name="keywords" content="physiotherapy in noida, physiotherapist noida, rehabilitation centre noida, back pain physio noida">
 

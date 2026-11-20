@@ -5,8 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cancer Hospital in Noida | Oncology | Prayag Hospital</title>
-    <meta name="description" content="Comprehensive cancer care in Noida - medical, surgical & radiation oncology with a multidisciplinary team at Prayag Hospital. Consult an oncologist.">
+    <title>Cancer Treatment in Noida | Oncology Hospital | Prayag</title>
+    <meta name="description" content="Cancer treatment in Noida at Prayag Hospital. Complete oncology treatment: cancer surgery, chemotherapy, immunotherapy, and cancer and radiation therapy.">
     <meta name="keywords" content="cancer hospital in noida, oncologist in noida, cancer treatment noida, chemotherapy noida">
 
     <?php include 'header-links.php'; ?>

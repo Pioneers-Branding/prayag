@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Radiology & Diagnostic Imaging in Noida | CT MRI | Prayag</title>
+    <title>Radiology in Noida Sector 41 | Full Body MRI Scan | Prayag</title>
+    <meta name="description" content="Radiology in Noida with an expert radiologist at Prayag Hospital, Sector 41. Book a full body MRI scan in Noida, CT, ultrasound, X-ray & Doppler tests.">
 
     <?php include 'header-links.php'; ?>
 

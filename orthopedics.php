@@ -5,8 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Orthopaedic Hospital in Noida | Joint Replacement | Prayag</title>
-    <meta name="description" content="Orthopaedic & joint replacement surgery in Noida - knee, hip & sports injury care by expert surgeons at Prayag Hospital. Book a consultation.">
+    <title>Best Orthopedic Hospital Noida | Joint Replacement | Prayag</title>
+    <meta name="description" content="Consult an experienced orthopedic doctor in Noida at Prayag Hospital, Sector 41. Robot-assisted joint replacement in Noida, arthroscopy & 24x7 trauma care.">
     <meta name="keywords" content="orthopaedic hospital in noida, joint replacement noida, orthopaedic doctor noida, knee replacement noida">
 
     <?php include 'header-links.php'; ?>
