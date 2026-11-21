@@ -2,6 +2,14 @@
 // Mock Press Data
 $press_releases = [
     [
+        'title' => 'Is Your Sunscreen Still Effective If You Apply It Only Once A Day? Dermatologist Explains',
+        'date' => '2026-11-15',
+        'excerpt' => 'OnlyMyHealth speaks with a dermatologist at Prayag Hospitals Noida on whether a single morning application of sunscreen is enough, how long protection lasts, and when to reapply.',
+        'image' => 'TODO-ADD-ONLYMYHEALTH-IMAGE-URL',
+        'source' => 'OnlyMyHealth',
+        'link' => 'https://www.onlymyhealth.com/is-your-sunscreen-still-effective-if-you-apply-it-only-once-a-day-12977851868'
+    ],
+    [
         'title' => 'Reheating Leftover Festive Food: Common Mistakes That Can Make You Sick',
         'date' => '2026-11-08',
         'excerpt' => 'NDTV features Dr. Alka Kapoor, Consultant - Microbiologist at Prayag Hospitals, breaking down common mistakes when storing and reheating festive food leftovers, bacterial risks, and safe practices.',
