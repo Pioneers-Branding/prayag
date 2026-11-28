@@ -1055,21 +1055,21 @@
                         <!-- Large Blog Card 1 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <a href="icu-support-in-noida">
-                                    <img loading="lazy" decoding="async" src="assets/images/blog/icu-support-in-noida.webp"
-                                        alt="ICU Support in Noida">
+                                <a href="brain-specialist-neurology-hospital-noida">
+                                    <img loading="lazy" decoding="async" src="assets/images/blog/Brain-Specialist-Hospital-1.webp"
+                                        alt="Brain Specialist Hospital in Noida">
                                 </a>
                             </div>
                             <div class="blog-content-large">
                                 <h3 class="blog-title-large">
-                                    <a href="icu-support-in-noida"
+                                    <a href="brain-specialist-neurology-hospital-noida"
                                         style="color:inherit; text-decoration:none;">
-                                        ICU Support in Noida: Critical Care &amp; ICU Home Care
+                                        Neurologist or Neurosurgeon: Who Should You Consult in Noida?
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
-                                    <span class="blog-date">Nov 11, 2026</span>
-                                    <a href="icu-support-in-noida"
+                                    <span class="blog-date">Nov 28, 2026</span>
+                                    <a href="brain-specialist-neurology-hospital-noida"
                                         class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
@@ -1084,21 +1084,21 @@
                         <!-- Large Blog Card 2 -->
                         <div class="blog-card-large">
                             <div class="blog-image-large">
-                                <a href="ct-scan-types-uses-preparation-safety">
-                                    <img loading="lazy" decoding="async" src="assets/images/blog/ct-scan-type.webp"
-                                        alt="CT Scan: Types, Uses, Preparation and Safety">
+                                <a href="general-anesthesia-services-noida">
+                                    <img loading="lazy" decoding="async" src="assets/images/blog/Anesthesiology-Services-at-Prayag-Hospital-1.webp"
+                                        alt="General Anesthesia Services in Noida">
                                 </a>
                             </div>
                             <div class="blog-content-large">
                                 <h3 class="blog-title-large">
-                                    <a href="ct-scan-types-uses-preparation-safety"
+                                    <a href="general-anesthesia-services-noida"
                                         style="color:inherit; text-decoration:none;">
-                                        CT Scan: Types, Uses, Preparation &amp; Safety
+                                        General Anesthesia Services in Noida: Anesthesiology Guide
                                     </a>
                                 </h3>
                                 <div class="blog-meta">
-                                    <span class="blog-date">Nov 03, 2026</span>
-                                    <a href="ct-scan-types-uses-preparation-safety"
+                                    <span class="blog-date">Nov 28, 2026</span>
+                                    <a href="general-anesthesia-services-noida"
                                         class="blog-read-more">
                                         Read More
                                         <i class="fas fa-arrow-right"></i>
@@ -1115,21 +1115,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="air-pollution-in-delhi-ncr">
-                                            <img loading="lazy" decoding="async" src="assets/images/blog/Air_Pollution_Delhi_NCR.webp"
-                                                alt="Air Pollution in Delhi NCR">
+                                        <a href="physiotherapy-in-noida">
+                                            <img loading="lazy" decoding="async" src="assets/images/blog/Physiotherapy-Services-in-Noida-1.webp"
+                                                alt="Physiotherapy in Noida">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="air-pollution-in-delhi-ncr"
+                                            <a href="physiotherapy-in-noida"
                                                 style="color:inherit; text-decoration:none;">
-                                                Air Pollution in Delhi NCR: Health Risks &amp; Protection Tips
+                                                Physiotherapy in Noida: Back Pain &amp; Rehabilitation Guide
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Oct 26, 2026</span>
-                                            <a href="air-pollution-in-delhi-ncr" class="blog-read-more-compact">
+                                            <span class="blog-date-compact">Nov 28, 2026</span>
+                                            <a href="physiotherapy-in-noida" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
@@ -1142,21 +1142,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="knee-replacement-surgery-in-noida">
-                                            <img loading="lazy" decoding="async" src="assets/images/blog/knee-replacement-in-noida.webp"
-                                                alt="Knee Replacement Surgery in Noida">
+                                        <a href="icu-support-in-noida">
+                                            <img loading="lazy" decoding="async" src="assets/images/blog/icu-support-in-noida.webp"
+                                                alt="ICU Support in Noida">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="knee-replacement-surgery-in-noida"
+                                            <a href="icu-support-in-noida"
                                                 style="color:inherit; text-decoration:none;">
-                                                Knee Replacement Surgery in Noida: Recovery &amp; What to Expect
+                                                ICU Support in Noida: Critical Care &amp; ICU Home Care
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Oct 26, 2026</span>
-                                            <a href="knee-replacement-surgery-in-noida" class="blog-read-more-compact">
+                                            <span class="blog-date-compact">Nov 11, 2026</span>
+                                            <a href="icu-support-in-noida" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>
@@ -1169,21 +1169,21 @@
                             <div class="blog-card-compact">
                                 <div class="blog-compact-wrapper">
                                     <div class="blog-image-compact">
-                                        <a href="viral-flu-treatment-prayag-hospital-noida">
-                                            <img loading="lazy" decoding="async" src="assets/images/blog/Viral-Flu-Treatment-in-Noida-thumb.webp"
-                                                alt="Viral Flu Treatment in Noida">
+                                        <a href="ct-scan-types-uses-preparation-safety">
+                                            <img loading="lazy" decoding="async" src="assets/images/blog/ct-scan-type.webp"
+                                                alt="CT Scan: Types, Uses, Preparation and Safety">
                                         </a>
                                     </div>
                                     <div class="blog-content-compact">
                                         <h4 class="blog-title-compact">
-                                            <a href="viral-flu-treatment-prayag-hospital-noida"
+                                            <a href="ct-scan-types-uses-preparation-safety"
                                                 style="color:inherit; text-decoration:none;">
-                                                Viral Flu Treatment in Noida: Guide for Families
+                                                CT Scan: Types, Uses, Preparation &amp; Safety
                                             </a>
                                         </h4>
                                         <div class="blog-meta-compact">
-                                            <span class="blog-date-compact">Oct 13, 2026</span>
-                                            <a href="viral-flu-treatment-prayag-hospital-noida" class="blog-read-more-compact">
+                                            <span class="blog-date-compact">Nov 03, 2026</span>
+                                            <a href="ct-scan-types-uses-preparation-safety" class="blog-read-more-compact">
                                                 Read More
                                                 <i class="fas fa-arrow-right"></i>
                                             </a>

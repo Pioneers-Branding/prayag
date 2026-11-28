@@ -70,7 +70,7 @@
 
                     <!-- Results Info -->
                     <div class="blog-results-header">
-                        <h3>Showing <span id="blogCount">13</span> Articles</h3>
+                        <h3>Showing <span id="blogCount">16</span> Articles</h3>
                         <div class="blog-sort-wrapper">
                             <label for="blogSort">Sort by:</label>
                             <select id="blogSort" class="blog-sort-select">
@@ -83,6 +83,84 @@
 
                     <!-- Blog Posts Grid -->
                     <div class="blog-posts-grid" id="blogPostsGrid">
+                        <!-- Blog Post: Brain Specialist Hospital in Noida -->
+                        <article class="blog-post-card" data-category="health-wellness" data-date="2026-11-28" data-popularity="1610">
+                            <a href="brain-specialist-neurology-hospital-noida" class="blog-post-image">
+                                <img src="assets/images/blog/Brain-Specialist-Hospital-1.webp"
+                                    alt="Brain Specialist Hospital in Noida - Neurology and Neurosurgery at Prayag Hospital" loading="lazy">
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Nov 28, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 10 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,610 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="brain-specialist-neurology-hospital-noida">Neurologist or Neurosurgeon: Who Should You Consult in Noida?</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Neurologist or neurosurgeon? Learn the difference, warning signs, tests and treatment options, and how to choose brain and spine care in Noida and Greater Noida.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png" alt="Neurosciences Dept" class="author-avatar">
+                                        <span>Neurosciences</span>
+                                    </div>
+                                    <a href="brain-specialist-neurology-hospital-noida" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Blog Post: General Anesthesia Services in Noida -->
+                        <article class="blog-post-card" data-category="health-wellness" data-date="2026-11-28" data-popularity="1600">
+                            <a href="general-anesthesia-services-noida" class="blog-post-image">
+                                <img src="assets/images/blog/Anesthesiology-Services-at-Prayag-Hospital-1.webp"
+                                    alt="General Anesthesia Services in Noida - Anesthesiology at Prayag Hospital" loading="lazy">
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Nov 28, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 9 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,600 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="general-anesthesia-services-noida">Anesthesiology Services at Prayag Hospital, Noida</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Learn how general anesthesia services work, what a medical anesthesiologist does, the types of anesthesia, pre-surgical checks and the link with critical care.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png" alt="Anesthesiology Dept" class="author-avatar">
+                                        <span>Anesthesiology</span>
+                                    </div>
+                                    <a href="general-anesthesia-services-noida" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!-- Blog Post: Physiotherapy in Noida -->
+                        <article class="blog-post-card" data-category="orthopaedics" data-date="2026-11-28" data-popularity="1590">
+                            <a href="physiotherapy-in-noida" class="blog-post-image">
+                                <img src="assets/images/blog/Physiotherapy-Services-in-Noida-1.webp"
+                                    alt="Physiotherapy in Noida - Back Pain Physiotherapy at Prayag Hospital" loading="lazy">
+                            </a>
+                            <div class="blog-post-content">
+                                <div class="blog-post-meta">
+                                    <span class="meta-item"><i class="far fa-calendar"></i> Nov 28, 2026</span>
+                                    <span class="meta-item"><i class="far fa-clock"></i> 10 min read</span>
+                                    <span class="meta-item"><i class="far fa-eye"></i> 1,590 views</span>
+                                </div>
+                                <h3 class="blog-post-title">
+                                    <a href="physiotherapy-in-noida">Physiotherapy Services in Noida – Prayag Hospital</a>
+                                </h3>
+                                <p class="blog-post-excerpt">Learn how physiotherapy in Noida works, from assessment to back pain physiotherapy and physical therapy treatment for lower back pain at Prayag Hospital.</p>
+                                <div class="blog-post-footer">
+                                    <div class="author-info">
+                                        <img src="assets/images/favicon.png" alt="Physiotherapy Dept" class="author-avatar">
+                                        <span>Physiotherapy</span>
+                                    </div>
+                                    <a href="physiotherapy-in-noida" class="btn-read-more">Read Article <i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </article>
+
                         <!-- Blog Post: ICU Support in Noida -->
                         <article class="blog-post-card" data-category="emergency-care" data-date="2026-11-11" data-popularity="1580">
                             <a href="icu-support-in-noida" class="blog-post-image">
@@ -446,6 +524,27 @@
                         <div class="sidebar-widget">
                             <h3 class="widget-title">Featured Articles</h3>
                             <div class="popular-posts-list">
+                                <a href="brain-specialist-neurology-hospital-noida" class="popular-post-item">
+                                    <img src="assets/images/blog/Brain-Specialist-Hospital-1.webp" alt="Brain Specialist Hospital in Noida">
+                                    <div class="popular-post-content">
+                                        <h4>Neurologist or Neurosurgeon: Who Should You Consult in Noida?</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Nov 28, 2026</span>
+                                    </div>
+                                </a>
+                                <a href="general-anesthesia-services-noida" class="popular-post-item">
+                                    <img src="assets/images/blog/Anesthesiology-Services-at-Prayag-Hospital-1.webp" alt="General Anesthesia Services in Noida">
+                                    <div class="popular-post-content">
+                                        <h4>General Anesthesia Services in Noida: Anesthesiology Guide</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Nov 28, 2026</span>
+                                    </div>
+                                </a>
+                                <a href="physiotherapy-in-noida" class="popular-post-item">
+                                    <img src="assets/images/blog/Physiotherapy-Services-in-Noida-1.webp" alt="Physiotherapy in Noida">
+                                    <div class="popular-post-content">
+                                        <h4>Physiotherapy in Noida: Back Pain &amp; Rehabilitation Guide</h4>
+                                        <span class="popular-post-date"><i class="far fa-calendar"></i> Nov 28, 2026</span>
+                                    </div>
+                                </a>
                                 <a href="icu-support-in-noida" class="popular-post-item">
                                     <img src="assets/images/blog/icu-support-in-noida.webp" alt="ICU Support in Noida">
                                     <div class="popular-post-content">
@@ -553,13 +652,13 @@
                                 <li>
                                     <a href="#" class="sidebar-category-link" data-category="health-wellness">
                                         <span><i class="fas fa-heartbeat"></i> Health &amp; Wellness</span>
-                                        <span>2</span>
+                                        <span>4</span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="sidebar-category-link" data-category="orthopaedics">
                                         <span><i class="fas fa-bone"></i> Bone &amp; Joint</span>
-                                        <span>1</span>
+                                        <span>2</span>
                                     </a>
                                 </li>
                                 <li>
